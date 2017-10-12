@@ -35,7 +35,7 @@ reprehenderit qui ingeniis culpa laboris, an tamen probant, sed dolor aliqua
 elit laborum.
   
 ### Contribute
-* This content is [open source](https://github.com/dhs-ncats/body). We welcome issue submissions and pull requests.
+* This content is open source. We welcome issue submissions and pull requests.
 
 ### Get Help
-* For technical questions, you may [file an issue](https://github.com/dhs-ncats/body) or email <ncats@hq.dhs.gov>.
+* For technical questions, you may contact us at XXX-XXX-XXXX
