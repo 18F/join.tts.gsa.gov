@@ -15,7 +15,7 @@ subnav:
 ## Lorem
 *Fabulas multos noster ad quorum o velit est an quis pariatur in sunt aliquip ab
 fidelissimae, ab minim quid aut deserunt. In id transferrem. Cillum mentitum est
-voluptatibus, deserunt legam probant appellat ad ita te exquisitaque, voluptate
+voluptatibus, deserunt legam probant appellat ad te ita te exquisitaque, voluptate
 in summis admodum.*
 
 *Noster admodum o anim noster, labore commodo qui cohaerescant.
