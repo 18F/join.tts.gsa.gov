@@ -6,9 +6,13 @@ description: body
 name: body
 report_url: https://google.com
 
+report_url: "https://www.dhs.gov/cyber"
+
 # GA and GitHub data
 
-repo: https://github.com/davidewarren/report-template
+repo: https://github.com/dhs-ncats/body
+
+uswds_path: assets/vendor/uswds
 
 exclude:
 - CONTRIBUTING.md
