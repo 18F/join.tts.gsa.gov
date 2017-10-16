@@ -7,6 +7,9 @@ primary:
     href: /guide/
   - text: "Resources"
     href: /resources/
+  - text: "Team"
+    href: /team/
+    
 
 
 mobile:
@@ -18,3 +21,6 @@ mobile:
     href: guide
   - text: "Resources"
     href: resources
+  - text: "Team" 
+    href: /team/
+    
