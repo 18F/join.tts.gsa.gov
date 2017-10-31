@@ -12,21 +12,17 @@ subnav:
     href: "#iii-even-morem-ipsum"
 ---
 
-## Lorem
-*Fabulas multos noster ad quorum o velit est an quis pariatur in sunt aliquip ab
-fidelissimae, ab minim quid aut deserunt. In id transferrem. Cillum mentitum est
-voluptatibus, deserunt legam probant appellat ad te ita te exquisitaque, voluptate
-in summis admodum.*
+## Welcome to the Federalist Report Template
+*We hope you enjoy perusing this template and our meaningless latin. The source code for this template is located [here](https://github.com/18F/federalist-report-template).*
 
-*Noster admodum o anim noster, labore commodo qui cohaerescant.
+Noster admodum o anim noster, labore commodo qui cohaerescant.
 An deserunt sed litteris, te sed quis constias, illum voluptatibus nescius nisi
 possumus, an e dolor magna malis ita o illum dolor fugiat doctrina, quo do
-fugiat labore esse e iudicem ad vidisse an litteris minim amet in malis.*
+fugiat labore esse e iudicem ad vidisse an litteris minim amet in malis.
 
-
-*Arbitror amet et deserunt transferrem in magna nescius o possumus. A noster quae
+Arbitror amet et deserunt transferrem in magna nescius o possumus. A noster quae
 quorum eiusmod, iis cillum arbitror laborum nam cillum nam pariatur an qui quem
-fugiat de laborum.*
+fugiat de laborum.
 
 ### I. Ipsum
 
