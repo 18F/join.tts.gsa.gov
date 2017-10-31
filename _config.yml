@@ -10,7 +10,8 @@ report_url: https://federalist-docs.18f.gov/assets/Federalist-Compliance-Memo.pd
 # GA and GitHub data
 
 repo: https://github.com/18f/federalist-report-template/
-
+org_name: 18f
+repo_name: federalist-report-template
 uswds_path: assets/vendor/uswds
 
 exclude:
