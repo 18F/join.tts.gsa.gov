@@ -1,16 +1,17 @@
 # OpenGraph / Twitter metadata
-title: body
-small_title: body
-smallest_title: body
-description: body
-name: body
-report_url: https://google.com
+title: Title of report
+small_title: Title of report
+smallest_title: Title of report
+description: This is a description.
+name: Title of report
+report_url: https://federalist-docs.18f.gov/assets/Federalist-Compliance-Memo.pdf
 
 
 # GA and GitHub data
 
-repo: https://github.com/davidewarren/report-template/body
-
+repo: https://github.com/18f/federalist-report-template/
+org_name: 18f
+repo_name: federalist-report-template
 uswds_path: assets/vendor/uswds
 
 exclude:
