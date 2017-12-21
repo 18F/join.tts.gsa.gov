@@ -1,26 +1,26 @@
 primary:
   - text: Home
     href: /
-  - text: "Intro"
-    href: /intro/
-  - text: "Guide"
-    href: /guide/
-  - text: "Resources"
-    href: /resources/
-  - text: "Team"
-    href: /team/
+  //- text: "Intro"
+  //  href: /intro/
+  //- text: "Guide"
+  //  href: /guide/
+  //- text: "Resources"
+  //  href: /resources/
+  //- text: "Team"
+  //  href: /team/
     
 
 
 mobile:
   - text: Home
     href: /
-  - text: "Intro"
-    href: intro
-  - text: "Guide"
-    href: guide
-  - text: "Resources"
-    href: resources
-  - text: "Team" 
-    href: /team/
+  //- text: "Intro"
+  //  href: intro
+  //- text: "Guide"
+  //  href: guide
+  //- text: "Resources"
+  //  href: resources
+  //- text: "Team" 
+  //  href: /team/
     
