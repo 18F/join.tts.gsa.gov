@@ -1,8 +1,6 @@
 primary:
   - text: Home
     href: /
-  - text: "Intro"
-    href: /intro/
 
 mobile:
   - text: Home
