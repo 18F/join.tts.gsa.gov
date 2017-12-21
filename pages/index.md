@@ -1,6 +1,6 @@
 ---
 layout: base
-title: home
+title:
 permalink: /
 
 subnav:
