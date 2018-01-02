@@ -2,12 +2,15 @@ primary:
   - text: Home
     href: /
   - text: TTS Offices
-    href: /OPP/
+    href: /tts-offices/
   - text: Hiring Process
     href: /hiring-process/
 
 mobile:
   - text: Home
     href: /
-
+  - text: TTS Offices
+    href: /tts-offices/
+  - text: Hiring Process
+    href: /hiring-process/
     
