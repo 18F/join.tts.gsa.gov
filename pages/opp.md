@@ -1,7 +1,7 @@
 ---
 layout: base
 title: OPP
-permalink: /OPP
+permalink: opp/
 
 subnav:
   - text: TBD
