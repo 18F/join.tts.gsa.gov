@@ -18,7 +18,7 @@ subnav:
     href: "#Security-and-onboarding"
 ---
 
-### Intro
+## Intro
 
 TBD - Need some kind of intro content here
 
@@ -35,7 +35,7 @@ We’re building a team that reflects the United States. We don’t discriminate
 
 -----
 
-### How we hire
+## How we hire
 There are three types of [hiring authorities](https://www.usajobs.gov/Help/working-in-government/service/) used by TTS: Competitive Service, Excepted Service, and Senior Executive Service. The application and hiring process will vary slightly based on the type of role you apply for.
 
 **Competitive Service:** All competitive service roles must be applied to by completing the application process at usajobs.gov. Individuals go through a competitive hiring process before being selected and appointed. This process is open to all applicants. Competitive service roles are considered “career roles,” which means they are not limited to a specific period of time or term. This hiring process may consist of a written test, an evaluation of the individual's education and experience, or an evaluation of other attributes necessary for successful performance in the position to be filled. 
@@ -46,17 +46,17 @@ There are three types of [hiring authorities](https://www.usajobs.gov/Help/worki
 
 -----
 
-### Eligibility
+## Eligibility
 All United States citizens and nationals (residents of American Samoa and Swains Islands) are eligible to apply. 
 
 -----
 
-### Compensation and benefits
+## Compensation and benefits
 
-#### Government pay grades
+### Government pay grades
 TTS team members are hired for specific position descriptions at a specific grade level from the federal general schedule (GS) (excluding SES positions). The GS system is a pay system for civilian employees in the federal government; evaluation and compensation varies by grade level. The qualification requirements for each position at a specific GS level are based on education, background, accomplishments, and experience. The specific requirements will always be listed in the job posting. Salaries of federal employees are public information, and your salary may become publicly available on sites like [FederalPay.org](https://www.federalpay.org/employees).
 
-#### Understanding grade levels
+### Understanding grade levels
 Federal employees on the general schedule range from GS-1 to GS-15. Find out more about the GS system from the [Office of Personnel Management](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).
 
 GS grade levels specify a fixed compensation range for a particular position, in particular geographic localities, within the federal government. Understanding the relationship between GS grade level, location, and compensation is important to understanding how salaries work at TTS.
@@ -65,15 +65,15 @@ Each GS grade level contains a series of 10 steps. New employees are usually hir
 
 The annual salary cap for all GS employees is $161,900 per year. You cannot be offered more than this under any circumstance.
 
-#### General Schedule (GS) Salary Calculator
+### General Schedule (GS) Salary Calculator
 Use this [OPM General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2017/general-schedule-gs-salary-calculator/) to help you understand how GS level, step, and locality affect compensation.
 
-#### Raises and bonuses
+### Raises and bonuses
 A step increase is the most common kind of raise for GS employees, and the amount of time between step increases is dependent on the step. As a GS employee, you have to wait one year to increase to a step 2, 3, or 4. Similarly, you must wait two years before increasing to step 5, 6, or 7. Lastly, you must wait three years before increasing to step 8, 9, or 10.  This means that if you join TTS at step 1, you’ll proceed to step 2 the following year. If you join TTS at step 6, it will take two years to progress to step 7.
 
 Bonuses generally come after the year-end review process in late September and are awarded based on your performance review results. You must be a TTS employee for at least three months to get a performance review. Bonuses are either a small percentage of your annual salary or additional paid time off.
 
-#### Benefits and leave
+### Benefits and leave
 The benefits package for federal employees includes medical, vision, and dental insurance, FSA accounts, life insurance, paid leave, and the Thrift Savings Plan (the government version of a 401K) with up to five percent matching. Our telework policy affords increased flexibility, and employees who use public transit to commute may claim commuter benefits.
 
 TTS also supports employees’ ongoing professional development by providing training opportunities and encouraging employees to participate in conferences, consortia, and other industry events.
@@ -87,19 +87,19 @@ The [TTS Handbook](https://handbook.18f.gov/) has more information about working
 
 -----
 
-### Application
+## Application
 When you apply for a role at TTS, you’ll need to submit a government-style resume, which includes much more detail than a private-sector resume.
 
 [Veterans’ Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx) is applied for candidates who are veterans and have claimed their veteran status.
 
-#### How we collect and review applications
+### How we collect and review applications
 We collect applications during the period specified in the job posting. After the application window has closed (generally within 7-14 days), we review and evaluate all applications at the same time. The way we collect and review applications depends on the role and the type of hiring authority being used. 
 
 **Competitive Service:** Applications are collected via usajobs.gov and reviewed by the General Services Administration (GSA) Human Resources team, our parent federal agency’s human resources office. 
 
 **Excepted Service:** Applications are collected via the postings within the TTS Join Page. All applications are reviewed by a panel of subject matter experts using a qualification process called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=Category-Rating). Once we’ve evaluated all applications for a particular job posting, we send all of the applications and evaluation scores to GSA Human Resources for review.
 
-#### Government-style resumes
+### Government-style resumes
 Unlike private-sector resumes, government-style resumes are often several pages long and include detailed information about every job you've held, your responsibilities, and what you accomplished.
 
 There are many guides to building a government-style resume. Here are several resources from other organizations:
@@ -181,7 +181,7 @@ If TTS identifies you as a strong candidate after interviews are completed, a TT
 
 -----
 
-### Security and onboarding
+## Security and onboarding
 The hiring process continues in partnership with the GSA Human Resources team, our parent federal agency’s human resources office. They’re responsible for extending tentative and official final offers. The process is as follows:
 
 - A GSA HR specialist will call you with a tentative offer.  “Tentative” means the offer is contingent on a security clearance. This offer will include salary for your consideration.
@@ -191,7 +191,7 @@ The hiring process continues in partnership with the GSA Human Resources team, o
 - Once your e-QIP has been initially cleared, you will receive an interim security clearance and a GSA HR specialist will call you with a final offer.
 - GSA HR and the TTS Talent team will work with you to identify and set a start date. New employees start every other Monday on the first day of a GSA pay period.
 
-#### Security clearance documents
+### Security clearance documents
 All government positions require some kind of background check. Most roles at TTS require a public trust position clearance, which is more thorough than most private-sector background checks but not as intensive as a higher government security clearance. The clearance process adds some time and forms to the hiring process, but the GSA Human Resources team will guide you through it.
 
 It can be helpful to start pulling some documents together in advance. The forms you can expect to complete include:
