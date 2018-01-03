@@ -27,7 +27,7 @@ The TTS Front Office is responsible for defining the TTS strategy and setting pr
 The Office of Operations keeps TTS running smoothly and ensures that the team has the tools needed to focus on the TTS mission. The Office of Operations oversees several operational teams that support the work of TTS (Talent, Business Operations, Governance and Compliance).
 
 **Office of 18F**
-18F partners with agencies to help them build and buy digital services that instill pride and trust in the federal government. For more information about a tour of duty with 18F, [click here](https://18f.gsa.gov/join).
+18F partners with agencies to help them build and buy digital services that instill pride and trust in the federal government. To learn more about who 18F is and the work they do, [click here](https://18f.gsa.gov/about/).
 
 **Office of Acquisitions**
 The Office of Acquisitions helps the government become a better buyer of technology by establishing a better understanding of an agency’s problem, scoping their solicitation, and buying what they need through innovative contracting vehicles.
@@ -41,6 +41,6 @@ The Presidential Innovation Fellows (PIF) programs pairs fellows up with agency 
 
 ## Join us!
 
-We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, or operations skills to match. Below you will find a list of all of the offices within TTS and the open positions within them.
+We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, or operations skills to match. To see a list of our open positions [click here](add link)
 
 If you have any questions, please contact our Talent Team at joinTTS@gsa.gov
