@@ -41,6 +41,8 @@ The Presidential Innovation Fellows (PIF) programs pairs fellows up with agency 
 
 ## Join us
 
-We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, or operations skills to match. To see a list of our open positions [click here](add link)
+We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, or operations skills to match.
+
+**Sorry, we don't have any open positions right now.**
 
 If you have any questions, please contact our Talent Team at joinTTS@gsa.gov
