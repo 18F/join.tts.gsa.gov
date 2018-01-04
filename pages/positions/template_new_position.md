@@ -25,7 +25,7 @@ subnav:
 We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/(PERMALINK)/#role-summary)
+- [Role summary](/#role-summary)
 - [Basic information]({{site.baseurl}}/(PERMALINK)/#basic-information)
 - [Requirements]({{site.baseurl}}/(PERMALINK)/#key-requirements)
 - [Duties]({{site.baseurl}}/(PERMALINK)/#duties)
@@ -37,11 +37,15 @@ We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build 
 
 **Please note: (PD TITLE) is the official title for the government Position Description related to this posting.**
 
+-----
+
 ## Role Summary: 
 
 ### (POSITION) (GS LEVEL)
 
 (Insert performance profile introduction)
+
+-----
 
 ## Key Objectives
 
@@ -62,6 +66,8 @@ We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build 
 - Objective bullet #2
 - Objective bullet #3
 - Objective bullet #4
+
+-----
 
 ## Basic Information
 
@@ -101,6 +107,8 @@ Full time
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
+-----
+
 ## Job Summary
 
 This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean startup and agile development principles to make easy things easy and hard things possible. 
@@ -124,6 +132,8 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
+-----
+
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -132,6 +142,8 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required. 
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
+-----
+
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
@@ -139,13 +151,14 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
+-----
 
 ## Duties 
 - Duty item 1
 - Duty item 2
 - Duty item 3
 
-
+-----
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.  
@@ -166,6 +179,8 @@ If your resume does not support your possession of the competencies listed above
   
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
+-----
+
 ## Qualifications 
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
@@ -181,6 +196,7 @@ For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
 
+-----
 
 ## How To Apply
 
@@ -208,6 +224,8 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800180JCOTR”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
+-----
+
 ## Other Information 
 Bargaining Unit status: Non Bargaining Unit
 
@@ -215,6 +233,7 @@ Relocation-related expenses are not approved and will be your responsibility.
 
 All the information you provide will be verified by a review of the work experience and/or education as shown on your application forms, by checking references and through other means, such as the interview process. Any exaggeration of your experience, false statements, or attempts to conceal information may be grounds for not hiring you, or for firing you after you begin work.
 
+-----
 
 ## Reasonable Accommodation Policy
 
@@ -224,6 +243,8 @@ To learn more, please consult the following resources:
 - [Disability Employment - Reasonable Accommodations (OPM)](https://www.opm.gov/policy-data-oversight/disability-employment/reasonable-accommodations/)
 - [How to contact an agency](https://www.usajobs.gov/Help/how-to/application/agency/contact/)
 
+-----
+
 ## Equal Employment Opportunity Policy
 
 The United States Government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
@@ -231,6 +252,8 @@ The United States Government does not discriminate in employment on the basis of
 To learn more, please consult the following resources:
 	- [Equal Employment Opportunity (EEO) office at OPM](https://www.opm.gov/about-us/our-people-organization/support-functions/equal-employment-opportunity/)
 	- [Office of Equal Opportunity](http://www.eeoc.gov/eeoc/internal_eeo/index.cfm)
+
+-----
 
 ## What To Expect
 
