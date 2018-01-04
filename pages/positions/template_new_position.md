@@ -24,6 +24,25 @@ subnav:
  
 We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
+Quick Links
+[Role summary]({{site.baseurl}}/testposition/#role-summary)
+Basic information
+"#basic-information"
+Requirements
+"#key-requirements"
+Duties
+"#duties"
+Qualifications
+"#qualifications"
+How to apply
+"#how-to-apply"
+Other information
+"#other-information"
+What to expect
+"#what-to-expect"
+
+
+
 **Please note: (PD TITLE) is the official title for the government Position Description related to this posting.**
 
 ## Role Summary: 
