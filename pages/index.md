@@ -5,11 +5,11 @@ permalink: /
 
 subnav:
   - text: About TTS
-    href: "#About-the-Technology-Transformation-Service"
+    href: "#about-the-technology-transformation-service"
   - text: Offices of TTS
-    href: "#Offices-of-TTS"
+    href: "#offices-of-tts"
   - text: Join us!
-    href: "#Join-us!"
+    href: "#join-us!"
 ---
 
 ## About the Technology Transformation Service
