@@ -202,3 +202,33 @@ pre {
         }
     }
 }
+
+
+// Buttons
+// ==========================
+
+.usa-button,
+.usa-button:visited,
+button,
+[type='button'],
+[type='submit'],
+[type='reset'],
+[type='image'] {
+  background-color: $color-medium;
+  font-family: $font-sans;
+  width: auto;
+
+  &:hover {
+    background-color: $color-medium-hover;
+  }
+
+  &.usa-button-secondary,
+  &.usa-button-secondary:visited {
+    background-color: $color-bright;
+    color: $color-black;
+
+    &:hover {
+      background-color: $color-bright-hover;
+    }
+  }
+}
