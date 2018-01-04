@@ -22,41 +22,66 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ## Offices of TTS
 
+-----
+
+### Option 1
 
 |   |   |   |
 |:-:|:-:|:-:|
 | <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a> | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>  |  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a> |
-|   |   |   |
+| <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a>  |
+
+-----
+
+### Option 2
+
+| <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a>  |
+|:-:|:-:|:-:|
+| **<a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a>** | **<a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>**  |  **<a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a>** |
+
+-----
+
+### Option 3
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a>
 </section>
-</p>
+<div class="paragraph"><p>&#160;<br>
+&#160;<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>
 </section>
-</p>
+<div class="paragraph"><p>&#160;<br>
+&#160;<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a>
 </section>
-</p>
+<div class="paragraph"><p>&#160;<br>
+&#160;<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
 </section>
-</p>
+<div class="paragraph"><p>&#160;<br>
+&#160;<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a>
 </section>
-</p>
+<div class="paragraph"><p>&#160;<br>
+&#160;<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a>
 </section>
-</p>
+<div class="paragraph"><p>&#160;<br>
+&#160;<br></p></div>
+
+-----
+
+### Option 4
 
 **TTS Front Office**
 The TTS Front Office is responsible for defining the TTS strategy and setting priorities for the organization as a whole in order to further the TTS mission. The TTS Front Office is responsible for any major organizational decisions and speaks on behalf of TTS to GSA leadership.
