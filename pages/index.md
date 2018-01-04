@@ -22,6 +22,15 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ## Offices of TTS
 
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a>
+</section>
+
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a>
+</section>
+
 **TTS Front Office**
 The TTS Front Office is responsible for defining the TTS strategy and setting priorities for the organization as a whole in order to further the TTS mission. The TTS Front Office is responsible for any major organizational decisions and speaks on behalf of TTS to GSA leadership.
 
