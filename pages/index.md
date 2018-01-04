@@ -22,14 +22,41 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ## Offices of TTS
 
+
+|   |   |   |
+|:-:|:-:|:-:|
+| <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a> | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>  |  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a> |
+|   |   |   |
+
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a>
 </section>
-
+</p>
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a>
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>
 </section>
+</p>
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a>
+</section>
+</p>
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
+</section>
+</p>
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a>
+</section>
+</p>
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a>
+</section>
+</p>
 
 **TTS Front Office**
 The TTS Front Office is responsible for defining the TTS strategy and setting priorities for the organization as a whole in order to further the TTS mission. The TTS Front Office is responsible for any major organizational decisions and speaks on behalf of TTS to GSA leadership.
