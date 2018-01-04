@@ -21,8 +21,6 @@ subnav:
 ## Intro
 There are six offices within TTS; below is a descriptions of each one and the open positions available. If you have questions about a role, please reach out to our Talent Team at [JoinTTS@gsa.gov](email:jointts@gsa.gov) and a recruiter will reach out to you.
 
-**Sorry, we don't have any open positions right now.**
-
 ## TTS Front Office
 
 The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner, the TTS Chief of Staff, and their administrative support. The TTS Front Office is responsible for defining the TTS strategy and setting priorities for the organization as a whole in order to further the TTS mission. The TTS Front Office is responsible for any major organizational decisions and speaks on behalf of TTS to GSA leadership.
