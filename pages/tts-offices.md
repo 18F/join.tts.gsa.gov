@@ -29,7 +29,10 @@ The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner,
 
 ## Office of Operations
 
-The Office of Operations keeps TTS running smoothly and ensures that the team has the tools needed to focus on the TTS mission. The Office of Operations oversees several operational teams that support the work of TTS. The *Talent team* is comprised of team members who are hard at work on recruitment, tackling HR challenges, overseeing the onboarding process, navigating people operations, and hiring folks like you! The *Business Operations* team provides shared financial, contract work, travel, and business processing services across all of TTS. The *Governance and Compliance* team is the front line of protection for TTS, developing guidance, ensuring governance, and collecting and publishing data that enables TTS to focus on high-performance and efficiency.
+The Office of Operations keeps TTS running smoothly and ensures that the team has the tools needed to focus on the TTS mission. The Office of Operations oversees several operational teams that support the work of TTS. 
+- **Talent:** Recruitment, tackling HR challenges, overseeing the onboarding process, navigating people operations, and hiring folks like you! 
+- **Business Operations:** Financial management, contract development, travel, and business processing services across all of TTS. 
+- **Governance and Compliance:** Develops guidance, ensures governance, and collects and publishes data that enables TTS to focus on high-performance and efficiency.
 
 ## Office of 18F
 
