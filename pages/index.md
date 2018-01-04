@@ -31,18 +31,17 @@ Our teams work together to provide the support, authorities, and assurances that
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
 </style>
 <table class="tg">
   <tr>
     <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a></th>
-    <th class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a></th>
-    <th class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">Office of 18F</a></th>
+    <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a></th>
+    <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">Office of 18F</a></th>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a></td>
-    <td class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a></td>
-    <td class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a></td>
+    <td class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a></td>
+    <td class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a></td>
+    <td class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a></td>
   </tr>
 </table>
 
