@@ -1,120 +1,79 @@
 ---
-title: TEST
+layout: base
+title: 
 permalink: 
-layout: primary
-lead: 
-app_close_date: DECEMBER 26, 2017
-subnav_title: 18F Acquisition Product Manager GS-15 
-subnav_items:
+ 
+subnav:
   - text: Role summary
-    permalink: /#role-summary
+    href: "#role-summary"
   - text: Basic information
-    permalink: /#basic-information
+    href: "#basic-information"
   - text: Requirements
-    permalink: /#key-requirements
+    href: "#key-requirements"
   - text: Duties
-    permalink: /#duties
+    href: "#duties"
   - text: Qualifications
-    permalink: /#qualifications
+    href: "#qualifications"
   - text: How to apply
-    permalink: /#how-to-apply
+    href: "#how-to-apply"
   - text: Other information
-    permalink: /#other-information
+    href: "#other-information"
   - text: What to expect
-    permalink: /#what-to-expect
-breadcrumb: true
-published: false
-listed: false
+    href: "#what-to-expect"
 ---
  
-We're hiring a Product Manager for the 18F Acquisition team at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/product-manager-gs15/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining 18F](https://18f.gsa.gov/join/#how-to-apply).
+We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
-**Please note: Innovation Specialist is the official government title for this Product Manager position.**
+**Please note: (PD TITLE) is the official title for the government Position Description related to this posting.**
 
 ## Role Summary: 
 
-### Product Manager GS-15
+### (POSITION) (GS LEVEL)
 
-The 18F Acquisition team is built on the belief that federal procurement can be joyful. We work hand in hand with our government partners to define a compelling product vision and a strategy informed by both organizational goals and end user needs. We support government agencies who plan to work with vendors to fulfill this vision, helping them adapt their approach to contracting and vendor collaboration to support modern, user-centered software development. A crucial part of this work involves coaching our partners in product management best practices so that they can independently manage the product at the conclusion of our engagement.
-
-- Product managers on our team are comfortable working in a consulting capacity as well as running a product directly.
-- Product managers on our team are empathetic coaches, mentors, and advocates who help partner agency staff develop the skills to manage their own products.
-- Product managers at 18F have auxiliary skills in design, engineering, sales, or marketing, but are strategic product thinkers first and foremost.
-
-As a product manager at 18F Acquisitions, you’ll work as part of a focused, cross-functional team of other digital specialists, with expertise in design, organizational strategy, technical architecture, software engineering, and procurement. In addition, you will join the broader team of the Technology Transformation Service, which includes more than 300 people. If you believe the government can better serve the public through the user-centered design of digital services, we hope you’ll join us.
-
+(Insert performance profile introduction)
 
 ## Key Objectives
 
-### Objective #1: You’ll help transform the way that government buys digital services. (40%)
+### Objective #1:
+- Objective bullet #1
+- Objective bullet #2
+- Objective bullet #3
+- Objective bullet #4
 
-In this role, you’ll help agencies adopt a product management mindset — balancing strategy and tactics, prioritizing action over philosophy, creating and testing hypotheses, demonstrating continuous improvement, and learning from failure. You’ll guide partners in articulating their vision and breaking it down into actionable pieces. You’ll help agency partners build self-organizing and cross functional teams, and coach those teams to deliver great digital services and better manage the software teams that build great digital services, too. 
+### Objective 2:
+- Objective bullet #1
+- Objective bullet #2
+- Objective bullet #3
+- Objective bullet #4
 
-Successful product managers:
-
-- Facilitate partners to articulate a vision and strategy for their digital services.
-- Guide partners to identify, scope, and clearly explain modules of work within each product and use that information to assess vendors bidding on the work.
-- Help partner agencies to adopt modern software development practices, including user-centered design, iterative development, continuous integration and DevSecOps, and working in the open. 
-- Coach agency staff to become effective product managers so that they can take full ownership of their products.
-- Are enthusiastic and empathetic teachers and mentors.
-- Are willing to take risks and challenge the status quo of federal contracting.
-
-
-### Objective 2: You’ll model and evangelize product management best practices. (40%)
-
-You’re a skilled product manager who can lead a team to deliver great digital services. You have experience creating a product vision, building a roadmap, managing a backlog, and ultimately shipping software. You’re comfortable defining metrics and tracking performance post-release in order to constantly improve your products. You know how to create alignment and clearly explain the value of your products to stakeholders, partners, and executive sponsors alike. While you may not be building products directly in this role, you’ll use all of your product management skills to empower your partners.
-
-Successful product managers:
-
-- Use their empathy and communication skills to quickly build trust with partners.
-- Can create a strong product vision and develop an effective strategy for fulfilling that vision.
-- Have a track record of shipping products and use that experience as a teaching tool to help agency staff understand best practices.
-- Develop hypotheses, conduct tests on those hypotheses, and use the findings to enhance the procurement of digital services.
-- Help partners and their leadership understand the value of product management, user-centered design, continuous integration, and working in the open.
-- Support, and sometimes reassure, partners as they tackle challenges and adopt new practices.
-- Know how, and when, to escalate issues to agency leadership in order to empower their partners.
-
-### Objective #3: You’ll promote best practices, shared processes, and tools across all TTS product teams. (20%)
-
-As a member of 18F, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights and opinions with other product managers, contributing to our growing culture of product management. You’ll share lessons learned from your work at 18F with your peers, and leaders, to help guide our approach to digital transformation.
-
-Successful product managers:
-
-- Reinforce TTS’ “the way we work” values (transparency, user-centered design, and so on.)
-- Mentor others, give constructive criticism, and improve practices and standards on your teams.
-- Explore new tools and methodologies, and share the lessons you learn with other product managers.
-- Actively engage with the broader team — take part in cross-project and cross-domain skill- and knowledge-sharing.
-- Are eager to learn from and teach your colleagues.
+### Objective #3:
+- Objective bullet #1
+- Objective bullet #2
+- Objective bullet #3
+- Objective bullet #4
 
 ## Basic Information
 
 **Job announcement number:** 
-1800180JCOTR
 
 **Opening and closing period for this job application:**
-(open) Monday, December 11, 2017 to Tuesday, December 26, 2017, 11:59 pm Eastern Time (close) 
 
 **Job Title:** 
-Innovation Specialist
 
 **Series & Grade:** 
-0301-15
 
 **Promotion Potential:**
 GS-15
 
-**Salary Range:** Base salary GS-15: $103,672  to $134,776 
+**Salary Range:** Base salary GS-xx: $ xx,xxx to $ xxx,xxx
 
 Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.  
 
 **Location:** 
-Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote) 
-
+ 
 **Number of vacancies:** 
-1 (Additional vacancies may be filled from this announcement as needed)  
 
 **Supervisory status:** 
-No
 
 **Travel requirement:** 
 Occasional travel may be required up to 10-20% per year 
@@ -133,11 +92,11 @@ Excepted Service – Not to exceed 2 years; may be extended for an additional 2 
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean startup and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government.
 
-This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), Office of 18F Acquisition.
+This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), (OFFICE).
 
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government. 
@@ -171,12 +130,11 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 
 
 ## Duties 
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
-- Assessing the state of digital services provided by the federal government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences
-- Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services
-- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
-- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
+- Duty item 1
+- Duty item 2
+- Duty item 3
+
+
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.  
@@ -185,11 +143,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies: 
 
-- **Communication:** Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals.
- - **Product Experience:** Ability to deliver the right digital product using user-centered and agile-based methodologies.
-- **Leadership:** Ability to effectively lead a cross-functional team to meet digital project/product objectives. 
-- **Innovation:** Ability to apply innovative tools and technologies  and to help partners make strategic & tactical decisions toward innovation.
-- **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
+- **Competency 1:** Description
+- **Competency 2:** Description
+- **Competency 3:** Description
+- **Competency 4:** Description
+- **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
 
 Your score will be used to place you in one of the 3 categories: Superior, Qualified, or Not Qualified.
 
@@ -200,11 +158,11 @@ Within each category, veterans will receive selection priority over non-veterans
 ## Qualifications 
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
-- Owning, developing or communicating the product vision and/or developing or managing the product roadmap
-- Leading projects with cutting edge or complex technology, missions, or stakeholders, or a high degree of uncertainty, such as greenfield/startups, legacy migrations, projects at scale, or integrations
-- Use of innovation tools and methodologies such as Lean, Agile, Open Source, APIs, or UX
-Leading cross functional teams to design, develop, and/or deliver digital products or services
-- Managing of a variety of relationships, such as internal, stakeholders, clients, or users 
+- Specialized Experience 1
+- Specialized Experience 2
+- Specialized Experience 3
+- Specialized Experience 4
+- Specialized Experience 5
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
@@ -221,13 +179,13 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
   <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/W4RXIvtb7Y6OtYB82">Click here to apply</a>
 </section>
 
-**Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at** [jointts@gsa.gov](mailto:jointts@gsa.gov).
+**Need Assistance in applying or have questions regarding this job opportunity, please email (TALENT POC) at** [jointts@gsa.gov](mailto:jointts@gsa.gov).
 
 ### Required Documents
 **ALL** required documents must be submitted before the closing date to be considered for the role. Review the following list to determine what you need to submit.
 - **Resume**
-  - For a brief video on creating a federal resume, [click here](https://hru.gov/Studio_Recruitment/videos/Writing_Your_Federal_Resume.aspx)
-	- If you have volunteered your service through a National Service program (e.g. Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
+  - For a brief video on creating a federal resume, [click here](https://youtu.be/8YX7o1PBoFk)
+  - If you have volunteered your service through a National Service program (e.g. Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
 
 - **Completed application** 
 
