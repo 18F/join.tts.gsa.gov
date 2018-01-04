@@ -46,38 +46,38 @@ Our teams work together to provide the support, authorities, and assurances that
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a>
 </section>
-<div class="paragraph"><p>&#160;<br>
-&#160;<br></p></div>
+<div class="paragraph"><p><br>
+<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>
 </section>
-<div class="paragraph"><p>&#160;<br>
-&#160;<br></p></div>
+<div class="paragraph"><p><br>
+<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a>
 </section>
-<div class="paragraph"><p>&#160;<br>
-&#160;<br></p></div>
+<div class="paragraph"><p><br>
+<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
 </section>
-<div class="paragraph"><p>&#160;<br>
-&#160;<br></p></div>
+<div class="paragraph"><p><br>
+<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a>
 </section>
-<div class="paragraph"><p>&#160;<br>
-&#160;<br></p></div>
+<div class="paragraph"><p><br>
+<br></p></div>
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a>
 </section>
-<div class="paragraph"><p>&#160;<br>
-&#160;<br></p></div>
+<div class="paragraph"><p><br>
+<br></p></div>
 
 -----
 
