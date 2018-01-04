@@ -26,10 +26,25 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ### Option 1
 
-|   |   |   |
-|:-:|:-:|:-:|
-| <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a> | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>  |  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a> |
-| <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a>  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-baqh">TTS Front Office</th>
+    <th class="tg-yw4l">Office of Operations</th>
+    <th class="tg-yw4l">Office of 18F</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Office of Products &amp; Programs</td>
+    <td class="tg-yw4l">Office of Acquisitions</td>
+    <td class="tg-yw4l">Presidential Innovation Fellows</td>
+  </tr>
+</table>
 
 -----
 
