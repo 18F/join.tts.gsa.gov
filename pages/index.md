@@ -8,8 +8,8 @@ subnav:
     href: "#about-the-technology-transformation-service"
   - text: Offices of TTS
     href: "#offices-of-tts"
-  - text: Join us!
-    href: "#join-us!"
+  - text: Join us
+    href: "#join-us"
 ---
 
 ## About the Technology Transformation Service
@@ -39,7 +39,7 @@ The Office of Products and Programs works with agencies to improve the public ex
 The Presidential Innovation Fellows (PIF) programs pairs fellows up with agency changemakers to tackle the nation’s biggest and most pressing technology challenges, such as improving access to education, fueling job creation and the economy, and expanding the public’s ability to access their personal health data. For more information about a tour of duty with PIF [click here](https://presidentialinnovationfellows.gov/).
 
 
-## Join us!
+## Join us
 
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, or operations skills to match. To see a list of our open positions [click here](add link)
 
