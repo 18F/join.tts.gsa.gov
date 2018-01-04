@@ -37,7 +37,8 @@ We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build 
 
 **Please note: (PD TITLE) is the official title for the government Position Description related to this posting.**
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Role Summary: 
 
@@ -45,7 +46,8 @@ We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build 
 
 (Insert performance profile introduction)
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Key Objectives
 
@@ -67,7 +69,8 @@ We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build 
 - Objective bullet #3
 - Objective bullet #4
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Basic Information
 
@@ -107,7 +110,8 @@ Full time
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Job Summary
 
@@ -132,7 +136,8 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Key Requirements
 
@@ -142,7 +147,8 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required. 
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -151,14 +157,16 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Duties 
 - Duty item 1
 - Duty item 2
 - Duty item 3
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.  
@@ -179,7 +187,8 @@ If your resume does not support your possession of the competencies listed above
   
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Qualifications 
 
@@ -196,7 +205,8 @@ For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## How To Apply
 
@@ -224,7 +234,8 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800180JCOTR”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Other Information 
 Bargaining Unit status: Non Bargaining Unit
@@ -233,7 +244,8 @@ Relocation-related expenses are not approved and will be your responsibility.
 
 All the information you provide will be verified by a review of the work experience and/or education as shown on your application forms, by checking references and through other means, such as the interview process. Any exaggeration of your experience, false statements, or attempts to conceal information may be grounds for not hiring you, or for firing you after you begin work.
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Reasonable Accommodation Policy
 
@@ -243,7 +255,8 @@ To learn more, please consult the following resources:
 - [Disability Employment - Reasonable Accommodations (OPM)](https://www.opm.gov/policy-data-oversight/disability-employment/reasonable-accommodations/)
 - [How to contact an agency](https://www.usajobs.gov/Help/how-to/application/agency/contact/)
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Equal Employment Opportunity Policy
 
@@ -253,7 +266,8 @@ To learn more, please consult the following resources:
 	- [Equal Employment Opportunity (EEO) office at OPM](https://www.opm.gov/about-us/our-people-organization/support-functions/equal-employment-opportunity/)
 	- [Office of Equal Opportunity](http://www.eeoc.gov/eeoc/internal_eeo/index.cfm)
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## What To Expect
 
