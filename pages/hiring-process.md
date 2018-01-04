@@ -41,7 +41,8 @@ Hiring within the federal government takes more time than the typical private se
 
 We’re building a team that reflects the United States. We don’t discriminate based on race, color, religion, sex, gender identity or expression, national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factors.
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## How we hire
 There are three types of [hiring authorities](https://www.usajobs.gov/Help/working-in-government/service/) used by TTS: Competitive Service, Excepted Service, and Senior Executive Service. The application and hiring process will vary slightly based on the type of role you apply for.
@@ -52,12 +53,14 @@ There are three types of [hiring authorities](https://www.usajobs.gov/Help/worki
 
 **Senior Executive Service (SES):** Very few of our positions are considered to be Senior Executive Service (SES) positions. These are Executive Director type roles classified above the general schedule (GS) grade 15 and can be excepted service or competitive service (see definitions above).
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Eligibility
 All United States citizens and nationals (residents of American Samoa and Swains Islands) are eligible to apply. 
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Compensation and benefits
 
@@ -93,7 +96,8 @@ The [TTS Handbook](https://handbook.18f.gov/) has more information about working
 - [Telework and virtual worker policy](https://handbook.18f.gov/telework/)
 - [Professional development and training processes](https://handbook.18f.gov/professional-development-and-training/#speaking-at-conferences)
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Application
 When you apply for a role at TTS, you’ll need to submit a government-style resume, which includes much more detail than a private-sector resume.
@@ -178,7 +182,8 @@ This guide shows how to format a government-style resume and what information to
 > * Publications (including personal blog posts) (title of published work, month and year of publication)
 > * Training and courses (name of training or course, organization providing the training, MM/YYYY completed)
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ### Interviews
 The interview process typically takes about 2-3 weeks from the initial phone screen to a formal interview. The process usually begins with a 30-minute preliminary screening by phone or video call. Plan to briefly talk about your skills and experience and what you’re passionate about. We’ll share more about the role, our teams and the work we do during our conversation with you.
@@ -187,7 +192,8 @@ If we think you could be a good fit for the role you applied to, we’ll invite 
 
 If TTS identifies you as a strong candidate after interviews are completed, a TTS recruiter will reach out to you with next steps.
 
------
+<div class="paragraph"><p><br>
+<br></p></div>
 
 ## Security and onboarding
 The hiring process continues in partnership with the GSA Human Resources team, our parent federal agency’s human resources office. They’re responsible for extending tentative and official final offers. The process is as follows:
