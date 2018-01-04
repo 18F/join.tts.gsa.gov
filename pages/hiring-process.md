@@ -20,14 +20,22 @@ subnav:
 
 ## Intro
 
-The federal hiring process can be confusing and overwhelming, especially if you have never been a federal employee. Below explains GSA's hiring process.
+The federal hiring process can be confusing and overwhelming. The information below is intended to provide an overiview of the process and help with understanding how to apply to an opportunity within TTS.
 
-**Overall Timeline**
-- Application collection: 7-14 days
-- TTS application review: 7 days
-- GSA HR application review: 14 days
-- Interviews: 14-21 days
-- Security: 21-38 days
+
+**Process Timeline**
+
+Hiring within the federal government takes more time than the typical private sector hiring process. Below is an example timeline based on our historic performance that should help you understand what to expect.
+
+|Process Stage | Avg Duration (Days) |
+|--:|:-:|
+| Application collection | 5 |
+| TTS application review | 10 |
+| GSA HR application review | 10 |
+| Interviews | 30 |
+| Offer & security | 60 |
+| **Total from Application to Start** | **115** |
+
 
 **TTS is an equal opportunity employer**
 
