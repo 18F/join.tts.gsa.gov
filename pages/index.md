@@ -35,14 +35,14 @@ Our teams work together to provide the support, authorities, and assurances that
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-baqh">TTS Front Office</th>
-    <th class="tg-yw4l">Office of Operations</th>
-    <th class="tg-yw4l">Office of 18F</th>
+    <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a></th>
+    <th class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a></th>
+    <th class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">Office of 18F</a></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">Office of Products &amp; Programs</td>
-    <td class="tg-yw4l">Office of Acquisitions</td>
-    <td class="tg-yw4l">Presidential Innovation Fellows</td>
+    <td class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a></td>
+    <td class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a></td>
+    <td class="tg-yw4l"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a></td>
   </tr>
 </table>
 
@@ -52,14 +52,14 @@ Our teams work together to provide the support, authorities, and assurances that
 
 | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a>  | <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a>  |
 |:-:|:-:|:-:|
-| **<a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a>** | **<a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>**  |  **<a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">18F</a>** |
+| **<a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a>** | **<a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>**  |  **<a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">Office of 18F</a>** |
 
 -----
 
 ### Option 3
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/tts-offices/#tts-front-office">TTS Front Office</a>
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a>
 </section>
 <div class="paragraph"><p><br>
 <br></p></div>
