@@ -1,7 +1,7 @@
 ---
 layout: base
 title: (Position)
-permalink: / 
+permalink: (Position)/ 
  
 subnav:
   - text: Role summary
