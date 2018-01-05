@@ -8,8 +8,8 @@ subnav:
     href: "#tts-front-office"
   - text: Office of Operations
     href: "#office-of-operations"
-  - text: 18F
-    href: "#18F"
+  - text: Office of 18F
+    href: "#Office of 18F"
   - text: Office of Products and Programs
     href: "#office-of-products-and-programs"
   - text: Office of Acquisitions
@@ -55,7 +55,7 @@ The Office of Acquisitions includes developers, designers, product managers, and
 <div class="paragraph"><p><br>
 <br></p></div>
 
-## Office of Products & Programs
+## Office of Products and Programs
 
 The Office of Products and Programs (OPP) is made up of program managers, product owners, writers, customer experience specialists, engineers, data scientists, and user experience designers who work to deliver government services and information to the public, as well as shared tools and resources to federal agency partners. Through programs like USA.gov, Data.gov, and Challenge.gov, OPP works with agencies to improve the public experience with government. OPP also offers solutions to agencies seeking to modernize IT, like FedRAMP and the Digital Analytics Program. OPP’s reach is tremendous, with thousands of agency partners and millions of customer interactions. To learn more about the different programs within OPP, [click here](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs).
 
