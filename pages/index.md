@@ -24,7 +24,7 @@ Our teams work together to provide the support, authorities, and assurances that
 ## Offices of TTS
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/W4RXIvtb7Y6OtYB82">Click here to apply</a>
+  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
 </section>
 
 -----
