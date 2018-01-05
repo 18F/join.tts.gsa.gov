@@ -12,13 +12,13 @@ subnav:
     href: "#compensation-and-benefits"
   - text: Application
     href: "#application"
+  - text: Government-style resume
+    href: "#government-style-resumes"
   - text: Interviews
     href: "#interviews"
   - text: Security and onboarding
     href: "#Security-and-onboarding"
 ---
-
-[government-style resume](https://join.tts.gsa.gov/hiring-process/###government-style-resumes)
 
 ## Intro
 
