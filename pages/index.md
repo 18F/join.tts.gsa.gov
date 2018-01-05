@@ -23,9 +23,12 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ## Offices of TTS
 
-<section class="usa-grid-full">
+  <a class="usa-button" style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a>
+  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>
   <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
-</section>
+  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
+  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
+  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
 
 -----
 
