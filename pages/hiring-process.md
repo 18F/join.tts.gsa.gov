@@ -201,6 +201,7 @@ If TTS identifies you as a strong candidate after interviews are completed, a TT
 The hiring process continues in partnership with the GSA Human Resources team, our parent federal agency’s human resources office. They’re responsible for extending tentative and official final offers. The process is as follows:
 
 - A GSA HR specialist will call you with a tentative offer.  “Tentative” means the offer is contingent on a security clearance. This offer will include salary for your consideration.
+  - **Please note: This is only a tentative offer, do not give notice, resign, etc from your current employer until you recieve the final offer with a confirmed start dated from HR.**
 - Once you have accepted the tentative offer, you will receive a USAccess email to schedule a time to provide your fingerprints at [one of these locations](http://www.fedidcard.gov/centerlocator.aspx) for your security clearance.
 - You will schedule and complete your fingerprint scans.
 - You will complete the [e-QIP questionnaire](https://www.opm.gov/investigations/e-qip-application/) for which you will need to provide your past seven years of employment and location history as well as information for individuals who can provide verifications of your employment and location history. We **strongly encourage** you to keep a digital or printed copy of the completed eQip for use during your interview with the background investigator.
