@@ -31,7 +31,7 @@ Our teams work together to provide the support, authorities, and assurances that
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-baqh"><button style="height:200px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</button></th>
+    <th class="tg-baqh"><button style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</button></th>
     <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a></th>
     <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">Office of 18F</a></th>
   </tr>
