@@ -23,12 +23,14 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ## Offices of TTS
 
-  <a class="" style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a>
-  <a class="usa-button" style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a>
-  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
-  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
-  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
-  <a class="usa-button" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</a>
+<a href="https://join.tts.gsa.gov/tts-offices/#tts-front-office"><button style="height:100px;width:200px">TTS Front Office</button></a></th>
+<a href="https://join.tts.gsa.gov/tts-offices/#18F"><button style="height:100px;width:200px">Office of 18F</button></a></th>
+<a href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs"><button style="height:100px;width:200px">Office of Products & Programs</button></a></th>
+<a href="https://join.tts.gsa.gov/tts-offices/#office-of-operations"><button style="height:100px;width:200px">Office of Operations</button></a></th>
+<a href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions"><button style="height:100px;width:200px">Office of Acquisitions</button></a></th>
+<a href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows"><button style="height:100px;width:200px">Presidential Innovation Fellows</button></a></th>
+
+
 
 -----
 
