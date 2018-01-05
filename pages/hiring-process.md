@@ -18,6 +18,8 @@ subnav:
     href: "#Security-and-onboarding"
 ---
 
+[government-style resume](https://join.tts.gsa.gov/hiring-process/###government-style-resumes)
+
 ## Intro
 
 The federal hiring process can be confusing and overwhelming. The information below is intended to provide an overiview of the process and help with understanding how to apply to an opportunity within TTS.
