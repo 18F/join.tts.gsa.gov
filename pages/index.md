@@ -32,13 +32,13 @@ Our teams work together to provide the support, authorities, and assurances that
 <table class="tg">
   <tr>
     <th class="tg-baqh"><button style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs">Office of Products & Programs</button></th>
-    <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</a></th>
-    <th class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#18F">Office of 18F</a></th>
+    <th class="tg-baqh"><button style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions">Office of Acquisitions</button></th>
+    <th class="tg-baqh"><button style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#18F">Office of 18F</button></th>
   </tr>
   <tr>
-    <td class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</a></td>
-    <td class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</a></td>
-    <td class="tg-baqh"><a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</a></td>
+    <td class="tg-baqh"><button style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#office-of-operations">Office of Operations</button></td>
+    <td class="tg-baqh"><button style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#tts-front-office">TTS Front Office</button></td>
+    <td class="tg-baqh"><button style="height:100px;width:200px" href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows">Presidential Innovation Fellows</button></td>
   </tr>
 </table>
 
