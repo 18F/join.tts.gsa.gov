@@ -32,7 +32,7 @@ Our teams work together to provide the support, authorities, and assurances that
 <table class="tg">
   <tr>
     <th class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#tts-front-office"><button style="height:100px;width:200px">TTS Front Office</button></a></th>
-    <th class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#18F"><button style="height:100px;width:200px">Office of 18F</button></a></th>
+    <th class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#Office of 18F"><button style="height:100px;width:200px">Office of 18F</button></a></th>
     <th class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs"><button style="height:100px;width:200px">Office of Products & Programs</button></a></th>
   </tr>
   <tr>
