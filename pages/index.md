@@ -51,4 +51,4 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 **Sorry, we don't have any open positions right now.**
 
-If you have any questions, please contact our Talent Team at joinTTS@gsa.gov
+If you have any questions, please contact our Talent Team at [joinTTS@gsa.gov](mailto:jointts@gsa.gov)
