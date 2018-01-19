@@ -96,7 +96,7 @@ The [TTS Handbook](https://handbook.18f.gov/) has more information about working
 -----
 
 ## Application
-When you apply for a role at TTS, you’ll need to submit a [government-style resume](#government-style-resumes), which includes much more detail than a private-sector resume.
+When you apply for a role at TTS, you’ll need to submit a [government-style resume](https://join.tts.gsa.gov/hiring-process/#government-style-resumes), which includes much more detail than a private-sector resume.
 
 [Veterans’ Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx) is applied for candidates who are veterans and have claimed their veteran status.
 
