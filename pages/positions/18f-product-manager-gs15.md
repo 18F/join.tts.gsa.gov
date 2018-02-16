@@ -5,9 +5,10 @@ layout: base
 lead: 
 app_close_date: FEBRUARY 26, 2018
 subnav_title: PRODUCT MANAGER GS-15 
+
 subnav:
   - text: Role summary
-    permalink: /#role-summary
+    href: "#role-summary"
   - text: Basic information
     permalink: /#basic-information
   - text: Requirements
