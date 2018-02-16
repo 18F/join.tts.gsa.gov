@@ -1,11 +1,11 @@
 ---
 title: 18F Product Manager
 permalink: /join/product manager-gs15/
-layout: primary
+layout: base
 lead: 
 app_close_date: FEBRUARY 26, 2018
 subnav_title: PRODUCT MANAGER GS-15 
-subnav_items:
+subnav:
   - text: Role summary
     permalink: /#role-summary
   - text: Basic information
