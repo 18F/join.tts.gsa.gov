@@ -2,30 +2,25 @@
 title: 18F Product Manager
 permalink: /join/product manager-gs15/
 layout: base
-lead: 
 app_close_date: FEBRUARY 26, 2018
-subnav_title: PRODUCT MANAGER GS-15 
 
 subnav:
   - text: Role summary
     href: "#role-summary"
   - text: Basic information
-    permalink: /#basic-information
+    href: /#basic-information
   - text: Requirements
-    permalink: /#key-requirements
+    href: /#key-requirements
   - text: Duties
-    permalink: /#duties
+    href: /#duties
   - text: Qualifications
-    permalink: /#qualifications
+    href: /#qualifications
   - text: How to apply
-    permalink: /#how-to-apply
+    href: /#how-to-apply
   - text: Other information
-    permalink: /#other-information
+    href: /#other-information
   - text: What to expect
-    permalink: /#what-to-expect
-breadcrumb: true
-published: true
-listed: true
+    href: /#what-to-expect
 ---
  
 We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/POSITION NAME GS-XX/#duties) and [Qualifications]({{site.baseurl}}/join/position-name-gsxx/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining 18F](https://18f.gsa.gov/join/#how-to-apply).
