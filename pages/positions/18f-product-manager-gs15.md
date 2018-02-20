@@ -23,7 +23,7 @@ subnav:
     href: /#what-to-expect
 ---
  
-We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/position-name-gsxx/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining 18F](https://18f.gsa.gov/join/#how-to-apply).
+We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/product-manager-gs15/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining TTS](https://join.tts.gsa.gov/hiring-process/).
 
 **Please note: Innovation Specialist is the official government title for this Product Manager position.**
 
@@ -86,6 +86,9 @@ Successful product managers at 18F:
 - Continually seek out new product management tools that could improve the way we work.
 - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems (so that we help agencies not build custom tools if not needed).
 
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/join/product-manager-gs15/#how-to-apply">Click here to apply</a>
+</section>
 
 ## Basic Information
 
@@ -173,12 +176,13 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 
 ## Duties 
 Typical duties for the fellow include but are not limited to:
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development
-Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
-Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences
-Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services
-Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
-Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
+
+- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward-thinking design and development principles to product or services development, delivery and program management, such as lean startup, user-centered design, and agile development
+- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
+- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences
+- Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services, leading to their adoption across citizen and business-facing government services
+- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
+- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
 
 
 
@@ -234,7 +238,7 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 ### Required Documents
 **ALL** required documents must be submitted before the closing date to be considered for the role. Review the following list to determine what you need to submit.
 - **Resume**
-	- [For a brief video on creating a Federal resume, click here.](https://hru.gov/Studio_Recruitment/videos/Writing_Your_Federal_Resume.aspx)
+	- [For a brief video on creating a Federal resume, click here.](https://www.youtube.com/watch?v=8YX7o1PBoFk)
 	- If you have volunteered your service through a National Service program (e.g. Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
 
 - **Completed application** 
