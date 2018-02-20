@@ -91,6 +91,7 @@ Successful product managers at 18F:
   <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/join/product-manager-gs15/#how-to-apply">How to apply</a>
 </section>
 
+<br>
 
 ## Basic Information
 
