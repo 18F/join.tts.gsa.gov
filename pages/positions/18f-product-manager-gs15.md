@@ -23,7 +23,7 @@ subnav:
     href: /#what-to-expect
 ---
  
-We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/product-manager-gs15/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining TTS](https://join.tts.gsa.gov/hiring-process/).
+We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/product-manager-gs15/#qualifications) on this page are specific to the GS-15 level position. You can [apply]({{site.baseurl}}/join/product-manager-gs15/#how-to-apply) at the bottom or learn more about the application process at [Joining TTS](https://join.tts.gsa.gov/hiring-process/).
 
 **Please note: Innovation Specialist is the official government title for this Product Manager position.**
 
@@ -34,10 +34,10 @@ As a Product Manager at 18F, you’ll lead cross-functional teams to deliver use
 
 Product managers on our team are:
 
-Strategic thinkers who are comfortable defining a compelling vision and designing a measurable strategy to achieve that vision.
-Decisive leaders who know how to motivate cross-functional teams to build the right thing.
-Comfortable working in a consulting capacity as well as running a product directly.
-Empathetic coaches, mentors, and advocates who help partner agency staff develop the skills to manage their own products.
+- Strategic thinkers who are comfortable defining a compelling vision and designing a measurable strategy to achieve that vision.
+- Decisive leaders who know how to motivate cross-functional teams to build the right thing.
+- Comfortable working in a consulting capacity as well as running a product directly.
+- Empathetic coaches, mentors, and advocates who help partner agency staff develop the skills to manage their own products.
 
 
 ## Key Objectives
@@ -147,7 +147,7 @@ As an Innovation Specialist, the team member serves the government and makes an 
 This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), Office of 18F.
 
 
-GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the Federal Government'. 
+GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid) in the Federal Government. 
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
 - Health insurance (choose from a wide range of plans)
@@ -236,7 +236,7 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
   <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/cEKydjQ2zT0phKeh2">Click here to apply</a>
 </section>
 
-**Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel ** [joinTTS@gsa.gov](mailto:jointts@gsa.gov).
+**Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at** [joinTTS@gsa.gov](mailto:jointts@gsa.gov).
 
 ### Required Documents
 **ALL** required documents must be submitted before the closing date to be considered for the role. Review the following list to determine what you need to submit.
