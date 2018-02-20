@@ -49,6 +49,8 @@ Our teams work together to provide the support, authorities, and assurances that
 
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, or operations skills to match.
 
-[18F Product Manager GS-15](https://join.tts.gsa.gov/join/product-manager-gs15/)
+### Open Positions
+
+- [18F Product Manager GS-15](https://join.tts.gsa.gov/join/product-manager-gs15/)
 
 If you have any questions, please contact our Talent Team at [joinTTS@gsa.gov](mailto:jointts@gsa.gov)
