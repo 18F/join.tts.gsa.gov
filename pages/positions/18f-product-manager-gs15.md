@@ -86,9 +86,11 @@ Successful product managers at 18F:
 - Continually seek out new product management tools that could improve the way we work.
 - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems (so that we help agencies not build custom tools if not needed).
 
+
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/join/product-manager-gs15/#how-to-apply">Click here to apply</a>
+  <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/join/product-manager-gs15/#how-to-apply">How to apply</a>
 </section>
+
 
 ## Basic Information
 
