@@ -23,7 +23,7 @@ subnav:
     href: /#what-to-expect
 ---
  
-We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/POSITION NAME GS-XX/#duties) and [Qualifications]({{site.baseurl}}/join/position-name-gsxx/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining 18F](https://18f.gsa.gov/join/#how-to-apply).
+We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/18f-product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/position-name-gsxx/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining 18F](https://18f.gsa.gov/join/#how-to-apply).
 
 **Please note: Innovation Specialist is the official government title for this Product Manager position.**
 
