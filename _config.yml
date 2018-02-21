@@ -1,17 +1,15 @@
 # OpenGraph / Twitter metadata
-title: Join TTS
+title: Join the Technology Transformation Services
 small_title: Join TTS
 smallest_title: Join TTS
-description: This is a description.
-name: Join TTS
-report_url: https://federalist-docs.18f.gov/assets/Federalist-Compliance-Memo.pdf
-
+description: The Technology Transformation Service’s (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people.
+name: Join the Technology Transformation Services
 
 # GA and GitHub data
 
-repo: https://github.com/18f/federalist-report-template/
+repo: https://github.com/18F/join.tts.gsa.gov
 org_name: 18f
-repo_name: federalist-report-template
+repo_name: join.tts.gsa.gov
 uswds_path: assets/vendor/uswds
 
 exclude:
