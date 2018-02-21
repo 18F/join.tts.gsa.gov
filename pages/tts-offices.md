@@ -26,7 +26,7 @@ There are six offices within TTS; below is a description of each one and the ope
 
 ## TTS Front Office
 
-The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner, the TTS Chief of Staff, and their administrative support. The TTS Front Office is responsible for defining the TTS strategy and setting priorities for the organization as a whole in order to further the TTS mission. The TTS Front Office is responsible for any major organizational decisions and speaks on behalf of TTS to GSA leadership.
+The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner, their advisor(s), the TTS Chief of Staff, and their administrative support. The TTS Front Office is responsible for defining the TTS strategy and setting priorities for the organization as a whole in order to further the TTS mission. The TTS Front Office is responsible for any major organizational decisions and speaks on behalf of TTS to GSA leadership.
 
 <div class="paragraph"><p><br>
 <br></p></div>
