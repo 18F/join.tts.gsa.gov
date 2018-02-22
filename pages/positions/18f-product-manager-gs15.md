@@ -59,7 +59,7 @@ Successful product managers at 18F:
 
 
 ### Objective #2: Work with agency partners to make sure they’re set up for success
-As a product manager at 18F, your job isn’t to deliver software; your job is to create sustainable outcomes that benefit the public. You’ll help your partners adopt a modern product development mindset and make sure they have the right team to sustain their product once 18F’s engagement with them is done. You’ll also coach and mentor agency staff, helping them develop into capable product managers in their own right.
+As a product manager at 18F, your job goes beyond delivering software; you are responsible for creating sustainable outcomes that benefit the public. You’ll help your partners adopt a modern product development mindset and make sure they have the right team to sustain their product once 18F’s engagement with them is done. You’ll also coach and mentor agency staff, helping them develop into capable product managers in their own right.
 
 Successful product managers at 18F:
 
