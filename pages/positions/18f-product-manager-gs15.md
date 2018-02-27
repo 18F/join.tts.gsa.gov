@@ -1,6 +1,6 @@
 ---
 title: 18F Product Manager
-permalink: /join/product-manager-gs15/
+permalink: /join/product-manager-gs15-closed/
 layout: base
 app_close_date: FEBRUARY 26, 2018
 
@@ -22,6 +22,8 @@ subnav:
   - text: What to expect
     href: /#what-to-expect
 ---
+
+#This position has been closed.
  
 We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/product-manager-gs15/#qualifications) on this page are specific to the GS-15 level position. You can [apply]({{site.baseurl}}/join/product-manager-gs15/#how-to-apply) at the bottom or learn more about the application process at [Joining TTS](https://join.tts.gsa.gov/hiring-process/).
 
