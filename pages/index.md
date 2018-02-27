@@ -51,6 +51,6 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 ### Open Positions
 
-- [18F Product Manager GS-15](https://join.tts.gsa.gov/join/product-manager-gs15/)
+**Sorry, we don't have any open positions right now.**
 
 If you have any questions, please contact our Talent Team at [joinTTS@gsa.gov](mailto:jointts@gsa.gov)
