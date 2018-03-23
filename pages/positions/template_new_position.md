@@ -119,7 +119,7 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government.
 
-This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), (OFFICE).
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
 
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government. 
@@ -181,11 +181,12 @@ You will be scored based on a review of your application materials, measuring yo
 - **Competency 4:** Description
 - **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
 
-Your score will be used to place you in one of the 3 categories: Superior, Qualified, or Not Qualified.
+If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Superior, or Qualified).
 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category. 
   
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+
 
 <div class="paragraph"><p><br>
 <br></p></div>
