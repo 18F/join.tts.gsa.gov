@@ -23,7 +23,7 @@ subnav:
     href: /#what-to-expect
 ---
  
-We're hiring a User Experience Design Lead in the Office of Acquisition at the GS-15 level to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/POSITION NAME GS-XX/#duties) and [Qualifications]({{site.baseurl}}/join/position-name-gsxx/#qualifications) on this page are specific to the GS-xx level position. You can apply at the bottom or learn more about the application process at [Joining 18F](https://18f.gsa.gov/join/#how-to-apply).
+We're hiring a User Experience Design Lead in the Office of Acquisition at the GS-15 level to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/user-experience-design-lead-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/user-experience-design-lead-gs15/#qualifications) on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Joining TTS](https://join.tts.gsa.gov/hiring-process/).
 
 **Please note: Innovation Specialist is the official government title for this User Experience Design Lead position.**
 
@@ -186,7 +186,7 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies: 
 
-- **Research Methods: ** The knowledge and ability to understand and apply user research tools and methodologies. 
+- **Research Methods:** The knowledge and ability to understand and apply user research tools and methodologies. 
 - **Screen Interaction Design:** The ability to design interactive digital products, environments, systems, and services.
 - **Coaching and Mentoring:** The ability to guide others to improve their design craft and communication without micro-management.
 - **Teamwork & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships. 
@@ -202,7 +202,8 @@ Within each category, veterans will receive selection priority over non-veterans
 ## Qualifications 
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the Federal service. Specialized experience is:
-Providing mentorship, corrections, and feedback on user research and UX design methods to both TTS team members and contracted design staff.
+
+- Providing mentorship, corrections, and feedback on user research and UX design methods to both TTS team members and contracted design staff.
 - Guiding contracted design staff to synthesize research data into thematic information for product management and client agencies to make informed product choices.
 - Integrating user research and screen interaction design into agile development sprints, coordinating with development and product management teams on digital procurement projects.
 - Conducting research, design and prototyping using methods including card sorting, tree jack testing, findability, usability testing, paper, wireframes, site maps, flowcharts, storyboards or Invision.
@@ -228,7 +229,7 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 ### Required Documents
 **ALL** required documents must be submitted before the closing date to be considered for the role. Review the following list to determine what you need to submit.
 - **Resume**
-	- [For a brief video on creating a Federal resume, click here.](https://hru.gov/Studio_Recruitment/videos/Writing_Your_Federal_Resume.aspx)
+	- [For a brief video on creating a Federal resume, click here.](https://www.youtube.com/watch?v=8YX7o1PBoFk)
 	- If you have volunteered your service through a National Service program (e.g. Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
 
 - **Completed application** 
