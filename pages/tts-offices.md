@@ -52,6 +52,8 @@ The Office of Operations keeps TTS running smoothly and ensures that the team ha
 
 The Office of Acquisitions includes developers, designers, product managers, and contracting officers who believe that federal procurement can be joyful. The Office of Acquisitions helps the government become a better buyer of technology by establishing a better understanding of an agency’s problem, scoping their solicitation, and buying what they need through innovative contracting vehicles. After the award is made, the cross-functional team within the Office of Acquisitions manages the vendor relationship to ensure delivery of a high-quality product or service. The team also consults with federal, state, and local partners to help them structure acquisitions so that they can benefit from modular procurement, agile software development, and open source technology. 
 
+[User Experience Design Lead](https://join.tts.gsa.gov/join/user-experience-design-lead-gs15/)
+
 <div class="paragraph"><p><br>
 <br></p></div>
 
