@@ -61,7 +61,7 @@ There are three types of [hiring authorities](https://www.usajobs.gov/Help/worki
 ## Eligibility
 For **Competitive Service** roles: All United States citizens and nationals (residents of American Samoa and Swains Islands) are eligible to apply. 
 
-For **Excepted Serice** roles: All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors.
+For **Excepted Serice** roles: All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be current GSA employees or contractors.
 
 <div class="paragraph"><p><br>
 <br></p></div>
