@@ -53,6 +53,6 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 [User Experience Design Lead](https://join.tts.gsa.gov/join/user-experience-design-lead-gs15/)
 
-**If you would like to be notified when jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).**
++**Unfortunately we don't have any active job postings at the moment but we will be posting in the future. If you would like to be notified when jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).**
 
 If you have any questions, please contact our Talent Team at [joinTTS@gsa.gov](mailto:jointts@gsa.gov)
