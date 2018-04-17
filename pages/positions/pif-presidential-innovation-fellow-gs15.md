@@ -25,7 +25,7 @@ subnav:
 We're hiring the next cohort of Presidential Innovation Fellows at the GS 15 level to help us build amazing products 
 for our agency partners. This page includes key objectives for the role as well as the official job description. 
 The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply at the bottom 
-or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
+or learn more about the application process at [PIF.gov](https://presidentialinnovationfellows.gov/).
 
 **Quick Links to Posting Sections**
 - [Role summary]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#role-summary)
