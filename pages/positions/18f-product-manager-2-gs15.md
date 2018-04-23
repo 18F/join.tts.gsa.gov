@@ -25,14 +25,14 @@ subnav:
 We're hiring a Product Manager for 18fF at the GS15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/(PERMALINK)/#role-summary)
-- [Basic information]({{site.baseurl}}/(PERMALINK)/#basic-information)
-- [Requirements]({{site.baseurl}}/(PERMALINK)/#key-requirements)
-- [Duties]({{site.baseurl}}/(PERMALINK)/#duties)
-- [Qualifications]({{site.baseurl}}/(PERMALINK)/#qualifications)
-- [How to apply]({{site.baseurl}}/(PERMALINK)/#how-to-apply)
-- [Other information]({{site.baseurl}}/(PERMALINK)/#other-information)
-- [What to expect]({{site.baseurl}}/(PERMALINK)/#what-to-expect)
+- [Role summary]({{site.baseurl}}/join/18f-product-manager//#role-summary)
+- [Basic information]({{site.baseurl}}/join/18f-product-manager/#basic-information)
+- [Requirements]({{site.baseurl}}/join/18f-product-manager/#key-requirements)
+- [Duties]({{site.baseurl}}/join/18f-product-manager/#duties)
+- [Qualifications]({{site.baseurl}}/join/18f-product-manager/#qualifications)
+- [How to apply]({{site.baseurl}}/join/18f-product-manager/#how-to-apply)
+- [Other information]({{site.baseurl}}/join/18f-product-manager/#other-information)
+- [What to expect]({{site.baseurl}}/join/18f-product-manager/#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
