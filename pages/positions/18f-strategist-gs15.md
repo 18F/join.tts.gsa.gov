@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 18F Strategist
-permalink: /join/strategist-gs15/
+permalink: /join/strategist-gs15-closed/
  
 subnav:
   - text: Role summary
