@@ -48,7 +48,6 @@ The Office of Operations keeps TTS running smoothly and ensures that the team ha
 - [UX Designer](https://join.tts.gsa.gov/join/18f-ux-designer/)
 - [Consulting Software Enginner](https://join.tts.gsa.gov/join/consulting-software-engineer)
 - [Product Manager](https://join.tts.gsa.gov/join/18f-product-manager/)
-- [Strategist](https://join.tts.gsa.gov/join/strategist-gs15/)
 
 <div class="paragraph"><p><br>
 <br></p></div>
