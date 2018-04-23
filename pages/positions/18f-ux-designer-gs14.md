@@ -1,7 +1,7 @@
 ---
 layout: base
-title: (Position)
-permalink: (Position)/join/18f-ux-designer-gs14/
+title: UX Designer
+permalink: /join/18f-ux-designer/
  
 subnav:
   - text: Role summary
