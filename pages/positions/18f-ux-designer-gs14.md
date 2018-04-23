@@ -28,14 +28,14 @@ are specific to the GS-14 level position. You can apply at the bottom or learn m
 at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/18f-ux-design-gs14/#role-summary)
-- [Basic information]({{site.baseurl}}/18f-ux-design-gs14/#basic-information)
-- [Requirements]({{site.baseurl}}/18f-ux-design-gs14/#key-requirements)
-- [Duties]({{site.baseurl}}/18f-ux-design-gs14/#duties)
-- [Qualifications]({{site.baseurl}}/18f-ux-design-gs14/#qualifications)
-- [How to apply]({{site.baseurl}}/18f-ux-design-gs14/#how-to-apply)
-- [Other information]({{site.baseurl}}/18f-ux-design-gs14/#other-information)
-- [What to expect]({{site.baseurl}}/18f-ux-design-gs14/#what-to-expect)
+- [Role summary]({{site.baseurl}}/18f-ux-designer/#role-summary)
+- [Basic information]({{site.baseurl}}/18f-ux-designer/#basic-information)
+- [Requirements]({{site.baseurl}}/18f-ux-designer/#key-requirements)
+- [Duties]({{site.baseurl}}/18f-ux-designer/#duties)
+- [Qualifications]({{site.baseurl}}/18f-ux-designer/#qualifications)
+- [How to apply]({{site.baseurl}}/18f-ux-designer/#how-to-apply)
+- [Other information]({{site.baseurl}}/18f-ux-designer/#other-information)
+- [What to expect]({{site.baseurl}}/18f-ux-designer/#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
