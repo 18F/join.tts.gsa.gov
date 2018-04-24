@@ -22,10 +22,7 @@ subnav:
     href: "#what-to-expect"
 ---
  
-We're hiring the next cohort of Presidential Innovation Fellows at the GS 15 level to help us build amazing products 
-for our agency partners. This page includes key objectives for the role as well as the official job description. 
-The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply at the bottom 
-or learn more about the application process at [PIF.gov](https://presidentialinnovationfellows.gov/).
+The Presidential Innovation Fellows program is now accepting application for thier next cohort. More information about the program and the application process can be found at [PIF.gov](https://presidentialinnovationfellows.gov/). This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply using the link at bottom of this page or directly at [apply.pif.gov](https://apply.pif.gov/).
 
 **Quick Links to Posting Sections**
 - [Role summary]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#role-summary)
