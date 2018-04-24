@@ -22,9 +22,9 @@ subnav:
     href: "#what-to-expect"
 ---
  
-We're hiring a UX Designer for 18F at the GS 14 level to help us build amazing products for our agency partners. This page 
+We're hiring a UX Designer for 18F at the GS-14 level to help us build amazing products for our agency partners. This page 
 includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page 
-are specific to the GS-14 level position. You can apply at the bottom or learn more about the application process 
+are specific to the GS-14 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process 
 at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 **Quick Links to Posting Sections**
@@ -45,7 +45,7 @@ at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 ## Role Summary: 
 
-### UX Designer GS 14
+### UX Designer GS-14
 User experience designers at 18F drive research activities, derive insights, generate concepts, communicate those concepts 
 visually, and work with developers and product managers to build and test them. They foster best practices in user-centered 
 design within 18F and across the federal government through advocacy and coaching.
