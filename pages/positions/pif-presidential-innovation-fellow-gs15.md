@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Presidential Innovation Fellow 
-permalink: /join/pif-presidential-innovation-fellow-gs15/
+permalink: /join/pif-presidential-innovation-fellow/
  
 subnav:
   - text: Role summary
@@ -28,14 +28,14 @@ The Duties and Qualifications on this page are specific to the GS-15 level posit
 or learn more about the application process at [PIF.gov](https://presidentialinnovationfellows.gov/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#role-summary)
-- [Basic information]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#basic-information)
-- [Requirements]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#key-requirements)
-- [Duties]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#duties)
-- [Qualifications]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#qualifications)
-- [How to apply]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#how-to-apply)
-- [Other information]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#other-information)
-- [What to expect]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#what-to-expect)
+- [Role summary]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#role-summary)
+- [Basic information]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#basic-information)
+- [Requirements]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#key-requirements)
+- [Duties]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#duties)
+- [Qualifications]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#qualifications)
+- [How to apply]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#how-to-apply)
+- [Other information]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#other-information)
+- [What to expect]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#what-to-expect)
 
 
 **Please note: Industry Specialist is the official title for the government Position Description related to this posting.**
