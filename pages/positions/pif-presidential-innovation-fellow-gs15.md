@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Presidential Innovation Fellow 
-permalink: /join/pif-presidential-innovation-fellow-gs15/
+permalink: /join/pif-presidential-innovation-fellow/
  
 subnav:
   - text: Role summary
@@ -28,14 +28,14 @@ The Duties and Qualifications on this page are specific to the GS-15 level posit
 or learn more about the application process at [PIF.gov](https://presidentialinnovationfellows.gov/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#role-summary)
-- [Basic information]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#basic-information)
-- [Requirements]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#key-requirements)
-- [Duties]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#duties)
-- [Qualifications]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#qualifications)
-- [How to apply]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#how-to-apply)
-- [Other information]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#other-information)
-- [What to expect]({{site.baseurl}}/join/pif-presidential-innovation-fellow-gs15/#what-to-expect)
+- [Role summary]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#role-summary)
+- [Basic information]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#basic-information)
+- [Requirements]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#key-requirements)
+- [Duties]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#duties)
+- [Qualifications]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#qualifications)
+- [How to apply]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#how-to-apply)
+- [Other information]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#other-information)
+- [What to expect]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#what-to-expect)
 
 
 **Please note: Industry Specialist is the official title for the government Position Description related to this posting.**
@@ -70,7 +70,7 @@ The characteristics that we look for in Fellows, include:
 - Expert in a hard skill such as modern product management, software development, lean startup, strategy consulting, 
 analysis, strategic design, experience design, human centered design, data science, artificial intelligence, machine 
 learning, cybersecurity, etc. 
-- Self-starter--either an entrepreneur or intrapreneur with experience starting and building initiatives
+- Self-starter- either an entrepreneur or intrapreneur with experience starting and building initiatives
 - Ability to engage business problems, understand and design effective solutions and strategies that draw on current and 
 emergent tools, technologies, initiatives and other resources
 - Experience delivering products or services from concept to market
@@ -122,8 +122,7 @@ lean start-up, user centered design and agile.
 - You will demonstrate thought leadership, contributing best practices in a variety of technologies and principles.
 - You will translate business problems into technology solutions that draw on current and emergent tools and technologies.
 
-### Objective #3: You will utilize an entrepreneurial mindset, technology acumen, and strong communication skills in order 
-to drive projects from ideation to completion.
+### Objective #3: You will utilize an entrepreneurial mindset, technology acumen, and strong communication skills in order to drive projects from ideation to completion.
 
 - You have the ability to present sensitive recommendations to higher authority and to articulate positions/policy of vast 
 technical complexity. 
@@ -142,7 +141,7 @@ deliver with integrity, ensuring compliance at all levels.
 1800335JCOTR
 
 **Opening and closing period for this job application:**
-Tuesday, April 17, 2018 - Thursday, May 31, 2018 at 11:59pm EST
+Tuesday, April 24, 2018 - Sunday, June 3, 2018 at 11:59pm EST
 
 **Job Title:** 
 Industry Specialist
@@ -191,12 +190,12 @@ Excepted Service: 12 months and 1 day. May be extended for a maximum of 4 years 
 The Presidential Innovation Fellows (PIF) program brings the principles, values, and practices of the innovation economy 
 into government through the most effective agents of change we know: our people. This highly competitive program pairs
 talented, diverse individuals from the innovation community with top civil servants to tackle many of our nation’s biggest 
-challenges, and to achieve a profound and lasting social impact. These teams of government experts and private­ sector doers
-are using approaches like design­ thinking and lean startup to achieve results for the American people in months, not years. 
+challenges, and to achieve a profound and lasting social impact. These teams of government experts and private­sector doers
+are using approaches like design­thinking and lean startup to achieve results for the American people in months, not years. 
 
 The position requires Fellows perform work of an exceptional degree of difficulty across a wide range of topics at the 
-convergence of technology, policy, and delivery. The incumbent will leverage their experience deploying high­ quality, 
-user­ centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide 
+convergence of technology, policy, and delivery. The incumbent will leverage their experience deploying high­quality, 
+user­centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide 
 technical, policy, and programmatic guidance to government. The individual will be expected to deliver innovative solutions
 that draw upon best practices. These solutions should have the potential to dramatically improve the delivery of government
 services, and provide value to the citizens at whom those services are directed. 
@@ -237,8 +236,8 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
-- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of 
+- Undergo and pass a background investigation. You must be granted this clearance before you can start the job.
+- Have your identity and work status eligibility verified if you are not a GSA employee. We will use the Department of 
 Homeland Security’s e-Verify system for this.
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your 
@@ -251,16 +250,14 @@ financial interest and this position.
 Typical duties for the Presidential Innovation Fellow include, but are not limited to: 
 
 - Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­
-thinking design and development principles to product development and program management, such as lean startup, user ­
-centered design, and agile development
+- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­thinking design and development principles to product development and program management, such as lean startup, user centered design, and agile development
 - Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; 
 conferring with key government/private officials and top experts in the field; representing the agency at technical symposia
 and/or conferences
 - Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital 
 services, leading to their adoption across citizen and business­facing government services
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
-Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex 
+- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex 
 and esoteric challenges. 
 - Performs other duties, as assigned
 
@@ -283,7 +280,7 @@ tools and technologies; and experience describing esoteric and highly technical 
 - Entrepreneurship and Product Management: experience delivering products or services from concept to market 
 - Approach and Methodology: Expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative 
 learnings, and responsiveness 
-- Empathy and Emotional Intelligence: Experience in client-facing roles, navigating bureaucracy,  business development, or 
+- Empathy and Emotional Intelligence: Experience in client-facing roles, navigating bureaucracy, business development, or 
 delivering services with a strong user-facing or consumer-oriented element 
 - Tools and Execution: Experience in design, development and deployment of solutions leveraging current and emergent 
 technologies and best practices 
@@ -327,11 +324,10 @@ practices (e.g. User Centered Design, Human Centered Design, Design Thinking).
 - Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation 
 methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and 
 leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services.
-Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or 
+- Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or 
 venture capital firm (including corporate venture capital).
 - Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive 
-analytics) or working in an organizational leadership capacity in the field of in the field of artificial
-intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling 
+analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling 
 techniques to positively impact business outcomes. 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this
@@ -350,9 +346,9 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 all applicable fields.
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/W4RXIvtb7Y6OtYB82">Click here to apply</a>
+  <a class="usa-button usa-button-secondary" href="https://apply.pif.gov/">Click here to apply</a>
 </section>
-<br>
+
 **If you need assistance in applying or have questions regarding this job opportunity, please email Deb Baptiste at
 [jointts@gsa.gov](mailto:jointts@gsa.gov).**
 
