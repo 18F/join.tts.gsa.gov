@@ -22,7 +22,7 @@ subnav:
     href: "#what-to-expect"
 ---
  
-We're hiring a Consulting Software Engineer for 18F at the GS15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
+We're hiring a Consulting Software Engineer for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 **Quick Links to Posting Sections**
 - [Role summary]({{site.baseurl}}/join/consulting-software-engineer/#role-summary)
@@ -42,7 +42,7 @@ We're hiring a Consulting Software Engineer for 18F at the GS15 level to help us
 
 ## Role Summary: 
 
-### 18F Consulting Software Engineer GS15
+### 18F Consulting Software Engineer GS-15
 
 18F is looking for talented software developers who will help our partner agencies deliver better digital services to the public. As a Consulting Engineer at 18F, you will be a builder, contributor, and catalyst. Working with folks across the organization, you will solve large, complex problems while promoting user-centered, open, and transparent culture. The role involves diverse responsibilities — you might be writing code one day, meeting with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. [18F is an open-source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
