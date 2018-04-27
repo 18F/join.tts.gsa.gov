@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 18F Consulting Software Engineer
-permalink: /join/consulting-software-engineer/ 
+permalink: /join/consulting-software-engineer-closed/ 
  
 subnav:
   - text: Role summary
