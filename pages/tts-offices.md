@@ -45,9 +45,6 @@ The Office of Operations keeps TTS running smoothly and ensures that the team ha
 
 18F partners with agencies to help them build and buy digital services that instill pride and trust in the federal government. 18F works hard to ensure that the government is meeting user needs and implementing strong security practices. 18F strives to deliver on time and within budget while meeting the needs of our partner agencies. 18F is made up of software developers, designers, strategist, and business operations folks. For more information about a tour of duty with 18F, [click here](https://18f.gsa.gov/join).
 
-- [UX Designer](https://join.tts.gsa.gov/join/18f-ux-designer/)
-- [Consulting Software Enginner](https://join.tts.gsa.gov/join/consulting-software-engineer)
-- [Product Manager](https://join.tts.gsa.gov/join/18f-product-manager/)
 
 <div class="paragraph"><p><br>
 <br></p></div>
