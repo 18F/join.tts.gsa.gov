@@ -25,14 +25,14 @@ subnav:
 We’re hiring a Visual Designer for 18F at the GS-14 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-14 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/(PERMALINK)/#role-summary)
-- [Basic information]({{site.baseurl}}/(PERMALINK)/#basic-information)
-- [Requirements]({{site.baseurl}}/(PERMALINK)/#key-requirements)
-- [Duties]({{site.baseurl}}/(PERMALINK)/#duties)
-- [Qualifications]({{site.baseurl}}/(PERMALINK)/#qualifications)
-- [How to apply]({{site.baseurl}}/(PERMALINK)/#how-to-apply)
-- [Other information]({{site.baseurl}}/(PERMALINK)/#other-information)
-- [What to expect]({{site.baseurl}}/(PERMALINK)/#what-to-expect)
+- [Role summary]({{site.baseurl}}/join/18f-visual-designer/#role-summary)
+- [Basic information]({{site.baseurl}}/join/18f-visual-designer/#basic-information)
+- [Requirements]({{site.baseurl}}/join/18f-visual-designer/#key-requirements)
+- [Duties]({{site.baseurl}}/join/18f-visual-designer/#duties)
+- [Qualifications]({{site.baseurl}}/join/18f-visual-designer/#qualifications)
+- [How to apply]({{site.baseurl}}/join/18f-visual-designer/#how-to-apply)
+- [Other information]({{site.baseurl}}/join/18f-visual-designer/#other-information)
+- [What to expect]({{site.baseurl}}/join/18f-visual-designer/#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
@@ -87,6 +87,7 @@ We're looking for candidates who have visual identity and design system experien
 ## Basic Information
 
 **Job announcement number:** 
+1800413JCOTR
 
 **Opening and closing period for this job application:**
 Monday, April 30th to Friday, May 4th, 2018 8:00 pm Eastern (close) 
@@ -102,16 +103,19 @@ GS-14
 
 **Salary Range:** Base Salary GS-14 - $89,370.00 to $ 116,181.00
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.  
+_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._  
+
 
 **Location:** 
 Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
+
+_A new GSA policy requires pre-approval for fully remote positions. We’re working on getting approval for our upcoming openings, but until we secure that approval we’re only able to hire people who will be willing to work in one of our physical offices listed above._
  
 **Number of vacancies:**
 2
 
 **Supervisory status:** 
-No
+_No_
 
 **Travel requirement:** 
 Occasional travel may be required up to 10% per year 
@@ -223,7 +227,7 @@ To qualify, you must have one year of specialized experience equivalent to the G
 - Leading design process on products or leading teams of designers.
 - Mentoring, coaching, or training clients, partners, or team members in any user-centered design practice.
 
-And experience with at least one of the following: 
+And experience with **at least one** of the following: 
 
 - **Communications design**, which could include the following activities and tools: content modeling, content strategy, visual storytelling, user-centered content writing. 
 - **Front end design**, which could include the following activities and tools: HTML/CSS prototypes, front end frameworks, accessibility best practices, optimizing digital metrics (such as page performance, semantic code, page weight, or code reusability).
@@ -262,7 +266,7 @@ Submit a complete online application prior to 8:00 pm Eastern Time on the closin
 	- If you are claiming 10-point preference or derived preference (a spouse, widow or widower, or parent of a deceased or disabled veteran), submit both of the following in addition to the DD-214:
 		- completed [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) form; and
 		- proof of your entitlement; refer to [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) for complete list.
-		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting [JOB ANNOUNCEMENT NUMBER]”.
+		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800413JCOTR”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
 <div class="paragraph"><p><br>
