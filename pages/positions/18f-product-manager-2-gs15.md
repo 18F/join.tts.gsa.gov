@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Product Manager
-permalink: /join/18f-product-manager/ 
+permalink: /join/18f-product-manager-closed/ 
  
 subnav:
   - text: Role summary
