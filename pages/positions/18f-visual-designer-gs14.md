@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Visual Designer
-permalink: /join/18f-visual-designer/ 
+permalink: /join/18f-visual-designer-closed/ 
  
 subnav:
   - text: Role summary
