@@ -51,7 +51,6 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 ### Open Positions
 
-- [Visual Designer](https://join.tts.gsa.gov/join/18f-visual-designer/)
 - [Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/)
 
  **If you would like to be notified when jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).**
