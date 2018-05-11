@@ -118,10 +118,9 @@ We collect applications during the period specified in the job posting. After th
 ### Government-style resumes
 Unlike private-sector resumes, government-style resumes are often several pages long and include detailed information about every job you've held, your responsibilities, and what you accomplished.
 
-There are many guides to building a government-style resume. Here are several resources from other organizations:
+There are many guides to building a government-style resume. Here is one resource from another organizations:
 
 - [GoGovernment's Create Your Federal Resume Guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php)
-- [Food and Drug Administration (FDA)'s Federal Resume Template](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf)
 
 This guide shows how to format a government-style resume and what information to include:
 
