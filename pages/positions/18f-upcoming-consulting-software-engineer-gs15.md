@@ -5,15 +5,14 @@ permalink: /join/upcoming-18F-consulting-software-engineer/
  
 subnav:
  - text: Basic information
-    href: "#basic-information"
+   href: "#basic-information"
  - text: Role summary
-    href: "#role-summary" 
+   href: "#role-summary" 
  - text: Qualifications
-    href: "#qualifications"
+   href: "#qualifications"
  - text: How to apply
-    href: "#how-to-apply"
+   href: "#how-to-apply"
 ---
- 
 
 18F will soon be accepting applications for the Consulting Software Engineer (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications. This role will be open for application on **Monday, May 21, 2018 through Friday, May 25, 2018 at 11:59pm Eastern Time**. Apply online at https://join.tts.gsa.gov/ during this application window.
 
