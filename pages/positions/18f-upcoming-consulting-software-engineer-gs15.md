@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Upcoming 18F Consulting Software Engineer
-permalink: /join/upcoming-18F-consulting-software-engineer/ 
+permalink: join/upcoming-18F-consulting-software-engineer/ 
  
 subnav:
  - text: Basic information
