@@ -12,7 +12,6 @@ subnav:
     href: "#qualifications"
  - text: How to apply
     href: "#how-to-apply"
- 
 ---
  
 
