@@ -1,28 +1,28 @@
 ---
 layout: base
-title: 18F Consulting Software Engineer
-permalink: join/upcoming-18F-consulting-software-engineer/ 
+title: Upcoming 18F Consulting Software Engineer
+permalink: /join/upcoming-18F-consulting-software-engineer/ 
  
 subnav:
  - text: Basic information
     href: "#basic-information"
  - text: Role summary
     href: "#role-summary" 
-  - text: Qualifications
+ - text: Qualifications
     href: "#qualifications"
-  - text: How to apply
+ - text: How to apply
     href: "#how-to-apply"
  
---
+---
  
 
 18F will soon be accepting applications for the Consulting Software Engineer (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications. This role will be open for application on **Monday, May 21, 2018 through Friday, May 25, 2018 at 11:59pm Eastern Time**. Apply online at https://join.tts.gsa.gov/ during this application window.
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/(PERMALINK)/#basic-information)
-- [Role summary]({{site.baseurl}}/(PERMALINK)/#role-summary)
-- [Qualifications]({{site.baseurl}}/(PERMALINK)/#qualifications)
-- [How to apply]({{site.baseurl}}/(PERMALINK)/#how-to-apply)
+- [Basic information]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#basic-information)
+- [Role summary]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#role-summary)
+- [Qualifications]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#qualifications)
+- [How to apply]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#how-to-apply)
 
 
 <div class="paragraph"><p><br>
@@ -58,7 +58,7 @@ Excepted Service – Not to exceed 2 years; may be extended for an additional 2 
 
 ### Consulting Software Engineer (GS15)
 
-18F is looking for talented software developers who will help our partner agencies deliver better digital services to the public. As a Consulting Engineer at 18F, you will be a builder, contributor, and catalyst. Working with folks across the organization, you will solve large, complex problems while promoting user-centered, open, and transparent culture. The role involves diverse responsibilities — you might be writing code one day, meeting with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. [18F is an open-source team] (https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
+18F is looking for talented software developers who will help our partner agencies deliver better digital services to the public. As a Consulting Engineer at 18F, you will be a builder, contributor, and catalyst. Working with folks across the organization, you will solve large, complex problems while promoting user-centered, open, and transparent culture. The role involves diverse responsibilities — you might be writing code one day, meeting with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. [18F is an open-source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
 This role may be perfect for you if you have the technical skills to tackle engineering problems, the social skills to face human-factors problems, and the judgement to differentiate between the two. Our ideal candidate will be equally excited about sticky technical issues and intricate human ones. Impact in this role can’t be measure on a GitHub contribution graph; ideal candidates should be equally comfortable solving technical problems by writing code, explaining technical design architecture to technical and less technical folks alike, and leading organizational strategy and change. 
 
