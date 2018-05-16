@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 18F Consulting Software Engineer
-permalink: /join/consulting-software-engineer-closed/ 
+permalink: /join/consulting-software-engineer
  
 subnav:
   - text: Role summary
@@ -93,10 +93,10 @@ This role may be perfect for you if you have the technical skills to tackle engi
 ## Basic Information
 
 **Job announcement number:** 
-1800401JCOTR
+1800440JCOTR
 
 **Opening and closing period for this job application:**
-Monday, April 23, 2018 to Friday, April 27, 2018 at 11:59pm Eastern Time (close)
+Monday, May 21, 2018 to Friday, May 25, 2018 at 8:00pm Eastern Time (close)
 
 **Job Title:** 
 Innovation Specialist 
@@ -254,10 +254,10 @@ For each job on your resume, provide:
 
 ## How To Apply
 
-Submit a complete online application prior to 11:59 pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
+Submit a complete online application prior to 8:00pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/4P9IH85Mvuwi22732">Click here to apply</a>
+  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/Kd68Qfq5ZukiPgrX2">Click here to apply</a>
 </section>
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at** [jointts@gsa.gov](mailto:jointts@gsa.gov).
@@ -275,7 +275,7 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 	- If you are claiming 10-point preference or derived preference (a spouse, widow or widower, or parent of a deceased or disabled veteran), submit both of the following in addition to the DD-214:
 		- completed [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) form; and
 		- proof of your entitlement; refer to [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) for complete list.
-		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800401JCOTR”.
+		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800440JCOTR”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
 <div class="paragraph"><p><br>
