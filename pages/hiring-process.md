@@ -145,14 +145,14 @@ This is the information that you should include for each position on your resume
 
 ### Detailed Description of Sections
 
-#### Brief Description of the organization & Brief description of the product/project/team you worked on or supported (if applicable).**
+#### Brief Description of the organization & Brief description of the product/project/team you worked on or supported (if applicable).
 
 This section provides context for your work and accomplishments which helps us understand how it’s applicable to our work and the role you are applying for. Examples of the kind of information on team, project, product, etc to include:
 - Clients/Customers type: public facing, end-users, internal, B2B, civic tech, etc
 - Scope of impact/Performance metrics: users, clients, datasets, uptime, cycle time, etc.
 - Team size/composition
 
-#### Relevant Skills, Tools, Technologies Used**
+#### Relevant Skills, Tools, Technologies Used
 
 Here is where you will capture the skills, methodologies, techniques and tools that you used in that position. Focus on those things that were significant to your work and are relevant to the role that you are applying to. Below are some examples of things that you might include:
 - Scrum, Scaled Agile Framework, paired-programming, test-driven development, contextual inquiry, ethnograph, Lean startup
