@@ -51,7 +51,7 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 ### Upcoming Openings
 
-- Consulting Software Engineer 
+- [Consulting Software Engineer](https://join.tts.gsa.gov/join/upcoming-18F-consulting-software-engineer/)
 
 ### Open Positions
 
