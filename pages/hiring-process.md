@@ -221,6 +221,6 @@ All government positions require some kind of background check. Most roles at TT
 
 It can be helpful to start pulling some documents together in advance. The forms you can expect to complete include:
 
-- [OF306 — Declaration for Federal Employment (PDF)](https://www.opm.gov/Forms/pdf_fill/of0306.pdf)
+- [OF306 — Declaration for Federal Employment (PDF)](https://www.gsa.gov/forms-library/authorization-obtain-credit-report)
 - [GSA 3665 — Authorization to Obtain Credit Report](http://www.gsa.gov/portal/getFormFormatPortalData.action?mediaId=29769)
 - If you want to prepare for the e-QIP by gathering information in advance, the [SF-85p (PDF)](https://www.opm.gov/forms/pdf_fill/sf85p.pdf) includes the same questions, so you can use it to get a head start.
