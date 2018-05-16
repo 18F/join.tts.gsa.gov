@@ -32,11 +32,11 @@ Hiring within the federal government takes more time than the typical private se
 |Process Stage | Avg Duration (Days) |
 |--:|:-:|
 | Application collection | 5 |
-| TTS application review | 10 |
+| TTS application review | 5 |
 | GSA HR application review | 10 |
 | Interviews | 30 |
-| Offer & security | 60 |
-| **Total from Application to Start** | **115** |
+| Offer & security | 30 to 60 |
+| **Total from Application to Start** | **80 to 110** |
 
 
 **TTS is an equal opportunity employer**
@@ -115,10 +115,12 @@ We collect applications during the period specified in the job posting. After th
 
 **Excepted Service:** Applications are collected via the postings within the TTS Join Page. All applications are reviewed by a panel of subject matter experts using a qualification process called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=Category-Rating). Once we’ve evaluated all applications for a particular job posting, we send all of the applications and evaluation scores to GSA Human Resources for review.
 
-### Government-style resumes
+## Government-style resumes
+
 Unlike private-sector resumes, government-style resumes are often several pages long and include detailed information about the jobs you've held, your responsibilities, and what you accomplished.
 
-#### General recommendations
+### General recommendations
+
 - When you are preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
 - Don’t get hung up on trying to match specific formatting just make sure you’ve included the information relevant to each section.
 - Be as detailed as possible, length is not an issue as long as the information you are including is relevant.
@@ -127,7 +129,8 @@ Unlike private-sector resumes, government-style resumes are often several pages 
 - We don’t use any kind of automated screening tools, your application will be evaluated by humans who will have varying levels of familiarity with the details of the roles. Although it’s not a key-word search, better to be explicit and not assume the reader has the domain knowledge or context to “read between the lines”.
 - Quantify as much as possible (where applicable)  
 
-#### Sample Structure/Key Information for each position
+### Sample Structure/Key Information for each position
+
 This is the information that you should include for each position on your resume.
 - Company/Organization Name
 - Location (City, State)
@@ -140,29 +143,35 @@ This is the information that you should include for each position on your resume
 - List of relevant skills, tools, technologies used
 - Specific duties, responsibilities, accomplishments of the position
 
-#### Detailed Description of Sections
-**Brief Description of the organization & Brief description of the product/project/team you worked on or supported (if applicable).**
+### Detailed Description of Sections
+
+#### Brief Description of the organization & Brief description of the product/project/team you worked on or supported (if applicable).**
+
 This section provides context for your work and accomplishments which helps us understand how it’s applicable to our work and the role you are applying for. Examples of the kind of information on team, project, product, etc to include:
 - Clients/Customers type: public facing, end-users, internal, B2B, civic tech, etc
 - Scope of impact/Performance metrics: users, clients, datasets, uptime, cycle time, etc.
 - Team size/composition
 
-**Relevant Skills, Tools, Technologies Used**
+#### Relevant Skills, Tools, Technologies Used**
+
 Here is where you will capture the skills, methodologies, techniques and tools that you used in that position. Focus on those things that were significant to your work and are relevant to the role that you are applying to. Below are some examples of things that you might include:
 - Scrum, Scaled Agile Framework, paired-programming, test-driven development, contextual inquiry, ethnograph, Lean startup
 - Wireframes, sitemaps, card sorting, storyboards, journey maps, proto-typing, roadmaps, style guides, pattern libraries, A/B testing, continuous integration
 - Information architecture, service design, visual design, content design, project management, copywriting, server-side development, front end development, containerization, configuration management,infrastructure automation
 - Axure, Powerpoint, Trello, Amazon Web Services, Azure, Docker, Slack, Github, Ruby, Mercurial, PyUnit, JUnit, Rspec, Travis, MongoDB, Redis, Cassandra
 
-#### Example Resume Excerpt
+### Example Resume Excerpt
 
 **Technology Transformation Service - Washington, DC**
+
 _The Technology Transformation Service’s (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people._
 
 **Software Engineer - 07/2015 to Present** - Hours per week: 40
+
 _Developer for USAJobs which is a job posting and application collection portal used by over 500 offices/agencies posting 320k jobs and over 10M applicant accounts_
 
 **Technical Skills Used:** Javascript, Docker, Node.js, Git, Postgres, test-driven development, scrum, Ruby on Rails, Postgres/PostGIS SQL,JSON,Redis, Heroku, Amazon Web Services (AWS), RESTful API, Rspec, CircleCi
+
 - Led and managed backend web development, support and deployment of USAJobs providing metrics and analytics dashboards
 - Developed new features and provided technical support solutions utilizing the Ruby on Rails framework, Postgres/PostGIS SQL, JSON and Redis while maintaining and deploying to Heroku, Amazon Web Services (AWS) cloud technologies including Relational Database Services (RDS) and Elastic Search environments
 - Partnered with departments gathering requirements to develop a joint implementation strategy, obtain access relevant agency internal data systems and data definitions and extract departmental datasets via RESTful APIs. 
@@ -173,7 +182,7 @@ _Developer for USAJobs which is a job posting and application collection portal 
 - Guided team members on data infrastructure to implement front end solutions and peer review code commits for potential refactorization to ensure quality 
 
 
-#### Other sections to include, if applicable
+### Other sections to include, if applicable
 
 - Volunteer work (include the organization's name, your years of participation, and a one-line description of your role)
 - Relevant awards (include awarding organization, title of award, year received, and any relevant details, such as chosen as *award winner out of 300 contenders*)
