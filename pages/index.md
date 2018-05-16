@@ -46,13 +46,17 @@ Our teams work together to provide the support, authorities, and assurances that
 <br></p></div>
 
 ## Join us
+ 
+We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
 
-We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, or operations skills to match.
+### Upcoming Openings
+
+- [Consulting Software Engineer](https://join.tts.gsa.gov/join/upcoming-18F-consulting-software-engineer/)
 
 ### Open Positions
 
-- [Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/)
+- [Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/) (Open now through Sunday, June 3, 2018 at 11:59pm EST)
 
- **If you would like to be notified when jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).**
+ **We are hiring and will be listing new upcoming jobs and uploading new job postings frequently. Please check back or if you would like to be notified when jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).**
 
 If you have any questions, please contact our Talent Team at [joinTTS@gsa.gov](mailto:jointts@gsa.gov)
