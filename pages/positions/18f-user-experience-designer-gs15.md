@@ -72,7 +72,7 @@ Successful UX designers:
 - Create written materials and visual presentations that are accessible to non-experts but that are legally and technically accurate.  
 - Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision. 
 - Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
-Commit to making what we build fully accessible to the people we serve. 
+- Commit to making what we build fully accessible to the people we serve. 
 
 ### Objective 2: Advance UX practice
 
@@ -113,7 +113,7 @@ No
 
 **Salary Range:** Base salary GS-15 - $105,123.00 to $136,659.00
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.  
+_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._  
 
 **Location:** 
  Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
@@ -137,16 +137,14 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 <div class="paragraph"><p><br>
 <br></p></div>
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 
-
-As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data. 
 
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
 
@@ -292,9 +290,9 @@ To learn more, please consult the following resources:
 
 The United States Government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
 
-To learn more, please consult the following resources:
-	- [Equal Employment Opportunity (EEO) office at OPM](https://www.opm.gov/about-us/our-people-organization/support-functions/equal-employment-opportunity/)
-	- [Office of Equal Opportunity](http://www.eeoc.gov/eeoc/internal_eeo/index.cfm)
+To learn more, please consult the following resources:<br>
+- [Equal Employment Opportunity (EEO) office at OPM](https://www.opm.gov/about-us/our-people-organization/support-functions/equal-employment-opportunity/)<br>
+- [Office of Equal Opportunity](http://www.eeoc.gov/eeoc/internal_eeo/index.cfm)
 
 <div class="paragraph"><p><br>
 <br></p></div>
