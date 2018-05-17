@@ -125,7 +125,7 @@ _For specific details on locality pay, please visit [https://www.opm.gov/policy-
 No
 
 **Travel requirement:** 
-Occasional travel may be required up to 10% per year 
+Occasional travel may be required up to 10-20% per year 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors
