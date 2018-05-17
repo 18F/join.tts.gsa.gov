@@ -86,7 +86,8 @@ We're hiring a (POSITION) for (OFFICE) at the (GS LEVEL) level to help us build 
 
 **Salary Range:** Base salary GS-xx: $ xx,xxx to $ xxx,xxx
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.  
+_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._  
+
 
 **Location:** 
  
@@ -263,8 +264,8 @@ To learn more, please consult the following resources:
 The United States Government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
 
 To learn more, please consult the following resources:
-	- [Equal Employment Opportunity (EEO) office at OPM](https://www.opm.gov/about-us/our-people-organization/support-functions/equal-employment-opportunity/)
-	- [Office of Equal Opportunity](http://www.eeoc.gov/eeoc/internal_eeo/index.cfm)
+- [Equal Employment Opportunity (EEO) office at OPM](https://www.opm.gov/about-us/our-people-organization/support-functions/equal-employment-opportunity/)
+- [Office of Equal Opportunity](http://www.eeoc.gov/eeoc/internal_eeo/index.cfm)
 
 <div class="paragraph"><p><br>
 <br></p></div>
