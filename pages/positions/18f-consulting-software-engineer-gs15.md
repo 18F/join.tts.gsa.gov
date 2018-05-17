@@ -109,7 +109,8 @@ GS-15
 
 **Salary Range:** Base salary GS-15 - $105,123 to $136,659 
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.  
+_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._  
+
 
 **Location:** 
  Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
@@ -133,7 +134,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 <div class="paragraph"><p><br>
 <br></p></div>
@@ -223,19 +224,19 @@ Within each category, veterans will receive selection priority over non-veterans
 ## Qualifications 
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
-- Experience as a consultant or internal service managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include ONE of the following:
+- Experience as a consultant or internal service managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
   - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
   - Delivering public-facing products (e.g. e-commerce sites, developer tools/platforms, high-traffic news/media applications, high-traffic mobile applications, etc.) with a large number of users (i.e. 100,000+)
   - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-- Experience developing large scale, full-stack web applications using test-driven development within highly complex, ambiguous or uncertain situations to deliver measurable results for clients. This experience must include ALL of the following:
-  - Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
+- Experience developing large scale, full-stack web applications using test-driven development within highly complex, ambiguous or uncertain situations to deliver measurable results for clients. This experience must include **ALL** of the following:
+  - Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
   - Developing digital applications using a relational or non-relational database layer
   - Developing digital applications using version control and repository tools
   - Developing digital applications using test-driven development and software testing tools
 
-- Experience deploying or operating digital applications on cloud technologies.This experience must include 
-ONE of the following:
+- Experience deploying or operating digital applications on cloud technologies. This experience must include 
+**ONE** of the following:
   - Developing digital applications using Infrastructure-as-a-Service (IaaS) 
   - Developing digital applications using Platform-as-a-Service (PaaS)
   - Developing digital applications using containerization technologies
