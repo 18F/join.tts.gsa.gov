@@ -50,6 +50,10 @@ Our teams work together to provide the support, authorities, and assurances that
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
 
 
+### Upcoming Position
+- [Cloud Adoption Lead](https://join.tts.gsa.gov/join/upcoming-CoE-cloud-adoption-lead/)
+
+
 ### Open Positions
 
 - [Consulting Software Engineer](https://join.tts.gsa.gov/join/consulting-software-engineer-gs15/) (Open now through Friday, May 25, 2018 at 8:00pm EDT)
