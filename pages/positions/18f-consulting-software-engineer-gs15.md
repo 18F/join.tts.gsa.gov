@@ -28,7 +28,7 @@ We're hiring a Consulting Software Engineer for 18F at the GS-15 level to help u
 - [Role summary]({{site.baseurl}}/join/consulting-software-engineer-gs15/#role-summary)
 - [Basic information]({{site.baseurl}}/join/consulting-software-engineer-gs15/#basic-information)
 - [Requirements]({{site.baseurl}}/join/consulting-software-engineer-gs15/#key-requirements)
-- [Duties]({{site.baseurl}}/consulting-software-engineer-gs15/#duties)
+- [Duties]({{site.baseurl}}/join/consulting-software-engineer-gs15/#duties)
 - [Qualifications]({{site.baseurl}}/join/consulting-software-engineer-gs15/#qualifications)
 - [How to apply]({{site.baseurl}}/join/consulting-software-engineer-gs15/#how-to-apply)
 - [Other information]({{site.baseurl}}/join/consulting-software-engineer-gs15/#other-information)
