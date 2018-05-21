@@ -49,10 +49,6 @@ Our teams work together to provide the support, authorities, and assurances that
  
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
 
-### Upcoming Openings
-
-- [Consulting Software Engineer](https://join.tts.gsa.gov/join/upcoming-18F-consulting-software-engineer/)
-- [UX Designer](https://join.tts.gsa.gov/join/upcoming-18F-user-experience-designer/)
 
 ### Open Positions
 
