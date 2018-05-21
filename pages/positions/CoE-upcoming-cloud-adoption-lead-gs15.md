@@ -78,8 +78,7 @@ and virtualization and containerization.
 
 ## Key Objectives
 
-### Key objective #1: You’ll apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to 
-produce high-quality results, meeting customer expectations and organizational goals.
+### Key objective #1: You’ll apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
 
 - Hold yourself, your team, and the vendors you work with accountable for measurable, high-quality, timely, and 
 cost-effective results.
@@ -100,7 +99,8 @@ write user stories.
 
 
 
-### Key objective #2: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
+### Key objective #2: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
+
 - Explain the product to people who have varying levels of technical knowledge — always meet the client where they’re at. 
 - Express empathy through the long compliance and security processes.  
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the partner’s needs.
@@ -108,7 +108,8 @@ write user stories.
 necessary changes to product performance or presentation.
 
 
-### Key objective #3: Translate difficult technical terms and concepts so that they’re accessible to all audiences. 
+### Key objective #3: Translate difficult technical terms and concepts so that they’re accessible to all audiences.
+
 - Present the technical details of a product in such a manner that clients can purchase the product and start using it 
 without assistance. 
 - Communicate clearly, calmly, and concisely in all situations. 
