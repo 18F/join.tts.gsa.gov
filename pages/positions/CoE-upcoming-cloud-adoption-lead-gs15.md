@@ -20,9 +20,9 @@ If you are interested in learning more about this role please reach out to Amand
 [jointts@gsa.gov](mailto:jointts@gsa.gov)
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#basic-information)
-- [Role summary]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#role-summary)
-- [How to apply]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#how-to-apply)
+- [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#basic-information)
+- [Role summary]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#role-summary)
+- [How to apply]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#how-to-apply)
 
 
 <div class="paragraph"><p><br>
