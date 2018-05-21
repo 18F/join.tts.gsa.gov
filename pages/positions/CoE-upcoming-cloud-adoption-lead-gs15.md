@@ -123,5 +123,5 @@ without assistance.
 
 ## How To Apply
 
-This role is not currently being advertised, but if you are interested and would like to learn more please reach out to 
+If you would like to learn more or if you'd like to be notified when the application is open please reach out to 
 Amanda Schonfeld at [jointts@gsa.gov](mailto:jointts@gsa.gov).
