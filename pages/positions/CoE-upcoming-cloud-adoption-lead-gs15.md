@@ -14,7 +14,7 @@ subnav:
    href: "#how-to-apply"
 ---
 
-TTS' Center of Excellence (CoE) office is looking for someone to join their team as a Cloud Adoption Lead (GS15). This page
+The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Cloud Adoption Lead (GS15). This page
 includes basic information about the role, the role summary and key objectives needed in order to perform the role well. 
 If you are interested in learning more about this role please reach out to Amanda Schonfeld at 
 [jointts@gsa.gov](mailto:jointts@gsa.gov)
@@ -31,10 +31,10 @@ If you are interested in learning more about this role please reach out to Amand
 
 ## Basic Information
 
-The Center of Excellence (CoE)is an office within 18F that was created to accelerate the modernization of IT to improve 
+The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve 
 the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT 
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Cloud Adoption team is looking to 
-hire a Cloud Adoption Lead.  This team assist the analysis of current systems and applications to provide recommendations 
+hire a Cloud Adoption Lead.  This team assists with the analysis of current systems and applications to provide recommendations 
 for planning migration to the cloud, including balancing tactical “lift and shift” imperatives with more strategic “fix and 
 shift” possibilities.
 
@@ -47,10 +47,8 @@ Washington, DC
 **Salary Range:** 
 Base salary GS-15 - $134,789 to $164,200
 
-
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors
-
 
 <div class="paragraph"><p><br>
 <br></p></div>
@@ -121,7 +119,6 @@ without assistance.
 
 <div class="paragraph"><p><br>
 <br></p></div>
-
 
 
 ## How To Apply
