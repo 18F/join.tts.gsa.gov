@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 18F Consulting Software Engineer
-permalink: /join/consulting-software-engineer-closed/ 
+permalink: /join/consulting-software-engineer-gs15/
  
 subnav:
   - text: Role summary
@@ -93,10 +93,10 @@ This role may be perfect for you if you have the technical skills to tackle engi
 ## Basic Information
 
 **Job announcement number:** 
-1800401JCOTR
+1800440JCOTR
 
 **Opening and closing period for this job application:**
-Monday, April 23, 2018 to Friday, April 27, 2018 at 11:59pm Eastern Time (close)
+Monday, May 21, 2018 to Friday, May 25, 2018 at 8:00pm Eastern Time (close)
 
 **Job Title:** 
 Innovation Specialist 
@@ -109,7 +109,8 @@ GS-15
 
 **Salary Range:** Base salary GS-15 - $105,123 to $136,659 
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.  
+_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._  
+
 
 **Location:** 
  Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
@@ -133,7 +134,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 <div class="paragraph"><p><br>
 <br></p></div>
@@ -223,19 +224,19 @@ Within each category, veterans will receive selection priority over non-veterans
 ## Qualifications 
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
-- Experience as a consultant or internal service managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include ONE of the following:
+- Experience as a consultant or internal service managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
   - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
   - Delivering public-facing products (e.g. e-commerce sites, developer tools/platforms, high-traffic news/media applications, high-traffic mobile applications, etc.) with a large number of users (i.e. 100,000+)
   - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-- Experience developing large scale, full-stack web applications using test-driven development within highly complex, ambiguous or uncertain situations to deliver measurable results for clients. This experience must include ALL of the following:
-  - Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
+- Experience developing large scale, full-stack web applications using test-driven development within highly complex, ambiguous or uncertain situations to deliver measurable results for clients. This experience must include **ALL** of the following:
+  - Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
   - Developing digital applications using a relational or non-relational database layer
   - Developing digital applications using version control and repository tools
   - Developing digital applications using test-driven development and software testing tools
 
-- Experience deploying or operating digital applications on cloud technologies.This experience must include 
-ONE of the following:
+- Experience deploying or operating digital applications on cloud technologies. This experience must include 
+**ONE** of the following:
   - Developing digital applications using Infrastructure-as-a-Service (IaaS) 
   - Developing digital applications using Platform-as-a-Service (PaaS)
   - Developing digital applications using containerization technologies
@@ -254,10 +255,10 @@ For each job on your resume, provide:
 
 ## How To Apply
 
-Submit a complete online application prior to 11:59 pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
+Submit a complete online application prior to 8:00pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/4P9IH85Mvuwi22732">Click here to apply</a>
+  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/Kd68Qfq5ZukiPgrX2">Click here to apply</a>
 </section>
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at** [jointts@gsa.gov](mailto:jointts@gsa.gov).
@@ -275,7 +276,7 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 	- If you are claiming 10-point preference or derived preference (a spouse, widow or widower, or parent of a deceased or disabled veteran), submit both of the following in addition to the DD-214:
 		- completed [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) form; and
 		- proof of your entitlement; refer to [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) for complete list.
-		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800401JCOTR”.
+		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800440JCOTR”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
 <div class="paragraph"><p><br>
