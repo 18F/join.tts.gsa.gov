@@ -100,8 +100,7 @@ write user stories.
 
 
 
-### Key objective #2: Practice an exceptional level of customer service with all partners, providing a unique, tailored 
-experience.  
+### Key objective #2: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 - Explain the product to people who have varying levels of technical knowledge — always meet the client where they’re at. 
 - Express empathy through the long compliance and security processes.  
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the partner’s needs.
