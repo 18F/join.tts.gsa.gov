@@ -31,6 +31,14 @@ The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner,
 <div class="paragraph"><p><br>
 <br></p></div>
 
+## Centers of Excellence
+
+The IT Modernization Centers of Excellence seek to accelerate the modernization of IT to improve customer experience and reduce legacy IT spending across the government by leveraging private sector innovation, existing government services, and providing access to best practices and expertise.  The CoE will manage centralized, function specific talent, solutions and acquisition vehicles.  The CoE is made up of five offices whose work includes: standing up customer experience programs, accelerating cloud adoption, consolidating data centers, implementing contact centers of the future and developing metrics and dashboards to drive process improvement.  For more information about the CoE [click here](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/it-modernization-centers-of-excellence).
+
+<div class="paragraph"><p><br>
+<br></p></div>
+
+
 ## Office of Operations
 
 The Office of Operations keeps TTS running smoothly and ensures that the team has the tools needed to focus on the TTS mission. The Office of Operations oversees several operational teams that support the work of TTS. 
