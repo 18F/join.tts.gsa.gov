@@ -33,7 +33,7 @@ The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner,
 
 ## Centers of Excellence
 
-The Centers of Excellence seek to accelerate the modernization of IT infrastructure across government by leveraging private sector innovation, existing government services, and providing access to best practices and expertise. They also aim to improve customer experience and reduce legacy IT spending across the government. The CoE is made up of five offices whose work includes: standing up customer experience programs, accelerating cloud adopton, consolidating data centers, implementing the contact centers of the future and developing metrics and dashboard to drive process improvement.
+The IT Modernization Centers of Excellence seek to accelerate the modernization of IT to improve customer experience and reduce legacy IT spending across the government by leveraging private sector innovation, existing government services, and providing access to best practices and expertise.  The CoE will manage centralized, function specific talent, solutions and acquisition vehicles.  The CoE is made up of five offices whose work includes: standing up customer experience programs, accelerating cloud adoption, consolidating data centers, implementing contact centers of the future and developing metrics and dashboards to drive process improvement.  For more information about the CoE [click here](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/it-modernization-centers-of-excellence).
 
 <div class="paragraph"><p><br>
 <br></p></div>
