@@ -31,6 +31,14 @@ The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner,
 <div class="paragraph"><p><br>
 <br></p></div>
 
+## Centers of Excellence
+
+The Centers of Excellence seek to accelerate the modernization of IT infrastructure across government by leveraging private sector innovation, existing government services, and providing access to best practices and expertise. They also aim to improve customer experience and reduce legacy IT spending across the government. The CoE is made up of five offices whose work includes: standing up customer experience programs, accelerating cloud adopton, consolidating data centers, implementing the contact centers of the future and developing metrics and dashboard to drive process improvement.
+
+<div class="paragraph"><p><br>
+<br></p></div>
+
+
 ## Office of Operations
 
 The Office of Operations keeps TTS running smoothly and ensures that the team has the tools needed to focus on the TTS mission. The Office of Operations oversees several operational teams that support the work of TTS. 
