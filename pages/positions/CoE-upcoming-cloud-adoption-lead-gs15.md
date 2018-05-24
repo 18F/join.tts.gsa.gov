@@ -48,7 +48,7 @@ Washington, DC
 Base salary GS-15 - $134,789 to $164,200
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) 
 
 <div class="paragraph"><p><br>
 <br></p></div>
