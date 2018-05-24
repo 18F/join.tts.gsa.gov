@@ -55,6 +55,7 @@ The Office of Operations keeps TTS running smoothly and ensures that the team ha
 
 - [Consulting Software Engineer](https://join.tts.gsa.gov/join/consulting-software-engineer-gs15/)
 - [UX Designer](https://join.tts.gsa.gov/join/18f-user-experience-designer-gs15/) 
+- [Content Designer](https://join.tts.gsa.gov/join/18f-content-designer-gs15/) 
 
 <div class="paragraph"><p><br>
 <br></p></div>
