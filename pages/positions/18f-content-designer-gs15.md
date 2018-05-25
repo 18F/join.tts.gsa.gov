@@ -25,14 +25,14 @@ subnav:
 We're hiring a Content Designer for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process](https://join.tts.gsa.gov/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/(join/18f-content-designer-gs15)/#role-summary)
-- [Basic information]({{site.baseurl}}/(join/18f-content-designer-gs15)/#basic-information)
-- [Requirements]({{site.baseurl}}/(join/18f-content-designer-gs15)/#key-requirements)
-- [Duties]({{site.baseurl}}/(join/18f-content-designer-gs15)/#duties)
-- [Qualifications]({{site.baseurl}}/(join/18f-content-designer-gs15)/#qualifications)
-- [How to apply]({{site.baseurl}}/(join/18f-content-designer-gs15)/#how-to-apply)
-- [Other information]({{site.baseurl}}/(join/18f-content-designer-gs15)/#other-information)
-- [What to expect]({{site.baseurl}}/(join/18f-content-designer-gs15)/#what-to-expect)
+- [Role summary]({{site.baseurl}}/(join/18f-content-designer-gs15/#role-summary)
+- [Basic information]({{site.baseurl}}/(join/18f-content-designer-gs15/#basic-information)
+- [Requirements]({{site.baseurl}}/(join/18f-content-designer-gs15/#key-requirements)
+- [Duties]({{site.baseurl}}/(join/18f-content-designer-gs15/#duties)
+- [Qualifications]({{site.baseurl}}/(join/18f-content-designer-gs15/#qualifications)
+- [How to apply]({{site.baseurl}}/(join/18f-content-designer-gs15/#how-to-apply)
+- [Other information]({{site.baseurl}}/(join/18f-content-designer-gs15/#other-information)
+- [What to expect]({{site.baseurl}}/(join/18f-content-designer-gs15/#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
@@ -66,7 +66,7 @@ We’re looking for candidates who have delivered content iteratively, who have 
 - Give agency partners and peers advice they need to hear over what they want to hear, in a manner that respects their intelligence and experience.
 
 
-### Objective 2: Deliver high-quality, user-centered content for agency partners. 
+### Objective #2: Deliver high-quality, user-centered content for agency partners. 
 - Create clear, accessible, and concise content in a fast-paced, collaborative environment. Examples include landing pages, interface writing, navigation labels, notifications, research findings, and launch materials.
 - Iterate quickly by writing, editing, and collaborating on drafts.
 - Incorporate continuous feedback from users, peers, and stakeholders by leading content-focused usability and critique sessions.
