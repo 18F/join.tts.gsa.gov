@@ -23,24 +23,14 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ## Offices of TTS
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#tts-front-office"><button style="height:100px;width:200px">TTS Front Office</button></a></th>
-    <th class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#Office of 18F"><button style="height:100px;width:200px">Office of 18F</button></a></th>
-    <th class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs"><button style="height:100px;width:200px">Office of Products & Programs</button></a></th>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#office-of-operations"><button style="height:100px;width:200px">Office of Operations</button></a></td>
-    <td class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions"><button style="height:100px;width:200px">Office of Acquisitions</button></a></td>
-    <td class="tg-baqh"><a href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows"><button style="height:100px;width:200px">Presidential Innovation Fellows</button></a></td>
-  </tr>
-</table>
+- [TTS Front Office](https://join.tts.gsa.gov/tts-offices/#tts-front-office)
+- [Centers of Excellence](https://join.tts.gsa.gov/tts-offices/#centers-of-excellence)
+- [18F](https://join.tts.gsa.gov/tts-offices/#office-of-18f)
+- [Office of Products & Programs](https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs)
+- [Office of Operations](https://join.tts.gsa.gov/tts-offices/#office-of-operations)
+- [Office of Acquisitions](https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions)
+- [Presidential Innovation Fellows](https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows)
+
 
 <div class="paragraph"><p><br>
 <br></p></div>
