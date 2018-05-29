@@ -53,7 +53,6 @@ The Office of Operations keeps TTS running smoothly and ensures that the team ha
 
 18F partners with agencies to help them build and buy digital services that instill pride and trust in the federal government. 18F works hard to ensure that the government is meeting user needs and implementing strong security practices. 18F strives to deliver on time and within budget while meeting the needs of our partner agencies. 18F is made up of software developers, designers, strategist, and business operations folks. For more information about a tour of duty with 18F, [click here](https://18f.gsa.gov/join).
 
-- [Content Designer](https://join.tts.gsa.gov/join/18f-content-designer-gs15/) 
 
 <div class="paragraph"><p><br>
 <br></p></div>
@@ -76,5 +75,3 @@ The Office of Products and Programs (OPP) is made up of program managers, produc
 
 The Presidential Innovation Fellows (PIF) program is made up of mid- to senior-level individuals with a proven track record of success in entrepreneurship, strategic design, technology, innovation, and modern product management. In the PIF program, fellows team up with agency changemakers to tackle the nation’s biggest and most pressing technology challenges, such as improving access to education, fueling job creation and the economy, and expanding the public’s ability to access their personal health data.
 Fellows serve a 12-month tour of duty in Washington, D.C. with fellowships typically starting in late summer or early fall. For more information about a tour of duty with PIF and to apply [click here](https://presidentialinnovationfellows.gov/).
-
-[Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/)
