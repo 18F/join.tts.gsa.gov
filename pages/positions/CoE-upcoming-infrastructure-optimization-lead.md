@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Upcoming Role - CoE Infrastructure Optimization Lead
-permalink: join/upcoming-CoE-cloud-adoption-lead/ 
+permalink: join/upcoming-CoE-infrastructure-optimization-lead/ 
  
 subnav:
  - text: Basic information
