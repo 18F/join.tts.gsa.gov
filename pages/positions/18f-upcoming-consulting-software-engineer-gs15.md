@@ -14,7 +14,7 @@ subnav:
    href: "#how-to-apply"
 ---
 
-18F will soon be accepting applications for the Consulting Software Engineer (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications. This role will be open for application on **Monday, May 21, 2018 through Friday, May 25, 2018 at 8:00pm Eastern Time**. Apply online at <https://join.tts.gsa.gov> during this application window.
+18F will soon be accepting applications for the Consulting Software Engineer (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
 - [Basic information]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/#basic-information)
@@ -164,6 +164,4 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## How To Apply
 
-This role will be open for application on **Monday, May 21, 2018 through Friday, May 25, 2018 at 8:00pm Eastern Time**. Apply online at <https://join.tts.gsa.gov/> during this application window. 
-
-If you need assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at [jointts@gsa.gov](mailto:jointts@gsa.gov).
+If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).
