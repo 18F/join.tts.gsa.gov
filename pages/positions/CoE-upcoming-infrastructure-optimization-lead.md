@@ -18,9 +18,9 @@ If you are interested in learning more about this role please reach out to Amand
 [jointts@gsa.gov](mailto:jointts@gsa.gov)
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#basic-information)
-- [Role summary]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#role-summary)
-- [How to apply]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#how-to-apply)
+- [Basic information]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-lead/#basic-information)
+- [Role summary]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-lead/#role-summary)
+- [How to apply]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-lead/#how-to-apply)
 
 
 <div class="paragraph"><p><br>
@@ -56,16 +56,11 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### Infrastructure Optimization Lead (GS15)
 
-We are looking for an Infrastructure Optimization lead to join the IT Modernization Centers of Excellence (COE) to help 
-develop the capabilities and services of our partner agencies.
+We are looking for an Infrastructure Optimization lead to join the IT Modernization Centers of Excellence (COE) to help develop the capabilities and services of our partner agencies.
 
-In collaboration with agency stakeholders, you will be providing the technical leadership for the design, planning, and 
-delivery of key infrastructure modernization strategies that will drive optimizations and improvements in the security, 
-agility, responsiveness, and capital efficiency of their IT infrastructure and customer delivery services.
+In collaboration with agency stakeholders, you will be providing the technical leadership for the design, planning, and delivery of key infrastructure modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and capital efficiency of their IT infrastructure and customer delivery services.
 
-You will need a thorough knowledge of infrastructure, networking, cloud, integration, data, custom & packaged applications,
-and security to ensure that the agency’s infrastructure architecture meets their current and future needs in an efficient, 
-sustainable, agile, and adaptable manner.
+You will need a thorough knowledge of infrastructure, networking, cloud, integration, data, custom & packaged applications, and security to ensure that the agency’s infrastructure architecture meets their current and future needs in an efficient, sustainable, agile, and adaptable manner.
 
 
 <div class="paragraph"><p><br>
@@ -73,36 +68,23 @@ sustainable, agile, and adaptable manner.
 
 ## Key Objectives
 
-### Key objective #1: You will serve as the innovative technical leader in the development of infrastructure modernization 
-strategies for the highly complex and significant systems of our agency partners
+### Key objective #1: Serving as the innovative technical leader, you will work with our agency partners to develop strategies and execute initiatives to modernize their highly complex and critical systems and infrastructure, empowering them better deliver on their mission.
 
-- Ensure strategic alignment of technical design/architecture to meet business growth and direction.
-- Use modern research methods and best practices, to fully understand the real needs of our users
-- Analyze current system architecture and existing products to identify the functionality and capabilities that can be 
-leveraged and the areas requiring refactoring 
-- Develop an integration plan to create a seamless technology ecosystem with a consistent user experience
-- Perform hands-on solution design, solution architectures, architecture roadmaps, prototyping, proof-of-concepts, and 
-development tasks
-- Deliver strategies with an API first mindset using reusable components and operational strategies to support scalability, 
-availability, performance, monitoring, backup, etc, to improve the security, resiliency, and agility of infrastructure and 
-applications
-- Leverage native cloud capabilities such as data storage, performance, and security enhancements, as well as auto-scaling 
-and performance/capacity management to promote technical improvements in the defendability and cost efficiency of the agency
-infrastructure services
-- Work closely with the internal and contract developers, conducting code reviews and providing feedback and guidance when 
-necessary
-- Contribute high-quality, well-tested, maintainable infrastructure configurations, including code-based automation using 
-modern software development, open source, and industry best practices
+- Use modern research methods and best practices to fully understand the real needs of the users and the impact driven by the agency’s systems & infrastructure
+- Analyze current system architecture and existing products to identify the functionality and capabilities that can be leveraged and the areas requiring refactoring
+- Develop solutions with an API first mindset using reusable components and operational strategies to support scalability, availability, performance, monitoring, backup, etc, to improve the security, resiliency, and agility of infrastructure and applications
+- Leverage native cloud capabilities such as data storage, performance, and security enhancements, as well as auto-scaling and performance/capacity management to promote technical improvements in the defendability and cost efficiency of the agency infrastructure services
+- Work closely with the internal and contract developers, conducting code reviews and providing feedback and guidance when necessary
+- Contribute high-quality, well-tested, maintainable infrastructure configurations, including code-based automation using modern software development, open source, and industry best practices
 
 
-### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and 
-knowledge sharing.
+### Key objective #2: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle and infrastructure 
-maintenance.
-- Deliver educational workshops to accelerate learning and adoption of agile development principles and practices. 
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Contribute content to documentation, blogs, newsletters, etc.
+- Explain the product to people who have varying levels of technical knowledge — always meet the client where they’re at. 
+- Express empathy through the long compliance and security processes.  
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the partner’s needs.
+- Serve as a liaison between the clients and the team: Provide client feedback to the team, enabling the team to make 
+necessary changes to product performance or presentation.
 
 
 ### Key objective #3: Translate difficult technical terms and concepts so that they’re accessible to all audiences.
@@ -112,7 +94,6 @@ without assistance.
 - Communicate clearly, calmly, and concisely in all situations. 
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
-
 
 <div class="paragraph"><p><br>
 <br></p></div>
