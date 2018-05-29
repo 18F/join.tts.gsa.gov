@@ -76,33 +76,28 @@ infrastructure and customer experience services.
 strategies incorporating leading technology and industry best practices to ensure their solutions can meet their current 
 and future needs in an efficient, sustainable, agile, and adaptable manner.
 
-- Architect an enterprise-level customer experience technology solution using user story definition, logical data modeling, 
-functional system design and by incorporating best-practice methodologies
-- Develop and maintain strategic application technology portfolios, roadmaps, and reference architectures to support or 
-drive solution development, application portfolio management or product selection
-- Collaborate with multiple stakeholders and subject matter experts to identify and prioritize platform enhancements that 
-will optimize our customer care processes
-- Maintain and apply a broad and current industry perspective on technology trends/opportunities, alternate solution 
-providers and leading practices
-- Interface with agency data and security teams to address gaps and risks and assist in the overall design and build of 
-security features
-- Partner with agency program leads to drive alignment and integration of new contact center technology and integration 
-other third-party or internal applications
-- Establish key performance metrics for the call centers/contact centers or customer experience programs 
+- Architect an enterprise-level customer experience technology solution using user story definition, holistic journey mapping, data modeling while also incorporating standard operating procedures and best-practice methodologies
+- Develop and maintain strategic application technology portfolios, roadmaps, and reference architectures to support or drive solution development or product selection
+- Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications
+- Implement intelligent system solutions to leverage robotic process automation (RPA) & artificial intelligence (AI) to help anticipate user needs, augment conversations and automate routine tasks
+- Interface with agency data and security teams to address gaps and risks and assist in the overall design and build of security features
+Develop and track performance metrics, customer feedback, quality assurance and other KPI’s
+ 
 
-### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and
-knowledge sharing.
+### Key objective #2: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
-- Deliver educational workshops to accelerate learning and adoption of agile principles and practices
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Contribute content to documentation, blogs, newsletters, etc.
+- Explain the product to people who have varying levels of technical knowledge — always meet the client where they’re at. 
+- Express empathy through the long compliance and security processes.  
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the partner’s needs.
+- Serve as a liaison between the clients and the team: Provide client feedback to the team, enabling the team to make 
+necessary changes to product performance or presentation.
 
 
-### Key objective #3: Translate difficult technical terms and concepts so that they’re accessible to all audiences.  
+### Key objective #3: Translate difficult technical terms and concepts so that they’re accessible to all audiences.
 
 - Present the technical details of a product in such a manner that clients can purchase the product and start using it 
 without assistance. 
+- Communicate clearly, calmly, and concisely in all situations. 
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
@@ -110,8 +105,10 @@ without assistance.
 <div class="paragraph"><p><br>
 <br></p></div>
 
+<div class="paragraph"><p><br>
+<br></p></div>
+
 
 ## How To Apply
 
-If you would like to learn more or if you'd like to be notified when the application is open please reach out to 
-Amanda Schonfeld at [jointts@gsa.gov](mailto:jointts@gsa.gov).
+If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSft7yLIFYAgxYU9W0FOf2qlxgHy6kZ84aXAMG4R6H3_ra-Ilg/viewform?usp=sf_link).
