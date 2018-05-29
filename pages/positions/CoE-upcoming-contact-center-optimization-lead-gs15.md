@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Upcoming Role - CoE Contact Center Optimization Lead
-permalink: join/upcoming-CoE-contact-center-optimization-lead/ 
+permalink: join/upcoming-coe-contact-center-optimization-lead/ 
  
 subnav:
  - text: Basic information
