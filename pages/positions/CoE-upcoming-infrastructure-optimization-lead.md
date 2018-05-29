@@ -101,5 +101,4 @@ without assistance.
 
 ## How To Apply
 
-We are not currently collecting applications for this role, but if you would like to be informed when this role becomes 
-available please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-4Q76jPA-U1sJcffA192fJAXLdT870ozUqSNuiJgBWJ-qLA/viewform?usp=sf_link).
+If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-4Q76jPA-U1sJcffA192fJAXLdT870ozUqSNuiJgBWJ-qLA/viewform?usp=sf_link).
