@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Upcoming Role - CoE Cloud Adoption Lead
-permalink: join/upcoming-CoE-cloud-adoption-lead/ 
+permalink: join/upcoming-coe-cloud-adoption-lead/ 
  
 subnav:
  - text: Basic information
