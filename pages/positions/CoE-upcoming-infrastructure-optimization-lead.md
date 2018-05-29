@@ -13,9 +13,7 @@ subnav:
 ---
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Infrastructure Optimization Lead 
-(GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well. 
-If you are interested in learning more about this role please reach out to Amanda Schonfeld at 
-[jointts@gsa.gov](mailto:jointts@gsa.gov)
+(GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.  If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-4Q76jPA-U1sJcffA192fJAXLdT870ozUqSNuiJgBWJ-qLA/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
 - [Basic information]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-lead/#basic-information)
