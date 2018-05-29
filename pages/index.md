@@ -45,9 +45,6 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 
 ### Open Positions
-
-- [Consulting Software Engineer](https://join.tts.gsa.gov/join/consulting-software-engineer-gs15/) (Open now through Friday, May 25, 2018 at 8:00pm EDT)
-- [UX Designer](https://join.tts.gsa.gov/join/18f-user-experience-designer-gs15/) (Open now through Friday, May 25, 2018 at 8:00pm EDT)
 - [Content Designer](https://join.tts.gsa.gov/join/18f-content-designer-gs15/) (Open now through Friday, June 1, 2018 at 8:00pm)
 - [Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/) (Open now through Sunday, June 3, 2018 at 11:59pm EDT)
 
