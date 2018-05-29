@@ -1,7 +1,7 @@
 ---
 layout: base
 title: User Experience Designer
-permalink: /join/18f-user-experience-designer-gs15/ 
+permalink: /join/18f-user-experience-designer-gs15-closed/ 
  
 subnav:
   - text: Role summary
