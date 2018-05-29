@@ -41,7 +41,13 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 
 ### Upcoming Position
-- [Cloud Adoption Lead](https://join.tts.gsa.gov/join/upcoming-CoE-cloud-adoption-lead/)
+- [Cloud Adoption Lead](https://join.tts.gsa.gov/join/upcoming-coe-cloud-adoption-lead/)
+- [Customer Experience Lead](https://join.tts.gsa.gov/join/upcoming-coe-customer-experience-lead/)
+- [Contact Center Optimization Lead](https://join.tts.gsa.gov/join/upcoming-coe-contact-center-optimization-lead/)
+- [Infrastructure Optimization Lead](https://join.tts.gsa.gov/join/upcoming-coe-infrastructure-optimization-lead/)
+- [Product Manager](https://join.tts.gsa.gov/join/upcoming-18f-product-manager/)
+- [Consulting Software Engineer](https://join.tts.gsa.gov/join/upcoming-18f-consulting-software-engineer/)
+
 
 
 ### Open Positions
