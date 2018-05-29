@@ -14,8 +14,7 @@ subnav:
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Contact Center Optimization 
 Lead (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to 
-perform the role well. **If you are interested in this role please reach out to Amanda Schonfeld at 
-[jointts@gsa.gov](mailto:jointts@gsa.gov)**
+perform the role well. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSft7yLIFYAgxYU9W0FOf2qlxgHy6kZ84aXAMG4R6H3_ra-Ilg/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
 - [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#basic-information)
