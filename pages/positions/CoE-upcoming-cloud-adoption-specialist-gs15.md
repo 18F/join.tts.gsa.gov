@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Upcoming Role - CoE Cloud Adoption Lead
-permalink: join/upcoming-CoE-cloud-adoption-lead/ 
+title: Upcoming Role - CoE Cloud Adoption Specialist
+permalink: join/upcoming-CoE-cloud-adoption-specialist/ 
  
 subnav:
  - text: Basic information
@@ -14,8 +14,7 @@ subnav:
    href: "#how-to-apply"
 ---
 
-The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Cloud Adoption Lead (GS15). This page
-includes basic information about the role, the role summary and key objectives needed in order to perform the role well. 
+The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Cloud Adoption Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well. 
 If you are interested in learning more about this role please reach out to Amanda Schonfeld at 
 [jointts@gsa.gov](mailto:jointts@gsa.gov)
 
@@ -56,22 +55,18 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ## Role Summary: 
 
-### Cloud Adoption Lead (GS15)
+### Cloud Adoption Specialist (GS15)
 
 Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Lead is to help those agencies that have 
 come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and 
-the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner
-agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud 
-adoption across the enterprise.
+the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
 
 The key experience requirement for this position is leading organizational strategy and change related to migration to cloud
 environments. You should have strong knowledge of public clouds (Amazon Web Services (AWS) and/or Microsoft Azure), Redhat,
 VMWare and federal compliance requirements in server configuration, tool development, and access controls.
 
 No one can be equally expert at each phase of the cloud adoption process, but we expect a working knowledge of legacy 
-infrastructure configurations, data migrations strategies (including SnapMirror, Storage Area Network replication, Powershell,
-and Service Management Automation), security best practices, post-migration testing, debugging and systems analysis skills,
-and virtualization and containerization.
+infrastructure configurations, data migrations strategies (including SnapMirror, Storage Area Network replication, Powershell, and Service Management Automation), security best practices, post-migration testing, debugging and systems analysis skills, and virtualization and containerization.
 
 <div class="paragraph"><p><br>
 <br></p></div>
