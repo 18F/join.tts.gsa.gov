@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Upcoming Role - CoE Customer Experience Lead
-permalink: join/upcoming-coe-customer-experience-lead/ 
+title: Upcoming Role - CoE Customer Experience Specialist
+permalink: join/upcoming-coe-customer-experience-specialist/ 
  
 subnav:
  - text: Basic information
@@ -12,7 +12,7 @@ subnav:
    href: "#how-to-apply"
 ---
 
-The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Customer Experience Lead 
+The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Customer Experience Specialist 
 (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.  If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSc-kk1DgbeSwbZP0ScvrTNuxH4V90FB9WHc8FVU-08KVPP-LQ/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
@@ -49,9 +49,9 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ## Role Summary: 
 
-### Customer Experience Lead (GS15)
+### Customer Experience Specialist (GS15)
 
-As a Customer Experience Lead with the IT Modernization Centers of Excellence (COE), you’ll lead the effort to help our agency partners develop a deep understanding of their users and the real problem they’re trying to solve.
+As a Customer Experience Specialist with the IT Modernization Centers of Excellence (COE), you’ll lead the effort to help our agency partners develop a deep understanding of their users and the real problem they’re trying to solve.
 
 You will drive research activities, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build and test them. You will foster best practices in user-centered design within the CoEs and across the federal government through advocacy and coaching.
 
