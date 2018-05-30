@@ -138,7 +138,7 @@ deliver with integrity, ensuring compliance at all levels.
 1800335JCOTR
 
 **Opening and closing period for this job application:**
-Tuesday, April 24, 2018 - Sunday, June 3, 2018 at 11:59pm EST
+Tuesday, April 24, 2018 - Sunday, June 24, 2018 at 11:59pm EST
 
 **Job Title:** 
 Industry Specialist
