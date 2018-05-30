@@ -29,9 +29,6 @@ subnav:
 
 ## Basic Information
 
-**Series & Grade:** 
-0301-15 
-
 **Location:** 
 Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 
