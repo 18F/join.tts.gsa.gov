@@ -19,9 +19,9 @@ If you are interested in learning more about this role please reach out to Amand
 [jointts@gsa.gov](mailto:jointts@gsa.gov)
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#basic-information)
-- [Role summary]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#role-summary)
-- [How to apply]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#how-to-apply)
+- [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#basic-information)
+- [Role summary]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#role-summary)
+- [How to apply]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#how-to-apply)
 
 
 <div class="paragraph"><p><br>
@@ -33,9 +33,7 @@ If you are interested in learning more about this role please reach out to Amand
 The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve 
 the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT 
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Cloud Adoption team is looking to 
-hire a Cloud Adoption Lead.  This team assists with the analysis of current systems and applications to provide recommendations 
-for planning migration to the cloud, including balancing tactical “lift and shift” imperatives with more strategic “fix and 
-shift” possibilities.
+hire a Cloud Adoption Specialist.  This team assists with the analysis of current systems and applications to provide recommendations for planning migration to the cloud, including balancing tactical “lift and shift” imperatives with more strategic “fix and shift” possibilities.
 
 **Series & Grade:** 
 0301-15 
@@ -57,9 +55,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### Cloud Adoption Specialist (GS15)
 
-Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Lead is to help those agencies that have 
-come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and 
-the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
+Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Specialist is to help those agencies that have come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions. By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
 
 The key experience requirement for this position is leading organizational strategy and change related to migration to cloud
 environments. You should have strong knowledge of public clouds (Amazon Web Services (AWS) and/or Microsoft Azure), Redhat,
