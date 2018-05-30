@@ -50,7 +50,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ## Role Summary: 
 
-### Cloud Adoption Specialist (GS15)
+### Contact Center Optimization Specialist (GS15)
 
 We are looking for an Contact Center Optimization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improved the capabilities and services of our partner 
 agencies.
