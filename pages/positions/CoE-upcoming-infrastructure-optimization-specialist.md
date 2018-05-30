@@ -12,13 +12,12 @@ subnav:
    href: "#how-to-apply"
 ---
 
-The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Infrastructure Optimization Lead 
-(GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.  If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-4Q76jPA-U1sJcffA192fJAXLdT870ozUqSNuiJgBWJ-qLA/viewform?usp=sf_link).
+The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Infrastructure Optimization Specialist(GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.  If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-4Q76jPA-U1sJcffA192fJAXLdT870ozUqSNuiJgBWJ-qLA/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-lead/#basic-information)
-- [Role summary]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-lead/#role-summary)
-- [How to apply]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-lead/#how-to-apply)
+- [Basic information]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-specialist/#basic-information)
+- [Role summary]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-specialist/#role-summary)
+- [How to apply]({{site.baseurl}}/join/upcoming-CoE-infrastructure-optimization-specialist/#how-to-apply)
 
 
 <div class="paragraph"><p><br>
@@ -30,7 +29,7 @@ The TTS Centers of Excellence (CoE) office is looking for someone to join their 
 The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve 
 the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT 
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Infrastructure Optimization team is 
-looking to hire a Infrastructure Optimization Lead. This team assist agencies with the development of a unified and 
+looking to hire a Infrastructure Optimization Specialist. This team assist agencies with the development of a unified and 
 optimized IT infrastructure, leveraging federally owned data centers, cloud computing services, and commercial data centers 
 (e.g. co-location).
 
@@ -52,9 +51,9 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ## Role Summary: 
 
-### Infrastructure Optimization Lead (GS15)
+### Infrastructure Optimization Specialist (GS15)
 
-We are looking for an Infrastructure Optimization lead to join the IT Modernization Centers of Excellence (COE) to help develop the capabilities and services of our partner agencies.
+We are looking for an Infrastructure Optimization Specialist to join the IT Modernization Centers of Excellence (COE) to help develop the capabilities and services of our partner agencies.
 
 In collaboration with agency stakeholders, you will be providing the technical leadership for the design, planning, and delivery of key infrastructure modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and capital efficiency of their IT infrastructure and customer delivery services.
 
