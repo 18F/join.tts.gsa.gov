@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Upcoming Role - CoE Contact Center Optimization Lead
-permalink: join/upcoming-coe-contact-center-optimization-lead/ 
+title: Upcoming Role - CoE Contact Center Optimization Specialist
+permalink: join/upcoming-coe-contact-center-optimization-specialist/ 
  
 subnav:
  - text: Basic information
@@ -13,13 +13,12 @@ subnav:
 ---
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Contact Center Optimization 
-Lead (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to 
-perform the role well. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSft7yLIFYAgxYU9W0FOf2qlxgHy6kZ84aXAMG4R6H3_ra-Ilg/viewform?usp=sf_link).
+Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSft7yLIFYAgxYU9W0FOf2qlxgHy6kZ84aXAMG4R6H3_ra-Ilg/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#basic-information)
-- [Role summary]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#role-summary)
-- [How to apply]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-lead/#how-to-apply)
+- [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#basic-information)
+- [Role summary]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#role-summary)
+- [How to apply]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#how-to-apply)
 
 
 <div class="paragraph"><p><br>
@@ -31,10 +30,7 @@ perform the role well. If you would like to learn more or if you'd like to be no
 The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve 
 the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT 
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Contact Center team is looking to 
-hire a Contact Center Optimization Lead.  Through conducting best practice research, the Contact Center CoE is developing a 
-data-driven strategy leveraging proven practices and lessons learned from both public and private sector organizations. The 
-goal is to establish a repeatable methodology to help agencies improve how they deliver services and interact with their 
-citizens.
+hire a Contact Center Optimization Specialist.  Through conducting best practice research, the Contact Center CoE is developing a data-driven strategy leveraging proven practices and lessons learned from both public and private sector organizations. The goal is to establish a repeatable methodology to help agencies improve how they deliver services and interact with their citizens.
 
 **Series & Grade:** 
 0301-15 
@@ -54,16 +50,12 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ## Role Summary: 
 
-### Cloud Adoption Lead (GS15)
+### Cloud Adoption Specialist (GS15)
 
-We are looking for an Contact Center Optimization lead to join the Technology Transformation Service (TTS) as part of the 
-IT Modernization Centers of Excellence (COE)  to help develop and improved the capabilities and services of our partner 
+We are looking for an Contact Center Optimization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improved the capabilities and services of our partner 
 agencies.
 
-As an expert contact center solutions architect well versed in multi-channel technologies and platforms, you will collaborate
-with agency partners to design, plan, and delivery on key contact center and customer experience modernization strategies
-that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT 
-infrastructure and customer experience services.
+As an expert contact center solutions architect well versed in multi-channel technologies and platforms, you will collaborate with agency partners to design, plan, and delivery on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT infrastructure and customer experience services.
 
 
 <div class="paragraph"><p><br>
@@ -104,8 +96,6 @@ without assistance.
 <div class="paragraph"><p><br>
 <br></p></div>
 
-<div class="paragraph"><p><br>
-<br></p></div>
 
 
 ## How To Apply
