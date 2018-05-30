@@ -31,9 +31,6 @@ The Centers of Excellence (CoE) is an office within TTS that was created to acce
 the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT 
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Customer Experience Center of Excellence (CoE) demonstrates the business value of customer experience as a discipline, works with agencies to develop a better understanding of their customers and their needs and helps translate those findings into actions that create outstanding experiences.
 
-**Series & Grade:** 
-0301-15 
-
 **Location:** 
 Washington, DC
 
