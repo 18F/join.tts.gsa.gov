@@ -35,9 +35,6 @@ the customer experience and reduce legacy IT spending across the government. It 
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Cloud Adoption team is looking to 
 hire a Cloud Adoption Specialist.  This team assists with the analysis of current systems and applications to provide recommendations for planning migration to the cloud, including balancing tactical “lift and shift” imperatives with more strategic “fix and shift” possibilities.
 
-**Series & Grade:** 
-0301-15 
-
 **Location:** 
 Washington, DC
 
