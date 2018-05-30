@@ -32,9 +32,6 @@ the customer experience and reduce legacy IT spending across the government. It 
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Contact Center team is looking to 
 hire a Contact Center Optimization Specialist.  Through conducting best practice research, the Contact Center CoE is developing a data-driven strategy leveraging proven practices and lessons learned from both public and private sector organizations. The goal is to establish a repeatable methodology to help agencies improve how they deliver services and interact with their citizens.
 
-**Series & Grade:** 
-0301-15 
-
 **Location:** 
 Washington, DC
 
