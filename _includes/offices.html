@@ -1,0 +1,7 @@
+<ul class="offices">
+  {% for office in site.data.offices %}
+    <li class="office">
+      <a href="tts-offices/#{{office.anchor}}" class="usa-button">{{ office.name }}</a>
+    </li>
+  {% endfor %}
+  </ul>
