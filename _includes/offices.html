@@ -1,7 +1,7 @@
-<div class="offices usa-grid">
+<ul class="offices">
   {% for office in site.data.offices %}
-    <div class="office usa-width-one-third">
+    <li class="office">
       <a href="tts-offices/#{{office.anchor}}" class="usa-button">{{ office.name }}</a>
-    </div>
+    </li>
   {% endfor %}
-</div>
+  </ul>

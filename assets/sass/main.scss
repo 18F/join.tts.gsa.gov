@@ -315,13 +315,10 @@ $image-path: '../vendor/uswds/img';
 }
 
 .offices {
+  list-style-type: none;
   margin-bottom: 20px;
 }
 .office {
-  margin-bottom: 10px;
-  margin-right: 10px;
-
-  a {
-    width: 100%;
-  }
+  float: left;
+  margin-right: 0.5em;
 }
