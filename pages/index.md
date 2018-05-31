@@ -23,20 +23,10 @@ Our teams work together to provide the support, authorities, and assurances that
 
 ## Offices of TTS
 
-- [TTS Front Office](https://join.tts.gsa.gov/tts-offices/#tts-front-office)
-- [Centers of Excellence](https://join.tts.gsa.gov/tts-offices/#centers-of-excellence)
-- [18F](https://join.tts.gsa.gov/tts-offices/#office-of-18f)
-- [Office of Products & Programs](https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs)
-- [Office of Operations](https://join.tts.gsa.gov/tts-offices/#office-of-operations)
-- [Office of Acquisitions](https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions)
-- [Presidential Innovation Fellows](https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows)
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
+{% include offices.html %}
 
 ## Join us
- 
+
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
 
 
