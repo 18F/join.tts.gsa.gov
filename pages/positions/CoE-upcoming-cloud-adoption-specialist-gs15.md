@@ -52,57 +52,45 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### Cloud Adoption Specialist (GS15)
 
-Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Specialist is to help those agencies that have come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions. By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
+Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Specialist is to help those agencies that have come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
 
-The key experience requirement for this position is leading organizational strategy and change related to migration to cloud
-environments. You should have strong knowledge of public clouds (Amazon Web Services (AWS) and/or Microsoft Azure), Redhat,
-VMWare and federal compliance requirements in server configuration, tool development, and access controls.
+As a Cloud Adoption Specialist, you’ll need experience leading organizational strategy and change related to migration to cloud environments. You should have strong knowledge of public clouds like Amazon Web Services (AWS),  Microsoft Azure, Redhat or VMWare as well as a firm grasp on federal compliance requirements in server configuration, tool development and access controls.
 
-No one can be equally expert at each phase of the cloud adoption process, but we expect a working knowledge of legacy 
-infrastructure configurations, data migrations strategies (including SnapMirror, Storage Area Network replication, Powershell, and Service Management Automation), security best practices, post-migration testing, debugging and systems analysis skills, and virtualization and containerization.
+No one can be equally expert on all phases of the cloud adoption process, but we expect a working knowledge of legacy infrastructure configurations, data migrations strategies (including SnapMirror, Storage Area Network replication, Powershell, and Service Management Automation), security best practices, post-migration testing, debugging and systems analysis skills, and virtualization and containerization.
+
 
 <div class="paragraph"><p><br>
 <br></p></div>
 
 ## Key Objectives
 
-### Key objective #1: You’ll apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
+### Key objective #1: You will help federal agencies develop and execute cloud migration apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
 
-- Hold yourself, your team, and the vendors you work with accountable for measurable, high-quality, timely, and 
-cost-effective results.
-- Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes.
-- Assist your agency partners through the change management process of cloud  adoption with the specific ability to work 
-through human capital planning challenges.
-- Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with 
-migration activities. 
-- Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or 
-co-location facility.
-- Make well-informed, effective, and timely decisions.
-- Identify and analyze problems in a constructive manner.
-- Explain technical issues and concepts clearly to both technical and non-technical audiences.
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
+- Drive planning and delivery by utilizing agile tools such as product roadmaps, backlogs, measurable success criteria, and write user stories.
+- Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with migration activities.
+- Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or co-location facility.
 - Engage in the solicitation, evaluation and selection and management of external vendors.
-- Drive planning and delivery by utilizing agile tools such as product roadmaps, backlogs, measurable success criteria, and 
-write user stories.
+- Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
 
 
 
-### Key objective #2: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
-- Explain the product to people who have varying levels of technical knowledge — always meet the client where they’re at. 
-- Express empathy through the long compliance and security processes.  
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the partner’s needs.
-- Serve as a liaison between the clients and the team: Provide client feedback to the team, enabling the team to make 
-necessary changes to product performance or presentation.
+### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 
-
-### Key objective #3: Translate difficult technical terms and concepts so that they’re accessible to all audiences.
-
-- Present the technical details of a product in such a manner that clients can purchase the product and start using it 
-without assistance. 
-- Communicate clearly, calmly, and concisely in all situations. 
+- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
+- Deliver educational workshops to accelerate learning and adoption of agile principles and practices
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
+
+
+### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
+
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+- Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
+- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
 
 <div class="paragraph"><p><br>
