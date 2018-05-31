@@ -18,6 +18,12 @@ To work on the site locally:
     bundle exec jekyll serve
     ```
 
+1. In another terminal, run the asset building.
+
+    ```sh
+    gulp watch
+    ```
+
 1. Open http://127.0.0.1:4000/.
 
 # Public domain

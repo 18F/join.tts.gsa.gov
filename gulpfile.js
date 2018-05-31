@@ -28,7 +28,7 @@ gulp.task('sass', () => {
     .pipe(gulp.dest('./assets/css'));
 });
 
-gulp.task('watch', ['default'], () => {
+gulp.task('watch', () => {
   gulp.watch('./assets/sass/**/*.scss', ['sass']);
 });
 
