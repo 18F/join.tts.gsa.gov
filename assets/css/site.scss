@@ -1,0 +1,20 @@
+---
+---
+
+// only show on narrow screens
+.usa-nav {
+  display: none;
+
+  &.is-visible {
+    display: flex;
+  }
+}
+
+.offices {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+.office {
+  float: left;
+  margin-right: 0.5em;
+}
