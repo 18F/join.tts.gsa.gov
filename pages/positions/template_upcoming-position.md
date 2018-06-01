@@ -19,10 +19,10 @@ This role will be open for application on **Monday, DATE through DATE at 8:00pm 
 at <https://join.tts.gsa.gov> during this application window.
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/PERMALINK/#basic-information)
-- [Role summary]({{site.baseurl}}/join/PERMALINK/#role-summary)
-- [Qualifications]({{site.baseurl}}/jPERMALINK/#qualifications)
-- [How to apply]({{site.baseurl}}/PERMALINK/#how-to-apply)
+- [Basic information](#basic-information)
+- [Role summary](#role-summary)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
 
 
 <div class="paragraph"><p><br>
