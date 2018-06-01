@@ -1,5 +1,7 @@
 # Usage
 
+This site is built on the [uswds-jekyll](https://github.com/18F/uswds-jekyll) theme, so you'll find configuration information there.
+
 To work on the site locally:
 
 1. Install Ruby.
