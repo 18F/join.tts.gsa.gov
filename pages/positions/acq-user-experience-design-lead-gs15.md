@@ -41,9 +41,6 @@ As a UX design lead, you’ll work as part of a focused, cross-functional team o
 
 If you believe that the government can — and should — buy digital services with a focus on the user, this is the position for you.
 
-
-
-
 ## Key Objectives
 
 ### Objective #1: Demonstrate excellence in the design research discipline, while grasping the core questions and responsibilities of at least one other UX discipline.
@@ -53,7 +50,6 @@ No one can be equally expert in everything, but we expect expert skills in **at 
 - **Information architecture and content design:** Organize and structure complex information to help diverse audiences easily find what they need.
 - **Visual design:** Define the graphic treatment of software interface elements.
 
-
 Successful UX design leads:
 
 - Zoom in and out. Generate innovative, high-level product strategies as well as the practical project steps and considerations to get there. Be visionary in objective, but pragmatic in approach.
@@ -62,8 +58,6 @@ Successful UX design leads:
 - Ensure delivery of whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, or interpretive dance.
 - Create written materials and visual presentations that are accessible to non-experts but that are legally and technically accurate.
 - Incorporate UX into agile development sprints, coordinating with content, development, and product management roles.
-
-
 
 ### Objective #2: Coach and mentor others in the discipline of UX design.
 Successful UX design leads:
@@ -165,13 +159,11 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
-
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
 - Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.- Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
-
 
 ## Duties
 Typical duties for the fellow include but are not limited to:
@@ -182,8 +174,6 @@ Typical duties for the fellow include but are not limited to:
 - Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
 - Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
-
-
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -200,7 +190,6 @@ You will be scored based on a review of your application materials, measuring yo
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
-
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
@@ -214,7 +203,6 @@ To qualify, you must have one year of specialized experience equivalent to the G
 - Integrating user research and screen interaction design into agile development sprints, coordinating with development and product management teams on digital procurement projects.
 - Conducting research, design and prototyping using methods including card sorting, tree jack testing, findability, usability testing, paper, wireframes, site maps, flowcharts, storyboards or Invision.
 - Building meaningful relationships with customers or partners to help them understand and embrace user centered, iterative approach to understanding problems and building solutions.
-
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 

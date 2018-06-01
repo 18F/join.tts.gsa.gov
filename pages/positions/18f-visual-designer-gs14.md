@@ -36,11 +36,7 @@ We’re hiring a Visual Designer for 18F at the GS-14 level to help us build ama
 - [Other information](#other-information)
 - [What to expect](#what-to-expect)
 
-
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Role Summary:
 
@@ -51,10 +47,6 @@ Visual designers on the experience design team at 18F craft highly usable and be
 Visual designers will foster best practices in user-centered visual design systems within 18F/TTS and across the federal government through product delivery, advocacy, and coaching.
 
 We're looking for candidates who have visual identity and design system experience along with a background in at least one other user-centered design discipline such as communications/content design, front end design, interaction design, or service design on digital teams that practice agile or iterative delivery.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -72,7 +64,6 @@ We're looking for candidates who have visual identity and design system experien
 - Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools.
 - Uphold our team values of being clear, concise, inclusive, curious, and honest — in both your designs and daily collaboration.
 
-
 ### Objective #3: Contribute to the continued success of the visual design team and shared resources.
 - Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
 - Contribute to team-wide resources and training materials, including tutorials, guides, presentations, and design toolkits.
@@ -81,10 +72,6 @@ We're looking for candidates who have visual identity and design system experien
 - Learn about accessible and inclusive visual design practices and evangelize them throughout your work and partnerships.
 - Promote the practice of visual design in workshops, office hours, brown bags, and design-related events.
 - Write and publish conversational blog posts to raise awareness about the team’s work and promote the 18F brand.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Basic Information
 
@@ -106,7 +93,6 @@ GS-14
 **Salary Range:** Base Salary GS-14 - $89,370.00 to $ 116,181.00
 
 _For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
-
 
 **Location:**
 Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
@@ -134,9 +120,6 @@ Full time
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Job Summary
 
 This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
@@ -144,7 +127,6 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
-
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -160,9 +142,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -171,9 +150,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
@@ -181,20 +157,12 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Duties
 - Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward-thinking design and development principles to product or services development, delivery and program management, such as lean startup, user-centered design, and agile development;
 - Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions;
 - Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences;
 - Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services, leading to their adoption across citizen and business-facing government services;
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles.
-
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -214,10 +182,6 @@ If found to be eligible and at least minimally qualified for the position, your 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Qualifications
 
@@ -241,9 +205,6 @@ Qualification determinations cannot be made when resumes do not include the requ
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## How To Apply
 

@@ -24,11 +24,6 @@ The TTS Centers of Excellence (CoE) office is looking for someone to join their 
 - [Role summary](#role-summary)
 - [How to apply](#how-to-apply)
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Basic Information
 
 The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve
@@ -45,10 +40,6 @@ Base salary GS-15 - $134,789 to $164,200
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Role Summary:
 
 ### Cloud Adoption Specialist (GS15)
@@ -58,10 +49,6 @@ Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoptio
 As a Cloud Adoption Specialist, you’ll need experience leading organizational strategy and change related to migration to cloud environments. You should have strong knowledge of public clouds like Amazon Web Services (AWS),  Microsoft Azure, Redhat or VMWare as well as a firm grasp on federal compliance requirements in server configuration, tool development and access controls.
 
 No one can be equally expert on all phases of the cloud adoption process, but we expect a working knowledge of legacy infrastructure configurations, data migrations strategies (including SnapMirror, Storage Area Network replication, Powershell, and Service Management Automation), security best practices, post-migration testing, debugging and systems analysis skills, and virtualization and containerization.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -73,9 +60,6 @@ No one can be equally expert on all phases of the cloud adoption process, but we
 - Engage in the solicitation, evaluation and selection and management of external vendors.
 - Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
 
-
-
-
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
@@ -84,7 +68,6 @@ No one can be equally expert on all phases of the cloud adoption process, but we
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
-
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
@@ -92,11 +75,6 @@ No one can be equally expert on all phases of the cloud adoption process, but we
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 
 ## How To Apply
 

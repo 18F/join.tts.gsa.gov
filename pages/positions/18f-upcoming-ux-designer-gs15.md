@@ -23,11 +23,6 @@ subnav:
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Basic Information
 
 **Location:**
@@ -44,12 +39,6 @@ All United States citizens and nationals (residents of American Samoa and Swains
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Role Summary:
 
 ### User Experience Designer (GS15)
@@ -61,9 +50,6 @@ UX designers should have deep strength in design research (both generative and e
 As a UX designer, you’ll work in cross-functional teams of experts in design, product strategy, technical architecture, software engineering, data science, and procurement. Besides building useful and usable digital services, part of your job will be helping teams improve their user-centered design practice, and helping teams without those practices get started.
 
 If you are committed to improving government services by focusing on the people who need them most, this is the position for you.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -103,9 +89,6 @@ Successful UX designers:
 - Build inclusive, respectful partnerships with diverse groups of people.
 - Demonstrate genuine interest in the day-to-day activities that keep our government running.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Qualifications
 
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general recommendations for a federal style resume.
@@ -121,12 +104,6 @@ This experience must include ALL of the following:
 
 - Managerial or leadership experience **either** in large, complex organizations (either public sector institutions, private corporations, or non-profits) or in highly regulated domains **or** in a highly bureaucratic environment.
 
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Evaluations
 
 We will use a method called Category Rating to assess your application.
@@ -141,18 +118,11 @@ You will be scored based on a review of your application materials, measuring yo
 - **Teamwork & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships.
 - **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact driven environment
 
-
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 
 ## How To Apply
 

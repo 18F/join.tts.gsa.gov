@@ -39,11 +39,7 @@ at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 - [Other information](#other-information)
 - [What to expect](#what-to-expect)
 
-
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Role Summary:
 
@@ -60,10 +56,6 @@ We're looking for senior-level candidates who have consulting experience along w
 or strategy discipline such as digital strategy, service design, user experience design, content design/strategy, user
 research, product or software development. Experience in an agile development environment a plus.
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Objectives
 
 ### Objective #1: Lead small, cross-functional project teams that define the partner’s problem
@@ -75,7 +67,6 @@ workshops, and analytics research.
 steer the project in the right direction.
 - Create artifacts to communicate what you learn in a way that resonates with our agency partners.
 
-
 ### Objective 2: Deliver recommendations that frame next steps
 - Give agency partners and peers the advice they need to hear over what they want to hear, in a manner that respects their
 intelligence and experience.
@@ -84,7 +75,6 @@ intelligence and experience.
 - Help agency partners tell their own story within their organization.
 - Take a position on what needs to happen in order for a project to be set up for success, and communicate this position
 in a way that’s easy for stakeholders to understand.
-
 
 ### Objective #3: Model the behaviors we want to see partners adopt
 - Teach agency teams how to take risks and validate ideas.
@@ -100,12 +90,6 @@ in a way that’s easy for stakeholders to understand.
 - Share your work in an unfinished state and give peer feedback in critique sessions.
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual
 differences.
-
-
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Basic Information
 
@@ -154,9 +138,6 @@ Full time
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Job Summary
 
 This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools
@@ -188,9 +169,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -199,18 +177,12 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
 - Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Duties
 - Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward ­
@@ -225,10 +197,6 @@ services, leading to their adoption across citizen and business­ facing governm
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles;
 - Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving
 complex and esoteric challenges.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -254,10 +222,6 @@ If your resume does not support your possession of the competencies listed above
 place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Qualifications
 
@@ -288,9 +252,6 @@ For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## How To Apply
 
 Submit a complete online application prior to 11:59 pm Eastern Time on the closing date of the posting. Please fill out
@@ -299,7 +260,6 @@ all applicable fields.
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLScnjWfF1WdddBlkXkHiCWqrGxvI-zeGScm80-DjdjEheXIATw/viewform">Click here to apply</a>
 </section>
-
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email Elizabeth Scott
 at** [jointts@gsa.gov](mailto:jointts@gsa.gov).

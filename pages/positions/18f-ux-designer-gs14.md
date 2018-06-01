@@ -39,11 +39,7 @@ at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 - [Other information](#other-information)
 - [What to expect](#what-to-expect)
 
-
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Role Summary:
 
@@ -62,10 +58,6 @@ will be helping teams improve their user-centered design practice, and helping t
 
 If you are committed to improving government services by focusing on the people who need them most, this is the position
 for you.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -93,7 +85,6 @@ managers to achieve a strategic vision.
 - Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
 Commit to making what we build fully accessible to the people we serve.
 
-
 ### Objective #2: Advance UX practice
 
 Successful UX Designers:
@@ -103,7 +94,6 @@ Successful UX Designers:
 - Share knowledge, techniques, tools, patterns, and expert advice with colleagues, partners, and the public.
 - Promote empathy not just for members of the public, but also our partners across the government and our co-workers.
 
-
 ### Objective #3: Work effectively in the federal government
 
 Successful UX Designers:
@@ -111,10 +101,6 @@ Successful UX Designers:
 - Cooperatively negotiate disagreements and mediate compromises.
 - Build inclusive, respectful partnerships with diverse groups of people.
 - Demonstrate genuine interest in the day-to-day activities that keep our government running.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Basic Information
 
@@ -162,9 +148,6 @@ Full time
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Job Summary
 
 This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools
@@ -181,7 +164,6 @@ policy, and programmatic guidance to government.
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology
 Transformation Service (TTS).
 
-
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
@@ -196,9 +178,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -206,9 +185,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -218,9 +194,6 @@ Homeland Security’s e-Verify system for this.
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your
 financial interest and this position.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Duties
 - Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward-thinking
@@ -234,10 +207,6 @@ technical symposia and/or conferences;
 leading to their adoption across citizen and business-­facing government services;
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; and
 - Performing other related duties, as assigned.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -264,10 +233,6 @@ place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Qualifications
 
 To qualify, you must have one year of specialized experience equivalent to the GS-13 in the Federal service.
@@ -290,9 +255,6 @@ this information may result in disqualification.
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## How To Apply
 

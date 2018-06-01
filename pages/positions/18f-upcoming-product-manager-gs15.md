@@ -23,11 +23,6 @@ subnav:
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Basic Information
 
 **Location:**
@@ -44,12 +39,6 @@ All United States citizens and nationals (residents of American Samoa and Swains
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Role Summary:
 
 ### Product Manager GS-15
@@ -62,9 +51,6 @@ Product managers on our team are:
 - Decisive leaders who know how to motivate cross-functional teams to build the right thing.
 - Comfortable working in a consulting capacity as well as running a product directly.
 - Empathetic coaches, mentors, and advocates who help partner agency staff develop the skills to manage their own products.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -82,7 +68,6 @@ Successful product managers at 18F:
 - Energize and motivate the team by recognizing successes and learning from failures.
 - Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508.
 
-
 ### Objective #2: Work with agency partners to make sure they’re set up for success
 
 As a product manager at 18F, your job isn’t to deliver software; your job is to create sustainable outcomes that benefit the public. You’ll help your partners adopt a modern product development mindset and make sure they have the right team to sustain their product once 18F’s engagement with them is done. You’ll also coach and mentor agency staff, helping them develop into capable product managers in their own right.
@@ -98,7 +83,6 @@ Successful product managers at 18F:
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
 - Work with partners to develop communications strategies to sustain the product during and beyond the engagement.
 
-
 ### Objective #3: Build institutional expertise around product management
 
 As a member of 18F, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights and opinions with other product managers, contributing to our growing culture of product management. You’ll share lessons learned from your work at 18F with peers and leaders to help guide our approach to digital transformation.
@@ -111,10 +95,6 @@ Successful product managers at 18F:
 - Contribute to 18F’s culture of transparency by publishing accounts of your successes and failures.
 - Continually seek out new product management tools that could improve the way we work.
 - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems (so that we help agencies not build custom tools if not needed).
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Qualifications
 
@@ -135,11 +115,6 @@ To qualify for this role, you must have one year of specialized experience equiv
   - Experience advocating for a product vision
   - Experience applying industry standard practices
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Evaluations
 
 We will use a method called Category Rating to assess your application.
@@ -159,12 +134,6 @@ If found to be eligible and at least minimally qualified for the position, your 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 
 ## How To Apply
 

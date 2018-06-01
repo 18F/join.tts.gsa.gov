@@ -36,11 +36,7 @@ We're hiring a Content Designer for 18F at the GS-15 level to help us build amaz
 - [Other information](#other-information)
 - [What to expect](#what-to-expect)
 
-
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Role Summary:
 
@@ -54,10 +50,6 @@ The products 18F helps design and create are as varied as the ways the governmen
 
 We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, and who love to help others discover better ways of creating great content even more than they love writing it.
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Objectives
 
 ### Objective #1: Lead projects from a content perspective.
@@ -67,7 +59,6 @@ We’re looking for candidates who have delivered content iteratively, who have 
 - Navigate complex organizational relationships to bring stakeholders together around common editorial goals and priorities.
 - Give agency partners and peers advice they need to hear over what they want to hear, in a manner that respects their intelligence and experience.
 
-
 ### Objective #2: Deliver high-quality, user-centered content for agency partners.
 - Create clear, accessible, and concise content in a fast-paced, collaborative environment. Examples include landing pages, interface writing, navigation labels, notifications, research findings, and launch materials.
 - Iterate quickly by writing, editing, and collaborating on drafts.
@@ -76,17 +67,12 @@ We’re looking for candidates who have delivered content iteratively, who have 
 - Maintain consistency with our style and standards in the 18F Content Guide. Work with partner agencies to evolve their style where appropriate.
 - Uphold our team values of being clear, concise, inclusive, curious, and honest — in both your writing and daily collaboration.
 
-
 ### Objective #3: Contribute to the continued success of the content team and shared resources.
 - Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
 - Contribute to team-wide resources and training materials, including tutorials, guides, presentations, and design toolkits.
 - Recognize when practices or processes are inconsistent or no longer serve the team, and recommend a way forward to improve effectiveness or efficiency.
 - Share your work in an unfinished state and give peer feedback in weekly critique sessions and drop-in labs.
 - Promote the practice of content design in workshops, office hours, brown bags, and content-related events, and find ways to raise awareness of the content team’s work among external audiences.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Basic Information
 
@@ -108,7 +94,6 @@ GS-15
 **Salary Range:** Base salary GS-15: $105,123.00 to $136,659.00
 
 _For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
-
 
 **Location:**
 Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
@@ -134,9 +119,6 @@ Full time
 **Appointment Type:**
 Excepted Service – Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Job Summary
 
 This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
@@ -144,7 +126,6 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
-
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -160,9 +141,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -171,9 +149,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
@@ -181,15 +156,8 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Duties
 Typical duties include but are not limited to: Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward thinking design and development principles to product or services development, delivery and program management, such as lean startup, user centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government wide standards for digital services, leading to their adoption across citizen and business facing government Services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -210,10 +178,6 @@ If your resume does not support your possession of the competencies listed above
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Qualifications
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
@@ -228,15 +192,11 @@ And experience with at least **ONE** of the following:
 - **UX research**, which could include writing research plans and interview protocols, recruiting research participants, writing screeners, leading user/usability tests, synthesizing research, distilling synthesis into actionable next steps, and demonstrating a strong familiarity with both qualitative and quantitative research methodologies.
 - **Information architecture**, which could include the following activities and tools: wireframes, navigation design, data modeling, site maps, flows and other process diagrams, and findability testing via card sorts or treejack testing.
 
-
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## How To Apply
 

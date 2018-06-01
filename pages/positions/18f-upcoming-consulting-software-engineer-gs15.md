@@ -25,11 +25,6 @@ subnav:
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Basic Information
 
 **Location:**
@@ -46,12 +41,6 @@ All United States citizens and nationals (residents of American Samoa and Swains
 **Appointment Type:**
 Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
 
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Role Summary:
 
 ### Consulting Software Engineer (GS15)
@@ -62,9 +51,6 @@ This role may be perfect for you if you have the technical skills to tackle engi
 
 18F’s core languages are Ruby, Python, JavaScript, and Go. You should have strong, demonstrable experience with at least one of these languages and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Objectives
 
 ### Key objective #1: You’ll contribute high-quality, well-tested, maintainable code across an entire project lifecycle, using best practices for modern software development.
@@ -74,7 +60,6 @@ This role may be perfect for you if you have the technical skills to tackle engi
 - Take pride of ownership in all projects you touch; leave code better than you found it.
 - Contribute to documentation, tests, style fixes, accessibility, performance, security, and more.
 - Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle or by introducing tooling into an existing project, as needed.
-
 
 ### Key objective #2: You’ll positively contribute to the culture and knowledge of the engineering team, practicing and enthusiastically sharing agile methodologies throughout all stages of the project lifecycle.
 - Work within a distributed, multidisciplinary agile team by participating in constructive discussions, openly sharing knowledge, and demonstrating value for technical and non-technical contributions.
@@ -91,7 +76,6 @@ This role may be perfect for you if you have the technical skills to tackle engi
 - Identify and analyze problems in a constructive manner.
 - Explain technical issues and concepts clearly to both technical and non-technical audiences.
 
-
 ### Key objective #4: You’ll lead change, both within and outside the organization, to meet organizational goals. You’ll help establish an organizational vision and implement it in a continuously changing environment.
 - Develop new insights into situations and question conventional approaches.
 - Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts.
@@ -99,10 +83,6 @@ This role may be perfect for you if you have the technical skills to tackle engi
 - Adapt to change and quickly integrate new information.
 - Formulate and execute consistently against objectives and priorities.
 - Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Qualifications
 
@@ -129,12 +109,6 @@ ONE of the following:
   - Developing digital applications using configuration management tools
   - Developing digital applications using infrastructure automation tooling
 
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Evaluations
 
 We will use a method called Category Rating to assess your application.
@@ -149,18 +123,11 @@ You will be scored based on a review of your application materials, measuring yo
 - **Technical Strategy:** The ability to advise on technical strategy, agile development, software tools, and technical architecture.
 - **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
 
-
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 
 ## How To Apply
 

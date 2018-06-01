@@ -24,17 +24,11 @@ The TTS Centers of Excellence (CoE) office is looking for someone to join their 
 - [Role summary](#role-summary)
 - [How to apply](#how-to-apply)
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Basic Information
 
 The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve
 the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Service Delivery Analytics team is looking for a Data & Analytics Specialist to join the IT Modernization Centers of Excellence (COE) to help develop and improve the capabilities and services of our partner agencies.
-
 
 **Location:**
 Washington, DC
@@ -45,10 +39,6 @@ Base salary GS-15 - $134,789 to $164,200
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Role Summary
 
 ### Data & Analytics Specialist (GS15)
@@ -58,10 +48,6 @@ We are looking for a Data & Analytics Specialist to join the IT Modernization Ce
 The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As Service Delivery Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission.
 
 Data & Analytics Specialists should not be theoreticians, but rather practitioners in the craft of data science. You’ll also need to be able to get hands on when necessary but we often help partner agencies capitalize on their existing tools and resources or work in tandem with government contractors. It’s imperative that our Data & Analytics Specialist is dedicated to results and has genuine passion about building a sustainable data infrastructure within government. We aspire to not only help our partners solve their problems efficiently and with the ability to scale, but also help them do it in an agile way.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -81,8 +67,6 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
-
-
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
@@ -90,12 +74,6 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
-
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 
 ## How To Apply
 

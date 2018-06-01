@@ -19,9 +19,6 @@ Our teams work together to provide the support, authorities, and assurances that
 
 In [this video](https://www.youtube.com/watch?v=WURf2Z1uTaI) members of TTS share their feelings on why they love their work and being part of this amazing organization.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Offices of TTS
 
 {% include offices.html %}
@@ -30,16 +27,14 @@ In [this video](https://www.youtube.com/watch?v=WURf2Z1uTaI) members of TTS shar
 
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
 
-
 ### Upcoming Positions
+
 - [Cloud Adoption Specialist]({{site.baseurl}}/join/CoE-cloud-adoption-specialist/)
 - [Customer Experience Specialist]({{site.baseurl}}/join/coe-customer-experience-specialist/)
 - [Contact Center Optimization Specialist]({{site.baseurl}}/join/coe-contact-center-optimization-specialist/)
 - [Infrastructure Optimization Specialist]({{site.baseurl}}/join/coe-infrastructure-optimization-specialist/)
 - [Data & Analytics Specialist]({{site.baseurl}}/join/coe-data-and-analytics-specialist/)
 - [Consulting Software Engineer]({{site.baseurl}}/join/18F-consulting-software-engineer/)
-
-
 
 ### Open Positions
 

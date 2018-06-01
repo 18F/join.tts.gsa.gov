@@ -33,11 +33,7 @@ The Presidential Innovation Fellows program is now accepting applications for th
 - [Other information](#other-information)
 - [What to expect](#what-to-expect)
 
-
 **Please note: Industry Specialist is the official title for the government Position Description related to this posting.**
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Role Summary:
 
@@ -71,7 +67,6 @@ learning, cybersecurity, etc.
 emergent tools, technologies, initiatives and other resources
 - Experience delivering products or services from concept to market
 
-
 ### Approach and Methodology:
 - Expertise applying frameworks that emphasize delivery, iteration, quantitative/qualitative learnings and responsiveness
 - Expertise determining user needs, identifying market opportunities and designing and deploying solutions
@@ -98,10 +93,6 @@ Ability to know when you need to show and when you need to tell
 - Interested in building a culture within the Fellowship and taking a genuine interest in other Fellows’ work,
 including providing feedback and collaborating when appropriate
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Objectives
 
 ### Objective #1: You will assess the state of digital services provided by the Federal Government, and work to align strategies and practice; conferring with key government/private officials and top experts in the field.
@@ -110,7 +101,6 @@ including providing feedback and collaborating when appropriate
 - You will leverage your experience deploying high-quality, user centric platforms and services to lead major initiatives.
 - You will apply forward thinking design and development principles to product development and project management such as
 lean start-up, user centered design and agile.
-
 
 ### Objective #2: You will conceive/recommend projects/strategies to advance the state of the art in the specialty area.
 
@@ -126,10 +116,6 @@ technical complexity.
 overcome significant challenges resulting from complex bureaucratic environments or technically difficult problems.
 - You have a high degree of emotional intelligence, are a quick study, and intuitively know what needs to get done to
 deliver with integrity, ensuring compliance at all levels.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Basic Information
 
@@ -152,7 +138,6 @@ GS-15
 Base salary GS-15 - $134,789<br>
 _For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
-
 
 **Location:**
  Washington, DC
@@ -177,9 +162,6 @@ Full time
 
 **Appointment Type:**
 Excepted Service: 12 months and 1 day. May be extended for a maximum of 4 years total.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Job Summary
 
@@ -216,9 +198,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -226,9 +205,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -238,9 +214,6 @@ Homeland Security’s e-Verify system for this.
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your
 financial interest and this position.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Duties
 Typical duties for the Presidential Innovation Fellow include, but are not limited to:
@@ -256,10 +229,6 @@ services, leading to their adoption across citizen and business­facing governme
 - Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex
 and esoteric challenges.
 - Performs other duties, as assigned
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -288,10 +257,6 @@ place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Qualifications
 
 Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
@@ -302,7 +267,6 @@ stakeholders with disparate views through change.
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
 users; OR intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
 measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
-
 
 Experience applying technology innovation craft to the design and development of products and services.
 This experience must include **ONE** of the following:
@@ -332,9 +296,6 @@ information may result in disqualification.
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## How To Apply
 
