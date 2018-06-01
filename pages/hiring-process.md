@@ -49,9 +49,9 @@ We’re building a team that reflects the United States. We don’t discriminate
 ## How we hire
 There are three types of [hiring authorities](https://www.usajobs.gov/Help/working-in-government/service/) used by TTS: Competitive Service, Excepted Service, and Senior Executive Service. The application and hiring process will vary slightly based on the type of role you apply for.
 
-**Competitive Service:** All competitive service roles must be applied to by completing the application process at usajobs.gov. Individuals go through a competitive hiring process before being selected and appointed. This process is open to all applicants. Competitive service roles are considered “career roles,” which means they are not limited to a specific period of time or term. This hiring process may consist of a written test, an evaluation of the individual's education and experience, or an evaluation of other attributes necessary for successful performance in the position to be filled. 
+**Competitive Service:** All competitive service roles must be applied to by completing the application process at usajobs.gov. Individuals go through a competitive hiring process before being selected and appointed. This process is open to all applicants. Competitive service roles are considered “career roles,” which means they are not limited to a specific period of time or term. This hiring process may consist of a written test, an evaluation of the individual's education and experience, or an evaluation of other attributes necessary for successful performance in the position to be filled.
 
-**Excepted Service:** These roles are “not to exceed” (NTE) positions, which means they are two-year terms and can be extended once, for a total of four years of service. These roles are not required to be posted on usajobs.gov. Instead, candidates can apply via our online application. 
+**Excepted Service:** These roles are “not to exceed” (NTE) positions, which means they are two-year terms and can be extended once, for a total of four years of service. These roles are not required to be posted on usajobs.gov. Instead, candidates can apply via our online application.
 
 **Senior Executive Service (SES):** Very few of our positions are considered to be Senior Executive Service (SES) positions. These are Executive Director type roles classified above the general schedule (GS) grade 15 and can be excepted service or competitive service (see definitions above).
 
@@ -59,7 +59,7 @@ There are three types of [hiring authorities](https://www.usajobs.gov/Help/worki
 <br></p></div>
 
 ## Eligibility
-For **Competitive Service** roles: All United States citizens and nationals (residents of American Samoa and Swains Islands) are eligible to apply. 
+For **Competitive Service** roles: All United States citizens and nationals (residents of American Samoa and Swains Islands) are eligible to apply.
 
 For **Excepted Service** roles: All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be current GSA employees or contractors.
 
@@ -104,14 +104,14 @@ The [TTS Handbook](https://handbook.18f.gov/) has more information about working
 <br></p></div>
 
 ## Application
-When you apply for a role at TTS, you’ll need to submit a [government-style resume](https://join.tts.gsa.gov/hiring-process/#government-style-resumes), which includes much more detail than a private-sector resume.
+When you apply for a role at TTS, you’ll need to submit a [government-style resume]({{site.baseurl}}/hiring-process/#government-style-resumes), which includes much more detail than a private-sector resume.
 
 [Veterans’ Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx) is applied for candidates who are veterans and have claimed their veteran status.
 
 ### How we collect and review applications
-We collect applications during the period specified in the job posting. After the application window has closed (generally within 7-14 days), we review and evaluate all applications at the same time. The way we collect and review applications depends on the role and the type of hiring authority being used. 
+We collect applications during the period specified in the job posting. After the application window has closed (generally within 7-14 days), we review and evaluate all applications at the same time. The way we collect and review applications depends on the role and the type of hiring authority being used.
 
-**Competitive Service:** Applications are collected via usajobs.gov and reviewed by the General Services Administration (GSA) Human Resources team, our parent federal agency’s human resources office. 
+**Competitive Service:** Applications are collected via usajobs.gov and reviewed by the General Services Administration (GSA) Human Resources team, our parent federal agency’s human resources office.
 
 **Excepted Service:** Applications are collected via the postings within the TTS Join Page. All applications are reviewed by a panel of subject matter experts using a qualification process called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=Category-Rating). Once we’ve evaluated all applications for a particular job posting, we send all of the applications and evaluation scores to GSA Human Resources for review.
 
@@ -127,7 +127,7 @@ Unlike private-sector resumes, government-style resumes are often several pages 
 - For your most relevant, recent, or longest held position, list 8-10 bullet points about your responsibilities and accomplishments. For each prior position, you can list fewer points focusing on the information that is most relevant to the job you are applying to.
 - Don’t be afraid to use technical terminology if it’s relevant to your role or the role you are applying to but avoid acronyms and abbreviations where possible.
 - We don’t use any kind of automated screening tools, your application will be evaluated by humans who will have varying levels of familiarity with the details of the roles. Although it’s not a key-word search, better to be explicit and not assume the reader has the domain knowledge or context to “read between the lines”.
-- Quantify as much as possible (where applicable)  
+- Quantify as much as possible (where applicable)
 
 ### Sample Structure/Key Information for each position
 
@@ -174,12 +174,12 @@ _Developer for USAJobs which is a job posting and application collection portal 
 
 - Led and managed backend web development, support and deployment of USAJobs providing metrics and analytics dashboards
 - Developed new features and provided technical support solutions utilizing the Ruby on Rails framework, Postgres/PostGIS SQL, JSON and Redis while maintaining and deploying to Heroku, Amazon Web Services (AWS) cloud technologies including Relational Database Services (RDS) and Elastic Search environments
-- Partnered with departments gathering requirements to develop a joint implementation strategy, obtain access relevant agency internal data systems and data definitions and extract departmental datasets via RESTful APIs. 
+- Partnered with departments gathering requirements to develop a joint implementation strategy, obtain access relevant agency internal data systems and data definitions and extract departmental datasets via RESTful APIs.
 - During implementation process met with agency stakeholders weekly to iterate using an Agile development approach to achieve a user centric designed experience
 - Managed codebase in GitHub repository for source control, scoping technical requirements into developmental milestones, releases tagging, issue tracking and source control.
 - Assembled with sales team, database administrators, product managers, data scientists, executive leadership, enterprise architects to form cross-functional, multidisciplinary team to develop a user focused analytics dashboard delivering an insightful analytics dashboard enabling government officials to make data driven decisions
 - Automated testing of codebase using Rspec and CircleCi for continuous integration
-- Guided team members on data infrastructure to implement front end solutions and peer review code commits for potential refactorization to ensure quality 
+- Guided team members on data infrastructure to implement front end solutions and peer review code commits for potential refactorization to ensure quality
 
 
 ### Other sections to include, if applicable
