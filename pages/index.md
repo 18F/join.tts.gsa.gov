@@ -49,6 +49,6 @@ We’re looking for candidates passionate about our mission with top-notch softw
 - [Content Designer]({{site.baseurl}}/join/18f-content-designer-gs15/) (Open now through Friday, June 1, 2018 at 8:00pm)
 - [Presidential Innovation Fellow]({{site.baseurl}}/join/pif-presidential-innovation-fellow/) (Open now through Sunday, June 24, 2018 at 11:59pm EDT)
 
- **We are hiring and will be sharing information on new upcoming jobs as well as releasing new job postings frequently. Please check back or if you would like to be notified when new jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).**
+ **We are hiring and will be sharing information on new upcoming jobs as well as releasing new job postings frequently. Please check back or if you would like to be notified when new jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).**
 
 If you have any questions, please contact our Talent Team at [joinTTS@gsa.gov](mailto:jointts@gsa.gov)
