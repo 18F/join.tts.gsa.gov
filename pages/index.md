@@ -35,7 +35,7 @@ We’re looking for candidates passionate about our mission with top-notch softw
 - [Customer Experience Specialist](https://join.tts.gsa.gov/join/upcoming-coe-customer-experience-specialist/)
 - [Contact Center Optimization Specialist](https://join.tts.gsa.gov/join/upcoming-coe-contact-center-optimization-specialist/)
 - [Infrastructure Optimization Specialist](https://join.tts.gsa.gov/join/upcoming-coe-infrastructure-optimization-specialist/)
-- [Service Delivery Analytics Specialist](https://join.tts.gsa.gov/join/upcoming-coe-service-delivery-analytics-specialist/)
+- [Data & Analytics Specialist](https://join.tts.gsa.gov/join/upcoming-coe-data-and-analytics-specialist/)
 - [Product Manager](https://join.tts.gsa.gov/join/upcoming-18F-product-manager/)
 - [Consulting Software Engineer](https://join.tts.gsa.gov/join/upcoming-18F-consulting-software-engineer/)
 
