@@ -13,7 +13,7 @@ subnav:
    href: "#how-to-apply"
 ---
 
-18F will soon be accepting applications for the Product Manager (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).
+18F will soon be accepting applications for the Product Manager (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
 - [Basic information]({{site.baseurl}}/join/upcoming-18F-product-manager/#basic-information)
@@ -165,4 +165,4 @@ Within each category, veterans will receive selection priority over non-veterans
 
 
 ## How To Apply
-If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).
+If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).
