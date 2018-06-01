@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/18F/join.tts.gsa.gov.svg?style=svg&circle-token=66a2eadcbf6cdcb69800da140971211bb0c78e3a)](https://circleci.com/gh/18F/join.tts.gsa.gov)
+
 # Usage
 
 This site is built on the [uswds-jekyll](https://github.com/18F/uswds-jekyll) theme, so you'll find configuration information there.
