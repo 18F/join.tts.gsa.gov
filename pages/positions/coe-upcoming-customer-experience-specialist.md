@@ -1,18 +1,17 @@
 ---
-layout: base
 title: Upcoming Role - CoE Customer Experience Specialist
-permalink: join/upcoming-coe-customer-experience-specialist/ 
- 
+permalink: join/upcoming-coe-customer-experience-specialist/
+
 subnav:
  - text: Basic information
    href: "#basic-information"
  - text: Role summary
-   href: "#role-summary" 
+   href: "#role-summary"
  - text: How to apply
    href: "#how-to-apply"
 ---
 
-The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Customer Experience Specialist 
+The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Customer Experience Specialist
 (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.  If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSc-kk1DgbeSwbZP0ScvrTNuxH4V90FB9WHc8FVU-08KVPP-LQ/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
@@ -27,24 +26,24 @@ The TTS Centers of Excellence (CoE) office is looking for someone to join their 
 
 ## Basic Information
 
-The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve 
-the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT 
+The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve
+the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT
 Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Customer Experience Center of Excellence (CoE) demonstrates the business value of customer experience as a discipline, works with agencies to develop a better understanding of their customers and their needs and helps translate those findings into actions that create outstanding experiences.
 
-**Location:** 
+**Location:**
 Washington, DC
 
-**Salary Range:** 
+**Salary Range:**
 Base salary GS-15 - $134,789 to $164,200
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) 
+All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
 <div class="paragraph"><p><br>
 <br></p></div>
 
 
-## Role Summary: 
+## Role Summary:
 
 ### Customer Experience Specialist (GS15)
 
@@ -78,14 +77,14 @@ To be successful you’ll need consulting experience along with a background in 
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
+- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
 
-### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
+### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences

@@ -1,27 +1,20 @@
 # Usage
 
+This site is built on the [uswds-jekyll](https://github.com/18F/uswds-jekyll) theme, so you'll find configuration information there.
+
 To work on the site locally:
 
-1. Install depdendencies.
-    * NodeJS
-    * Ruby
+1. Install Ruby.
 1. Install packages.
 
     ```sh
     bundle install
-    npm install
     ```
 
 1. Run the site.
 
     ```sh
     bundle exec jekyll serve
-    ```
-
-1. In another terminal, run the asset building.
-
-    ```sh
-    gulp watch
     ```
 
 1. Open http://127.0.0.1:4000/.

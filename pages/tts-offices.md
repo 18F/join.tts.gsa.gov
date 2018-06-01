@@ -1,5 +1,4 @@
 ---
-layout: base
 title: TTS Offices
 permalink: tts-offices/
 
@@ -15,7 +14,7 @@ subnav:
   - text: Office of Acquisitions
     href: "#office-of-acquisitions"
   - text: Presidential Innovation Fellows
-    href: "#presidential-innovation-fellows"   
+    href: "#presidential-innovation-fellows"
 ---
 
 ## Intro
@@ -41,9 +40,9 @@ The IT Modernization Centers of Excellence seek to accelerate the modernization 
 
 ## Office of Operations
 
-The Office of Operations keeps TTS running smoothly and ensures that the team has the tools needed to focus on the TTS mission. The Office of Operations oversees several operational teams that support the work of TTS. 
-- **Talent:** Recruitment, tackling HR challenges, overseeing the onboarding process, navigating people operations, and hiring folks like you! 
-- **Business Operations:** Financial management, contract development, travel, and business processing services across all of TTS. 
+The Office of Operations keeps TTS running smoothly and ensures that the team has the tools needed to focus on the TTS mission. The Office of Operations oversees several operational teams that support the work of TTS.
+- **Talent:** Recruitment, tackling HR challenges, overseeing the onboarding process, navigating people operations, and hiring folks like you!
+- **Business Operations:** Financial management, contract development, travel, and business processing services across all of TTS.
 - **Governance and Compliance:** Develops guidance, ensures governance, and collects and publishes data that enables TTS to focus on high-performance and efficiency.
 
 <div class="paragraph"><p><br>
@@ -59,7 +58,7 @@ The Office of Operations keeps TTS running smoothly and ensures that the team ha
 
 ## Office of Acquisitions
 
-The Office of Acquisitions includes developers, designers, product managers, and contracting officers who believe that federal procurement can be joyful. The Office of Acquisitions helps the government become a better buyer of technology by establishing a better understanding of an agency’s problem, scoping their solicitation, and buying what they need through innovative contracting vehicles. After the award is made, the cross-functional team within the Office of Acquisitions manages the vendor relationship to ensure delivery of a high-quality product or service. The team also consults with federal, state, and local partners to help them structure acquisitions so that they can benefit from modular procurement, agile software development, and open source technology. 
+The Office of Acquisitions includes developers, designers, product managers, and contracting officers who believe that federal procurement can be joyful. The Office of Acquisitions helps the government become a better buyer of technology by establishing a better understanding of an agency’s problem, scoping their solicitation, and buying what they need through innovative contracting vehicles. After the award is made, the cross-functional team within the Office of Acquisitions manages the vendor relationship to ensure delivery of a high-quality product or service. The team also consults with federal, state, and local partners to help them structure acquisitions so that they can benefit from modular procurement, agile software development, and open source technology.
 
 <div class="paragraph"><p><br>
 <br></p></div>

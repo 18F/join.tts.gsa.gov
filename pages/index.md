@@ -1,5 +1,4 @@
 ---
-layout: base
 title:
 permalink: /
 
@@ -31,19 +30,19 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 
 ### Upcoming Position
-- [Cloud Adoption Specialist](https://join.tts.gsa.gov/join/upcoming-CoE-cloud-adoption-specialist/)
-- [Customer Experience Specialist](https://join.tts.gsa.gov/join/upcoming-coe-customer-experience-specialist/)
-- [Contact Center Optimization Specialist](https://join.tts.gsa.gov/join/upcoming-coe-contact-center-optimization-specialist/)
-- [Infrastructure Optimization Specialist](https://join.tts.gsa.gov/join/upcoming-coe-infrastructure-optimization-specialist/)
-- [Data & Analytics Specialist](https://join.tts.gsa.gov/join/upcoming-coe-data-and-analytics-specialist/)
-- [Product Manager](https://join.tts.gsa.gov/join/upcoming-18F-product-manager/)
-- [Consulting Software Engineer](https://join.tts.gsa.gov/join/upcoming-18F-consulting-software-engineer/)
+- [Cloud Adoption Specialist]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/)
+- [Customer Experience Specialist]({{site.baseurl}}/join/upcoming-coe-customer-experience-specialist/)
+- [Contact Center Optimization Specialist]({{site.baseurl}}/join/upcoming-coe-contact-center-optimization-specialist/)
+- [Infrastructure Optimization Specialist]({{site.baseurl}}/join/upcoming-coe-infrastructure-optimization-specialist/)
+- [Data & Analytics Specialist]({{site.baseurl}}/join/upcoming-coe-data-and-analytics-specialist/)
+- [Product Manager]({{site.baseurl}}/join/upcoming-18F-product-manager/)
+- [Consulting Software Engineer]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/)
 
 
 
 ### Open Positions
-- [Content Designer](https://join.tts.gsa.gov/join/18f-content-designer-gs15/) (Open now through Friday, June 1, 2018 at 8:00pm)
-- [Presidential Innovation Fellow](https://join.tts.gsa.gov/join/pif-presidential-innovation-fellow/) (Open now through Sunday, June 24, 2018 at 11:59pm EDT)
+- [Content Designer]({{site.baseurl}}/join/18f-content-designer-gs15/) (Open now through Friday, June 1, 2018 at 8:00pm)
+- [Presidential Innovation Fellow]({{site.baseurl}}/join/pif-presidential-innovation-fellow/) (Open now through Sunday, June 24, 2018 at 11:59pm EDT)
 
  **We are hiring and will be sharing information on new upcoming jobs as well as releasing new job postings frequently. Please check back or if you would like to be notified when new jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSe7k8ybQ2ZJAmmwfXMMRQytB1nrhCo2Siq7JZc3yJtF_gKyCw/viewform?usp=sf_link).**
 
