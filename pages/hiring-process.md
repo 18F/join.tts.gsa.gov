@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Hiring Process
 permalink: hiring-process/
 

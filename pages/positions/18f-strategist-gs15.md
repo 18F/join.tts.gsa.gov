@@ -1,5 +1,4 @@
 ---
-layout: base
 title: 18F Strategist
 permalink: /join/strategist-gs15-closed/
 

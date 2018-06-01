@@ -1,5 +1,4 @@
 ---
-layout: base
 title: User Experience Designer
 permalink: /join/18f-user-experience-designer-gs15-closed/
 

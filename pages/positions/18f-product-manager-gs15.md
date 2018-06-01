@@ -1,7 +1,6 @@
 ---
 title: 18F Product Manager
 permalink: /join/product-manager-gs15-closed/
-layout: base
 app_close_date: FEBRUARY 26, 2018
 
 subnav:

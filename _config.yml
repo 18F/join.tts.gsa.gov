@@ -1,16 +1,18 @@
-# OpenGraph / Twitter metadata
 title: Join the Technology Transformation Services
-small_title: Join TTS
-smallest_title: Join TTS
-description: The Technology Transformation Service’s (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people.
-name: Join the Technology Transformation Services
 
-# GA and GitHub data
+theme: uswds-jekyll
 
-repo: https://github.com/18F/join.tts.gsa.gov
-org_name: 18f
-repo_name: join.tts.gsa.gov
-uswds_path: assets/vendor/uswds
+site_width: wide
+
+# GitHub information
+# This is used for adding an edit this page link to the footer
+github:
+  organization: 18F
+  repository: join.tts.gsa.gov
+  default_branch: master
+
+# Configuration for Google Analytics, add your UA code here:
+google_analytics_ua: UA-48605964-32
 
 exclude:
 - CONTRIBUTING.md
@@ -31,17 +33,28 @@ exclude:
 - .nvmrc
 - .sass-cache
 - todo.txt
-- assets/sass
 
+# Configuration for DAP, add your agency ID here:
+# dap_agency: GSA
+
+# Uncomment to enable AnchorJS functionality on docs layout.
+# See https://github.com/bryanbraun/anchorjs for more information.
+# anchor_js_targets: [h1, h2, h3, h4, h5, h6]
+
+# To enable search, uncomment the search section
+# You will need to setup a search account with search.gov
+# https://search.usa.gov/signup
+# Your search_site_handle value is from the search.gov settings page.
+
+# search_site_handle: searchgov-site-handle
 
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "default"
+      layout: custom
+      sidenav: primary
 
-collections:
-  pages:
-    output: true
-    #permalink: /:path/
+styles:
+  - /assets/css/site.css

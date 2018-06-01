@@ -1,5 +1,4 @@
 ---
-layout: base
 title: UX Designer
 permalink: /join/18f-ux-designer-closed/
 

@@ -1,0 +1,9 @@
+# Set header title differently from the site's title (as defined in _config.yml).
+# Uncomment the following line to use the header title.
+# title: Header title
+
+usa_banner: true
+type: extended
+
+primary:
+  links: primary

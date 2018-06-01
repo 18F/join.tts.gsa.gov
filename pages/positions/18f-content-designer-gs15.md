@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Content Designer
 permalink: /join/18f-content-designer-gs15/
 

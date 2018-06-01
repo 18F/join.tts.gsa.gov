@@ -1,5 +1,4 @@
 ---
-layout: base
 title: 18F Consulting Software Engineer
 permalink: /join/consulting-software-engineer-gs15-closed/
 

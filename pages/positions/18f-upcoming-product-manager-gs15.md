@@ -1,13 +1,12 @@
 ---
-layout: base
 title: Upcoming Role - 18F Product Manager
-permalink: join/upcoming-18F-product-manager/ 
- 
+permalink: join/upcoming-18F-product-manager/
+
 subnav:
  - text: Basic information
    href: "#basic-information"
  - text: Role summary
-   href: "#role-summary" 
+   href: "#role-summary"
  - text: Qualifications
    href: "#qualifications"
  - text: How to apply
@@ -29,13 +28,13 @@ subnav:
 
 ## Basic Information
 
-**Location:** 
+**Location:**
 Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 
-**Salary Range:** 
-Base salary GS-15 - $105,123 to $136,659 
+**Salary Range:**
+Base salary GS-15 - $105,123 to $136,659
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.  
+Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors
@@ -49,7 +48,7 @@ Excepted Service – Not to exceed 2 years; may be extended for an additional 2 
 <br></p></div>
 
 
-## Role Summary: 
+## Role Summary:
 
 ### Product Manager GS-15
 
@@ -71,11 +70,11 @@ Product managers on our team are:
 
 Successful product managers at 18F:
 
-- Establish a vision and ensure all members of the 18F and partner teams have a shared understanding of product objectives, goals, and metrics. 
+- Establish a vision and ensure all members of the 18F and partner teams have a shared understanding of product objectives, goals, and metrics.
 - Analyze market demand and market fit, do competitive analysis, and guide build vs. buy or reuse approaches.
 - Create a product strategy and roadmap and develop a communications strategy supporting product goals.
 - Identify and proactively monitor and address product risks.
-- Lead a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience. 
+- Lead a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience.
 - Work with the team to set and meet quality standards for any product you build.
 - Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law.”
 - Energize and motivate the team by recognizing successes and learning from failures.
@@ -92,7 +91,7 @@ Successful product managers at 18F:
 - Help partners understand how to deliver value, rather than features, to their users.
 - Help partners navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy.
 - Coach the partner in agile, open source, and user-centered principles so they understand the value these practices bring.
-- Ensure the partner understands how to do day-to-day product management by coaching and mentoring junior product managers. 
+- Ensure the partner understands how to do day-to-day product management by coaching and mentoring junior product managers.
 - Work with partners to ensure they have the right team to continue iterating on the product beyond the engagement.
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
 - Work with partners to develop communications strategies to sustain the product during and beyond the engagement.
@@ -115,9 +114,9 @@ Successful product managers at 18F:
 <div class="paragraph"><p><br>
 <br></p></div>
 
-## Qualifications 
+## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general recommendations for a federal style resume. 
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general recommendations for a federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-14 in the Federal service.  Specialized experience is:
 
@@ -126,13 +125,13 @@ To qualify for this role, you must have one year of specialized experience equiv
   - Working as an intrapreneur measured by changes to business strategy, internal practices, or organizational culture.
 
 - Experience leading interdisciplinary product teams in the research, design and development of digital products or services. This experience must include ALL of the following:
-  - Multiple experiences product managing digital products, services, or features within a large product 
+  - Multiple experiences product managing digital products, services, or features within a large product
   - Managing complex digital products or services: for startups, legacy migrations, large integrations or large consumer products
-  - Leading a product team through research including planning, analyzing and translating 
-  - Creating and managing the product vision using qualitative or quantitative analysis 
-  - Leading teams through the adoption of new tools, technologies or methodologies 
+  - Leading a product team through research including planning, analyzing and translating
+  - Creating and managing the product vision using qualitative or quantitative analysis
+  - Leading teams through the adoption of new tools, technologies or methodologies
   - Experience advocating for a product vision
-  - Experience applying industry standard practices 
+  - Experience applying industry standard practices
 
 
 <div class="paragraph"><p><br>
@@ -141,22 +140,22 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 ## Evaluations
 
-We will use a method called Category Rating to assess your application.  
+We will use a method called Category Rating to assess your application.
 
 **Here’s how it will work:**
 
-You will be scored based on a review of your application materials, measuring your possession of each of the following competencies: 
+You will be scored based on a review of your application materials, measuring your possession of each of the following competencies:
 
-- **Communication:** Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals. 
+- **Communication:** Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals.
 - **Product Experience:** Ability to deliver the right digital product using user-centered and agile-based methodologies
-- **Leadership:**  Ability to effectively lead a cross-functional team to meet digital project/product objectives. 
+- **Leadership:**  Ability to effectively lead a cross-functional team to meet digital project/product objectives.
 - **Innovation:** Ability to apply innovative tools and technologies and to help partners make strategic & tactical decisions toward innovation.
 - **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category. 
-  
+If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
 
