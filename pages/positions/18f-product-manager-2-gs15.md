@@ -25,7 +25,7 @@ subnav:
 We're hiring a Product Manager for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/18f-product-manager//#role-summary)
+- [Role summary]({{site.baseurl}}/join/18f-product-manager/#role-summary)
 - [Basic information]({{site.baseurl}}/join/18f-product-manager/#basic-information)
 - [Requirements]({{site.baseurl}}/join/18f-product-manager/#key-requirements)
 - [Duties]({{site.baseurl}}/join/18f-product-manager/#duties)
@@ -125,7 +125,8 @@ GS15
 
 **Salary Range:** Base salary GS-15 - $105,123 to $136,659
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.
+For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to.  
+
 
 **Location:**
  Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
@@ -149,7 +150,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service – Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 <div class="paragraph"><p><br>
 <br></p></div>
@@ -272,7 +273,7 @@ For each job on your resume, provide:
 
 ## How To Apply
 
-Submit a complete online application prior to 8:00pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
+Submit a complete online application prior to 8:00pm Eastern Time on the closing date of the posting. To apply, click the link below and please fill out all applicable fields:
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/2W18A6443ePgVktq2">Click here to apply</a>
