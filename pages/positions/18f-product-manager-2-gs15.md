@@ -25,7 +25,7 @@ subnav:
 We're hiring a Product Manager for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/18f-product-manager//#role-summary)
+- [Role summary]({{site.baseurl}}/join/18f-product-manager/#role-summary)
 - [Basic information]({{site.baseurl}}/join/18f-product-manager/#basic-information)
 - [Requirements]({{site.baseurl}}/join/18f-product-manager/#key-requirements)
 - [Duties]({{site.baseurl}}/join/18f-product-manager/#duties)
@@ -109,10 +109,10 @@ Successful product managers at 18F:
 ## Basic Information
 
 **Job announcement number:**
-1800404JCOTR
+1800459JCOTR
 
 **Opening and closing period for this job application:**
-Monday, April 23, 2018 to Friday, April 27, 2018 at 11:59pm Eastern Time (close)
+Monday, June 4, 2018 to Friday, June 8, 2018 at 8:00pm Eastern Time (close)
 
 **Job Title:**
 Innovation Specialist
@@ -125,13 +125,14 @@ GS15
 
 **Salary Range:** Base salary GS-15 - $105,123 to $136,659
 
-Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected.
+For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to.  
+
 
 **Location:**
  Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 
 **Number of vacancies:**
-3
+1
 
 **Supervisory status:**
 No
@@ -149,7 +150,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service – Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 <div class="paragraph"><p><br>
 <br></p></div>
@@ -240,18 +241,26 @@ Within each category, veterans will receive selection priority over non-veterans
 ## Qualifications
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
-- Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must include ALL of the following:
-  - Experience managing dependencies and/or coordinating joint releases with partner teams to achieve organizational or project objectives
-  - Working as an intrapreneur measured by changes to business strategy, internal practices, or organizational culture.
+- Experience leading interdisciplinary product teams in the research, design, development and delivery of digital products or services. This experience must include **ALL** of the following:
+	 - Leading the development of multiple digital products or services, or leading the development of multiple features 		in  large products
+ 	- Creating and managing the product vision based on user research & metrics
+ 	- Leading teams through the adoption of new tools, technologies or methodologies
 
-- Experience leading interdisciplinary product teams in the research, design and development of digital products or services. This experience must include ALL of the following:
-  - Multiple experiences product managing digital products, services, or features within a large product
-  - Managing complex digital products or services: for startups, legacy migrations, large integrations or large consumer products
-  - Leading a product team through research including planning, analyzing and translating
-  - Creating and managing the product vision using qualitative or quantitative analysis
-  - Leading teams through the adoption of new tools, technologies or methodologies
-  - Experience advocating for a product vision
-  - Experience applying industry standard practices
+- Experience leading digital product or service development, from concept to delivery, within highly ambiguous or uncertain situations. This experience must include **ONE** of the following:
+ 	- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
+ 	- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
+
+- Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following: 
+	 - Developing new products or services for startups
+	 - Developing products or services for legacy migrations
+	 - Developing products or services for large integrations
+	 - Developing products, services or features for large consumer products
+
+- Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience must include **ONE** of the following:
+ 	- Developing digital products or services using experimentation based frameworks
+ 	- Developing digital products or services using iterative development methodologies
+ 	- Developing digital products or services using user-centered design and planning tools
+ 	- Developing digital products or services using continuous delivery methodologies
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
@@ -264,10 +273,10 @@ For each job on your resume, provide:
 
 ## How To Apply
 
-Submit a complete online application prior to 11:59 pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
+Submit a complete online application prior to 8:00pm Eastern Time on the closing date of the posting. To apply, click the link below and please fill out all applicable fields:
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/zb8ZA8BBJfL5aAUg2">Click here to apply</a>
+  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/2W18A6443ePgVktq2">Click here to apply</a>
 </section>
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at** [jointts@gsa.gov](mailto:jointts@gsa.gov).
@@ -285,7 +294,7 @@ Submit a complete online application prior to 11:59 pm Eastern Time on the closi
 	- If you are claiming 10-point preference or derived preference (a spouse, widow or widower, or parent of a deceased or disabled veteran), submit both of the following in addition to the DD-214:
 		- completed [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) form; and
 		- proof of your entitlement; refer to [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) for complete list.
-		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800404JCOTR”.
+		- **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800459JCOTR”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
 <div class="paragraph"><p><br>
