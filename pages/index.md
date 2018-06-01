@@ -26,12 +26,15 @@ In [this video](https://www.youtube.com/watch?v=WURf2Z1uTaI) members of TTS shar
 
 {% include offices.html %}
 
+<div class="paragraph"><p><br>
+<br></p></div>
+
 ## Join us
 
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
 
 
-### Upcoming Position
+### Upcoming Positions
 - [Cloud Adoption Specialist]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/)
 - [Customer Experience Specialist]({{site.baseurl}}/join/upcoming-coe-customer-experience-specialist/)
 - [Contact Center Optimization Specialist]({{site.baseurl}}/join/upcoming-coe-contact-center-optimization-specialist/)
