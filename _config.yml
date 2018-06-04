@@ -3,6 +3,9 @@ description: The Technology Transformation Service’s (TTS) mission is to lead 
 
 theme: uswds-jekyll
 
+plugins:
+  - jekyll-redirect-from
+
 site_width: wide
 
 # GitHub information

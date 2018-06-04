@@ -1,6 +1,8 @@
 ---
 title: Content Designer
-permalink: /join/18f-content-designer-gs15-closed/
+permalink: /join/18f-content-designer-gs15/
+redirect_from:
+  - /join/18f-content-designer-gs15-closed/
 state: closed
 
 subnav:

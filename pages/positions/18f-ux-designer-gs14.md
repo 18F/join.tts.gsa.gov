@@ -1,6 +1,8 @@
 ---
 title: UX Designer
-permalink: /join/18f-ux-designer-closed/
+permalink: /join/18f-ux-designer/
+redirect_from:
+  - /join/18f-ux-designer-closed/
 state: closed
 
 subnav:

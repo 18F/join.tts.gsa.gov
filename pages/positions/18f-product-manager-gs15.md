@@ -1,6 +1,8 @@
 ---
 title: 18F Product Manager
-permalink: /join/product-manager-gs15-closed/
+permalink: /join/product-manager-gs15/
+redirect_from:
+  - /join/product-manager-gs15-closed/
 state: closed
 app_close_date: FEBRUARY 26, 2018
 

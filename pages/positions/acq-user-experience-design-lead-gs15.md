@@ -1,6 +1,8 @@
 ---
 title: Office of Acquisition User Experience Design Lead
-permalink: /join/user-experience-design-lead-gs15-closed/
+permalink: /join/user-experience-design-lead-gs15/
+redirect_from:
+  - /join/user-experience-design-lead-gs15-closed/
 state: closed
 app_close_date: APRIL 6, 2018
 

@@ -1,6 +1,8 @@
 ---
 title: 18F Consulting Software Engineer
-permalink: /join/consulting-software-engineer-gs15-closed/
+permalink: /join/consulting-software-engineer-gs15/
+redirect_from:
+  - /join/consulting-software-engineer-gs15-closed/
 state: closed
 
 subnav:

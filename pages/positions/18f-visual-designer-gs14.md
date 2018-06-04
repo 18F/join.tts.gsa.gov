@@ -1,6 +1,8 @@
 ---
 title: Visual Designer
-permalink: /join/18f-visual-designer-closed/
+permalink: /join/18f-visual-designer/
+redirect_from:
+  - /join/18f-visual-designer-closed/
 state: closed
 
 subnav:
