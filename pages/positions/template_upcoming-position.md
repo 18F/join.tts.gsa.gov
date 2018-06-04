@@ -1,6 +1,6 @@
 ---
 title: Upcoming Role - 18F Consulting Software Engineer
-permalink: join/upcoming-OFFICE-ROLE-GS LEVEL/
+permalink: join/OFFICE-ROLE-GS LEVEL/
 
 subnav:
  - text: Basic information

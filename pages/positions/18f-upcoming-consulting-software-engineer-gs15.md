@@ -1,6 +1,8 @@
 ---
 title: Upcoming Role - 18F Consulting Software Engineer
-permalink: join/upcoming-18F-consulting-software-engineer/
+permalink: join/18F-consulting-software-engineer/
+redirect_from:
+  - /join/upcoming-18F-consulting-software-engineer/
 
 subnav:
  - text: Basic information

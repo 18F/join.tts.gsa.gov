@@ -1,6 +1,8 @@
 ---
 title: Upcoming Role - CoE Cloud Adoption Specialist
-permalink: join/upcoming-CoE-cloud-adoption-specialist/
+permalink: join/CoE-cloud-adoption-specialist/
+redirect_from:
+  - join/upcoming-CoE-cloud-adoption-specialist/
 
 subnav:
  - text: Basic information

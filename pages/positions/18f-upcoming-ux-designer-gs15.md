@@ -1,6 +1,8 @@
 ---
 title: Upcoming Role - 18F User Experience Designer
-permalink: join/upcoming-18F-user-experience-designer/
+permalink: join/18F-user-experience-designer/
+redirect_from:
+  - join/upcoming-18F-user-experience-designer/
 
 subnav:
  - text: Basic information

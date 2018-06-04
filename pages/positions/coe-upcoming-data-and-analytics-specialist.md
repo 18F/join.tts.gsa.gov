@@ -1,6 +1,8 @@
 ---
 title: Upcoming Role - CoE Data & Analytics Specialist
-permalink: join/upcoming-coe-data-and-analytics-specialist/
+permalink: join/coe-data-and-analytics-specialist/
+redirect_from:
+  - join/upcoming-coe-data-and-analytics-specialist/
 
 subnav:
  - text: Basic information
