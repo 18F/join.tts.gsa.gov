@@ -37,7 +37,6 @@ We’re looking for candidates passionate about our mission with top-notch softw
 - [Contact Center Optimization Specialist]({{site.baseurl}}/join/upcoming-coe-contact-center-optimization-specialist/)
 - [Infrastructure Optimization Specialist]({{site.baseurl}}/join/upcoming-coe-infrastructure-optimization-specialist/)
 - [Data & Analytics Specialist]({{site.baseurl}}/join/upcoming-coe-data-and-analytics-specialist/)
-- [Product Manager]({{site.baseurl}}/join/upcoming-18F-product-manager/)
 - [Consulting Software Engineer]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/)
 
 
