@@ -1,6 +1,6 @@
 ---
 title: Content Designer
-permalink: /join/18f-content-designer-gs15/
+permalink: /join/18f-content-designer-gs15-closed/
 
 subnav:
   - text: Role summary
