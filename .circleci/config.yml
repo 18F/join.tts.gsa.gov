@@ -1,0 +1,16 @@
+version: 2
+jobs:
+  build:
+    docker:
+       - image: circleci/ruby:2.5
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: bundle install
+      - run:
+          name: Build the site
+          command: jekyll build
+      - run:
+          name: Check for broken links
+          command: rake test

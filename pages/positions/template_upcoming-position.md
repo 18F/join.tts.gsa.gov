@@ -19,10 +19,10 @@ This role will be open for application on **Monday, DATE through DATE at 8:00pm 
 at <https://join.tts.gsa.gov> during this application window.
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/PERMALINK/#basic-information)
-- [Role summary]({{site.baseurl}}/join/PERMALINK/#role-summary)
-- [Qualifications]({{site.baseurl}}/jPERMALINK/#qualifications)
-- [How to apply]({{site.baseurl}}/PERMALINK/#how-to-apply)
+- [Basic information](#basic-information)
+- [Role summary](#role-summary)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
 
 
 <div class="paragraph"><p><br>
@@ -41,8 +41,7 @@ at <https://join.tts.gsa.gov> during this application window.
 Base salary  - ENTER AMOUNT
 
 Total compensation will include locality pay based on the individual's duty location. For locality pay details, please
-visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-
-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the
+visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the
 grade for which you are selected.
 
 **Who May Apply:**
