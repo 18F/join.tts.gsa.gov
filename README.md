@@ -2,6 +2,17 @@
 
 # Usage
 
+## Job posting
+
+For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md).
+
+To **close a job posting**, make sure to
+
+* Add a `state: closed` line to the "frontmatter" (the metadata between the horizontal lines at the top)
+* Remove from [the homepage](pages/index.md)
+
+## Local development
+
 This site is built on the [uswds-jekyll](https://github.com/18F/uswds-jekyll) theme, so you'll find configuration information there.
 
 To work on the site locally:

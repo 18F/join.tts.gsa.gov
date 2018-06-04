@@ -1,6 +1,7 @@
 ---
 title: UX Designer
 permalink: /join/18f-ux-designer-closed/
+state: closed
 
 subnav:
   - text: Role summary

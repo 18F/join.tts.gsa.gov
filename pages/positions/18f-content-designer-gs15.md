@@ -1,6 +1,7 @@
 ---
 title: Content Designer
 permalink: /join/18f-content-designer-gs15-closed/
+state: closed
 
 subnav:
   - text: Role summary
