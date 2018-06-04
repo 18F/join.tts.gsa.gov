@@ -24,7 +24,7 @@ subnav:
 
 #This position has been closed.
 
-We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties]({{site.baseurl}}/join/product-manager-gs15/#duties) and [Qualifications]({{site.baseurl}}/join/product-manager-gs15/#qualifications) on this page are specific to the GS-15 level position. You can [apply]({{site.baseurl}}/join/product-manager-gs15/#how-to-apply) at the bottom or learn more about the application process at [Joining TTS]({{site.baseurl}}/hiring-process/).
+We're hiring a 18F Product Manager in the Office of 18F at the GS-15 to help us build amazing products for our clients. This page includes key objectives for the role as well as the official job description. The [Duties](#duties) and [Qualifications](#qualifications) on this page are specific to the GS-15 level position. You can [apply](#how-to-apply) at the bottom or learn more about the application process at [Joining TTS]({{site.baseurl}}/hiring-process/).
 
 **Please note: Innovation Specialist is the official government title for this Product Manager position.**
 
@@ -89,7 +89,7 @@ Successful product managers at 18F:
 
 
 <section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="{{site.baseurl}}/join/product-manager-gs15/#how-to-apply">How to apply</a>
+  <a class="usa-button usa-button-secondary" href="#how-to-apply">How to apply</a>
 </section>
 
 <br>

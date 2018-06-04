@@ -27,14 +27,14 @@ are specific to the GS-14 level position. Applicants must be willing to relocate
 at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/18f-ux-designer/#role-summary)
-- [Basic information]({{site.baseurl}}/join/18f-ux-designer/#basic-information)
-- [Requirements]({{site.baseurl}}/join/18f-ux-designer/#key-requirements)
-- [Duties]({{site.baseurl}}/join/18f-ux-designer/#duties)
-- [Qualifications]({{site.baseurl}}/join/18f-ux-designer/#qualifications)
-- [How to apply]({{site.baseurl}}/join/18f-ux-designer/#how-to-apply)
-- [Other information]({{site.baseurl}}/join/18f-ux-designer/#other-information)
-- [What to expect]({{site.baseurl}}/join/18f-ux-designer/#what-to-expect)
+- [Role summary](#role-summary)
+- [Basic information](#basic-information)
+- [Requirements](#key-requirements)
+- [Duties](#duties)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
+- [Other information](#other-information)
+- [What to expect](#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
