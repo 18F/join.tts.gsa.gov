@@ -1,6 +1,6 @@
 ---
 title: Product Manager
-permalink: /join/18f-product-manager-closed/
+permalink: /join/18f-product-manager/
 
 subnav:
   - text: Role summary
