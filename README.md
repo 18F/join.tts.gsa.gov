@@ -6,7 +6,7 @@
 
 For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md).
 
-To **open an upcoming job**, change the `state` to `open` in the "frontmatter" (the metadata between the horizontal lines at the top).
+To **open an upcoming job**, in the "frontmatter" (the metadata between the horizontal lines at the top): change the `state` to `open`, and make sure the other fields are filled in.
 
 To **close a job posting**, change the `state` to `closed`.
 

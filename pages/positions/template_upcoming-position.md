@@ -93,5 +93,3 @@ To qualify for this role, you must have one year of specialized experience equiv
 Specialized experience is:
 
 ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
-
-{% include how_to_apply.md %}
