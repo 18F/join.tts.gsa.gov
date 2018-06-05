@@ -1,6 +1,8 @@
 ---
 title: User Experience Designer
-permalink: /join/18f-user-experience-designer-gs15-closed/
+permalink: /join/18f-user-experience-designer-gs15/
+redirect_from:
+  - /join/18f-user-experience-designer-gs15-closed/
 state: closed
 
 subnav:

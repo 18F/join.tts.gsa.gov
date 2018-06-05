@@ -1,6 +1,8 @@
 ---
 title: 18F Strategist
-permalink: /join/strategist-gs15-closed/
+permalink: /join/strategist-gs15/
+redirect_from:
+  - /join/strategist-gs15-closed/
 state: closed
 
 subnav:

@@ -32,12 +32,12 @@ We’re looking for candidates passionate about our mission with top-notch softw
 
 
 ### Upcoming Positions
-- [Cloud Adoption Specialist]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/)
-- [Customer Experience Specialist]({{site.baseurl}}/join/upcoming-coe-customer-experience-specialist/)
-- [Contact Center Optimization Specialist]({{site.baseurl}}/join/upcoming-coe-contact-center-optimization-specialist/)
-- [Infrastructure Optimization Specialist]({{site.baseurl}}/join/upcoming-coe-infrastructure-optimization-specialist/)
-- [Data & Analytics Specialist]({{site.baseurl}}/join/upcoming-coe-data-and-analytics-specialist/)
-- [Consulting Software Engineer]({{site.baseurl}}/join/upcoming-18F-consulting-software-engineer/)
+- [Cloud Adoption Specialist]({{site.baseurl}}/join/CoE-cloud-adoption-specialist/)
+- [Customer Experience Specialist]({{site.baseurl}}/join/coe-customer-experience-specialist/)
+- [Contact Center Optimization Specialist]({{site.baseurl}}/join/coe-contact-center-optimization-specialist/)
+- [Infrastructure Optimization Specialist]({{site.baseurl}}/join/coe-infrastructure-optimization-specialist/)
+- [Data & Analytics Specialist]({{site.baseurl}}/join/coe-data-and-analytics-specialist/)
+- [Consulting Software Engineer]({{site.baseurl}}/join/18F-consulting-software-engineer/)
 
 
 
