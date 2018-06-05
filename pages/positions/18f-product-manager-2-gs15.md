@@ -3,6 +3,9 @@ title: Product Manager
 permalink: /join/18f-product-manager/
 state: open
 closes: June 8, 2018, 8:00pm EDT
+apply_url: https://goo.gl/forms/2W18A6443ePgVktq2
+contact_name: Leigh Finkel
+contact_email: jointts@gsa.gov
 
 subnav:
   - text: Role summary
@@ -234,15 +237,5 @@ Qualification determinations cannot be made when resumes do not include the requ
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-## How To Apply
-
-Submit a complete online application prior to 8:00pm Eastern Time on the closing date of the posting. To apply, click the link below and please fill out all applicable fields:
-
-<section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/2W18A6443ePgVktq2">Click here to apply</a>
-</section>
-
-**Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at** [jointts@gsa.gov](mailto:jointts@gsa.gov).
 
 {% include how_to_apply.md %}

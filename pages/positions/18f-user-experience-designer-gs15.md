@@ -4,6 +4,9 @@ permalink: /join/18f-user-experience-designer-gs15/
 redirect_from:
   - /join/18f-user-experience-designer-gs15-closed/
 state: closed
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeY1SlBbVoSJMJVpv64WqWGKM6WXbmvwBhoHpyCz4Efa_1gtQ/viewform
+contact_name: Liz Scott
+contact_email: jointts@gsa.gov
 
 subnav:
   - text: Role summary
@@ -202,15 +205,5 @@ Qualification determinations cannot be made when resumes do not include the requ
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-## How To Apply
-
-Submit a complete online application prior to 8:00 pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
-
-<section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSeY1SlBbVoSJMJVpv64WqWGKM6WXbmvwBhoHpyCz4Efa_1gtQ/viewform">Click here to apply</a>
-</section>
-
-**If you need assistance in applying or have questions regarding this job opportunity, please email Liz Scott at** [jointts@gsa.gov](mailto:jointts@gsa.gov).
 
 {% include how_to_apply.md %}

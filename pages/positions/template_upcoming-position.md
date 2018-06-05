@@ -3,6 +3,9 @@ title: TITLE
 permalink: join/OFFICE-ROLE-GS LEVEL/
 state: upcoming
 # closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: URL
+# contact_name: NAME
+contact_email: jointts@gsa.gov
 
 subnav:
  - text: Basic information
