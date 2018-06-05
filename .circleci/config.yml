@@ -5,12 +5,23 @@ jobs:
        - image: circleci/ruby:2.5
     steps:
       - checkout
+
+      - restore_cache:
+          keys:
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}
+            - gem-cache-v1
       - run:
           name: Install dependencies
-          command: bundle install
+          command: bundle install --path vendor/bundle
+      - save_cache:
+          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+
       - run:
           name: Build the site
-          command: jekyll build
+          command: bundle exec jekyll build
       - run:
           name: Check for broken links
-          command: rake test
+          command: bundle exec rake test
