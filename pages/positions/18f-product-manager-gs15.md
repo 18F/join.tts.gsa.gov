@@ -43,7 +43,6 @@ Product managers on our team are:
 - Comfortable working in a consulting capacity as well as running a product directly.
 - Empathetic coaches, mentors, and advocates who help partner agency staff develop the skills to manage their own products.
 
-
 ## Key Objectives
 
 ### Objective #1: Own or steward the product vision and lead end-to-end product development
@@ -61,7 +60,6 @@ Successful product managers at 18F:
 - Energize and motivate the team by recognizing successes and learning from failures.
 - Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508.
 
-
 ### Objective #2: Work with agency partners to make sure they’re set up for success
 As a product manager at 18F, your job goes beyond delivering software; you are responsible for creating sustainable outcomes that benefit the public. You’ll help your partners adopt a modern product development mindset and make sure they have the right team to sustain their product once 18F’s engagement with them is done. You’ll also coach and mentor agency staff, helping them develop into capable product managers in their own right.
 
@@ -76,7 +74,6 @@ Successful product managers at 18F:
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
 - Work with partners to develop communications strategies to sustain the product during and beyond the engagement.
 
-
 ### Objective #3: Build institutional expertise around product management
 
 As a member of 18F, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights and opinions with other product managers, contributing to our growing culture of product management. You’ll share lessons learned from your work at 18F with peers and leaders to help guide our approach to digital transformation.
@@ -89,7 +86,6 @@ Successful product managers at 18F:
 - Contribute to 18F’s culture of transparency by publishing accounts of your successes and failures.
 - Continually seek out new product management tools that could improve the way we work.
 - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems (so that we help agencies not build custom tools if not needed).
-
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="#how-to-apply">How to apply</a>
@@ -150,7 +146,6 @@ As an Innovation Specialist, the team member serves the government and makes an 
 
 This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), Office of 18F.
 
-
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid) in the Federal Government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
@@ -173,13 +168,11 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
-
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
 - Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.- Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
-
 
 ## Duties
 Typical duties for the fellow include but are not limited to:
@@ -190,8 +183,6 @@ Typical duties for the fellow include but are not limited to:
 - Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services, leading to their adoption across citizen and business-facing government services
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
 - Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
-
-
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -222,9 +213,6 @@ To qualify, you must have one year of specialized experience equivalent to the G
 - Establishing aspects of modern product development practices at the organizational level including agile/iterative software development, use of open source tools or techniques, and user-centered product approaches.
 - Demonstrating ability to coach, mentor, or supervise junior product managers
 - Demonstrating ability to lead products involving cutting edge or complex technology, complex missions, complex stakeholder relationships, or a high degree of uncertainty, such as greenfield/startups, legacy migrations, big data products, large consumer products, or integrations at scale
-
-
-
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 

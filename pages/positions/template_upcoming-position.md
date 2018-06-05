@@ -24,18 +24,12 @@ at <https://join.tts.gsa.gov> during this application window.
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Basic Information
 
 **Series & Grade:**
 0301-
 
 **Location:**
-
 
 **Salary Range:**
 Base salary  - ENTER AMOUNT
@@ -50,20 +44,11 @@ employees or contractors
 
 **Appointment Type:**
 
-
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Role Summary:
 
 ### ROLE TITLE (GS)
 
 ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -73,7 +58,6 @@ ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
 -
 -
 -
-
 
 ### Key objective #2:
 -
@@ -87,17 +71,12 @@ ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
 -
 -
 
-
 ### Key objective #4:
 -
 -
 -
 -
 -
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Qualifications
 
@@ -110,13 +89,6 @@ Specialized experience is:
 
 ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
-
 ## How To Apply
 
 This role will be open for application on **Monday, DATE, through Friday, DATE, 2018 at 8:00pm Eastern Time**.
@@ -124,7 +96,6 @@ Apply online at <https://join.tts.gsa.gov/> during this application window.
 
 If you need assistance in applying or have questions regarding this job opportunity, please email RECRUITER NAME at
 [jointts@gsa.gov](mailto:jointts@gsa.gov).
-
 
 OR
 

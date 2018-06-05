@@ -23,11 +23,6 @@ The TTS Centers of Excellence (CoE) office is looking for someone to join their 
 - [Role summary](#role-summary)
 - [How to apply](#how-to-apply)
 
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Basic Information
 
 The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve
@@ -43,10 +38,6 @@ Base salary GS-15 - $134,789 to $164,200
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
-
 ## Role Summary:
 
 ### Customer Experience Specialist (GS15)
@@ -59,11 +50,6 @@ Your work will include aligning stakeholders, talking to end users, turning vagu
 
 To be successful you’ll need consulting experience along with a background in a user-centered design or strategy discipline such as digital strategy, service design, user experience design, content design/strategy, user research or product management.
 
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Objectives
 
 ### Key objective #1: You will lead cross-functional teams to help federal agencies define problems and create the vision for solutions that will drive innovation through all aspects of their customer experience.
@@ -74,8 +60,6 @@ To be successful you’ll need consulting experience along with a background in 
 - Lead service design using tools and techniques like journey mapping, experience prototyping, service blueprints and developing service quality metrics.
 - Organize and structure complex information by creating artifacts such as wireframes, sitemaps and process flows.
 
-
-
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
@@ -84,7 +68,6 @@ To be successful you’ll need consulting experience along with a background in 
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
-
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
@@ -92,9 +75,6 @@ To be successful you’ll need consulting experience along with a background in 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
-<div class="paragraph"><p><br>
-<br></p></div>
-
 
 ## How To Apply
 

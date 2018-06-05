@@ -21,7 +21,6 @@ subnav:
     href: "#what-to-expect"
 ---
 
-
 We're hiring a Product Manager for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
@@ -34,11 +33,7 @@ We're hiring a Product Manager for 18F at the GS-15 level to help us build amazi
 - [Other information](#other-information)
 - [What to expect](#what-to-expect)
 
-
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Role Summary:
 
@@ -52,9 +47,6 @@ Product managers on our team are:
 - Decisive leaders who know how to motivate cross-functional teams to build the right thing.
 - Comfortable working in a consulting capacity as well as running a product directly.
 - Empathetic coaches, mentors, and advocates who help partner agency staff develop the skills to manage their own products.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Key Objectives
 
@@ -72,7 +64,6 @@ Successful product managers at 18F:
 - Energize and motivate the team by recognizing successes and learning from failures.
 - Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508.
 
-
 ### Objective #2: Work with agency partners to make sure they’re set up for success
 
 As a product manager at 18F, your job isn’t to deliver software; your job is to create sustainable outcomes that benefit the public. You’ll help your partners adopt a modern product development mindset and make sure they have the right team to sustain their product once 18F’s engagement with them is done. You’ll also coach and mentor agency staff, helping them develop into capable product managers in their own right.
@@ -88,7 +79,6 @@ Successful product managers at 18F:
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
 - Work with partners to develop communications strategies to sustain the product during and beyond the engagement.
 
-
 ### Objective #3: Build institutional expertise around product management
 
 As a member of 18F, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights and opinions with other product managers, contributing to our growing culture of product management. You’ll share lessons learned from your work at 18F with peers and leaders to help guide our approach to digital transformation.
@@ -101,10 +91,6 @@ Successful product managers at 18F:
 - Contribute to 18F’s culture of transparency by publishing accounts of your successes and failures.
 - Continually seek out new product management tools that could improve the way we work.
 - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems (so that we help agencies not build custom tools if not needed).
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Basic Information
 
@@ -152,9 +138,6 @@ Full time
 **Appointment Type:**
 Excepted Service – Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Job Summary
 
 This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
@@ -162,7 +145,6 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
-
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -178,9 +160,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Long-term care insurance
 - Training and development
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -189,18 +168,12 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 4. Direct Deposit of salary check to financial organization required.
 5. Register with Selective Service, if you are a male born after 12/31/1959.
 
-<div class="paragraph"><p><br>
-<br></p></div>
-
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
 - Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
 - Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Duties
 Typical duties for the fellow include but are not limited to:
@@ -210,10 +183,6 @@ Typical duties for the fellow include but are not limited to:
 - Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services, leading to their adoption across citizen and business-facing government services
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
 - Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -233,10 +202,6 @@ If found to be eligible and at least minimally qualified for the position, your 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## Qualifications
 
@@ -267,9 +232,6 @@ Qualification determinations cannot be made when resumes do not include the requ
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-<div class="paragraph"><p><br>
-<br></p></div>
 
 ## How To Apply
 
