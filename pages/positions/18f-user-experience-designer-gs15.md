@@ -25,14 +25,14 @@ subnav:
 We're hiring a User Experience Designer for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#role-summary)
-- [Basic information]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#basic-information)
-- [Requirements]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#key-requirements)
-- [Duties]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#duties)
-- [Qualifications]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#qualifications)
-- [How to apply]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#how-to-apply)
-- [Other information]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#other-information)
-- [What to expect]({{site.baseurl}}/join/18f-user-experience-designer-gs15/#what-to-expect)
+- [Role summary](#role-summary)
+- [Basic information](#basic-information)
+- [Requirements](#key-requirements)
+- [Duties](#duties)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
+- [Other information](#other-information)
+- [What to expect](#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**

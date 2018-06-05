@@ -15,9 +15,9 @@ The TTS Centers of Excellence (CoE) office is looking for someone to join their 
 Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).
 
 **Quick Links to Posting Sections**
-- [Basic information]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#basic-information)
-- [Role summary]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#role-summary)
-- [How to apply]({{site.baseurl}}/join/upcoming-CoE-cloud-adoption-specialist/#how-to-apply)
+- [Basic information](#basic-information)
+- [Role summary](#role-summary)
+- [How to apply](#how-to-apply)
 
 
 <div class="paragraph"><p><br>

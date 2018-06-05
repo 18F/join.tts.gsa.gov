@@ -25,14 +25,14 @@ subnav:
 We're hiring a Product Manager for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/18f-product-manager/#role-summary)
-- [Basic information]({{site.baseurl}}/join/18f-product-manager/#basic-information)
-- [Requirements]({{site.baseurl}}/join/18f-product-manager/#key-requirements)
-- [Duties]({{site.baseurl}}/join/18f-product-manager/#duties)
-- [Qualifications]({{site.baseurl}}/join/18f-product-manager/#qualifications)
-- [How to apply]({{site.baseurl}}/join/18f-product-manager/#how-to-apply)
-- [Other information]({{site.baseurl}}/join/18f-product-manager/#other-information)
-- [What to expect]({{site.baseurl}}/join/18f-product-manager/#what-to-expect)
+- [Role summary](#role-summary)
+- [Basic information](#basic-information)
+- [Requirements](#key-requirements)
+- [Duties](#duties)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
+- [Other information](#other-information)
+- [What to expect](#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
@@ -125,7 +125,7 @@ GS15
 
 **Salary Range:** Base salary GS-15 - $105,123 to $136,659
 
-For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to.  
+For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to.
 
 
 **Location:**
@@ -250,7 +250,7 @@ To qualify, you must have one year of specialized experience equivalent to the G
  	- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
  	- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
 
-- Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following: 
+- Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following:
 	 - Developing new products or services for startups
 	 - Developing products or services for legacy migrations
 	 - Developing products or services for large integrations

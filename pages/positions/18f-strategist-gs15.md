@@ -28,14 +28,14 @@ are specific to the GS-15 level position. You can apply at the bottom or learn m
 at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/strategist-gs15/#role-summary)
-- [Basic information]({{site.baseurl}}/join/strategist-gs15/#basic-information)
-- [Requirements]({{site.baseurl}}/join/strategist-gs15/#key-requirements)
-- [Duties]({{site.baseurl}}/join/strategist-gs15/#duties)
-- [Qualifications]({{site.baseurl}}/join/strategist-gs15/#qualifications)
-- [How to apply]({{site.baseurl}}/join/strategist-gs15/#how-to-apply)
-- [Other information]({{site.baseurl}}/join/strategist-gs15/#other-information)
-- [What to expect]({{site.baseurl}}/join/strategist-gs15/#what-to-expect)
+- [Role summary](#role-summary)
+- [Basic information](#basic-information)
+- [Requirements](#key-requirements)
+- [Duties](#duties)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
+- [Other information](#other-information)
+- [What to expect](#what-to-expect)
 
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**

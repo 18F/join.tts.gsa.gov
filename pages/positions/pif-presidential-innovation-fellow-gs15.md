@@ -24,14 +24,14 @@ subnav:
 The Presidential Innovation Fellows program is now accepting applications for their next cohort. More information about the program and the application process can be found at [PIF.gov](https://presidentialinnovationfellows.gov/). This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply using the link at bottom of this page or directly at [apply.pif.gov](https://apply.pif.gov/).
 
 **Quick Links to Posting Sections**
-- [Role summary]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#role-summary)
-- [Basic information]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#basic-information)
-- [Requirements]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#key-requirements)
-- [Duties]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#duties)
-- [Qualifications]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#qualifications)
-- [How to apply]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#how-to-apply)
-- [Other information]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#other-information)
-- [What to expect]({{site.baseurl}}/join/pif-presidential-innovation-fellow/#what-to-expect)
+- [Role summary](#role-summary)
+- [Basic information](#basic-information)
+- [Requirements](#key-requirements)
+- [Duties](#duties)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
+- [Other information](#other-information)
+- [What to expect](#what-to-expect)
 
 
 **Please note: Industry Specialist is the official title for the government Position Description related to this posting.**
