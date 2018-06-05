@@ -1,6 +1,7 @@
 ---
-title: Upcoming Role - 18F Product Manager
+title: 18F Product Manager
 permalink: join/upcoming-18F-product-manager/
+state: upcoming
 
 subnav:
  - text: Basic information

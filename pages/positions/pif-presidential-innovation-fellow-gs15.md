@@ -1,6 +1,7 @@
 ---
 title: Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
+state: open
 
 subnav:
   - text: Role summary

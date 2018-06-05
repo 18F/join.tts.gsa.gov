@@ -1,8 +1,9 @@
 ---
-title: Upcoming Role - CoE Cloud Adoption Specialist
+title: CoE Cloud Adoption Specialist
 permalink: join/CoE-cloud-adoption-specialist/
 redirect_from:
   - join/upcoming-CoE-cloud-adoption-specialist/
+state: upcoming
 
 subnav:
  - text: Basic information

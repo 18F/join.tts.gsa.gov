@@ -1,8 +1,9 @@
 ---
-title: Upcoming Role - CoE Contact Center Optimization Specialist
+title: CoE Contact Center Optimization Specialist
 permalink: join/coe-contact-center-optimization-specialist/
 redirect_from:
   - join/upcoming-coe-contact-center-optimization-specialist/
+state: upcoming
 
 subnav:
  - text: Basic information

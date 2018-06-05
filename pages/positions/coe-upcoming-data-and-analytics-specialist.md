@@ -1,8 +1,9 @@
 ---
-title: Upcoming Role - CoE Data & Analytics Specialist
+title: CoE Data & Analytics Specialist
 permalink: join/coe-data-and-analytics-specialist/
 redirect_from:
   - join/upcoming-coe-data-and-analytics-specialist/
+state: upcoming
 
 subnav:
  - text: Basic information

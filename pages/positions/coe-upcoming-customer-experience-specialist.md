@@ -1,8 +1,9 @@
 ---
-title: Upcoming Role - CoE Customer Experience Specialist
+title: CoE Customer Experience Specialist
 permalink: join/coe-customer-experience-specialist/
 redirect_from:
   - join/upcoming-coe-customer-experience-specialist/
+state: upcoming
 
 subnav:
  - text: Basic information

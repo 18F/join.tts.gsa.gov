@@ -1,6 +1,7 @@
 ---
 title: Product Manager
 permalink: /join/18f-product-manager/
+state: open
 
 subnav:
   - text: Role summary

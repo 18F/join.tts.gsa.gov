@@ -1,6 +1,7 @@
 ---
-title: Upcoming Role - 18F Consulting Software Engineer
+title: TITLE
 permalink: join/OFFICE-ROLE-GS LEVEL/
+state: upcoming
 
 subnav:
  - text: Basic information
