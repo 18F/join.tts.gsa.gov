@@ -2,6 +2,7 @@
 title: Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
 state: open
+closes: June 24, 2018, 11:59pm EDT
 
 subnav:
   - text: Role summary

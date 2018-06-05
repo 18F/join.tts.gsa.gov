@@ -2,6 +2,7 @@
 title: Product Manager
 permalink: /join/18f-product-manager/
 state: open
+closes: June 8, 2018, 8:00pm EDT
 
 subnav:
   - text: Role summary

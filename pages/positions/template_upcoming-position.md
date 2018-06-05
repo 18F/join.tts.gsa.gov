@@ -2,6 +2,7 @@
 title: TITLE
 permalink: join/OFFICE-ROLE-GS LEVEL/
 state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
 
 subnav:
  - text: Basic information

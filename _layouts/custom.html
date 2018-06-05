@@ -17,6 +17,13 @@ layout: page
     <p class="usa-alert-text">This role is not yet open to apply to. See below for details.</p>
   </div>
 </div>
+{% elsif page.state == 'open' %}
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">Apply now!</h3>
+    <p class="usa-alert-text">This role is open for applications until {{ page.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }}.</p>
+  </div>
+</div>
 {% endif %}
 
 <h1>{{ page.title }}</h1>

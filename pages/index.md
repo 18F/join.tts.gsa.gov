@@ -44,7 +44,7 @@ We’re looking for candidates passionate about our mission with top-notch softw
 {% for pg in sortedpages %}
 {% if pg.state == 'open' %}
 {% unless pg.path contains 'template'  %}
-* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }})
+* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }}) (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
 {% endunless %}
 {% endif %}
 {% endfor %}
