@@ -94,16 +94,4 @@ Specialized experience is:
 
 ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
-## How To Apply
-
-This role will be open for application on **Monday, DATE, through Friday, DATE, 2018 at 8:00pm Eastern Time**.
-Apply online at <https://join.tts.gsa.gov/> during this application window.
-
-If you need assistance in applying or have questions regarding this job opportunity, please email RECRUITER NAME at
-[jointts@gsa.gov](mailto:jointts@gsa.gov).
-
-OR
-
-We are currently not acceping applications at this time.
-
-{% include upcoming_statement.md %}
+{% include how_to_apply.md %}

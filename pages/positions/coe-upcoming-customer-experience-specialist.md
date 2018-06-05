@@ -77,6 +77,4 @@ To be successful you’ll need consulting experience along with a background in 
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
-## How To Apply
-
-{% include upcoming_statement.md %}
+{% include how_to_apply.md %}

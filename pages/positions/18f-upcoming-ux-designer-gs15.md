@@ -125,8 +125,4 @@ If your resume does not support your possession of the competencies listed above
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
-## How To Apply
-
-This role will be open for application on **Monday, May 21, 2018 through Friday, May 25, 2018 at 8:00pm Eastern Time**. Apply online at <https://join.tts.gsa.gov/> during this application window.
-
-If you need assistance in applying or have questions regarding this job opportunity, please email Liz Scott at [jointts@gsa.gov](mailto:jointts@gsa.gov).
+{% include how_to_apply.md %}

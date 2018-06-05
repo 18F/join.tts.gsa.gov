@@ -1,5 +1,11 @@
 ## How To Apply
 
+{% if page.state == 'upcoming' %}
+{% include upcoming_statement.md %}
+{% elsif page.state == 'closed' %}
+We're sorry, this job has closed.
+{% elsif page.state == 'open' %}
+
 Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please fill out all applicable fields.
 
 <section class="usa-grid-full">
@@ -62,3 +68,4 @@ After the closing date:
 4. **FINAL JOB OFFER:** Once our security office determines you can come on board, you will be given a final offer.
 
 **Thank you for your interest in working for U.S. General Services Administration!**
+{% endif %}

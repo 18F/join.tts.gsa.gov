@@ -136,6 +136,4 @@ If your resume does not support your possession of the competencies listed above
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
-## How To Apply
-
-{% include upcoming_statement.md %}
+{% include how_to_apply.md %}
