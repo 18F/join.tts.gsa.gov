@@ -1,8 +1,6 @@
 ---
 title: Upcoming Role - 18F Product Manager
-permalink: join/18F-product-manager/
-redirect_from:
-  - join/upcoming-18F-product-manager/
+permalink: join/upcoming-18F-product-manager/
 
 subnav:
  - text: Basic information
