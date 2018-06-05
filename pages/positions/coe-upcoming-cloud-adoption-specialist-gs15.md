@@ -16,7 +16,8 @@ subnav:
 ---
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Cloud Adoption Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.
-If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link)
+
+{% include upcoming_statement.md %}
 
 **Quick Links to Posting Sections**
 - [Basic information](#basic-information)
@@ -99,4 +100,4 @@ No one can be equally expert on all phases of the cloud adoption process, but we
 
 ## How To Apply
 
-If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link)
+{% include upcoming_statement.md %}

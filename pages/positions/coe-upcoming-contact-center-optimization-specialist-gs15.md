@@ -14,7 +14,9 @@ subnav:
 ---
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Contact Center Optimization
-Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well. If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).
+Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.
+
+{% include upcoming_statement.md %}
 
 **Quick Links to Posting Sections**
 - [Basic information](#basic-information)
@@ -98,4 +100,4 @@ Develop and track performance metrics, customer feedback, quality assurance and 
 
 ## How To Apply
 
-If you would like to learn more or if you'd like to be notified when the application is open please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).
+{% include upcoming_statement.md %}

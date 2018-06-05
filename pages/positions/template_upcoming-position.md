@@ -126,9 +126,8 @@ If you need assistance in applying or have questions regarding this job opportun
 [jointts@gsa.gov](mailto:jointts@gsa.gov).
 
 
- OR
+OR
 
- We are currently not acceping applications at this time, if you would like to be notified when the application goes up or
- have questions about this role please email RECRUITER NAME at [jointts@gsa.gov](mailto:jointts@gsa.gov).
+We are currently not acceping applications at this time.
 
-
+{% include upcoming_statement.md %}
