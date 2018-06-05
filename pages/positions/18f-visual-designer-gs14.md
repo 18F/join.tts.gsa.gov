@@ -1,6 +1,7 @@
 ---
 title: Visual Designer
 permalink: /join/18f-visual-designer-closed/
+state: closed
 
 subnav:
   - text: Role summary
