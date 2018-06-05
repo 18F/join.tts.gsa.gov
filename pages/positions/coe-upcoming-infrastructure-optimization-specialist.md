@@ -16,8 +16,6 @@ subnav:
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Infrastructure Optimization Specialist(GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.
 
-{% include upcoming_statement.md %}
-
 **Quick Links to Posting Sections**
 - [Basic information](#basic-information)
 - [Role summary](#role-summary)

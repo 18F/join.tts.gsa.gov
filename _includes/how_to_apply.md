@@ -1,7 +1,7 @@
 ## How To Apply
 
 {% if page.state == 'upcoming' %}
-{% include upcoming_statement.md %}
+{% include upcoming_statement.html %}
 {% elsif page.state == 'closed' %}
 We're sorry, this job has closed.
 {% elsif page.state == 'open' %}

@@ -16,8 +16,6 @@ subnav:
 
 18F will soon be accepting applications for the Product Manager (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications.
 
-{% include upcoming_statement.md %}
-
 **Quick Links to Posting Sections**
 - [Basic information](#basic-information)
 - [Role summary](#role-summary)
