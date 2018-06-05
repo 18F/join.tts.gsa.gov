@@ -4,7 +4,7 @@
 
 ## Job posting
 
-For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md), and uncomment (remove the `# ` in front of) `state: upcoming`.
+For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md).
 
 To **open an upcoming job**, change the `state` to `open` in the "frontmatter" (the metadata between the horizontal lines at the top).
 
