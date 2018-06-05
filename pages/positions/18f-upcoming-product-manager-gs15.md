@@ -1,7 +1,7 @@
 ---
 title: 18F Product Manager
 permalink: join/upcoming-18F-product-manager/
-state: upcoming
+state: closed
 
 subnav:
  - text: Basic information
