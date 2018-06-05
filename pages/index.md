@@ -27,19 +27,23 @@ In [this video](https://www.youtube.com/watch?v=WURf2Z1uTaI) members of TTS shar
 
 We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
 
+{% assign sortedpages = site.pages | sort: 'title' %}
+
 ### Upcoming Positions
 
-- [Cloud Adoption Specialist]({{site.baseurl}}/join/CoE-cloud-adoption-specialist/)
-- [Customer Experience Specialist]({{site.baseurl}}/join/coe-customer-experience-specialist/)
-- [Contact Center Optimization Specialist]({{site.baseurl}}/join/coe-contact-center-optimization-specialist/)
-- [Infrastructure Optimization Specialist]({{site.baseurl}}/join/coe-infrastructure-optimization-specialist/)
-- [Data & Analytics Specialist]({{site.baseurl}}/join/coe-data-and-analytics-specialist/)
-- [Consulting Software Engineer]({{site.baseurl}}/join/18F-consulting-software-engineer/)
+{% for pg in sortedpages %}
+{% if pg.state == 'upcoming' %}
+* [{{ pg.title | remove: "Upcoming Role - " }}]({{ site.baseurl }}{{ pg.permalink }})
+{% endif %}
+{% endfor %}
 
 ### Open Positions
 
-- [Product Manager]({{site.baseurl}}/join/18f-product-manager/) (Open now through Friday, June 8, 2018 at 8:00pm)
-- [Presidential Innovation Fellow]({{site.baseurl}}/join/pif-presidential-innovation-fellow/) (Open now through Sunday, June 24, 2018 at 11:59pm EDT)
+{% for pg in sortedpages %}
+{% if pg.state == 'open' %}
+* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }})
+{% endif %}
+{% endfor %}
 
  **We are hiring and will be sharing information on new upcoming jobs as well as releasing new job postings frequently. Please check back or if you would like to be notified when new jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).**
 

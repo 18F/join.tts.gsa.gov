@@ -3,6 +3,7 @@ title: Upcoming Role - CoE Infrastructure Optimization Specialist
 permalink: join/coe-infrastructure-optimization-specialist/
 redirect_from:
   - join/upcoming-coe-infrastructure-optimization-specialist/
+state: upcoming
 
 subnav:
  - text: Basic information

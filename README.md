@@ -4,12 +4,13 @@
 
 ## Job posting
 
-For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md).
+For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md), and uncomment (remove the `# ` in front of) `state: upcoming`.
 
-To **close a job posting**, make sure to
+To **open an upcoming job**, change the `state` to `open` in the "frontmatter" (the metadata between the horizontal lines at the top).
 
-* Add a `state: closed` line to the "frontmatter" (the metadata between the horizontal lines at the top)
-* Remove from [the homepage](pages/index.md)
+To **close a job posting**, change the `state` to `closed`.
+
+To **reuse a job posting**, change the `state` to `upcoming`, and modify the page as appropriate.
 
 ## Local development
 

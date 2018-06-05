@@ -3,6 +3,7 @@ title: Upcoming Role - 18F User Experience Designer
 permalink: join/18F-user-experience-designer/
 redirect_from:
   - join/upcoming-18F-user-experience-designer/
+state: upcoming
 
 subnav:
  - text: Basic information
