@@ -34,7 +34,7 @@ We’re looking for candidates passionate about our mission with top-notch softw
 {% for pg in sortedpages %}
 {% if pg.state == 'upcoming' %}
 {% unless pg.path contains 'template'  %}
-* [{{ pg.title | remove: "Upcoming Role - " }}]({{ site.baseurl }}{{ pg.permalink }})
+* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }})
 {% endunless %}
 {% endif %}
 {% endfor %}

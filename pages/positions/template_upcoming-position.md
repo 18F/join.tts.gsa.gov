@@ -1,5 +1,5 @@
 ---
-title: Upcoming Role - TITLE
+title: TITLE
 permalink: join/OFFICE-ROLE-GS LEVEL/
 state: upcoming
 
