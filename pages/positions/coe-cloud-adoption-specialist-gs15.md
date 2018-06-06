@@ -1,8 +1,10 @@
 ---
-title: CoE Cloud Adoption Specialist
-permalink: join/CoE-cloud-adoption-specialist/
+title: Cloud Adoption Specialist
+permalink: join/coe-cloud-adoption-specialist/
 redirect_from:
   - join/upcoming-CoE-cloud-adoption-specialist/
+  - join/upcoming-CoE-cloud-adoption-lead/
+  - join/CoE-cloud-adoption-specialist/
 state: upcoming
 
 subnav:
