@@ -4,6 +4,7 @@ permalink: join/coe-cloud-adoption-specialist/
 redirect_from:
   - join/upcoming-CoE-cloud-adoption-specialist/
   - join/CoE-upcoming-cloud-adoption-lead/
+  - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
 state: upcoming
 
