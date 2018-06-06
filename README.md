@@ -4,7 +4,7 @@
 
 ### Job posting
 
-For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md).
+For **new job postings**, copy from [the template](pages/positions/template_upcoming-position.md). Note that the alert at the top and the "How to Apply" information will be injected automatically.
 
 To **open an upcoming job**, in the "frontmatter" (the metadata between the horizontal lines at the top): change the `state` to `open`, and make sure the other fields are filled in.
 
