@@ -1,1 +1,0 @@
-If you would like to learn more or if you'd like to be notified when the application is open, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).

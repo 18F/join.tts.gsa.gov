@@ -2,22 +2,5 @@
 layout: page
 ---
 
-{% if page.state == "closed" %}
-<div class="usa-alert usa-alert-warning">
-  <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">This job posting has closed.</h3>
-    <p class="usa-alert-text">Please see
-      <a href="{{site.baseurl}}/#join-us">our other open positions</a>.</p>
-  </div>
-</div>
-{% elsif page.state == 'upcoming' %}
-<div class="usa-alert usa-alert-info">
-  <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">Upcoming role</h3>
-    <p class="usa-alert-text">This role is not yet open to apply to. See below for details.</p>
-  </div>
-</div>
-{% endif %}
-
 <h1>{{ page.title }}</h1>
 {{ content }}

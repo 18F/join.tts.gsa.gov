@@ -2,6 +2,10 @@
 title: Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
 state: open
+closes: June 24, 2018, 11:59pm EDT
+apply_url: https://apply.pif.gov/
+contact_name: Deb Baptiste
+contact_email: jointts@gsa.gov
 
 subnav:
   - text: Role summary
@@ -297,17 +301,3 @@ information may result in disqualification.
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-## How To Apply
-
-Submit a complete online application prior to 11:59 pm Eastern Time on the closing date of the posting. Please fill out
-all applicable fields.
-
-<section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://apply.pif.gov/">Click here to apply</a>
-</section>
-
-**If you need assistance in applying or have questions regarding this job opportunity, please email Deb Baptiste at
-[jointts@gsa.gov](mailto:jointts@gsa.gov).**
-
-{% include how_to_apply.md %}

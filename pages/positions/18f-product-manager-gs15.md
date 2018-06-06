@@ -4,6 +4,9 @@ permalink: /join/product-manager-gs15/
 redirect_from:
   - /join/product-manager-gs15-closed/
 state: closed
+apply_url: https://goo.gl/forms/cEKydjQ2zT0phKeh2
+contact_name: Leigh Finkel
+contact_email: jointts@gsa.gov
 
 subnav:
   - text: Role summary
@@ -218,15 +221,3 @@ Qualification determinations cannot be made when resumes do not include the requ
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year)
 - number of hours per week you worked (if part time).
-
-## How To Apply
-
-Submit a complete online application prior to 11:59 pm Eastern Time on the closing date of the posting. Please fill out all applicable fields.
-
-<section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="https://goo.gl/forms/cEKydjQ2zT0phKeh2">Click here to apply</a>
-</section>
-
-**Need Assistance in applying or have questions regarding this job opportunity, please email Leigh Finkel at** [joinTTS@gsa.gov](mailto:jointts@gsa.gov).
-
-{% include how_to_apply.md %}

@@ -18,8 +18,6 @@ subnav:
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Data & Analytics Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.
 
-{% include upcoming_statement.md %}
-
 **Quick Links to Posting Sections**
 - [Basic information](#basic-information)
 - [Role summary](#role-summary)
@@ -75,7 +73,3 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
-
-## How To Apply
-
-{% include upcoming_statement.md %}

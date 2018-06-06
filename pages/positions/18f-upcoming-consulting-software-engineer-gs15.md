@@ -18,8 +18,6 @@ subnav:
 
 18F will soon be accepting applications for the Consulting Software Engineer (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications.
 
-{% include upcoming_statement.md %}
-
 **Quick Links to Posting Sections**
 - [Basic information](#basic-information)
 - [Role summary](#role-summary)
@@ -129,7 +127,3 @@ If found to be eligible and at least minimally qualified for the position, your 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-## How To Apply
-
-{% include upcoming_statement.md %}

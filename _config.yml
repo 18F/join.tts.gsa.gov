@@ -55,6 +55,11 @@ defaults:
     values:
       layout: custom
       sidenav: primary
+  - scope:
+      path: pages/positions
+      type: pages
+    values:
+      layout: job
 
 styles:
   - /assets/css/site.css
