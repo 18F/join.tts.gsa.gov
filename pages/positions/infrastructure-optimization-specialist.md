@@ -1,9 +1,15 @@
 ---
-title: CoE Infrastructure Optimization Specialist
-permalink: join/coe-infrastructure-optimization-specialist/
+title: Infrastructure Optimization Specialist
+permalink: join/infrastructure-optimization-specialist/
 redirect_from:
   - join/upcoming-coe-infrastructure-optimization-specialist/
+  - join/coe-infrastructure-optimization-specialist/
 state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: URL
+# contact_name: NAME
+contact_email: jointts@gsa.gov
+
 
 subnav:
  - text: Basic information
