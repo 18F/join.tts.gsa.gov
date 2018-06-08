@@ -4,7 +4,7 @@ permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
   - /join/strategist-gs15/
-state: Upcoming
+state: upcoming
 # closes: MONTH DAY, YEAR, TIME EDT
 # apply_url:
 contact_name: Elizabeth Scott
