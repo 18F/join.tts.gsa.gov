@@ -1,10 +1,12 @@
 ---
-title: Office of Acquisition User Experience Design Lead
-permalink: /join/user-experience-design-lead-gs15/
+title: User Experience Design Lead
+permalink: /join/user-experience-design-lead/
 redirect_from:
   - /join/user-experience-design-lead-gs15-closed/
+  - /join/user-experience-design-lead-gs15/
 state: closed
-apply_url: https://goo.gl/forms/yYPmtvXpsVlRZM0j2
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: https://goo.gl/forms/yYPmtvXpsVlRZM0j2
 contact_name: Leigh Finkel
 contact_email: jointts@gsa.gov
 
