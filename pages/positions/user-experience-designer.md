@@ -8,7 +8,7 @@ redirect_from:
   - /join/18f-ux-designer-closed/
   - /join/18F-user-experience-designer/
   - /join/upcoming-18F-user-experience-designer/
-state: closed
+state: upcoming
 # closes: MONTH DAY, YEAR, TIME EDT
 # apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeY1SlBbVoSJMJVpv64WqWGKM6WXbmvwBhoHpyCz4Efa_1gtQ/viewform
 contact_name: Liz Scott
