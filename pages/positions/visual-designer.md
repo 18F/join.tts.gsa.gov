@@ -4,7 +4,7 @@ permalink: /join/visual-designer/
 redirect_from:
   - /join/18f-visual-designer-closed/
   - /join/18f-visual-designer/
-state: closed
+state: upcoming
 # closes: MONTH DAY, YEAR, TIME EDT
 # apply_url: https://goo.gl/forms/sscRglEbs6SwZdpo2
 contact_name: Liz Scott
