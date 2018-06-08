@@ -4,7 +4,7 @@ permalink: /join/content-designer/
 redirect_from:
   - /join/18f-content-designer-gs15-closed/
   - /join/18f-content-designer-gs15/
-state: upcoming
+state: closed
 apply_url: https://goo.gl/forms/ZFr4NJJ5o7vcaXnI2
 contact_name: Liz Scott
 contact_email: jointts@gsa.gov
