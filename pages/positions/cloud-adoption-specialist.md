@@ -1,12 +1,18 @@
 ---
 title: Cloud Adoption Specialist
-permalink: join/coe-cloud-adoption-specialist/
+permalink: join/cloud-adoption-specialist/
 redirect_from:
+  - join/coe-cloud-adoption-specialist/
   - join/upcoming-CoE-cloud-adoption-specialist/
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
 state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: URL
+# contact_name: NAME
+# contact_email: jointts@gsa.gov
+
 
 subnav:
  - text: Basic information
