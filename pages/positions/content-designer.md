@@ -1,8 +1,9 @@
 ---
 title: Content Designer
-permalink: /join/18f-content-designer-gs15/
+permalink: /join/content-designer/
 redirect_from:
   - /join/18f-content-designer-gs15-closed/
+  - /join/18f-content-designer-gs15/
 state: closed
 apply_url: https://goo.gl/forms/ZFr4NJJ5o7vcaXnI2
 contact_name: Liz Scott
