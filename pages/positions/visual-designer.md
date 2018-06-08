@@ -80,12 +80,6 @@ We're looking for candidates who have visual identity and design system experien
 
 ## Basic Information
 
-**Job announcement number:**
-1800413JCOTR
-
-**Opening and closing period for this job application:**
-Monday, April 30th to Friday, May 4th, 2018 8:00 pm Eastern (close)
-
 **Job Title:**
 Innovation Specialist
 
@@ -104,8 +98,6 @@ Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 
 _A new GSA policy requires pre-approval for fully remote positions. We’re working on getting approval for our upcoming openings, but until we secure that approval we’re only able to hire people who will be willing to work in one of our physical offices listed above._
 
-**Number of vacancies:**
-2
 
 **Supervisory status:**
 _No_
