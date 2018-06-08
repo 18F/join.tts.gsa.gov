@@ -80,11 +80,6 @@ We’re looking for candidates who have delivered content iteratively, who have 
 
 ## Basic Information
 
-**Job announcement number:**
-1800455JCOTR
-
-**Opening and closing period for this job application:**
-Friday, May 25th to Friday, June 1st  at 8:00pm Eastern Time
 
 **Job Title:**
 Innovation Specialist
@@ -101,9 +96,6 @@ _For specific details on locality pay, please visit [https://www.opm.gov/policy-
 
 **Location:**
 Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
-
-**Number of vacancies:**
-3
 
 **Supervisory status:**
 No
