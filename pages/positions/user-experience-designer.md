@@ -1,10 +1,16 @@
 ---
 title: User Experience Designer
-permalink: /join/18f-user-experience-designer-gs15/
+permalink: /join/user-experience-designer/
 redirect_from:
+  - /join/18f-user-experience-designer-gs15/
   - /join/18f-user-experience-designer-gs15-closed/
-state: closed
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeY1SlBbVoSJMJVpv64WqWGKM6WXbmvwBhoHpyCz4Efa_1gtQ/viewform
+  - /join/18f-ux-designer/
+  - /join/18f-ux-designer-closed/
+  - /join/18F-user-experience-designer/
+  - /join/upcoming-18F-user-experience-designer/
+state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeY1SlBbVoSJMJVpv64WqWGKM6WXbmvwBhoHpyCz4Efa_1gtQ/viewform
 contact_name: Liz Scott
 contact_email: jointts@gsa.gov
 
