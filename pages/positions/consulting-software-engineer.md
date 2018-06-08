@@ -1,22 +1,26 @@
 ---
-title: 18F Consulting Software Engineer
+title: Consulting Software Engineer
 permalink: join/18F-consulting-software-engineer/
 redirect_from:
   - /join/upcoming-18F-consulting-software-engineer/
 state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: URL
+# contact_name: NAME
+# contact_email: jointts@gsa.gov
 
-subnav:
- - text: Basic information
-   href: "#basic-information"
- - text: Role summary
-   href: "#role-summary"
- - text: Qualifications
-   href: "#qualifications"
- - text: How to apply
-   href: "#how-to-apply"
+# subnav:
+# - text: Basic information
+#   href: "#basic-information"
+# - text: Role summary
+#   href: "#role-summary"
+# - text: Qualifications
+#   href: "#qualifications"
+# - text: How to apply
+#   href: "#how-to-apply"
 ---
 
-18F will soon be accepting applications for the Consulting Software Engineer (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications.
+TTS will soon be accepting applications for the Consulting Software Engineer (GS15) role. This page includes basic information about the role, key objectives, required qualifications, as well as the competencies we will be using for evaluating applications.
 
 **Quick Links to Posting Sections**
 - [Basic information](#basic-information)
@@ -120,7 +124,7 @@ You will be scored based on a review of your application materials, measuring yo
 - **Software Engineering Practices:** Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products.
 - **Communication:** Ability to communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals.
 - **Technical Strategy:** The ability to advise on technical strategy, agile development, software tools, and technical architecture.
-- **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
+- **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
