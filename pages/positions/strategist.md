@@ -1,10 +1,12 @@
 ---
-title: 18F Strategist
-permalink: /join/strategist-gs15/
+title: Strategist
+permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
-state: closed
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLScnjWfF1WdddBlkXkHiCWqrGxvI-zeGScm80-DjdjEheXIATw/viewform
+  - /join/strategist-gs15/
+state: Upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url:
 contact_name: Elizabeth Scott
 contact_email: jointts@gsa.gov
 
