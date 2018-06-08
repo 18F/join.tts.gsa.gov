@@ -1,9 +1,14 @@
 ---
-title: CoE Customer Experience Specialist
-permalink: join/coe-customer-experience-specialist/
+title: Customer Experience Specialist
+permalink: join/customer-experience-specialist/
 redirect_from:
   - join/upcoming-coe-customer-experience-specialist/
+  - join/coe-customer-experience-specialist/
 state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: URL
+# contact_name: NAME
+contact_email: jointts@gsa.gov
 
 subnav:
  - text: Basic information
