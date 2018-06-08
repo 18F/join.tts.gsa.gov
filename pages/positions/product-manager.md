@@ -1,6 +1,11 @@
 ---
 title: Product Manager
-permalink: /join/18f-product-manager/
+permalink: /join/product-manager/
+redirect_from:
+  - join/upcoming-18F-product-manager/
+  - /join/18f-product-manager/
+  - /join/product-manager-gs15-closed/
+  - /join/product-manager-gs15/
 state: open
 closes: June 8, 2018, 8:00pm EDT
 apply_url: https://goo.gl/forms/2W18A6443ePgVktq2
