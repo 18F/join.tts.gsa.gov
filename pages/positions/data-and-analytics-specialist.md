@@ -1,9 +1,14 @@
 ---
-title: CoE Data & Analytics Specialist
-permalink: join/coe-data-and-analytics-specialist/
+title: Data & Analytics Specialist
+permalink: join/data-and-analytics-specialist/
 redirect_from:
   - join/upcoming-coe-data-and-analytics-specialist/
+  - join/coe-data-and-analytics-specialist/
 state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: URL
+# contact_name: NAME
+contact_email: jointts@gsa.gov
 
 subnav:
  - text: Basic information
