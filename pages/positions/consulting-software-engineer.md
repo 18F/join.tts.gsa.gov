@@ -1,8 +1,11 @@
 ---
 title: Consulting Software Engineer
-permalink: join/18F-consulting-software-engineer/
+permalink: join/consulting-software-engineer/
 redirect_from:
   - /join/upcoming-18F-consulting-software-engineer/
+  - /join/consulting-software-engineer-gs15-closed/
+  - /join/consulting-software-engineer-gs15/
+  - /join/18F-consulting-software-engineer/
 state: upcoming
 # closes: MONTH DAY, YEAR, TIME EDT
 # apply_url: URL
