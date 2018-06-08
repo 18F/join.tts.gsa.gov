@@ -1,5 +1,5 @@
 ---
-title: CoE Contact Center Optimization Specialist
+title: Contact Center Optimization Specialist
 permalink: join/contact-center-optimization-specialist/
 redirect_from:
   - join/upcoming-coe-contact-center-optimization-specialist/
