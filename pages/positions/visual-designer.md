@@ -19,14 +19,9 @@ subnav:
     href: "#key-requirements"
   - text: Duties
     href: "#duties"
-  - text: Qualifications
-    href: "#qualifications"
   - text: How to apply
     href: "#how-to-apply"
-  - text: Other information
-    href: "#other-information"
-  - text: What to expect
-    href: "#what-to-expect"
+
 ---
 
 We’re hiring a Visual Designer for 18F to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-14 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
