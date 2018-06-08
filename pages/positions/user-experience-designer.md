@@ -96,12 +96,6 @@ Successful UX Designers:
 
 ## Basic Information
 
-**Job announcement number:**
-1800441JCOTR
-
-**Opening and closing period for this job application:**
-May 21, 2018 - May 25, 2018 at 8pm EST
-
 **Job Title:**
 Innovation Specialist
 
@@ -118,8 +112,6 @@ _For specific details on locality pay, please visit [https://www.opm.gov/policy-
 **Location:**
  Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 
-**Number of vacancies:**
-3
 
 **Supervisory status:**
 No
