@@ -1,9 +1,14 @@
 ---
 title: CoE Contact Center Optimization Specialist
-permalink: join/coe-contact-center-optimization-specialist/
+permalink: join/contact-center-optimization-specialist/
 redirect_from:
   - join/upcoming-coe-contact-center-optimization-specialist/
+  - join/coe-contact-center-optimization-specialist/
 state: upcoming
+# closes: MONTH DAY, YEAR, TIME EDT
+# apply_url: URL
+# contact_name: NAME
+contact_email: jointts@gsa.gov
 
 subnav:
  - text: Basic information
