@@ -29,7 +29,7 @@ subnav:
     href: "#what-to-expect"
 ---
 
-We’re hiring a Visual Designer for 18F at the GS-14 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-14 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+We’re hiring a Visual Designer for 18F to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-14 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
 - [Role summary](#role-summary)
@@ -45,7 +45,7 @@ We’re hiring a Visual Designer for 18F at the GS-14 level to help us build ama
 
 ## Role Summary:
 
-### Visual Designer GS-14
+### Visual Designer 
 
 Visual designers on the experience design team at 18F craft highly usable and beautiful digital experiences for audiences inside and outside of government. Our clients are agencies of the U.S. government, and our work must reflect and help preserve the integrity of our national image. Our visual designers collaborate with agency partners, product managers, other designers, and engineers to establish and evolve design patterns which make our work consistent and efficient.
 
@@ -82,16 +82,6 @@ We're looking for candidates who have visual identity and design system experien
 
 **Job Title:**
 Innovation Specialist
-
-**Series & Grade:**
-0301-14
-
-**Promotion Potential:**
-GS-14
-
-**Salary Range:** Base Salary GS-14 - $89,370.00 to $ 116,181.00
-
-_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
 
 **Location:**
 Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
@@ -161,43 +151,8 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services, leading to their adoption across citizen and business-facing government services;
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles.
 
-## Evaluations
-We will use a method called Category Rating to assess your application.
 
-**Here’s how it will work:**
 
-You will be scored based on a review of your application materials, measuring your possession of each of the following competencies:
-
-- **Visual identity design:** The ability to create and maintain a consistent, recognizable, and meaningful visual language.
-- **Design systems:** The ability to create a collection of reusable, combinable components that adhere to a set of standards that define a consistent user experience.
-- **Design methods:** The ability to design interactive digital products, systems, and services.
-- **Teamwork & collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships.
-- **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
-
-If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
-
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
-
-Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
-
-## Qualifications
-
-To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
-- Visual identity or brand design, as well as **at least three** of the following user-centered design research activities: mood boards, style tiles, prototyping, co-design or participatory design workshops, brand audits or interface inventories, competitor analysis, design principles, discovery research, ethnography, field studies, observational research, or stakeholder interviews.
-- Planning, wireframing, refining, and launching user-centered visual systems for digital products and services.
-- Experience with agile, lean or other iterative product development approaches (i.e. design sprints, scrum, and kanban).
-- Collaboration with developers, product managers, clients or other non-designers to achieve organizational objectives as well as design goals.
-- Leading design process on products or leading teams of designers.
-- Mentoring, coaching, or training clients, partners, or team members in any user-centered design practice.
-
-And experience with **at least one** of the following:
-
-- **Communications design**, which could include the following activities and tools: content modeling, content strategy, visual storytelling, user-centered content writing.
-- **Front end design**, which could include the following activities and tools: HTML/CSS prototypes, front end frameworks, accessibility best practices, optimizing digital metrics (such as page performance, semantic code, page weight, or code reusability).
-- **Interaction design**, which could include the following activities and tools: wireframes, high-fidelity or low-fidelity mockups, prototyping with paper, software (such as Axure, Balsamiq, Invision, or Powerpoint), HTML, flows or other logical diagrams, and storyboards.
-- **Service design**, which could include the following activities and tools: Developing service quality metrics, service blueprints, journey maps, co-creation workshop, and experience prototyping.
-
-Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
