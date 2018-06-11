@@ -25,7 +25,6 @@ subnav:
  - text: How to apply
    href: "#how-to-apply"
 ---
-### This announcement is open June 11th and closes June 25th at 11:59 ET
 
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Cloud Adoption Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.
 
@@ -85,11 +84,3 @@ No one can be equally expert on all phases of the cloud adoption process, but we
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
-
-## How to apply
-
-This announcement is open June 11th and closes June 25th at 11:59 ET 
-
-In order to apply to this position you will need to create an account and apply via [USA Jobs](https://www.usajobs.gov/GetJob/ViewDetails/501933500)
-
-Need asssitance in applying or have questions regarding this job opportunity, please contact Amanda Schonfeld at jointts@gsa.gov
