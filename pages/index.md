@@ -51,7 +51,7 @@ We’re looking for candidates passionate about our mission with top-notch softw
 {% endif %}
 {% endfor %}
 
-[Cloud Adoption Specialist](https://join.tts.gsa.gov/join/cloud-adoption-specialist/)
+* [Cloud Adoption Specialist](https://join.tts.gsa.gov/join/cloud-adoption-specialist-usajobs/)
 
  **We are hiring and will be sharing information on new upcoming jobs as well as releasing new job postings frequently. Please check back or if you would like to be notified when new jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).**
 
