@@ -2,16 +2,17 @@
 title: Cloud Adoption Specialist
 permalink: join/cloud-adoption-specialist/
 redirect_from:
+  - join/cloud-adoption-specialist-usajobs/
   - join/coe-cloud-adoption-specialist/
   - join/upcoming-CoE-cloud-adoption-specialist/
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
-state: none
-# closes: MONTH DAY, YEAR, TIME EDT
-# apply_url: URL
-# contact_name: NAME
-# contact_email: jointts@gsa.gov
+state: usajobs
+closes: June 25, 2018, 11:59pm EDT
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
+contact_name: Amanda Schonfeld
+contact_email: jointts@gsa.gov
 
 
 subnav:
@@ -24,8 +25,6 @@ subnav:
  - text: How to apply
    href: "#how-to-apply"
 ---
-### This announcement is open June 11th and closes June 25th at 11:59 ET
-
 The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Cloud Adoption Specialist (GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.
 
 **Quick Links to Posting Sections**
