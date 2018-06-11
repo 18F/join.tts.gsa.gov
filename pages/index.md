@@ -48,6 +48,10 @@ We’re looking for candidates passionate about our mission with top-notch softw
 {% unless pg.path contains 'template'  %}
 * [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }}) (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
 {% endunless %}
+{% elseif pg.state == 'usajobs' %}
+{% unless pg.path contains 'template'  %}
+* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }}) (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
+{% endunless %}
 {% endif %}
 {% endfor %}
 
