@@ -31,10 +31,8 @@ We’re hiring a Visual Designer for 18F to help us build amazing products for o
 - [Basic information](#basic-information)
 - [Requirements](#key-requirements)
 - [Duties](#duties)
-- [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
-- [Other information](#other-information)
-- [What to expect](#what-to-expect)
+
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
 
