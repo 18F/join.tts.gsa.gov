@@ -33,9 +33,6 @@ TTS will soon be accepting applications for the Consulting Software Engineer (GS
 
 ## Basic Information
 
-**Location:**
-Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
-
 **Salary Range:**
 Base salary GS-15 - $105,123 to $136,659
 
