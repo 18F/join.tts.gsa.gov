@@ -29,10 +29,6 @@ We’re hiring a Visual Designer for 18F to help us build amazing products for o
 **Quick Links to Posting Sections**
 - [Role summary](#role-summary)
 - [Basic information](#basic-information)
-- [Requirements](#key-requirements)
-- [Duties](#duties)
-- [How to apply](#how-to-apply)
-
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
 
@@ -73,80 +69,5 @@ We're looking for candidates who have visual identity and design system experien
 
 ## Basic Information
 
-**Job Title:**
-Innovation Specialist
-
-**Location:**
-Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
-
-_A new GSA policy requires pre-approval for fully remote positions. We’re working on getting approval for our upcoming openings, but until we secure that approval we’re only able to hire people who will be willing to work in one of our physical offices listed above._
-
-
-**Supervisory status:**
-_No_
-
-**Travel requirement:**
-Occasional travel may be required up to 10% per year
-
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors
-
-**Security clearance:**
-Public trust. Background investigation required.
-
-**Work Schedule:**
-Full time
-
-**Appointment Type:**
-Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
-
-## Job Summary
-
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
-
-As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
-
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
-
-GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
-You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
-
-- Health insurance (choose from a wide range of plans)
-- Life insurance coverage with several options
-- Sick leave and vacation time, including 10 paid holidays per year
-- Thrift Savings Plan (similar to a 401(k) plan)
-- Flexible work schedules and telework
-- Transit and child care subsidies
-- Training and development
-- Flexible spending accounts
-- Long-term care insurance
-- Training and development
-
-## Key Requirements
-
-1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
-2. Suitable for federal employment, determined by a background investigation.
-3. You may be required to serve a trial period.
-4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are a male born after 12/31/1959.
-
-## Employment Requirements
-- Serve a one year trial period, if required.
-- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
-- Any discrepancies must be resolved as a condition of continued employment.
-- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
-
-## Duties
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward-thinking design and development principles to product or services development, delivery and program management, such as lean startup, user-centered design, and agile development;
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions;
-- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences;
-- Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services, leading to their adoption across citizen and business-facing government services;
-- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles.
-
-
-
-
-For each job on your resume, provide:
-- the exact dates you held each job (from month/year to month/year or “present”)
-- number of hours per week you worked (if part time)
