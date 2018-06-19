@@ -36,11 +36,14 @@ We’re hiring a Visual Designer for 18F to help us build amazing products for o
 
 ### Visual Designer 
 
-Visual designers on the experience design team at 18F craft highly usable and beautiful digital experiences for audiences inside and outside of government. Our clients are agencies of the U.S. government, and our work must reflect and help preserve the integrity of our national image. Our visual designers collaborate with agency partners, product managers, other designers, and engineers to establish and evolve design patterns which make our work consistent and efficient.
+Visual designers on the 18F experience design team collaborate with agency partners, product managers, other designers, and engineers to deliver user-centered and beautiful digital experiences for audiences both inside and outside of government. Our visual designers go far beyond aesthetics. They work with partners to craft strategies for understanding, defining, creating, and managing visual identities. They establish, measure, and evolve design patterns which make our work consistent and efficient. Our visual designers work with user experience researchers to teach, participate in, and sometimes lead usability testing and user-centered design. And they work with content designers and engineers to develop interactive experiences that treat all aspects of the experience as essential. Strong applicants will have experience with at least one other user-centered design discipline such as communications/content design, front end design, interaction design, or service design.
 
-Visual designers will foster best practices in user-centered visual design systems within 18F/TTS and across the federal government through product delivery, advocacy, and coaching.
+As an 18F visual designer, you’ll work on cross-functional teams of experts in design, product strategy, technical architecture, software engineering, and procurement. Besides creating and maintaining clear, accessible visual systems, you’ll also help our partners improve (or develop) their user-centered design practices and promote visual best practices across government.  
 
-We're looking for candidates who have visual identity and design system experience along with a background in at least one other user-centered design discipline such as communications/content design, front end design, interaction design, or service design on digital teams that practice agile or iterative delivery.
+The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our designers focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to create beautiful products. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place. 
+
+We’re looking for candidates who have delivered visual design artifacts iteratively, who have wrestled with the challenges of producing intelligent and compelling visual design systems (large or small) in large organizations that have to balance competing interests, who love to help others discover better ways of creating design for real users even more than they love making it. 
+
 
 ## Key Objectives
 
