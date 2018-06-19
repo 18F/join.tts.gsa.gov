@@ -2,7 +2,7 @@
 title: Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
 state: open
-closes: June 24, 2018, 11:59pm EDT
+closes: July 6, 2018, 11:59pm EDT
 apply_url: https://apply.pif.gov/
 contact_name: Deb Baptiste
 contact_email: jointts@gsa.gov
@@ -128,7 +128,7 @@ deliver with integrity, ensuring compliance at all levels.
 1800335JCOTR
 
 **Opening and closing period for this job application:**
-Tuesday, April 24, 2018 - Sunday, June 24, 2018 at 11:59pm EST
+Tuesday, April 24, 2018 - Sunday, July 6, 2018 at 11:59pm EST
 
 **Job Title:**
 Industry Specialist
