@@ -48,16 +48,10 @@ includes key objectives for the role as well as the official job description. Th
 
 ### Strategist GS-15
 
-Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they
-present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners
-to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will
-include aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in
-the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy
-for our partners and the people who use their systems.
+Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include articulating what the current state is, aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems. 
 
-We're looking for senior-level candidates who have consulting experience along with a background in a user-centered design
-or strategy discipline such as digital strategy, service design, user experience design, content design/strategy, user
-research, product or software development. Experience in an agile development environment a plus.
+We're looking for a senior-level candidate in the Washington, D.C. area who has consulting experience along with a background in a user-centered design or digital strategy discipline. Experience in an agile development environment a plus.
+
 
 ## Key Objectives
 
@@ -88,6 +82,7 @@ in a way that’s easy for stakeholders to understand.
 
 ### Objective #4: Contribute to your team’s continued success
 - Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
+- Participate in business development by understanding what our agency partners need and articulating how 18F might be able to help them achieve it.
 - Contribute to team-wide reusable resources and materials.
 - Recognize when practices no longer serve the team and recommend a way forward.
 - Share your work in an unfinished state and give peer feedback in critique sessions.
@@ -95,9 +90,6 @@ in a way that’s easy for stakeholders to understand.
 differences.
 
 ## Basic Information
-
-**Job announcement number:**
-
 
 **Opening and closing period for this job application:**
 Monday, June 25th to Friday, June 29th, 2018 8:00pm Eastern (close)
