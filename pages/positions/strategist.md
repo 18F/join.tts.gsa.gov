@@ -4,10 +4,10 @@ permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
   - /join/strategist-gs15/
-state: closed
-# closes: MONTH DAY, YEAR, TIME EDT
+state: upcoming
+# closes: June 29, 2018, 8:00pm EDT
 # apply_url:
-contact_name: Elizabeth Scott
+# contact_name: Stephanie Fonteneaux 
 contact_email: jointts@gsa.gov
 
 subnav:
@@ -30,9 +30,7 @@ subnav:
 ---
 
 We're hiring a Strategist for 18F at the GS-15 level to help us build amazing products for our agency partners. This page
-includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page
-are specific to the GS-15 level position. You can apply at the bottom or learn more about the application process
-at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+includes key objectives for the role as well as the official job description. The Qualifications and Duties on this page are specific to the GS-15 level position. Applicants must be willing to relocate to Washington, DC. You can sign up to our mailing list, at the bottom, to be notified when we are accepting applications or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
 - [Role summary](#role-summary)
@@ -99,10 +97,10 @@ differences.
 ## Basic Information
 
 **Job announcement number:**
-1800400JCOTR
+
 
 **Opening and closing period for this job application:**
-Monday, April 23rd to Friday, April 27th, 2018 11:59pm Eastern (close)
+Monday, June 25th to Friday, June 29th, 2018 8:00pm Eastern (close)
 
 **Job Title:**
 Innovation Specialist
@@ -113,26 +111,23 @@ Innovation Specialist
 **Promotion Potential:**
 GS-15
 
-**Salary Range:** Base salary GS-15 - $103,672 to $134,776<br>
-
-_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
+**Salary Range:** Base salary GS-15 - $134,789 to $164,200. <br>
+_If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
 
 **Location:**
- Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
+ Washington, DC
 
 **Number of vacancies:**
-3 (Additional vacancies may be filled from announcement as needed)
+1 (Additional vacancies may be filled from announcement as needed)
 
 **Supervisory status:**
-_No_
+No
 
 **Travel requirement:**
 Occasional travel may be required up to 10-20% per year
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be
-GSA employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply. 
 
 **Security clearance:**
 Public trust. Background investigation required.
@@ -141,7 +136,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service – Not to exceed 2 years; may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 ## Job Summary
 
@@ -231,24 +226,22 @@ Within each category, veterans will receive selection priority over non-veterans
 ## Qualifications
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized
-experience is:<br>
+experience for this position is:<br>
 Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must
 include **ALL** of the following:
-- Navigating bureaucracy, building coalitions and leading stakeholders with disparate views through change
-- Collaborating with cross-functional teams to achieve organizational or project objectives
-- Leading client-facing consulting projects or initiatives
+
+  1. Leading client-facing consulting projects or initiatives
+  2. Collaborating with cross-functional teams to achieve organizational or project objectives
+  3. Getting buy-in from stakeholders to effect change
+
 
 Experience applying user-centered design disciplines to the development of products or services. This experience must
 include at least **ONE** of the following:
-- Leading cross-functional teams in the user research and design digital products or services using user experience
-principles & practices.
-- Creating and managing product vision and leading cross functional teams in the iterative development of digital products
-or services using agile development methodologies
-- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side
-languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, Javascript) and database
-and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
-- Leading the development of content strategies or initiatives and delivery of user-centered content (e.g. copywriting,
-landing pages, interface language, mobile notifications, launch materials) for web or digital products.
+
+  1. Leading teams in the user research of digital products or services.
+  2. Leading teams in the iterative development of digital products or services using agile development methodologies.
+  3. Leading the development of content strategies for web or digital products.
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide
 this information may result in disqualification.
