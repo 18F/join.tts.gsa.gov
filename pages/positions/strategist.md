@@ -5,7 +5,9 @@ redirect_from:
   - /join/strategist-gs15-closed/
   - /join/strategist-gs15/
 state: upcoming
+# opens: 
 # closes: June 29, 2018, 8:00pm EDT
+gs_level: GS-15
 # apply_url:
 # contact_name: Stephanie Fonteneaux 
 contact_email: jointts@gsa.gov
@@ -29,7 +31,7 @@ subnav:
     href: "#what-to-expect"
 ---
 
-We're hiring a Strategist for 18F at the GS-15 level to help us build amazing products for our agency partners. This page
+We're hiring a {{ page.title }} for 18F at the {{ page.gs_level }} level to help us build amazing products for our agency partners. This page
 includes key objectives for the role as well as the official job description. The Qualifications and Duties on this page are specific to the GS-15 level position. Applicants must be willing to relocate to Washington, DC. You can sign up to our mailing list, at the bottom, to be notified when we are accepting applications or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 
 **Quick Links to Posting Sections**
