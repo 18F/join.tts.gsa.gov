@@ -1,5 +1,5 @@
 ---
-title: Strategist1
+title: Strategist
 permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
@@ -7,7 +7,7 @@ redirect_from:
 state: upcoming
 # opens: 
 # closes: June 29, 2018, 8:00pm EDT
-gs_level: GS-151
+gs_level: GS-15
 # apply_url:
 # contact_name: Stephanie Fonteneaux 
 contact_email: jointts@gsa.gov
