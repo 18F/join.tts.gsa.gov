@@ -1,8 +1,23 @@
 ---
-title: TITLE
-permalink: join/OFFICE-ROLE-GS LEVEL/
-state: ENTER STATE HERE (open, closed, upcoming, usajobs)
+title: Test Job
+permalink: join/thisisonlyatest/
+state: open
+job_announcement_number: 123456
+pd_job_title: Innovation Specialist
+num_vacancies: 1
+gs_level: GS-15
+series: 0301
+location: Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual
+salary_min: $0
+salary_max: $123,456
+org: TTS
+opens: June 21, 2018, 8:00am EDT
+closes: June 22, 2018, 8:00am EDT
+# apply_url: URL
+# contact_name: NAME
+contact_email: jointts@gsa.gov
 
+# state: ENTER STATE HERE (open, closed, upcoming, usajobs)
 # job_announcement_number: ENTER JOB ANNOUNCEMENT NUMBER
 # pd_job_title: Innovation Specialist ENTER TITLE IF DIFFERENT
 # num_vacancies: ENTER NUMBER OF VACANCIES
@@ -17,6 +32,7 @@ state: ENTER STATE HERE (open, closed, upcoming, usajobs)
 # apply_url: URL
 # contact_name: NAME
 contact_email: jointts@gsa.gov
+
 
 ---
 
