@@ -4,7 +4,7 @@ permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
   - /join/strategist-gs15/
-state: open
+state: upcoming
 # closes: June 29, 2018, 8:00pm EDT
 # apply_url:
 # contact_name: Stephanie Fonteneaux 
