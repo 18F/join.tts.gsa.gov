@@ -4,7 +4,7 @@ permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
   - /join/strategist-gs15/
-state: upcoming
+state: open
 # closes: June 29, 2018, 8:00pm EDT
 # apply_url:
 # contact_name: Stephanie Fonteneaux 
@@ -29,8 +29,11 @@ subnav:
     href: "#what-to-expect"
 ---
 
-We're hiring a Strategist for 18F at the GS-15 level to help us build amazing products for our agency partners. This page
-includes key objectives for the role as well as the official job description. The Qualifications and Duties on this page are specific to the GS-15 level position. Applicants must be willing to relocate to Washington, DC. You can sign up to our mailing list, at the bottom, to be notified when we are accepting applications or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{% if page.state == 'upcoming' %}
+TTS will soon be accepting applications for a GS-15 Strategist at 18F to help us build amazing products for our agency partners. You can sign up to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link">mailing list</a> if you would like to be notified when applications are open or new positions are being posted. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{% else %}
+We're hiring a Strategist at 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{% endif %}
 
 **Quick Links to Posting Sections**
 - [Role summary](#role-summary)
