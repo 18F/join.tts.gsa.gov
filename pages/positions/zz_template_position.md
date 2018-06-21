@@ -37,9 +37,9 @@ contact_email: jointts@gsa.gov
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a {{ gs_level }} {{ page.title }}. The estimated date for when the official application will be open for submission is {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please note that this is just an estimate and it's possible that the posting is delayed. You can sign up to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link">mailing list</a> if you would like to be notified when applications are open or new positions are being posted. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{{ page.org }} will soon be accepting applications for a {{ page.gs_level }} {{ page.title }}. The estimated date for when the official application will be open for submission is {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please note that this is just an estimate and it's possible that the posting is delayed. You can sign up to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link">mailing list</a> if you would like to be notified when applications are open or new positions are being posted. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 {% else %}
-{{ page.org }} is hiring for {{ gs_level }} {{ page.title }}. This page contais information related to the role as well as a link to submit your application. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{{ page.org }} is hiring for {{ page.gs_level }} {{ page.title }}. This page contais information related to the role as well as a link to submit your application. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
 {% endif %}
 
 **Quick Links to Posting Sections**
