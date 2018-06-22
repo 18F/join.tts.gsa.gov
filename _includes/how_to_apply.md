@@ -2,12 +2,9 @@
 
 {% if page.state == 'upcoming' %}
 {% include upcoming_statement.html %}
-{% else %}
-
-{% if page.state == 'closed' %}
+{% elsif page.state == 'closed' %}
 We're sorry, this job has closed.
 {% else %}
-
 {% if page.job_post_type == 'usajobs' %}
 Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please fill out all applicable fields.
 
@@ -19,7 +16,7 @@ In order to apply for this job you must submit an application via the USAJOBS po
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
 
-{% elsif page.job_post_type == 'tts' % }
+{% elsif page.job_post_type == 'tts' %}
 Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please fill out all applicable fields.
 
 <section class="usa-grid-full">
@@ -83,6 +80,5 @@ After the closing date:
 4. **FINAL JOB OFFER:** Once our security office determines you can come on board, you will be given a final offer.
 
 **Thank you for your interest in working for U.S. General Services Administration!**
-{% endif %}
 {% endif %}
 {% endif %}
