@@ -66,7 +66,8 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 - Give agency partners and peers advice they need to hear versus what they want to hear, in a manner that respects their intelligence and experience.
 
 ### Objective #2: Deliver high-quality, user-centered visual design for agency partners.
-- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment. Examples include selecting and applying appropriate styles from the U.S. Web Design System, building interface patterns, looks-like/works-like prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials.
+- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment.<br< 
+_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, looks-like/works-like prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
 - Iterate quickly by collaborating on prototypes at various levels of fidelity.
 - Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions.
 - Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools.
@@ -88,19 +89,19 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ## Qualifications
 To qualify, you must have one year of specialized experience equivalent to the GS-13 in the Federal service.  Specialized experience is:
-- Experience leading the design of digital products as part of a cross-functional team. This experience must include ALL of the following:
+- Experience leading the design of digital products as part of a cross-functional team. This experience must include **ALL** of the following:
   - Leading teams of designers or leading the design process 
   - Collaborating with non-designers (including developers, product managers, or clients)
   - Mentoring, coaching, or training clients, partners, or team members.
 
-- Experience crafting digital experiences using visual identity and design system methodologies. Experience must include ALL of the following:
+- Experience crafting digital experiences using visual identity and design system methodologies. Experience must include **ALL** of the following:
   - Conducting visual identity or brand design
   - Conducting user-centered design research activities to identify user needs
   - Wireframing or prototyping 
   - Designing for desktop and mobile devices. 
   - Using agile, lean or other iterative product development approaches
 
-- Experience executing product design within the framework of a specialized design domain. Experience must include ONE of the following:
+- Experience executing product design within the framework of a specialized design domain. Experience must include **ONE** of the following:
   - Conducting Communications design
   - Conducting Content design
   - Conducting Front end design
