@@ -10,7 +10,7 @@ job_post_type: tts
 job_announcement_number: 1800335JCOTR
 ohrm_comtact_email: jacqueline.coleman@gsa.gov
 ohrm_contact_name: Jacqueline Coleman
-bargaining_unit: Non Bargaining Unit
+bargaining_status: Non Bargaining Unit
 
 subnav:
   - text: Role summary
