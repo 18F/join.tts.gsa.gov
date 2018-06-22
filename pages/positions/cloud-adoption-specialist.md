@@ -8,12 +8,12 @@ redirect_from:
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
-state: usajobs
+state: open
 closes: June 25, 2018, 11:59pm EDT
 apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
 contact_name: Amanda Schonfeld
 contact_email: jointts@gsa.gov
-
+job_post_type: usajobs
 
 subnav:
  - text: Basic information
