@@ -115,8 +115,8 @@ To qualify for this role, you must have one year of specialized experience equiv
 ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 {% else %}
+
 {{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
-{% endif %}
 
 **Quick Links to Posting Sections**
 - [Role summary](#role-summary)
@@ -204,3 +204,5 @@ and following our general guidance on creating federal style resume.
 To qualify for this role, you must have one year of specialized experience equivalent to the GS {{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
+
+{% endif %}
