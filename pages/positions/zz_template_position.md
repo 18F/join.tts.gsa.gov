@@ -1,12 +1,12 @@
 ---
 title: Test Job
 permalink: join/thisisonlyatest/
-state: open
+state: upcoming
 job_announcement_number: 123456
 pd_job_title: Innovation Specialist
 num_vacancies: 1
 gs_level: GS-15
-series: 0301
+testwithoutsries: 0301
 location: Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual
 salary_min: $0
 salary_max: $123,456
@@ -28,7 +28,7 @@ job_post_type: usajobs
 # pd_job_title: Innovation Specialist ENTER TITLE IF DIFFERENT
 # num_vacancies: ENTER NUMBER OF VACANCIES
 # gs_level: ENTER GS LEVEL (GS-13, GS-14, GS-15, etc)
-# series: 0301 ENTER SERIES IF DIFFERENT
+# pd_series: 0301 ENTER SERIES IF DIFFERENT
 # location: ENTER LOCATIONS (Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual) 
 # salary_min: ENTER SALARY MIN ($XXX,XXX)
 # salary_max: ENTER SALARY MAX ($XXX,XXX)
@@ -46,9 +46,9 @@ job_post_type: usajobs
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a {{ page.gs_level }} {{ page.title }}. The estimated date for when the official application will be open for submission is {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please note that this is just an estimate and it's possible that the posting is delayed. You can sign up to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link">mailing list</a> if you would like to be notified when applications are open or new positions are being posted. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{{ page.org }} will soon be accepting applications for a {{ page.gs_level }} {{ page.title }}. The estimated date for when the official application will be open for submission is {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please note that this is just an estimate and it's possible that the posting is delayed. You can sign up to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link">mailing list</a> if you would like to be notified when applications are open or new positions are being posted. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
 {% else %}
-{{ page.org }} is hiring for {{ page.gs_level }} {{ page.title }}. This page contais information related to the role as well as a link to submit your application. To learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{{ page.org }} is hiring for {{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
 {% endif %}
 
 **Quick Links to Posting Sections**
@@ -68,7 +68,7 @@ job_post_type: usajobs
 {{ page.pd_job_title }}
 
 **Series & Grade:**
-{{ page.series }} - {{ page.gs_level }}
+{{ page.testwithoutsries }} - {{ page.gs_level }}
 
 **Location:**
 {{ page.location }}
