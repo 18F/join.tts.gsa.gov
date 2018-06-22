@@ -19,8 +19,11 @@ contact_email: jointts@gsa.gov
 ohrm_comtact_email: ohrm@gsa.gov
 ohrm_contact_name: Jacqueline Coleman
 bargaining_unit: Non Bargaining Unit
+job_post_type: tts
 
-# state: ENTER STATE HERE (open, closed, upcoming, usajobs)
+
+
+# state: ENTER STATE HERE (open, closed, upcoming)
 # job_announcement_number: ENTER JOB ANNOUNCEMENT NUMBER
 # pd_job_title: Innovation Specialist ENTER TITLE IF DIFFERENT
 # num_vacancies: ENTER NUMBER OF VACANCIES
@@ -38,6 +41,7 @@ bargaining_unit: Non Bargaining Unit
 # ohrm_comtact_email: ENTER OHRM CONTACT EMAIL
 # ohrm_contact_name: ENTER OHRM CONTACT NAME
 # bargaining_unit: Non Bargaining Unit
+# job_post_type: ENTER THE TYPE OF POST (tts OR usajobs)
 
 ---
 
