@@ -19,7 +19,7 @@ contact_email: jointts@gsa.gov
 ohrm_comtact_email: ohrm@gsa.gov
 ohrm_contact_name: Jacqueline Coleman
 bargaining_unit: Non Bargaining Unit
-job_post_type: tts
+job_post_type: usajobs
 
 
 
