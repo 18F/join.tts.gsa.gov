@@ -5,32 +5,44 @@ redirect_from:
   - /join/18f-visual-designer-closed/
   - /join/18f-visual-designer/
 state: upcoming
-# closes: MONTH DAY, YEAR, TIME EDT
-# apply_url: https://goo.gl/forms/sscRglEbs6SwZdpo2
+opens: June 25, 2018 8:00am EDT
+closes: June 29, 2018 8:00pm EDT
+apply_url: https://goo.gl/forms/76B326K0y8JkmjuB2
 contact_name: Liz Scott
 contact_email: jointts@gsa.gov
-
-subnav:
-  - text: Role summary
-    href: "#role-summary"
-  - text: Basic information
-    href: "#basic-information"
-  - text: Requirements
-    href: "#key-requirements"
-  - text: Duties
-    href: "#duties"
-  - text: How to apply
-    href: "#how-to-apply"
+org: 18F
+gs_level: GS-14
+pd_series: 0301
+location: Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)
+salary_min: $89,370.00
+salary_max: $116,181.00
 
 ---
 
-We’re hiring a Visual Designer for 18F to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-14 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
-
-**Quick Links to Posting Sections**
-- [Role summary](#role-summary)
-- [Basic information](#basic-information)
+{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for a {{ page.gs_level }} {{ page.title }}. Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+{% else %}
+{{ page.org }} is hiring for {{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+{% endif %}
 
 **Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
+
+## Basic Information
+
+**Opening and closing period for this job application:**
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+
+**Series & Grade:**
+{{ page.pd_series }} - {{ page.gs_level }}
+
+**Location:**
+{{ page.location }}
+
+**Salary Range:**
+Base salary - {{ page.salary_min }} to {{ page.salary_max }}
+
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+
 
 ## Role Summary:
 
@@ -74,3 +86,25 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors
+
+## Qualifications
+To qualify, you must have one year of specialized experience equivalent to the GS-13 in the Federal service.  Specialized experience is:
+- Experience leading the design of digital products as part of a cross-functional team. This experience must include ALL of the following:
+  - Leading teams of designers or leading the design process 
+  - Collaborating with non-designers (including developers, product managers, or clients)
+  - Mentoring, coaching, or training clients, partners, or team members.
+
+- Experience crafting digital experiences using visual identity and design system methodologies. Experience must include ALL of the following:
+  - Conducting visual identity or brand design
+  - Conducting user-centered design research activities to identify user needs
+  - Wireframing or prototyping 
+  - Designing for desktop and mobile devices. 
+  - Using agile, lean or other iterative product development approaches
+
+- Experience executing product design within the framework of a specialized design domain. Experience must include ONE of the following:
+  - Conducting Communications design
+  - Conducting Content design
+  - Conducting Front end design
+  - Conducting Interaction (or UX) design
+  - Conducting Service design
+
