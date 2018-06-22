@@ -80,5 +80,7 @@ After the closing date:
 4. **FINAL JOB OFFER:** Once our security office determines you can come on board, you will be given a final offer.
 
 **Thank you for your interest in working for U.S. General Services Administration!**
+
 {% endif %}
+
 {% endif %}
