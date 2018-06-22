@@ -13,9 +13,12 @@ salary_max: $123,456
 org: TTS
 opens: June 21, 2018, 8:00am EDT
 closes: June 22, 2018, 8:00am EDT
-# apply_url: URL
-# contact_name: NAME
+apply_url: www.google.com
+contact_name: Tester
 contact_email: jointts@gsa.gov
+ohrm_comtact_email: ohrm@gsa.gov
+ohrm_contact_name: Jacqueline Coleman
+bargaining_unit: Non Bargaining Unit
 
 # state: ENTER STATE HERE (open, closed, upcoming, usajobs)
 # job_announcement_number: ENTER JOB ANNOUNCEMENT NUMBER
@@ -29,10 +32,12 @@ contact_email: jointts@gsa.gov
 # org: ENTER ORG NAME HERE
 # opens: MONTH DAY, YEAR, TIME EDT
 # closes: MONTH DAY, YEAR, TIME EDT
-# apply_url: URL
+# apply_url: APPLICATION URL
 # contact_name: NAME
-contact_email: jointts@gsa.gov
-
+# contact_email: jointts@gsa.gov
+# ohrm_comtact_email: ENTER OHRM CONTACT EMAIL
+# ohrm_contact_name: ENTER OHRM CONTACT NAME
+# bargaining_unit: Non Bargaining Unit
 
 ---
 
