@@ -1,7 +1,7 @@
 ---
 title: Test Job
 permalink: join/thisisonlyatest/
-state: upcoming
+state: open
 job_announcement_number: 123456
 pd_job_title: Innovation Specialist
 num_vacancies: 1
