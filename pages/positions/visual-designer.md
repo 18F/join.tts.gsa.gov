@@ -12,7 +12,7 @@ contact_name: Liz Scott
 contact_email: jointts@gsa.gov
 org: 18F
 gs_level: GS-14
-pd_series: 0301
+pdseries: 0301
 location: Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)
 salary_min: $89,370.00
 salary_max: $116,181.00
@@ -33,7 +33,7 @@ salary_max: $116,181.00
 {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
 
 **Series & Grade:**
-{{ page.pd_series }} - {{ page.gs_level }}
+{{ page.pdseries }} - {{ page.gs_level }}
 
 **Location:**
 {{ page.location }}
