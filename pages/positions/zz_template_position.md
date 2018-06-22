@@ -3,27 +3,26 @@ title: Test Job
 permalink: join/thisisonlyatest/
 
 state: open
-job_announcement_number: 123456
-pd_job_title: Innovation Specialist
-num_vacancies: 1
+job_announcement_number: '123456'
+pd_job_title: 'Innovation Specialist'
+num_vacancies: '1'
 gs_level: 15
-series: 301
-location: Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)
-salary_min: 0
-salary_max: 123,456
-org: TTS
+series: '0301'
+location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+salary_min: '0'
+salary_max: '123,456'
+org: 'TTS'
 opens: June 21, 2018, 8:00am EDT
 closes: June 22, 2018, 8:00am EDT
 apply_url: www.google.com
-contact_name: Tester
-contact_email: jointts@gsa.gov
-ohrm_comtact_email: ohrm@gsa.gov
-ohrm_contact_name: Jacqueline Coleman
-bargaining_unit: Non Bargaining Unit
+contact_name: 'Tester'
+contact_email: 'jointts@gsa.gov'
+ohrm_comtact_email: 'ohrm@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
 job_post_type: tts
 promotion_potential: 15
-supervisory_status: No
-
+supervisory_status: 'No'
 
 # state: ENTER STATE HERE (open, closed, upcoming)
 # job_announcement_number: ENTER JOB ANNOUNCEMENT NUMBER
