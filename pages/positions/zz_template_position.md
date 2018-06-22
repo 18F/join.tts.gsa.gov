@@ -69,7 +69,7 @@ employees or contractors
 
 ## Role Summary:
 
-### {{ page.title }} - GS-{{ gs_level }}
+### {{ page.title }} - GS-{{ page.gs_level }}
 
 ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
 
@@ -169,7 +169,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Role Summary:
 
-### {{ page.title }} - GS-{{ gs_level }}
+### {{ page.title }} - GS-{{ page.gs_level }}
 
 ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
 
