@@ -6,6 +6,11 @@ closes: July 6, 2018, 11:59pm EDT
 apply_url: https://apply.pif.gov/
 contact_name: Deb Baptiste
 contact_email: jointts@gsa.gov
+job_post_type: tts
+job_announcement_number: 1800335JCOTR
+ohrm_comtact_email: jacqueline.coleman@gsa.gov
+ohrm_contact_name: Jacqueline Coleman
+bargaining_unit: Non Bargaining Unit
 
 subnav:
   - text: Role summary
