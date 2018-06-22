@@ -66,7 +66,7 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 - Give agency partners and peers advice they need to hear versus what they want to hear, in a manner that respects their intelligence and experience.
 
 ### Objective #2: Deliver high-quality, user-centered visual design for agency partners.
-- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment.<br< 
+- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment.<br> 
 _Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, looks-like/works-like prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
 - Iterate quickly by collaborating on prototypes at various levels of fidelity.
 - Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions.
