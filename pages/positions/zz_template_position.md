@@ -6,7 +6,7 @@ job_announcement_number: 123456
 pd_job_title: Innovation Specialist
 num_vacancies: 1
 gs_level: GS-15
-testwithoutsries: 0301
+testwithoutsries: 301
 location: Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual
 salary_min: $0
 salary_max: $123,456
