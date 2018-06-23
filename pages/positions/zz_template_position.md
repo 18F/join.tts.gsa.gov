@@ -1,50 +1,36 @@
 ---
-title: Test Job
-permalink: join/thisisonlyatest/
+# INSTRUCTIONS: These fields are always required
 
-state: open
-job_announcement_number: '123456'
-pd_job_title: 'Innovation Specialist'
-num_vacancies: '1'
-gs_level: 15
-series: '0301'
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-salary_min: '0'
-salary_max: '123,456'
-org: 'TTS'
-opens: June 21, 2018, 8:00am EDT
-closes: June 22, 2018, 8:00am EDT
-apply_url: www.google.com
-contact_name: 'Tester'
-contact_email: 'jointts@gsa.gov'
-ohrm_comtact_email: 'ohrm@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
-bargaining_unit: 'Non Bargaining Unit'
-job_post_type: tts
-promotion_potential: 15
-supervisory_status: 'No'
+title: ENTER ROLE TITLE HERE
+permalink: join/ENTER ROLE TITLE HERE/
+state: ENTER STATE HERE (open, closed, upcoming)
+job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
 
-# state: ENTER STATE HERE (open, closed, upcoming)
-# job_announcement_number: ENTER JOB ANNOUNCEMENT NUMBER
-# pd_job_title: Innovation Specialist (ENTER TITLE IF DIFFERENT)
-# num_vacancies: ENTER NUMBER OF VACANCIES
-# gs_level: ENTER GS LEVEL (13, 14, 15, etc)
-# series: 301 ENTER SERIES IF DIFFERENT (DO NOT USE A LEADING '0', IT WILL NOT WORK)
-# location: ENTER LOCATIONS - Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)
-# salary_min: ENTER SALARY MIN (XXX,XXX)
-# salary_max: ENTER SALARY MAX (XXX,XXX)
-# org: ENTER ORG NAME HERE (18F, Centers of Excellence, etc.)
+# INSTRUCTIONS: These fields are required for upcoming
+
 # opens: MONTH DAY, YEAR, TIME EDT
 # closes: MONTH DAY, YEAR, TIME EDT
+# location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+# gs_level: ENTER GS LEVEL (13, 14, 15, etc)
+# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
+# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
+# org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
+# contact_name: 'TTS TALENT TEAM NAME'
+# contact_email: 'jointts@gsa.gov'
+
+
+# INSTRUCTIONS: These fields are required for open
+
+# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+# num_vacancies: 'ENTER NUMBER OF VACANCIES'
+# series: '0301' ENTER SERIES IF DIFFERENT
 # apply_url: APPLICATION URL
-# contact_name: TTS TALENT TEAM NAME
-# contact_email: jointts@gsa.gov
-# ohrm_comtact_email: ENTER OHRM CONTACT EMAIL
-# ohrm_contact_name: ENTER OHRM CONTACT NAME
-# bargaining_unit: Non Bargaining Unit
-# job_post_type: ENTER THE TYPE OF POST (tts OR usajobs)
-# promotion_potential: ENTER THE GS LEVEL (13, 14, 15, etc.)
-# supervisory_status: (YES or NO)
+# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
+# supervisory_status: 'YES' or 'NO'
 
 
 ---
