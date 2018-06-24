@@ -6,6 +6,10 @@ closes: July 6, 2018, 11:59pm EDT
 apply_url: https://apply.pif.gov/
 contact_name: Deb Baptiste
 contact_email: jointts@gsa.gov
+job_announcement_number: '1800335JCOTR'
+ohrm_contact_name: 'Brinkley Hypes'
+ohrm_comtact_email: 'brinkley.hypes@gsa.gov'
+
 
 subnav:
   - text: Role summary
