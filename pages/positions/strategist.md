@@ -4,11 +4,14 @@ permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
   - /join/strategist-gs15/
-state: upcoming
-# closes: June 29, 2018, 8:00pm EDT
-# apply_url:
-# contact_name: Stephanie Fonteneaux 
+state: open
+closes: June 29, 2018, 8:00pm EDT
+apply_url: https://goo.gl/forms/csEd3YKndwH8CNvi2
+contact_name: Stephanie Fonteneaux
 contact_email: jointts@gsa.gov
+job_announcement_number: '1800400JCOTR'
+ohrm_contact_name: 'Jacqueline Coleman'
+ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 
 subnav:
   - text: Role summary
