@@ -58,7 +58,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
 
 **Series & Grade:**
-0301 - {{ page.gs_level }}
+{{ page.series }} - {{ page.gs_level }}
 
 **Location:**
 {{ page.location }}
@@ -202,7 +202,7 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 {{ page.pd_job_title }}
 
 **Series & Grade:**
-{{ page.series }} - GS-{{ page.gs_level }}
+{{ page.series }} - {{ page.gs_level }}
 
 **Promotion Potential:** 
 GS-{{ page.promotion_potential }}
