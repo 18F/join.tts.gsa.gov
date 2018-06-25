@@ -5,52 +5,58 @@ redirect_from:
   - join/upcoming-coe-infrastructure-optimization-specialist/
   - join/coe-infrastructure-optimization-specialist/
 state: upcoming
+job_post_type: tts
+
+# INSTRUCTIONS UPCOMING: These fields are required for upcoming
+
+opens: tbd
 # closes: MONTH DAY, YEAR, TIME EDT
-# apply_url: URL
-# contact_name: NAME
-contact_email: jointts@gsa.gov
+location: 'Washington, DC'
+gs_level: 15
+salary_min: '105,123'
+salary_max: '136,659'
+org: 'Centers of Excellence'
+contact_name: 'Amanda Schonfeld'
+contact_email: 'jointts@gsa.gov'
 
+# INSTRUCTIONS OPEN: These fields are required for open
 
-subnav:
- - text: Basic information
-   href: "#basic-information"
- - text: Role summary
-   href: "#role-summary"
- - text: How to apply
-   href: "#how-to-apply"
+# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+# num_vacancies: 'ENTER NUMBER OF VACANCIES'
+# series: '0301' ENTER SERIES IF DIFFERENT
+# apply_url: APPLICATION URL
+# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
+# supervisory_status: 'YES' or 'NO'
 ---
-
-The TTS Centers of Excellence (CoE) office is looking for someone to join their team as a Infrastructure Optimization Specialist(GS15). This page includes basic information about the role, the role summary and key objectives needed in order to perform the role well.
-
-**Quick Links to Posting Sections**
-- [Basic information](#basic-information)
-- [Role summary](#role-summary)
-- [How to apply](#how-to-apply)
+{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
+{% if page.opens == 'tbd' %}
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+{% else %}
+Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+{% endif %}
 
 ## Basic Information
 
-The Centers of Excellence (CoE) is an office within TTS that was created to accelerate the modernization of IT to improve
-the customer experience and reduce legacy IT spending across the government. It is made up of five teams: Contact Center, IT
-Infrastructure Optimization, Data & Analytics, Cloud Adoption, Customer Experience. The Infrastructure Optimization team is
-looking to hire a Infrastructure Optimization Specialist. This team assist agencies with the development of a unified and
-optimized IT infrastructure, leveraging federally owned data centers, cloud computing services, and commercial data centers
-(e.g. co-location).
-
-**Series & Grade:**
-0301-15
-
 **Location:**
-Washington, DC
+{{ page.location }}
 
 **Salary Range:**
-Base salary GS-15 - $134,789 to $164,200
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands)
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
+employees or contractors
 
 ## Role Summary:
 
-### Infrastructure Optimization Specialist (GS15)
+### {{ page.title }} - GS-{{ page.gs_level }}
 
 We are looking for an Infrastructure Optimization Specialist to join the IT Modernization Centers of Excellence (COE) to help develop the capabilities and services of our partner agencies.
 
@@ -84,3 +90,5 @@ You will need a thorough knowledge of infrastructure, networking, cloud, integra
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+
+{% endif %}
