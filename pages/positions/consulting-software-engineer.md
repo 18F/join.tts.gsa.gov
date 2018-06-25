@@ -1,12 +1,12 @@
 ---
 title: Consulting Software Engineer
-permalink: join/consulting-software-engineer/
+permalink: /join/consulting-software-engineer/
 redirect_from:
   - /join/upcoming-18F-consulting-software-engineer/
   - /join/consulting-software-engineer-gs15-closed/
   - /join/consulting-software-engineer-gs15/
   - /join/18F-consulting-software-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # opens: MONTH DAY, YEAR, TIME EDT
@@ -40,7 +40,7 @@ contact_email: jointts@gsa.gov
 {{ page.location }}
 
 **Salary Range:**
-Base salary - {{ page.salary_min }} to {{ page.salary_max }}
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
