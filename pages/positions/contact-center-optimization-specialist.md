@@ -2,14 +2,14 @@
 title: Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
 redirect_from:
-  - join/upcoming-coe-contact-center-optimization-specialist/
-  - join/coe-contact-center-optimization-specialist/
+  - /join/upcoming-coe-contact-center-optimization-specialist/
+  - /join/coe-contact-center-optimization-specialist/
 state: upcoming
 job_post_type: tts
 
 # opens: MONTH DAY, YEAR, TIME EDT
 # closes: MONTH DAY, YEAR, TIME EDT
-location:'Washington, DC'
+location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
 salary_max: '164,200'
