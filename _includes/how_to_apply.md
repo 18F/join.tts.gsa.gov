@@ -7,6 +7,7 @@
 {% if page.state == 'closed' %}
 We're sorry, this job has closed.
 {% else %}
+
 Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please fill out all applicable fields.
 
 <section class="usa-grid-full">
@@ -31,7 +32,7 @@ Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z
   - If you are claiming 10-point preference or derived preference (a spouse, widow or widower, or parent of a deceased or disabled veteran), submit both of the following in addition to the DD-214:
     - completed [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) form; and
     - proof of your entitlement; refer to [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) for complete list.
-    - **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to Jacqueline Coleman <jacqueline.coleman@gsa.gov> by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting 1800440JCOTR”.
+    - **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to {{ page.ohrm_contact_name }} at {{ page.ohrm_comtact_email }} by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting {{ page.job_announcement_number }}”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
 ## Other Information

@@ -4,7 +4,7 @@ permalink: /join/visual-designer/
 redirect_from:
   - /join/18f-visual-designer-closed/
   - /join/18f-visual-designer/
-state: upcoming
+state: open
 opens: June 25, 2018 8:00am EDT
 closes: June 29, 2018 8:00pm EDT
 apply_url: https://goo.gl/forms/76B326K0y8JkmjuB2
@@ -15,6 +15,10 @@ gs_level: GS-14
 location: Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)
 salary_min: $89,370.00
 salary_max: $116,181.00
+job_announcement_number: '1800481JCOTR'
+ohrm_contact_name: 'Jacqueline Coleman'
+ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+
 
 ---
 
