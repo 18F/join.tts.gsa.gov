@@ -9,7 +9,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-# opens: tbd
+opens: tbd
 # closes: MONTH DAY, YEAR, TIME EDT
 # location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 # gs_level: 15
