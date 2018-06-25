@@ -196,7 +196,7 @@ differences.
 {{ page.pd_job_title }}
 
 **Series & Grade:**
-{{ page.series }} - GS-{{ page.gs_level }}
+{{ page.series }} - {{ page.gs_level }}
 
 **Promotion Potential:** 
 GS-{{ page.promotion_potential }}
