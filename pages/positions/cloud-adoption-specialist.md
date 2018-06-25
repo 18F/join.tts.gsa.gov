@@ -204,3 +204,5 @@ Full time
 
 **Appointment Type:**
 Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+
+{% endif %}
