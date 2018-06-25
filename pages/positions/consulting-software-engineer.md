@@ -6,7 +6,7 @@ redirect_from:
   - /join/consulting-software-engineer-gs15-closed/
   - /join/consulting-software-engineer-gs15/
   - /join/18F-consulting-software-engineer/
-state: open
+state: upcoming
 job_post_type: tts
 
 # opens: MONTH DAY, YEAR, TIME EDT
