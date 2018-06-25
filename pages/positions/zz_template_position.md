@@ -1,12 +1,10 @@
 ---
-# INSTRUCTIONS: These fields are always required
-
 title: ENTER ROLE TITLE HERE
 permalink: join/ENTER ROLE TITLE HERE/
 state: ENTER STATE HERE (open, closed, upcoming)
 job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
 
-# INSTRUCTIONS: These fields are required for upcoming
+# INSTRUCTIONS UPCOMING:These fields are required for upcoming
 
 # opens: MONTH DAY, YEAR, TIME EDT
 # closes: MONTH DAY, YEAR, TIME EDT
@@ -19,7 +17,7 @@ job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
 # contact_email: 'jointts@gsa.gov'
 
 
-# INSTRUCTIONS: These fields are required for open
+# INSTRUCTIONS OPEN: These fields are required for open
 
 # job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
 # pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
@@ -31,7 +29,6 @@ job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
 # bargaining_unit: 'Non Bargaining Unit'
 # promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
 # supervisory_status: 'YES' or 'NO'
-
 
 ---
 
