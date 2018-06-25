@@ -17,7 +17,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS_OPEN: These fields are required for open
 job_announcement_number: '1800335JCOTR'
-pd_job_title: 'Innovation Specialist'
+pd_job_title: 'Presidential Innovation Fellow'
 num_vacancies: '25'
 series: '0301'
 apply_url: https://apply.pif.gov/
@@ -141,9 +141,6 @@ deliver with integrity, ensuring compliance at all levels.
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
-## Role Summary:
-
-### {{ page.title }} - GS-{{ page.gs_level }}
 
 ## Role Summary:
 
