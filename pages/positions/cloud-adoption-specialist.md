@@ -8,7 +8,7 @@ redirect_from:
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
-state: usajobs
+state: closed
 closes: June 25, 2018, 11:59pm EDT
 apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
 contact_name: Amanda Schonfeld
