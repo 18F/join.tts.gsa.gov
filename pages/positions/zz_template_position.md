@@ -1,10 +1,10 @@
 ---
 title: ENTER ROLE TITLE HERE
-permalink: join/ENTER ROLE TITLE HERE/
+permalink: /join/ENTER ROLE TITLE HERE/
 state: ENTER STATE HERE (open, closed, upcoming)
-job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
+job_post_type: usajobs
 
-# INSTRUCTIONS UPCOMING:These fields are required for upcoming
+# INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 # opens: MONTH DAY, YEAR, TIME EDT
 # closes: MONTH DAY, YEAR, TIME EDT
@@ -15,7 +15,6 @@ job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
 # org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
 # contact_name: 'TTS TALENT TEAM NAME'
 # contact_email: 'jointts@gsa.gov'
-
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
@@ -29,7 +28,6 @@ job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
 # bargaining_unit: 'Non Bargaining Unit'
 # promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
 # supervisory_status: 'YES' or 'NO'
-
 ---
 
 {% if page.state == 'upcoming' %}
@@ -41,7 +39,7 @@ job_post_type: 'ENTER THE TYPE OF POST' (tts OR usajobs)
 {{ page.location }}
 
 **Salary Range:**
-Base salary - {{ page.salary_min }} to {{ page.salary_max }}
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -225,7 +223,7 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-Copy and paste the competency bullet points from specialized experience/crediting plan. There are 5 competencies, with the last one being TTS Core Values Alignment
+COPY AND PASTE THE COMPETENCY BULLET POINTS FROM THE SPECIALIZED EXPERIENCE
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
