@@ -2,52 +2,58 @@
 title: Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
 state: open
-closes: July 6, 2018, 11:59pm EDT
-apply_url: https://apply.pif.gov/
-contact_name: Deb Baptiste
-contact_email: jointts@gsa.gov
 job_post_type: tts
-job_announcement_number: 1800335JCOTR
-ohrm_comtact_email: jacqueline.coleman@gsa.gov
-ohrm_contact_name: Jacqueline Coleman
-bargaining_status: Non Bargaining Unit
 
-subnav:
-  - text: Role summary
-    href: "#role-summary"
-  - text: Basic information
-    href: "#basic-information"
-  - text: Requirements
-    href: "#key-requirements"
-  - text: Duties
-    href: "#duties"
-  - text: Qualifications
-    href: "#qualifications"
-  - text: How to apply
-    href: "#how-to-apply"
-  - text: Other information
-    href: "#other-information"
-  - text: What to expect
-    href: "#what-to-expect"
+# INSTRUCTIONS UPCOMING: These fields are required for upcoming
+opens: April 24, 2018, 11:59pm EDT
+closes: July 6, 2018, 11:59pm EDT
+location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+gs_level: 15
+salary_min: '105,123'
+salary_max: '136,659'
+org: 'Presidential Innovation Fellows'
+contact_name: 'Deb Baptiste'
+contact_email: 'jointts@gsa.gov'
+
+# INSTRUCTIONS OPEN: These fields are required for open
+
+job_announcement_number: '1800335JCOTR'
+pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+num_vacancies: '25'
+series: '0301'
+apply_url: https://apply.pif.gov/
+ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'NO'
 ---
 
-The Presidential Innovation Fellows program is now accepting applications for their next cohort. More information about the program and the application process can be found at [PIF.gov](https://presidentialinnovationfellows.gov/). This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. You can apply using the link at bottom of this page or directly at [apply.pif.gov](https://apply.pif.gov/).
+{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
+{% if page.opens == 'tbd' %}
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+{% else %}
+Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+{% endif %}
 
-**Quick Links to Posting Sections**
-- [Role summary](#role-summary)
-- [Basic information](#basic-information)
-- [Requirements](#key-requirements)
-- [Duties](#duties)
-- [Qualifications](#qualifications)
-- [How to apply](#how-to-apply)
-- [Other information](#other-information)
-- [What to expect](#what-to-expect)
+## Basic Information
 
-**Please note: Industry Specialist is the official title for the government Position Description related to this posting.**
+**Location:**
+{{ page.location }}
+
+**Salary Range:**
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+
+**Who May Apply:**
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
+employees or contractors
 
 ## Role Summary:
 
-### Presidential Innovation Fellow GS-15
+### {{ page.title }} - GS-{{ page.gs_level }}
 
 The Presidential Innovation Fellows (PIF) is a highly-competitive program that pairs mid-to-senior level entrepreneurs,
 technologists, designers and data scientists with top civil-servants and change-makers working within the federal
@@ -127,51 +133,147 @@ overcome significant challenges resulting from complex bureaucratic environments
 - You have a high degree of emotional intelligence, are a quick study, and intuitively know what needs to get done to
 deliver with integrity, ensuring compliance at all levels.
 
+{% else %}
+
+{{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+
+**Quick Links to Posting Sections**
+- [Basic Information](#basic-information)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
+
+## Role Summary:
+
+### {{ page.title }} - GS-{{ page.gs_level }}
+
+## Role Summary:
+
+### {{ page.title }} - GS-{{ page.gs_level }}
+
+The Presidential Innovation Fellows (PIF) is a highly-competitive program that pairs mid-to-senior level entrepreneurs,
+technologists, designers and data scientists with top civil-servants and change-makers working within the federal
+government to tackle some of our nation’s biggest challenges and deliver better solutions to U.S. citizens. Fellows
+are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems,
+shaping smarter policy and/or delivering on technology.
+
+Since the program was launched in 2012 by former U.S. CTO Todd Park, [120 Fellows](https://presidentialinnovationfellows.gov/fellows/)
+have worked with over [30 agencies](https://presidentialinnovationfellows.gov/agencies/).
+These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome
+Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer
+clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk
+and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster
+care system.
+
+We will begin recruiting the next cohort of Fellows in mid-April. Applicants can apply online at [www.pif.gov](http://www.pif.gov) and Fellows
+will start in September 2018.
+
+The characteristics that we look for in Fellows, include:
+
+### Entrepreneurship and Initiative:
+- Expert in a hard skill such as modern product management, software development, lean startup, strategy consulting,
+analysis, strategic design, experience design, human centered design, data science, artificial intelligence, machine
+learning, cybersecurity, etc.
+- Self-starter- either an entrepreneur or intrapreneur with experience starting and building initiatives
+- Ability to engage business problems, understand and design effective solutions and strategies that draw on current and
+emergent tools, technologies, initiatives and other resources
+- Experience delivering products or services from concept to market
+
+### Approach and Methodology:
+- Expertise applying frameworks that emphasize delivery, iteration, quantitative/qualitative learnings and responsiveness
+- Expertise determining user needs, identifying market opportunities and designing and deploying solutions
+- Ability to apply forward thinking design and development principles to product development and project management such as
+lean start-up, user centered design and agile
+- Ability to describe esoteric and highly technical solutions to non-technical stakeholders
+
+### Empathy and Emotional Intelligence:
+- High degree of emotional intelligence. A quick study, who intuitively knows what needs to get done to deliver with
+integrity
+- Experience in client-facing roles, navigating bureaucracy,  business development and delivering services with a
+strong user-facing or consumer-oriented element
+- Coalition builder with the ability to persuade and convince others to think about solutions in new and creative ways.
+Ability to know when you need to show and when you need to tell
+- Tenacity to push forward over difficult obstacles
+- Evidence navigating large, complex organizations and stakeholders
+- Demonstrates patience and leads with humility
+
+### Leadership
+- At least 10 years of professional experience working in your area
+- Demonstrated experience leading stakeholders through change where you don’t have explicit authority
+- Ability to be a thought leader and contribute best practices in a variety of technologies and principles
+- Teamwork - ability to lead teams and work effective with others within a team
+- Interested in building a culture within the Fellowship and taking a genuine interest in other Fellows’ work,
+including providing feedback and collaborating when appropriate
+
+## Key Objectives
+
+### Objective #1: You will assess the state of digital services provided by the Federal Government, and work to align strategies and practice; conferring with key government/private officials and top experts in the field.
+
+- You will analyze and scope the technical and policy requirements needed to implement complex digital solutions.
+- You will leverage your experience deploying high-quality, user centric platforms and services to lead major initiatives.
+- You will apply forward thinking design and development principles to product development and project management such as
+lean start-up, user centered design and agile.
+
+### Objective #2: You will conceive/recommend projects/strategies to advance the state of the art in the specialty area.
+
+- You will consult on systems and policy proposals, and provide technical policy and programmatic guidance to the government.
+- You will demonstrate thought leadership, contributing best practices in a variety of technologies and principles.
+- You will translate business problems into technology solutions that draw on current and emergent tools and technologies.
+
+### Objective #3: You will utilize an entrepreneurial mindset, technology acumen, and strong communication skills in order to drive projects from ideation to completion.
+
+- You have the ability to present sensitive recommendations to higher authority and to articulate positions/policy of vast
+technical complexity.
+- You possess knowledge of and expertise in driving and implementing technology solutions from concept to market that
+overcome significant challenges resulting from complex bureaucratic environments or technically difficult problems.
+- You have a high degree of emotional intelligence, are a quick study, and intuitively know what needs to get done to
+deliver with integrity, ensuring compliance at all levels.
+
+
 ## Basic Information
 
-**Job announcement number:**
-1800335JCOTR
+**Job announcement number:** 
+{{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-Tuesday, April 24, 2018 - Sunday, July 6, 2018 at 11:59pm EST
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
 
 **Job Title:**
-Industry Specialist
+{{ page.pd_job_title }}
 
 **Series & Grade:**
-0301-15
+{{ page.series }} - GS-{{ page.gs_level }}
 
-**Promotion Potential:**
-GS-15
+**Promotion Potential:** 
+GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-Base salary GS-15 - $134,789<br>
-_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
 **Location:**
- Washington, DC
+{{ page.location }}
 
 **Number of vacancies:**
-25
+{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
 
-**Supervisory status:**
-No
+**Supervisory status:** 
+{{ page.supervisory_status }}
 
-**Travel requirement:**
-Occasional travel may be required up to 10% per year
+**Travel requirement:** 
+Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
-All United States citizens who are not currently Federal employees or GSA contractors are eligible to apply.
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:**
-Public trust. Background investigation required. Select positions may require higher levels clearance.
+**Security clearance:** 
+Public trust. Background investigation required. 
 
-**Work Schedule:**
-Full time
+**Work Schedule:** 
+Full time 
 
 **Appointment Type:**
-Excepted Service: 12 months and 1 day. May be extended for a maximum of 4 years total.
+Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 ## Job Summary
 
@@ -269,7 +371,11 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## Qualifications
 
-Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
+order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
+and following our general guidance on creating federal style resume.
+
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 - Navigating bureaucracy (e.g. complex organization structure, matrix organization), building coalitions and leading
 stakeholders with disparate views through change.
@@ -306,3 +412,5 @@ information may result in disqualification.
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
+
+{% endif %}
