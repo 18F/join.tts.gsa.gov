@@ -9,14 +9,13 @@ opens: April 24, 2018, 11:59pm EDT
 closes: July 6, 2018, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '134,789'
+salary_max: '164,200'
 org: 'Presidential Innovation Fellows'
 contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS_OPEN: These fields are required for open
-
 job_announcement_number: '1800335JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '25'

@@ -10,8 +10,7 @@ redirect_from:
   - join/CoE-cloud-adoption-specialist/
 state: open
 job_post_type: usajobs
-
-# opens: MONTH DAY, YEAR, TIME EDT
+opens: June 11, 2018, 12:00am EDT
 closes: June 25, 2018, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15

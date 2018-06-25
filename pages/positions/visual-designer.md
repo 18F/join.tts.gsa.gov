@@ -8,7 +8,6 @@ state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-
 opens: June 25, 2018 8:00am EDT
 closes: June 29, 2018 8:00pm EDT
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY' 
@@ -16,17 +15,11 @@ gs_level: 14
 salary_min: '89,370'
 salary_max: '116,181'
 org: '18F'
-
-apply_url: https://goo.gl/forms/76B326K0y8JkmjuB2
-contact_name: Liz Scott
-contact_email: jointts@gsa.gov
 contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 job_announcement_number: '1800481JCOTR'
-ohrm_contact_name: 'Jacqueline Coleman'
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
@@ -35,7 +28,7 @@ ohrm_contact_name: 'Jacqueline Coleman'
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '14'
-supervisory_status: 'NO'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -60,6 +53,23 @@ If you are a new federal employee, your starting salary will likely be set at th
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
 employees or contractors
 
+## Basic Information
+
+**Opening and closing period for this job application:**
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+
+**Series & Grade:**
+0301 - {{ page.gs_level }}
+
+**Location:**
+{{ page.location }}
+
+**Salary Range:**
+Base salary - {{ page.salary_min }} to {{ page.salary_max }}
+
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+
+
 ## Role Summary:
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
@@ -83,7 +93,8 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 - Give agency partners and peers advice they need to hear versus what they want to hear, in a manner that respects their intelligence and experience.
 
 ### Objective #2: Deliver high-quality, user-centered visual design for agency partners.
-- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment. Examples include selecting and applying appropriate styles from the U.S. Web Design System, building interface patterns, looks-like/works-like prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials.
+- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment.<br> 
+_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, looks-like/works-like prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
 - Iterate quickly by collaborating on prototypes at various levels of fidelity.
 - Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions.
 - Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools.
@@ -286,11 +297,7 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
-
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
@@ -312,6 +319,7 @@ To qualify for this role, you must have one year of specialized experience equiv
   - Conducting Front end design
   - Conducting Interaction (or UX) design
   - Conducting Service design
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 

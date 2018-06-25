@@ -16,7 +16,7 @@ subnav:
   - text: Interviews
     href: "#interviews"
   - text: Security and onboarding
-    href: "#Security-and-onboarding"
+    href: "#security-and-onboarding"
 ---
 
 ## Intro
@@ -29,11 +29,11 @@ Hiring within the federal government takes more time than the typical private se
 
 |Process Stage | Avg Duration (Days) |
 |--:|:-:|
-| Application collection | 5 |
+| [Application](#application) collection | 5 |
 | TTS application review | 5 |
 | GSA HR application review | 10 |
-| Interviews | 30 |
-| Offer & security | 30 to 60 |
+| [Interviews](#interviews) | 30 |
+| [Offer & security](#security-and-onboarding) | 30 to 60 |
 | **Total from Application to Start** | **80 to 110** |
 
 **TTS is an equal opportunity employer**
