@@ -4,10 +4,10 @@ permalink: /join/pif-presidential-innovation-fellow/
 state: open
 job_post_type: tts
 
-# INSTRUCTIONS UPCOMING: These fields are required for upcoming
+# INSTRUCTIONS_UPCOMING: These fields are required for upcoming
 opens: April 24, 2018, 11:59pm EDT
 closes: July 6, 2018, 11:59pm EDT
-location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+location: 'Washington, DC'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -15,10 +15,10 @@ org: 'Presidential Innovation Fellows'
 contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
 
-# INSTRUCTIONS OPEN: These fields are required for open
+# INSTRUCTIONS_OPEN: These fields are required for open
 
 job_announcement_number: '1800335JCOTR'
-pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+pd_job_title: 'Innovation Specialist'
 num_vacancies: '25'
 series: '0301'
 apply_url: https://apply.pif.gov/
@@ -26,7 +26,7 @@ ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
-supervisory_status: 'NO'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
