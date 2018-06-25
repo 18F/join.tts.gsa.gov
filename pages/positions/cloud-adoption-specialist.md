@@ -8,7 +8,7 @@ redirect_from:
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
-state: closed
+state: open
 job_post_type: usajobs
 
 # opens: MONTH DAY, YEAR, TIME EDT
