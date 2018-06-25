@@ -50,8 +50,7 @@ Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_m
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply. 
 
 ## Basic Information
 
@@ -240,11 +239,14 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government. 
+
+This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), Office of 18F.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
+
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
 - Health insurance (choose from a wide range of plans)
@@ -274,7 +276,12 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
 ## Duties
-Typical duties include but are not limited to: Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward thinking design and development principles to product or services development, delivery and program management, such as lean startup, user centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government wide standards for digital services, leading to their adoption across citizen and business facing government Services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
+- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward-thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­-centered design, and agile development;
+- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions;
+- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences;
+- Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business-­facing government services;
+- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles.
+
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -283,11 +290,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- Visual identity design: The ability to create and maintain a consistent, recognizable, and meaningful visual language. 
-- Design systems: The ability to create a collection of reusable, combinable components that adhere to a set of standards that define a consistent user experience. 
-- Design methods: The ability to design interactive digital products, systems, and services. 
-- Teamwork & collaboration: The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships. 
-- TTS core values alignment: The ability to work with integrity, transparency and resiliency in civic minded or high impact driven environment.
+- **Visual identity design:** The ability to create and maintain a consistent, recognizable, and meaningful visual language. 
+- **Design systems:** The ability to create a collection of reusable, combinable components that adhere to a set of standards that define a consistent user experience. 
+- **Design methods:** The ability to design interactive digital products, systems, and services. 
+- **Teamwork & collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships. 
+- **TTS core values alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact driven environment.
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
