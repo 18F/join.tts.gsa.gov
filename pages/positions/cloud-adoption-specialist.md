@@ -20,26 +20,17 @@ org: 'Centers of Excellence (COE)'
 contact_name: Amanda Schonfeld
 contact_email: jointts@gsa.gov
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
-# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '1800462BWDHA'
+pd_job_title: 'IT Specialist (ENTARCH/INFOSEC)'
+num_vacancies: '1'
+series: '2210'
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
+ohrm_comtact_email: 'beverly.white@gsa.gov'
+ohrm_contact_name: 'Beverly White'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'NO'
 
-subnav:
- - text: Basic information
-   href: "#basic-information"
- - text: Role summary
-   href: "#role-summary"
- - text: Qualifications
-   href: "#qualifications"
- - text: How to apply
-   href: "#how-to-apply"
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}. Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
