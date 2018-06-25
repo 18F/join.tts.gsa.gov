@@ -1,21 +1,22 @@
 ---
-title: Contact Center Optimization Specialist
-permalink: /join/contact-center-optimization-specialist/
-redirect_from:
-  - /join/upcoming-coe-contact-center-optimization-specialist/
-  - /join/coe-contact-center-optimization-specialist/
-state: upcoming
-job_post_type: tts
+title: ENTER ROLE TITLE HERE
+permalink: /join/ENTER ROLE TITLE HERE/
+state: ENTER STATE HERE (open, closed, upcoming)
+job_post_type: usajobs
+
+# INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 # opens: MONTH DAY, YEAR, TIME EDT
 # closes: MONTH DAY, YEAR, TIME EDT
-location: 'Washington, DC'
-gs_level: 15
-salary_min: '134,789'
-salary_max: '164,200'
-org: 'Centers of Excellence'
-contact_name: 'Amanda Schonfeld'
-contact_email: 'jointts@gsa.gov'
+# location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+# gs_level: ENTER GS LEVEL (13, 14, 15, etc)
+# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
+# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
+# org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
+# contact_name: 'TTS TALENT TEAM NAME'
+# contact_email: 'jointts@gsa.gov'
+
+# INSTRUCTIONS OPEN: These fields are required for open
 
 # job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
 # pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
@@ -50,39 +51,48 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-We are looking for an Contact Center Optimization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improved the capabilities and services of our partner
-agencies.
-
-As an expert contact center solutions architect well versed in multi-channel technologies and platforms, you will collaborate with agency partners to design, plan, and delivery on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT infrastructure and customer experience services.
+ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
 
 ## Key Objectives
 
-### Key objective #1: You will help federal agencies develop and execute contact center and customer experience modernization
-strategies incorporating leading technology and industry best practices to ensure their solutions can meet their current
-and future needs in an efficient, sustainable, agile, and adaptable manner.
+### Key objective #1:
+-
+-
+-
 
-- Architect an enterprise-level customer experience technology solution using user story definition, holistic journey mapping, data modeling while also incorporating standard operating procedures and best-practice methodologies
-- Develop and maintain strategic application technology portfolios, roadmaps, and reference architectures to support or drive solution development or product selection
-- Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications
-- Implement intelligent system solutions to leverage robotic process automation (RPA) & artificial intelligence (AI) to help anticipate user needs, augment conversations and automate routine tasks
-- Interface with agency data and security teams to address gaps and risks and assist in the overall design and build of security features
-Develop and track performance metrics, customer feedback, quality assurance and other KPI’s
+### Key objective #2:
+-
+-
+-
 
-### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
+### Key objective #3:
+-
+-
+-
 
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
-- Deliver educational workshops to accelerate learning and adoption of agile principles and practices
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
-- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
+### Key objective #4:
+-
+-
+-
 
-### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
+## Minimum Qualifications
 
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
-- Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
-- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
+
+- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
+- The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
+  - Examples of stuff that can't be used:
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+ 
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
+
+### Specialized Experience
+
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+
+ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 {% else %}
 
@@ -97,39 +107,29 @@ Develop and track performance metrics, customer feedback, quality assurance and 
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-We are looking for an Contact Center Optimization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improved the capabilities and services of our partner
-agencies.
-
-As an expert contact center solutions architect well versed in multi-channel technologies and platforms, you will collaborate with agency partners to design, plan, and delivery on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT infrastructure and customer experience services.
+ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
 
 ## Key Objectives
 
-### Key objective #1: You will help federal agencies develop and execute contact center and customer experience modernization
-strategies incorporating leading technology and industry best practices to ensure their solutions can meet their current
-and future needs in an efficient, sustainable, agile, and adaptable manner.
+### Key objective #1:
+-
+-
+-
 
-- Architect an enterprise-level customer experience technology solution using user story definition, holistic journey mapping, data modeling while also incorporating standard operating procedures and best-practice methodologies
-- Develop and maintain strategic application technology portfolios, roadmaps, and reference architectures to support or drive solution development or product selection
-- Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications
-- Implement intelligent system solutions to leverage robotic process automation (RPA) & artificial intelligence (AI) to help anticipate user needs, augment conversations and automate routine tasks
-- Interface with agency data and security teams to address gaps and risks and assist in the overall design and build of security features
-Develop and track performance metrics, customer feedback, quality assurance and other KPI’s
+### Key objective #2:
+-
+-
+-
 
-### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
+### Key objective #3:
+-
+-
+-
 
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
-- Deliver educational workshops to accelerate learning and adoption of agile principles and practices
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
-- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
-
-### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
-
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
-- Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
-- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+### Key objective #4:
+-
+-
+-
 
 ## Basic Information
 

@@ -2,12 +2,21 @@
 
 {% if page.state == 'upcoming' %}
 {% include upcoming_statement.html %}
-{% else %}
-
-{% if page.state == 'closed' %}
+{% elsif page.state == 'closed' %}
 We're sorry, this job has closed.
 {% else %}
+{% if page.job_post_type == 'usajobs' %}
+Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please fill out all applicable fields.
 
+In order to apply for this job you must submit an application via the USAJOBS posting.
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
+</section>
+
+**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
+
+{% elsif page.job_post_type == 'tts' %}
 Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please fill out all applicable fields.
 
 <section class="usa-grid-full">
@@ -15,14 +24,13 @@ Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z
 </section>
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
-{% endif %}
 
 ### Required Documents
 
 **ALL** required documents must be submitted before the closing date to be considered for the role. Review the following list to determine what you need to submit.
 
 - **Resume**
-  - For a brief video on creating a federal resume, [click here](https://youtu.be/8YX7o1PBoFk)
+  - For a brief video on creating a Federal resume, click [here](https://hru.gov/Studio_Recruitment/videos/Writing_Your_Federal_Resume.aspx).
   - If you have volunteered your service through a National Service program (e.g. Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
 
 - **Completed application**
@@ -37,7 +45,7 @@ Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z
 
 ## Other Information
 
-Bargaining Unit status: Non Bargaining Unit
+Bargaining Unit status: {{ page.bargaining_status }}
 
 Relocation-related expenses are not approved and will be your responsibility.
 
@@ -71,4 +79,7 @@ After the closing date:
 4. **FINAL JOB OFFER:** Once our security office determines you can come on board, you will be given a final offer.
 
 **Thank you for your interest in working for U.S. General Services Administration!**
+
+{% endif %}
+
 {% endif %}

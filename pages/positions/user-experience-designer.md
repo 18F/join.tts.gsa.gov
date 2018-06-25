@@ -9,47 +9,138 @@ redirect_from:
   - /join/18F-user-experience-designer/
   - /join/upcoming-18F-user-experience-designer/
 state: upcoming
+job_post_type: tts
+
+# INSTRUCTIONS UPCOMING: These fields are required for upcoming
+
+opens: tbd
 # closes: MONTH DAY, YEAR, TIME EDT
-# apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeY1SlBbVoSJMJVpv64WqWGKM6WXbmvwBhoHpyCz4Efa_1gtQ/viewform
+location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+gs_level: 15
+salary_min: '105,123'
+salary_max: '136,659'
+org: '18F'
 contact_name: Liz Scott
 contact_email: jointts@gsa.gov
 
-subnav:
-  - text: Role summary
-    href: "#role-summary"
-  - text: Basic information
-    href: "#basic-information"
-  - text: Requirements
-    href: "#key-requirements"
-  - text: Duties
-    href: "#duties"
-  - text: Qualifications
-    href: "#qualifications"
-  - text: How to apply
-    href: "#how-to-apply"
-  - text: Other information
-    href: "#other-information"
-  - text: What to expect
-    href: "#what-to-expect"
+# INSTRUCTIONS OPEN: These fields are required for open
+# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+# num_vacancies: 'ENTER NUMBER OF VACANCIES'
+# series: '0301' ENTER SERIES IF DIFFERENT
+# apply_url: APPLICATION URL
+# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
+# supervisory_status: 'YES' or 'NO'
 ---
 
-We're hiring a User Experience Designer for 18F at the GS-15 level to help us build amazing products for our agency partners. This page includes key objectives for the role as well as the official job description. The Duties and Qualifications on this page are specific to the GS-15 level position. Applicants must be willing to relocate to or commute to San Francisco, Chicago, New York City, or Washington, DC. You can apply at the bottom or learn more about the application process at [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/).
+{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
+{% if page.opens == 'tbd' %}
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+{% else %}
+Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+{% endif %}
 
-**Quick Links to Posting Sections**
-- [Role summary](#role-summary)
-- [Basic information](#basic-information)
-- [Requirements](#key-requirements)
-- [Duties](#duties)
-- [Qualifications](#qualifications)
-- [How to apply](#how-to-apply)
-- [Other information](#other-information)
-- [What to expect](#what-to-expect)
+## Basic Information
 
-**Please note: Innovation Specialist is the official title for the government Position Description related to this posting.**
+**Location:**
+{{ page.location }}
+
+**Salary Range:**
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+
+**Who May Apply:**
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
+employees or contractors
 
 ## Role Summary:
 
-### User Experience Designer GS-15
+### {{ page.title }} - GS-{{ page.gs_level }}
+
+User experience designers at 18F drive research activities, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build and test them. They foster best practices in user-centered design within 18F and across the federal government through advocacy and coaching.
+
+UX designers should have deep strength in design research (both generative and evaluative). No one can be equally expert at everything, but in addition to design research, we do expect strong craft skills, confidence, and sophistication in at least one of the following areas: interaction design, service design, and information architecture.
+
+As a UX designer, you’ll work in cross-functional teams of experts in design, product strategy, technical architecture, software engineering, data science, and procurement. Besides building useful and usable digital services, part of your job will be helping teams improve their user-centered design practice, and helping teams without those practices get started.
+
+If you are committed to improving government services by focusing on the people who need them most, this is the position for you.
+
+## Key Objectives
+
+### Objective #1: Demonstrate excellence in design research, while grasping the core questions and responsibilities of at least one other UX discipline.
+
+In addition to strong skill in design research, we expect expertise in at least one of the following disciplines:
+- **Interaction design:** Define interface logic and behavior, always keeping human behaviors and needs in mind.
+- **Information architecture:** Organize and structure complex information to help diverse audiences easily find what they need.
+- **Service design:** Improve the relationship of the customer or user and the service provider across all of their interactions and communication channels.
+
+Successful UX designers:
+- Zoom in and out. Generate innovative, high-level product strategies as well as the practical project steps and considerations to get there. Are visionary in objective, but pragmatic in approach.
+- Support collaborative decision making by telling compelling stories drawn from research that illustrate the pros and cons of various options.
+- Show persistent commitment to thoughtful and ethical user research.
+- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or interpretive dance.
+- Create written materials and visual presentations that are accessible to non-experts but that are legally and technically accurate.
+- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision.
+- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
+- Commit to making what we build fully accessible to the people we serve.
+
+### Objective 2: Advance UX practice
+
+Successful UX Designers:
+- Clearly communicate user-centered methods and their value to non-designers.
+- Mentor and coach colleagues and partners who are taking on new tasks and roles within design and research.
+- Share knowledge, techniques, tools, patterns, and expert advice with colleagues, partners, and the public.
+- Promote empathy not just for members of the public, but also our partners across the government and our co-workers.
+
+### Objective #3: Work effectively in the federal government
+
+Successful UX Designers:
+- Skillfully navigate complex organizational relationships to resolve questions.
+- Cooperatively negotiate disagreements and mediate compromises.
+- Build inclusive, respectful partnerships with diverse groups of people.
+- Demonstrate genuine interest in the day-to-day activities that keep our government running.
+
+
+## Minimum Qualifications
+
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
+
+- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
+- The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
+  - Examples of stuff that can't be used:
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+ 
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
+
+### Specialized Experience
+
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+
+This experience must include **ALL** of the following:
+1. Usability/user testing, as well as **at least three** of the following research activities: Co-design or participatory design workshops, contextual inquiry, diary studies, discovery research, ethnography, field studies, observational research, or stakeholder interviews.
+2. Agile, lean or other iterative product development approaches (i.e. design sprints, scrum, and kanban).
+3. Teaching or mentoring developers, product managers, clients or other non-designers to achieve organizational objectives as well as product strategy.
+4. Managerial or leadership experience **either** in large, complex organizations (either public sector institutions, private corporations, or non-profits) **or** in highly regulated domains **or** in a highly bureaucratic environment.
+
+{% else %}
+
+{{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+
+**Quick Links to Posting Sections**
+- [Basic Information](#basic-information)
+- [Qualifications](#qualifications)
+- [How to apply](#how-to-apply)
+
+## Role Summary:
+
+### {{ page.title }} - GS-{{ page.gs_level }}
 
 User experience designers at 18F drive research activities, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build and test them. They foster best practices in user-centered design within 18F and across the federal government through advocacy and coaching.
 
@@ -96,40 +187,50 @@ Successful UX Designers:
 
 ## Basic Information
 
+**Job announcement number:** 
+{{ page.job_announcement_number }}
+
+**Opening and closing period for this job application:**
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+
 **Job Title:**
-Innovation Specialist
+{{ page.pd_job_title }}
 
 **Series & Grade:**
-0301-15
+{{ page.series }} - GS-{{ page.gs_level }}
 
-**Promotion Potential:**
-No
+**Promotion Potential:** 
+GS-{{ page.promotion_potential }}
 
-**Salary Range:** Base salary GS-15 - $105,123.00 to $136,659.00
+**Salary Range:**
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-_For specific details on locality pay, please visit [https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade you applied to._
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
 **Location:**
- Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
+{{ page.location }}
 
+**Number of vacancies:**
+{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
 
-**Supervisory status:**
-No
+**Supervisory status:** 
+{{ page.supervisory_status }}
 
-**Travel requirement:**
-Occasional travel may be required up to 10-20% per year
+**Travel requirement:** 
+Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:**
-Public trust. Background investigation required.
+**Security clearance:** 
+Public trust. Background investigation required. 
 
-**Work Schedule:**
-Full time
+**Work Schedule:** 
+Full time 
 
 **Appointment Type:**
 Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+
 
 ## Job Summary
 
@@ -190,7 +291,11 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## Qualifications
 
-To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience is:
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
+order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
+and following our general guidance on creating federal style resume.
+
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 This experience must include **ALL** of the following:
 1. Usability/user testing, as well as **at least three** of the following research activities: Co-design or participatory design workshops, contextual inquiry, diary studies, discovery research, ethnography, field studies, observational research, or stakeholder interviews.
@@ -203,3 +308,5 @@ Qualification determinations cannot be made when resumes do not include the requ
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
+
+{% endif %}

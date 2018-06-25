@@ -15,17 +15,10 @@ layout: page
   <div class="usa-alert usa-alert-info">
     <div class="usa-alert-body">
       <h3 class="usa-alert-heading">Upcoming role</h3>
-      <p class="usa-alert-text">This role is not yet open to apply to. {% include upcoming_statement.html %}</p>
+      <p class="usa-alert-text">This role is not yet open for application. {% include upcoming_statement.html %}</p>
     </div>
   </div>
   {% elsif page.state == 'open' %}
-  <div class="usa-alert usa-alert-info">
-    <div class="usa-alert-body">
-      <h3 class="usa-alert-heading">Apply now!</h3>
-      <p class="usa-alert-text">This role is open for applications until {{ page.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }}.</p>
-    </div>
-  </div>
-  {% elsif page.state == 'usajobs' %}
   <div class="usa-alert usa-alert-info">
     <div class="usa-alert-body">
       <h3 class="usa-alert-heading">Apply now!</h3>
@@ -37,11 +30,7 @@ layout: page
   <h1>{{ page.title }}</h1>
   {{ content }}
   
-  {% if page.state == 'usajobs' %}
-  {% capture apply %}{% include how_to_apply_usajobs.md %}{% endcapture %}
-  {{ apply | markdownify }}
-  {% else %}
   {% capture apply %}{% include how_to_apply.md %}{% endcapture %}
   {{ apply | markdownify }}
-  {% endif %}
+  
 </div>
