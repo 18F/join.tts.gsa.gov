@@ -1,6 +1,6 @@
 ---
 title: Contact Center Optimization Specialist
-permalink: join/contact-center-optimization-specialist/
+permalink: /join/contact-center-optimization-specialist/
 redirect_from:
   - join/upcoming-coe-contact-center-optimization-specialist/
   - join/coe-contact-center-optimization-specialist/
