@@ -199,7 +199,7 @@ differences.
 {{ page.series }} - {{ page.gs_level }}
 
 **Promotion Potential:** 
-GS-{{ page.promotion_potential }}
+{{ page.promotion_potential }}
 
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
@@ -265,8 +265,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
-- Any discrepancies must be resolved as a condition of continued employment.
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
 ## Duties
@@ -305,7 +304,8 @@ Within each category, veterans will receive selection priority over non-veterans
 ## Qualifications
 
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized
-experience for this position is:<br>
+experience for this position is:
+
 Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must
 include **ALL** of the following:
 
