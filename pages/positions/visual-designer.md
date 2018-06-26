@@ -271,8 +271,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
-- Any discrepancies must be resolved as a condition of continued employment.
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
 ## Duties
@@ -303,8 +302,6 @@ If your resume does not support your possession of the competencies listed above
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
 ## Qualifications
-
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
