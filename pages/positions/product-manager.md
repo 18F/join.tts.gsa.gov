@@ -17,8 +17,8 @@ gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
 org: '18F'
-contact_name: Leigh Finkel
-contact_email: jointts@gsa.gov
+contact_name: 'Leigh Finkel'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
