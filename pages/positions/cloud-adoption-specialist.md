@@ -17,8 +17,8 @@ gs_level: 15
 salary_min: '134,789'
 salary_max: '164,200'
 org: 'Centers of Excellence (COE)'
-contact_name: Amanda Schonfeld
-contact_email: jointts@gsa.gov
+contact_name: 'Amanda Schonfeld'
+contact_email: 'jointts@gsa.gov'
 
 job_announcement_number: '1800462BWDHA'
 pd_job_title: 'IT Specialist (ENTARCH/INFOSEC)'
