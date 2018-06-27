@@ -7,8 +7,8 @@ redirect_from:
 state: upcoming
 job_post_type: tts
 
-# opens: MONTH DAY, YEAR, TIME EDT
-# closes: MONTH DAY, YEAR, TIME EDT
+opens: 'tbd'
+closes: MONTH DAY, YEAR, TIME EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
