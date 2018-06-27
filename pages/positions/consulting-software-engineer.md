@@ -9,8 +9,8 @@ redirect_from:
 state: upcoming
 job_post_type: tts
 
-# opens: MONTH DAY, YEAR, TIME EDT
-# closes: MONTH DAY, YEAR, TIME EDT
+opens: tbd
+closes: MONTH DAY, YEAR, TIME EDT
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
 salary_min: '105,123'
