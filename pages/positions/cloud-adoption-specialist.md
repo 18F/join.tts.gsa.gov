@@ -112,7 +112,6 @@ ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 **Quick Links to Posting Sections**
 - [Basic Information](#basic-information)
-- [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
 ## Role Summary:

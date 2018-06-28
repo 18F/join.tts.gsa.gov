@@ -14,7 +14,7 @@ In order to apply for this job you must submit an application via the USAJOBS po
   <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
 </section>
 
-**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
+**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** {{ page.contact_email }}.
 
 {% elsif page.job_post_type == 'tts' %}
 Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Please fill out all applicable fields.
@@ -23,7 +23,7 @@ Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z
   <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
 </section>
 
-**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
+**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** {{ page.contact_email }}.
 
 ### Required Documents
 
