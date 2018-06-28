@@ -91,7 +91,7 @@ The [TTS Handbook](https://handbook.18f.gov/) has more information about working
 ## Application
 When you apply for a role at TTS, you’ll need to submit a [government-style resume]({{site.baseurl}}/hiring-process/#government-style-resumes), which includes much more detail than a private-sector resume.
 
-[Veterans’ Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx) is applied for candidates who are veterans and have claimed their veteran status.
+[Veterans’ Preference](https://www.fedshirevets.gov/job-seekers/veterans-preference/) is applied for candidates who are veterans and have claimed their veteran status.
 
 ### How we collect and review applications
 We collect applications during the period specified in the job posting. After the application window has closed (generally within 7-14 days), we review and evaluate all applications at the same time. The way we collect and review applications depends on the role and the type of hiring authority being used.
