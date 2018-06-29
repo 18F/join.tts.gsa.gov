@@ -9,9 +9,9 @@ redirect_from:
 state: open
 job_post_type: tts
 
-opens: Monday, July 2, 2018
-closes: Friday, July 6, 2018 at 8:00pm Eastern Time 
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+opens: Monday, July 2, 2018 at 8:00am EDT
+closes: Friday, July 6, 2018 at 8:00pm EDT 
+location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -27,8 +27,8 @@ apply_url: https://goo.gl/forms/vtWcoVeFM9qyz17l1
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential:'15'
-supervisory_status:'NO'
+promotion_potential: '15'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -110,24 +110,23 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Experience as a consultant or internal service managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include ONE of the following:
-  - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
-  - Delivering public-facing products (e.g. e-commerce sites, developer tools/platforms, high-traffic news/media applications, high-traffic mobile applications, etc.) with a large number of users (i.e. 100,000+)
-  - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-- Experience developing large scale, full-stack web applications using test-driven development within highly complex, ambiguous or uncertain situations to deliver measurable results for clients. This experience must include ALL of the following:
-  - Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
-  - Developing digital applications using a relational or non-relational database layer
-  - Developing digital applications using version control and repository tools
-  - Developing digital applications using test-driven development and software testing tools
+Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
+- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
+- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-- Experience deploying or operating digital applications on cloud technologies.This experience must include
-ONE of the following:
-  - Developing digital applications using Infrastructure-as-a-Service (IaaS)
-  - Developing digital applications using Platform-as-a-Service (PaaS)
-  - Developing digital applications using containerization technologies
-  - Developing digital applications using configuration management tools
-  - Developing digital applications using infrastructure automation tooling
+Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
+- Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
+- Developing digital applications using a relational or non-relational data layers
+- Developing digital applications using test-driven development and software testing tools
+
+Experience deploying or operating digital applications on cloud technologies.This experience must include **ONE** of the following:
+- Developing digital applications using Infrastructure-as-a-Service (IaaS) 
+- Developing digital applications using Platform-as-a-Service (PaaS)
+- Developing digital applications using containerization technologies
+- Developing digital applications using configuration management tools
+- Developing digital applications using infrastructure automation tooling
 
 {% else %}
 
@@ -181,20 +180,103 @@ This role may be perfect for you if you have the technical skills to tackle engi
 - Formulate and execute consistently against objectives and priorities.
 - Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government.
 
+## Basic Information
+
+**Job announcement number:** 
+{{ page.job_announcement_number }}
+
+**Opening and closing period for this job application:**
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+
+**Job Title:**
+{{ page.pd_job_title }}
+
+**Series & Grade:**
+{{ page.series }} - {{ page.gs_level }}
+
+**Promotion Potential:** 
+GS-{{ page.promotion_potential }}
+
+**Salary Range:**
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
+
+**Location:**
+{{ page.location }}
+
+**Number of vacancies:**
+{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+
+**Supervisory status:** 
+{{ page.supervisory_status }}
+
+**Travel requirement:** 
+Occasional travel may be required up to 10%-20% per year
+
+**Who May Apply:**
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
+
+**Security clearance:** 
+Public trust. Background investigation required. 
+
+**Work Schedule:** 
+Full time 
+
+**Appointment Type:**
+Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+
+
+## Job Summary
+
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
+
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+
+GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
+You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
+
+- Health insurance (choose from a wide range of plans)
+- Life insurance coverage with several options
+- Sick leave and vacation time, including 10 paid holidays per year
+- Thrift Savings Plan (similar to a 401(k) plan)
+- Flexible work schedules and telework
+- Transit and child care subsidies
+- Training and development
+- Flexible spending accounts
+- Long-term care insurance
+- Training and development
+
+## Key Requirements
+
+1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
+2. Suitable for federal employment, determined by a background investigation.
+3. You may be required to serve a trial period.
+4. Direct Deposit of salary check to financial organization required.
+5. Register with Selective Service, if you are a male born after 12/31/1959.
+
+## Employment Requirements
+- Serve a one year trial period, if required.
+- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
+- Any discrepancies must be resolved as a condition of continued employment.
+- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
+
+## Duties
+Typical duties include but are not limited to: Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward thinking design and development principles to product or services development, delivery and program management, such as lean startup, user centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government wide standards for digital services, leading to their adoption across citizen and business facing government Services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
 
 ## Evaluations
-
 We will use a method called Category Rating to assess your application.
 
 **Here’s how it will work:**
 
-You will be scored based on a review of your application materials, measuring your possession of each of the following competencies:
+You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Software Engineering Technical Experience:** Ability to use software engineering technologies to deliver technical solutions and products.
-- **Software Engineering Practices:** Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products.
-- **Communication:** Ability to communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals.
-- **Technical Strategy:** The ability to advise on technical strategy, agile development, software tools, and technical architecture.
-- **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
+- **Software Engineering Technical Experience:** Deliver technical solutions and products using software engineering technology. 
+- **Software Engineering Practices:** Deliver innovative technical solutions and products using established engineering best practices.
+- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
+- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture. 
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
@@ -210,25 +292,22 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Experience as a consultant or internal service managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include ONE of the following:
-  - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
-  - Delivering public-facing products (e.g. e-commerce sites, developer tools/platforms, high-traffic news/media applications, high-traffic mobile applications, etc.) with a large number of users (i.e. 100,000+)
-  - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
+- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
+- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-- Experience developing large scale, full-stack web applications using test-driven development within highly complex, ambiguous or uncertain situations to deliver measurable results for clients. This experience must include ALL of the following:
-  - Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
-  - Developing digital applications using a relational or non-relational database layer
-  - Developing digital applications using version control and repository tools
-  - Developing digital applications using test-driven development and software testing tools
+Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
+- Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
+- Developing digital applications using a relational or non-relational data layers
+- Developing digital applications using test-driven development and software testing tools
 
-- Experience deploying or operating digital applications on cloud technologies.This experience must include
-ONE of the following:
-  - Developing digital applications using Infrastructure-as-a-Service (IaaS)
-  - Developing digital applications using Platform-as-a-Service (PaaS)
-  - Developing digital applications using containerization technologies
-  - Developing digital applications using configuration management tools
-  - Developing digital applications using infrastructure automation tooling
-
+Experience deploying or operating digital applications on cloud technologies.This experience must include **ONE** of the following:
+- Developing digital applications using Infrastructure-as-a-Service (IaaS) 
+- Developing digital applications using Platform-as-a-Service (PaaS)
+- Developing digital applications using containerization technologies
+- Developing digital applications using configuration management tools
+- Developing digital applications using infrastructure automation tooling
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
@@ -237,4 +316,3 @@ For each job on your resume, provide:
 - number of hours per week you worked (if part time)
 
 {% endif %}
-
