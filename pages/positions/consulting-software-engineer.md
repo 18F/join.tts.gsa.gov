@@ -186,7 +186,7 @@ This role may be perfect for you if you have the technical skills to tackle engi
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y, %Z' }}EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
