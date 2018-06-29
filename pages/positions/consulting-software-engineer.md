@@ -9,8 +9,8 @@ redirect_from:
 state: open
 job_post_type: tts
 
-opens: Monday, July 2, 2018 at 8:00am EDT
-closes: Friday, July 6, 2018 at 8:00pm EDT 
+opens: 8:00pm EDT Monday, July 2, 2018 
+closes: 8:00pm EDT Friday, July 6, 2018 
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
@@ -186,7 +186,7 @@ This role may be perfect for you if you have the technical skills to tackle engi
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y, %Z' }}EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
