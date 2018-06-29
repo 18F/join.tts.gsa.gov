@@ -6,11 +6,11 @@ redirect_from:
   - /join/consulting-software-engineer-gs15-closed/
   - /join/consulting-software-engineer-gs15/
   - /join/18F-consulting-software-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
-opens: tbd
-closes: MONTH DAY, YEAR, TIME EDT
+opens: Monday, July 2, 2018
+closes: Friday, July 6, 2018 at 8:00pm Eastern Time 
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
 salary_min: '105,123'
@@ -19,16 +19,16 @@ org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '1800491JCOTR'
+pd_job_title: 'Innovation Specialist' 
+num_vacancies: '6'
+series: '0301' 
+apply_url: https://goo.gl/forms/vtWcoVeFM9qyz17l1
+ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential:'15'
+supervisory_status:'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -56,7 +56,7 @@ employees or contractors
 
 18F is looking for talented software developers who will help our partner agencies deliver better digital services to the public. As a Consulting Engineer at 18F, you will be a builder, contributor, and catalyst. Working with folks across the organization, you will solve large, complex problems while promoting user-centered, open, and transparent culture. The role involves diverse responsibilities — you might be writing code one day, meeting with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. [18F is an open-source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
-This role may be perfect for you if you have the technical skills to tackle engineering problems, the social skills to face human-factors problems, and the judgement to differentiate between the two. Our ideal candidate will be equally excited about sticky technical issues and intricate human ones. Impact in this role can’t be measure on a GitHub contribution graph; ideal candidates should be equally comfortable solving technical problems by writing code, explaining technical design architecture to technical and less technical folks alike, and leading organizational strategy and change.
+This role may be perfect for you if you have the technical skills to tackle engineering problems, the social skills to face human-factors problems, and the judgment to differentiate between the two. Our ideal candidate will be equally excited about sticky technical issues and intricate human ones. Impact in this role can’t be measure on a GitHub contribution graph; ideal candidates should be equally comfortable solving technical problems by writing code, explaining technical design architecture to technical and less technical folks alike, and leading organizational strategy and change.
 
 18F’s core languages are Ruby, Python, JavaScript, and Go. You should have strong, demonstrable experience with at least one of these languages and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
 
@@ -144,7 +144,7 @@ ONE of the following:
 
 18F is looking for talented software developers who will help our partner agencies deliver better digital services to the public. As a Consulting Engineer at 18F, you will be a builder, contributor, and catalyst. Working with folks across the organization, you will solve large, complex problems while promoting user-centered, open, and transparent culture. The role involves diverse responsibilities — you might be writing code one day, meeting with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. [18F is an open-source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
-This role may be perfect for you if you have the technical skills to tackle engineering problems, the social skills to face human-factors problems, and the judgement to differentiate between the two. Our ideal candidate will be equally excited about sticky technical issues and intricate human ones. Impact in this role can’t be measure on a GitHub contribution graph; ideal candidates should be equally comfortable solving technical problems by writing code, explaining technical design architecture to technical and less technical folks alike, and leading organizational strategy and change.
+This role may be perfect for you if you have the technical skills to tackle engineering problems, the social skills to face human-factors problems, and the judgment to differentiate between the two. Our ideal candidate will be equally excited about sticky technical issues and intricate human ones. Impact in this role can’t be measure on a GitHub contribution graph; ideal candidates should be equally comfortable solving technical problems by writing code, explaining technical design architecture to technical and less technical folks alike, and leading organizational strategy and change.
 
 18F’s core languages are Ruby, Python, JavaScript, and Go. You should have strong, demonstrable experience with at least one of these languages and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
 
