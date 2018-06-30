@@ -4,7 +4,7 @@ permalink: /join/visual-designer/
 redirect_from:
   - /join/18f-visual-designer-closed/
   - /join/18f-visual-designer/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
