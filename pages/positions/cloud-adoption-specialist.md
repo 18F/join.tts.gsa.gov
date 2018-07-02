@@ -10,8 +10,8 @@ redirect_from:
   - join/CoE-cloud-adoption-specialist/
 state: upcoming
 job_post_type: usajobs
-opens: June 11, 2018, 12:00am EDT
-closes: June 25, 2018, 11:59pm EDT
+opens: tbd
+# closes: June 25, 2018, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
@@ -20,16 +20,16 @@ org: 'Centers of Excellence (COE)'
 contact_name: 'Amanda Schonfeld'
 contact_email: 'jointts@gsa.gov'
 
-job_announcement_number: '1800462BWDHA'
-pd_job_title: 'IT Specialist (ENTARCH/INFOSEC)'
-num_vacancies: '1'
-series: '2210'
-apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
-ohrm_comtact_email: 'beverly.white@gsa.gov'
-ohrm_contact_name: 'Beverly White'
-bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15'
-supervisory_status: 'NO'
+# job_announcement_number: '1800462BWDHA'
+# pd_job_title: 'IT Specialist (ENTARCH/INFOSEC)'
+# num_vacancies: '1'
+# series: '2210'
+# apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
+# ohrm_comtact_email: 'beverly.white@gsa.gov'
+# ohrm_contact_name: 'Beverly White'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: '15'
+# supervisory_status: 'NO'
 
 ---
 {% if page.state == 'upcoming' %}
