@@ -183,6 +183,8 @@ If we think you could be a good fit for the role you applied to, we’ll invite 
 
 If TTS identifies you as a strong candidate after interviews are completed, a TTS recruiter will reach out to you with next steps.
 
+See the [18F Engineering Hiring Guide](https://eng-hiring.18f.gov/) for more details on the process for those positions.
+
 ## Security and onboarding
 The hiring process continues in partnership with the GSA Human Resources team, our parent federal agency’s human resources office. They’re responsible for extending tentative and official final offers. The process is as follows:
 
