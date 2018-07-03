@@ -10,3 +10,13 @@ type: medium
 top:
   text: Return to top
   href: '#'
+
+heading: General Services Administration
+
+contact:
+  contact_links:
+    - text: joinTTS@gsa.gov
+      href: mailto:joinTTS@gsa.gov
+
+edit_page:
+  text: Edit this page
