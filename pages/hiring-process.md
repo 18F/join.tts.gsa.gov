@@ -104,6 +104,8 @@ We collect applications during the period specified in the job posting. After th
 
 Unlike private-sector resumes, government-style resumes are often several pages long and include detailed information about the jobs you've held, your responsibilities, and what you accomplished.
 
+[Example](https://afeld.me/resume)
+
 ### General recommendations
 
 - When you are preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
