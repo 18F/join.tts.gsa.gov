@@ -9,8 +9,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: tbd
-closes: MONTH DAY, YEAR, TIME EDT
+opens: Monday, July 16, 2018 8:00am EDT
+closes: Friday, July 20, 2018 8:00pm EDT
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
@@ -21,16 +21,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: 'TBD'
+pd_job_title: 'Innovation Specialist' 
+num_vacancies: '1 (additional vacancies may be filled from this announcement as needed)'
+series: '0301' 
+apply_url: https://goo.gl/forms/ejUE4ZaH0SUi0FhH3
+ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -49,7 +49,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+_If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)._ 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -61,11 +61,12 @@ employees or contractors
 
 Content designers on the 18F experience design team collaborate with agency partners, product managers, other designers, and engineers to deliver user-centered content for audiences both inside and outside of government. Starting from the premise that good content is easy to understand and meets people where they are, our content designers go far beyond copywriting. They work with partners to craft strategies for creating, managing, and publishing content. They work with user experience researchers to teach, participate in, and sometimes lead usability testing and user-centered writing. And they work with visual designers and engineers to develop interactive experiences that treat all aspects of the experience as essential.
 
-As an 18F content designer, you’ll work on cross-functional teams of experts in design, product strategy, technical architecture, software engineering, and procurement. Besides creating and maintaining clear, accessible content, you’ll also help our partners improve (or develop) their user-centered content practices and promote content best practices across government.
+As an 18F content designer, you’ll work on cross-functional teams of experts in design, product strategy, technical architecture, software engineering, and procurement. Besides creating and maintaining clear, accessible content, you’ll also help our partners improve (or develop) their user-centered content practices and promote content best practices across government.  
 
-The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our content designers focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to write beautifully. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place.
+The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our content designers focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to write beautifully. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place. 
 
-We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, and who love to help others discover better ways of creating great content even more than they love writing it.
+We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, who love to help others discover better ways of creating great content even more than they love writing it. 
+
 
 ## Key Objectives
 
@@ -108,15 +109,19 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-This experience must include **ALL** of the following
-1. Planning, writing, editing, and publishing user-centered content for digital products and services, across **at least three of the following** formats: interface copy, product or service alerts, mobile notifications, product documentation, style guides, playbooks, brand guidance, product-focused editorial work, and stakeholder presentations. Users can be internal or external.
-2. Managing the process of researching, developing, and testing design approaches and digital strategies, including **at least three of the following:** writing conversation guides, performing content audits, conducting market research (including comparative analyses and landscape reviews), conducting stakeholder interviews, testing content usability through established design research methods, and using analytics to make content-/publishing-related decisions.
-3. Advocating for user-centered design with stakeholders and project team members, using evidence to support decisions. This could include leading kickoff meetings or design workshops, presenting research findings, and performing ongoing human-centered-design coaching (demonstrating the need for content design to stakeholders and project teams).
-4. Leading cross-functional teams through complex digital projects, such as responsive redesigns, app launches, or content migrations.
+1. Experience planning, writing, editing, and publishing content for digital products or services. This experience must include **ONE** of the following:
+- Creating content for mobile applications
+- Creating content for websites or web-based applications
+- Creating content for internal teams
 
-And experience with at least **ONE** of the following:
-- **UX research**, which could include writing research plans and interview protocols, recruiting research participants, writing screeners, leading user/usability tests, synthesizing research, distilling synthesis into actionable next steps, and demonstrating a strong familiarity with both qualitative and quantitative research methodologies.
-- **Information architecture**, which could include the following activities and tools: wireframes, navigation design, data modeling, site maps, flows and other process diagrams, and findability testing via card sorts or treejack testing.
+2. Experience developing content strategy or content design approaches. This experience must include the following: 
+Gathering feedback from external users
+Researching organizational or market constraints
+
+3. Experience advocating for content design with stakeholders and project team members.
+
+4. Experience leading content or design efforts for cross-functional teams building complex digital projects
+
 
 {% else %}
 
@@ -133,11 +138,12 @@ And experience with at least **ONE** of the following:
 
 Content designers on the 18F experience design team collaborate with agency partners, product managers, other designers, and engineers to deliver user-centered content for audiences both inside and outside of government. Starting from the premise that good content is easy to understand and meets people where they are, our content designers go far beyond copywriting. They work with partners to craft strategies for creating, managing, and publishing content. They work with user experience researchers to teach, participate in, and sometimes lead usability testing and user-centered writing. And they work with visual designers and engineers to develop interactive experiences that treat all aspects of the experience as essential.
 
-As an 18F content designer, you’ll work on cross-functional teams of experts in design, product strategy, technical architecture, software engineering, and procurement. Besides creating and maintaining clear, accessible content, you’ll also help our partners improve (or develop) their user-centered content practices and promote content best practices across government.
+As an 18F content designer, you’ll work on cross-functional teams of experts in design, product strategy, technical architecture, software engineering, and procurement. Besides creating and maintaining clear, accessible content, you’ll also help our partners improve (or develop) their user-centered content practices and promote content best practices across government.  
 
-The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our content designers focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to write beautifully. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place.
+The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our content designers focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to write beautifully. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place. 
 
-We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, and who love to help others discover better ways of creating great content even more than they love writing it.
+We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, who love to help others discover better ways of creating great content even more than they love writing it. 
+
 
 ## Key Objectives
 
@@ -183,7 +189,7 @@ GS-{{ page.promotion_potential }}
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
+_For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to._
 
 **Location:**
 {{ page.location }}
@@ -212,9 +218,11 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government. 
+
+This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), Office of 18F.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -246,7 +254,14 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
 ## Duties
-Typical duties include but are not limited to: Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward thinking design and development principles to product or services development, delivery and program management, such as lean startup, user centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government wide standards for digital services, leading to their adoption across citizen and business facing government Services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
+Typical duties for the fellow include but are not limited to: 
+- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development
+- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
+- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences
+- Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services
+- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
+- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
+
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -254,8 +269,12 @@ We will use a method called Category Rating to assess your application.
 **Here’s how it will work:**
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
+- **Content strategy:** Leading strategic content initiatives and delivering effective recommendations for developing user-centered content. 
+- **User experience (UX) writing:** Planning, writing, and editing content from concept to delivery to make digital services simpler, clearer, and easier to use. 
+- **Problem solving:** Researching, synthesizing, and designing information to define problems and propose solutions effectively. 
+- **Collaboration:** Working closely with others to accomplish shared goals and build strong working relationships (14-20 points)  
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. (14-20 points) 
 
-COPY AND PASTE THE COMPETENCY BULLET POINTS FROM THE SPECIALIZED EXPERIENCE
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
@@ -271,16 +290,18 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-This experience must include **ALL** of the following
-1. Planning, writing, editing, and publishing user-centered content for digital products and services, across **at least three of the following** formats: interface copy, product or service alerts, mobile notifications, product documentation, style guides, playbooks, brand guidance, product-focused editorial work, and stakeholder presentations. Users can be internal or external.
-2. Managing the process of researching, developing, and testing design approaches and digital strategies, including **at least three of the following:** writing conversation guides, performing content audits, conducting market research (including comparative analyses and landscape reviews), conducting stakeholder interviews, testing content usability through established design research methods, and using analytics to make content-/publishing-related decisions.
-3. Advocating for user-centered design with stakeholders and project team members, using evidence to support decisions. This could include leading kickoff meetings or design workshops, presenting research findings, and performing ongoing human-centered-design coaching (demonstrating the need for content design to stakeholders and project teams).
-4. Leading cross-functional teams through complex digital projects, such as responsive redesigns, app launches, or content migrations.
+1. Experience planning, writing, editing, and publishing content for digital products or services. This experience must include **ONE** of the following:
+- Creating content for mobile applications
+- Creating content for websites or web-based applications
+- Creating content for internal teams
 
-And experience with at least **ONE** of the following:
-- **UX research**, which could include writing research plans and interview protocols, recruiting research participants, writing screeners, leading user/usability tests, synthesizing research, distilling synthesis into actionable next steps, and demonstrating a strong familiarity with both qualitative and quantitative research methodologies.
-- **Information architecture**, which could include the following activities and tools: wireframes, navigation design, data modeling, site maps, flows and other process diagrams, and findability testing via card sorts or treejack testing.
+2. Experience developing content strategy or content design approaches. This experience must include the following: 
+Gathering feedback from external users
+Researching organizational or market constraints
 
+3. Experience advocating for content design with stakeholders and project team members.
+
+4. Experience leading content or design efforts for cross-functional teams building complex digital projects
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
 For each job on your resume, provide:
