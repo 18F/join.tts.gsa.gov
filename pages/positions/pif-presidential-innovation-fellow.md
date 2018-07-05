@@ -6,7 +6,7 @@ job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
 opens: April 24, 2018, 11:59pm EDT
-closes: July 6, 2018, 11:59pm EDT
+closes: July 11, 2018, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
