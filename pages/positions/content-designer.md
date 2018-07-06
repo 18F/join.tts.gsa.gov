@@ -23,7 +23,7 @@ contact_email: 'jointts@gsa.gov'
 
 job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist' 
-num_vacancies: '1 (additional vacancies may be filled from this announcement as needed)'
+num_vacancies: '1'
 series: '0301' 
 apply_url: https://goo.gl/forms/ejUE4ZaH0SUi0FhH3
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
@@ -249,8 +249,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Employment Requirements
 - Serve a one year trial period, if required.
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
-- Any discrepancies must be resolved as a condition of continued employment.
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment.
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
 ## Duties
@@ -296,12 +295,13 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Creating content for internal teams
 
 2. Experience developing content strategy or content design approaches. This experience must include the following: 
-Gathering feedback from external users
-Researching organizational or market constraints
+- Gathering feedback from external users
+- Researching organizational or market constraints
 
 3. Experience advocating for content design with stakeholders and project team members.
 
 4. Experience leading content or design efforts for cross-functional teams building complex digital projects
+
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
 For each job on your resume, provide:
