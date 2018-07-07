@@ -6,7 +6,7 @@ redirect_from:
   - /join/consulting-software-engineer-gs15-closed/
   - /join/consulting-software-engineer-gs15/
   - /join/18F-consulting-software-engineer/
-state: open
+state: closed
 job_post_type: tts
 
 opens:  Monday, July 2, 2018 8:00am EDT
@@ -23,7 +23,7 @@ job_announcement_number: '1800491JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '6'
 series: '0301' 
-apply_url: https://goo.gl/forms/vtWcoVeFM9qyz17l1
+# apply_url: https://goo.gl/forms/vtWcoVeFM9qyz17l1
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
