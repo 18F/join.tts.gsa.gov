@@ -31,7 +31,9 @@ contact_email: 'jointts@gsa.gov'
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}. Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
+{% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2). {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process. 
+{% endif %}
 
 ## Basic Information
 
@@ -74,16 +76,14 @@ user stories.
 - Assist your agency partners through the change management process of cloud adoption, with the ability to work through 
 staffing planning challenges.
 
-### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and 
-knowledge sharing.
+### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including 
 iterative development and continuous improvement.
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
 - Support teammates and partners in learning new skills and applying new methods for project management.
 - Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices.
 
-### Key objective #3: Objective #3: You will work with the team to design and implement multiple Cloud Foundry deployments 
-efficiently, ensuring they are reliable and secure.
+### Key objective #3: Objective #3: You will work with the team to design and implement multiple Cloud Foundry deployments efficiently, ensuring they are reliable and secure.
 - Consult with and advise partner teams in designing processes and procedures to keep multiple Cloud Foundry environments in
 multiple geographical regions, environments, and security domains resilient, fault-tolerant, and consistent.
 - Work with internal and external groups to integrate, configure, manage, and support production systems, including 
@@ -93,8 +93,7 @@ system errors, and resolving incidents.
 - Ensure easy deployment and upgrades of platforms and subsystems.
 - Ensure infrastructure is used efficiently.
 
-### Key objective #4:  You will work with the team to automate platform operations using modern software development 
-techniques.
+### Key objective #4:  You will work with the team to automate platform operations using modern software development techniques.
 - Treat configuration as code: manage, design, deploy, and test platform operations.
 - Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity.
 - Deploy software in a repeatable and documented way; document specifications, process, systems, and procedures.
