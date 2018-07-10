@@ -102,9 +102,6 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 
 ### Specialized Experience
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
-
-ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 {% else %}
 
