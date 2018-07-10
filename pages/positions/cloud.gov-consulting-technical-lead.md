@@ -1,6 +1,6 @@
 ---
 title: cloud.gov Consulting Technical Lead
-# permalink: /join/ENTER ROLE TITLE HERE/
+permalink: /join/cloud.gov-consulting-technical-lead/
 state: upcoming
 job_post_type: tts
 
