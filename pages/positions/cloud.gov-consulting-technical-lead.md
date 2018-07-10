@@ -49,6 +49,8 @@ employees or contractors
 
 ## Role Summary:
 
+### {{ page.title }} - GS-{{ page.gs_level }}
+
 As a Consulting Technical Lead, you will work closely with a federal agency partner team (and teammates from 18F and 
 cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You will work 
 to understand the needs and the desires of the client, and you will work with the partner agency and vendor partners to 
@@ -59,8 +61,6 @@ strategy and change management challenges. You should have experience operating 
 interest in building systems and processes that meet federal security compliance requirements in effective and modern ways. 
 The strongest candidates will  be comfortable building and managing technical teams. Your first project will be consulting 
 on-site in Boston with the United States Air Force.
-
-### {{ page.title }} - GS-{{ page.gs_level }}
 
 
 ## Key Objectives
