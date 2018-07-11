@@ -10,7 +10,7 @@ opens: tbd
 # closes: MONTH DAY, YEAR, TIME EDT
 location: 'Boston, MA'
 gs_level: 15
-salary_min: '134,778' 
+salary_min: '134,011' 
 salary_max: '164,200' 
 org: '18F' 
 contact_name: 'Leigh Finkel'
