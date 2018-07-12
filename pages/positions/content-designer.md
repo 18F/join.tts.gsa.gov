@@ -11,7 +11,7 @@ job_post_type: tts
 
 opens: Monday, July 16, 2018 8:00am EDT
 closes: Friday, July 20, 2018 8:00pm EDT
-locations: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -44,7 +44,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 ## Basic Information
 
 **Locations:**
-{{ page.locations }}
+{{ page.location }}
 
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
@@ -175,7 +175,7 @@ We’re looking for candidates who have delivered content iteratively, who have 
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -192,7 +192,7 @@ Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_m
 _For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to._
 
 **Locations:**
-{{ page.locations }}
+{{ page.location }}
 
 **Number of vacancies:**
 {{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
