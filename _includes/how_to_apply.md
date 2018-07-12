@@ -45,7 +45,7 @@ Need Assistance in applying or have questions regarding this job opportunity, pl
 
 ## Other Information
 
-Bargaining Unit status: {{ page.bargaining_status }}
+Bargaining Unit status: {{ page.bargaining_unit }}
 
 Relocation-related expenses are not approved and will be your responsibility.
 
