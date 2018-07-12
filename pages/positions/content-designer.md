@@ -9,7 +9,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: Monday, July 16, 2018 8:00am EDT
+opens: Monday, July 16, 2018 
 closes: Friday, July 20, 2018 8:00pm EDT
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
