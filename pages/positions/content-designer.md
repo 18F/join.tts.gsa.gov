@@ -9,9 +9,9 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: Monday, July 16, 2018 8:00am EDT
+opens: Monday, July 16, 2018 
 closes: Friday, July 20, 2018 8:00pm EDT
-location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+locations: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -43,7 +43,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 
 ## Basic Information
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Salary Range:**
@@ -181,7 +181,7 @@ We’re looking for candidates who have delivered content iteratively, who have 
 {{ page.pd_job_title }}
 
 **Series & Grade:**
-{{ page.series }} - GS-{{ page.gs_level }}
+{{ page.series }} - {{ page.gs_level }}
 
 **Promotion Potential:** 
 GS-{{ page.promotion_potential }}
@@ -191,7 +191,7 @@ Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_m
 
 _For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to._
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Number of vacancies:**
@@ -271,8 +271,8 @@ You will be scored based on a review of your application materials, measuring yo
 - **Content strategy:** Leading strategic content initiatives and delivering effective recommendations for developing user-centered content. 
 - **User experience (UX) writing:** Planning, writing, and editing content from concept to delivery to make digital services simpler, clearer, and easier to use. 
 - **Problem solving:** Researching, synthesizing, and designing information to define problems and propose solutions effectively. 
-- **Collaboration:** Working closely with others to accomplish shared goals and build strong working relationships (14-20 points)  
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. (14-20 points) 
+- **Collaboration:** Working closely with others to accomplish shared goals and build strong working relationships 
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
 
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
@@ -300,7 +300,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 3. Experience advocating for content design with stakeholders and project team members.
 
-4. Experience leading content or design efforts for cross-functional teams building complex digital projects
+4. Experience leading content or design efforts for cross-functional teams building complex digital projects.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
