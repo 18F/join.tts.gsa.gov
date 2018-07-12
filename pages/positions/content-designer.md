@@ -9,7 +9,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: Monday, July 16, 2018 
+opens: Monday, July 16, 2018 8:00am EDT
 closes: Friday, July 20, 2018 8:00pm EDT
 locations: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
@@ -44,7 +44,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 ## Basic Information
 
 **Locations:**
-{{ page.location }}
+{{ page.locations }}
 
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
