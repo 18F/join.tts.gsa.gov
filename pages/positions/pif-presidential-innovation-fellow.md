@@ -1,7 +1,7 @@
 ---
 title: Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
