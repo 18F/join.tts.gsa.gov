@@ -8,7 +8,7 @@ redirect_from:
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
-state: upcoming
+state: closed
 job_post_type: usajobs
 opens: tbd
 # closes: June 25, 2018, 11:59pm EDT
@@ -102,9 +102,6 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 
 ### Specialized Experience
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
-
-ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 {% else %}
 

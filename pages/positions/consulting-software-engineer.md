@@ -6,7 +6,7 @@ redirect_from:
   - /join/consulting-software-engineer-gs15-closed/
   - /join/consulting-software-engineer-gs15/
   - /join/18F-consulting-software-engineer/
-state: open
+state: closed
 job_post_type: tts
 
 opens:  Monday, July 2, 2018 8:00am EDT
@@ -23,7 +23,7 @@ job_announcement_number: '1800491JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '6'
 series: '0301' 
-apply_url: https://goo.gl/forms/vtWcoVeFM9qyz17l1
+# apply_url: https://goo.gl/forms/vtWcoVeFM9qyz17l1
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
@@ -255,7 +255,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are a male born after 12/31/1959.
+5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
 
 ## Employment Requirements
 - Serve a one year trial period, if required.

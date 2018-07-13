@@ -1,20 +1,20 @@
 ---
-title: ENTER ROLE TITLE HERE
-# permalink: /join/ENTER ROLE TITLE HERE/
-# state: ENTER STATE HERE (open, closed, upcoming)
-# job_post_type: ENTER TYPE HERE (tts or usajobs)
+title: Consulting Technical Lead
+permalink: /join/consulting-technical-lead/
+state: upcoming
+job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-# opens: MONTH DAY, YEAR, TIME EDT
+opens: tbd
 # closes: MONTH DAY, YEAR, TIME EDT
-# location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-# gs_level: ENTER GS LEVEL (13, 14, 15, etc)
-# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
-# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
-# org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
-# contact_name: 'TTS TALENT TEAM NAME'
-# contact_email: 'jointts@gsa.gov'
+location: 'Boston, MA'
+gs_level: 15
+salary_min: '134,011' 
+salary_max: '164,200' 
+org: '18F' 
+contact_name: 'Leigh Finkel'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
@@ -56,48 +56,74 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
+As a Consulting Technical Lead, you will work closely with a federal agency partner team (and teammates from 18F and 
+cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You will work 
+to understand the needs and the desires of the client, and you will work with the partner agency and vendor partners to 
+implement solutions. 
+
+This role may be perfect for you if you have experience leading cloud migration projects, including handling organizational 
+strategy and change management challenges. You should have experience operating Cloud Foundry platforms, as well as an 
+interest in building systems and processes that meet federal security compliance requirements in effective and modern ways. 
+The strongest candidates will  be comfortable building and managing technical teams. Your first project will be consulting 
+on-site in Boston with the United States Air Force.
+
 
 ## Key Objectives
 
-### Key objective #1:
--
--
--
+### Key objective #1: You will help federal agencies develop and implement cloud migration plans.
+- Partner with  federal agencies to build, manage, and grow their cloud adoption teams. You will provide engineering 
+leadership for these teams.
+- Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and 
+user stories.
+- Analyze systems, identify potential problems with migration activities, and design and document solutions.
+- Assist your agency partners through the change management process of cloud adoption, with the ability to work through 
+staffing planning challenges.
 
-### Key objective #2:
--
--
--
+### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
+- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including 
+iterative development and continuous improvement.
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
+- Support teammates and partners in learning new skills and applying new methods for project management.
+- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices.
 
-### Key objective #3:
--
--
--
+### Key objective #3: Objective #3: You will work with the team to design and implement multiple Cloud Foundry deployments efficiently, ensuring they are reliable and secure.
+- Consult with and advise partner teams in designing processes and procedures to keep multiple Cloud Foundry environments in
+multiple geographical regions, environments, and security domains resilient, fault-tolerant, and consistent.
+- Work with internal and external groups to integrate, configure, manage, and support production systems, including 
+monitoring platform and application uptime and maximizing platform reliability.
+- Lead the team in developing and maintaining robust problem handling, including responding to system alerts, troubleshooting
+system errors, and resolving incidents.
+- Ensure easy deployment and upgrades of platforms and subsystems.
+- Ensure infrastructure is used efficiently.
 
-### Key objective #4:
--
--
--
+### Key objective #4:  You will work with the team to automate platform operations using modern software development techniques.
+- Treat configuration as code: manage, design, deploy, and test platform operations.
+- Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity.
+- Deploy software in a repeatable and documented way; document specifications, process, systems, and procedures.
+- Take an iterative approach to identifying and removing single points of failure.
 
 ## Minimum Qualifications
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you 
+meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
 
-- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-- The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
+- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be
+interviewed
+- The Minimum Qualification determination can only be made using the information that's directly within your resume and 
+directly associated your listed work experience.
   - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the 
+    information is not).
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your 
+    work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
  
-The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the 
+most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume 
+directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on 
+[Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
-### Specialized Experience
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
-
-ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 {% else %}
 
