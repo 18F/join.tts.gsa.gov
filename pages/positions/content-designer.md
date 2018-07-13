@@ -4,7 +4,7 @@ permalink: /join/content-designer/
 redirect_from:
   - /join/18f-content-designer-gs15-closed/
   - /join/18f-content-designer-gs15/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -21,7 +21,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '1800179JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
