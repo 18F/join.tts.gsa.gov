@@ -16,7 +16,7 @@ job_post_type: tts
 opens: July 23, 2018
 closes: July 27, 2018, 8PM EDT
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
-gs_level: 15
+gs_level: '15'
 salary_min: '105,123'
 salary_max: '136,659'
 org: '18F'
@@ -32,7 +32,7 @@ apply_url: https://goo.gl/forms/uVSGPKNPWn6TvkWM2
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15
+promotion_potential: '15'
 supervisory_status: 'NO'
 ---
 
