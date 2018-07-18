@@ -21,7 +21,7 @@ subnav:
 
 ## Intro
 
-The federal hiring process can be confusing and overwhelming. The information below is intended to provide an overiview of the process and help with understanding how to apply to an opportunity within TTS.
+The federal hiring process can be confusing and overwhelming. The information below is intended to provide an overview of the process and help with understanding how to apply to an opportunity within TTS.
 
 **Process Timeline**
 
