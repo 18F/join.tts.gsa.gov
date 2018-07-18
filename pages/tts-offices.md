@@ -26,7 +26,7 @@ The TTS Front Office is made up of the TTS Director and FAS Deputy Commissioner,
 
 ## Centers of Excellence
 
-The IT Modernization Centers of Excellence seek to accelerate the modernization of IT to improve customer experience and reduce legacy IT spending across the government by leveraging private sector innovation, existing government services, and providing access to best practices and expertise.  The CoE will manage centralized, function specific talent, solutions and acquisition vehicles.  The CoE is made up of five offices whose work includes: standing up customer experience programs, accelerating cloud adoption, consolidating data centers, implementing contact centers of the future and developing metrics and dashboards to drive process improvement.  For more information about the CoE [click here](https://coe.gsa.gov/).
+The IT Modernization Centers of Excellence seek to accelerate the modernization of IT to improve customer experience and reduce legacy IT spending across the government by leveraging private sector innovation, existing government services, and providing access to best practices and expertise.  The CoE will manage centralized, function specific talent, solutions and acquisition vehicles. The CoE is made up of five offices whose work includes: standing up customer experience programs, accelerating cloud adoption, consolidating data centers, implementing contact centers of the future and developing metrics and dashboards to drive process improvement. [Find out more about the Centers of Excellence](https://coe.gsa.gov/).
 
 ## Office of Operations
 
@@ -37,7 +37,7 @@ The Office of Operations keeps TTS running smoothly and ensures that the team ha
 
 ## Office of 18F
 
-18F partners with agencies to help them build and buy digital services that instill pride and trust in the federal government. 18F works hard to ensure that the government is meeting user needs and implementing strong security practices. 18F strives to deliver on time and within budget while meeting the needs of our partner agencies. 18F is made up of software developers, designers, strategist, and business operations folks. For more information about a tour of duty with 18F, [click here](https://18f.gsa.gov/join).
+18F partners with agencies to help them build and buy digital services that instill pride and trust in the federal government. 18F works hard to ensure that the government is meeting user needs and implementing strong security practices. 18F strives to deliver on time and within budget while meeting the needs of our partner agencies. 18F is made up of software developers, designers, strategist, and business operations folks. [Consider joining the 18F team](https://18f.gsa.gov/join).
 
 ## Office of Acquisitions
 
@@ -45,9 +45,9 @@ The Office of Acquisitions includes developers, designers, product managers, and
 
 ## Office of Products and Programs
 
-The Office of Products and Programs (OPP) is made up of program managers, product owners, writers, customer experience specialists, engineers, data scientists, and user experience designers who work to deliver government services and information to the public, as well as shared tools and resources to federal agency partners. Through programs like USA.gov, Data.gov, and Challenge.gov, OPP works with agencies to improve the public experience with government. OPP also offers solutions to agencies seeking to modernize IT, like FedRAMP and the Digital Analytics Program. OPP’s reach is tremendous, with thousands of agency partners and millions of customer interactions. To learn more about the different programs within OPP, [click here](https://handbook.18f.gov/office-of-products-and-programs/).
+The Office of Products and Programs (OPP) is made up of program managers, product owners, writers, customer experience specialists, engineers, data scientists, and user experience designers who work to deliver government services and information to the public, as well as shared tools and resources to federal agency partners. Through programs like USA.gov, Data.gov, and Challenge.gov, OPP works with agencies to improve the public experience with government. OPP also offers solutions to agencies seeking to modernize IT, like FedRAMP and the Digital Analytics Program. OPP’s reach is tremendous, with thousands of agency partners and millions of customer interactions. [Find out more about the Office of Products and Programs](https://handbook.18f.gov/office-of-products-and-programs/).
 
 ## Presidential Innovation Fellows
 
 The Presidential Innovation Fellows (PIF) program is made up of mid- to senior-level individuals with a proven track record of success in entrepreneurship, strategic design, technology, innovation, and modern product management. In the PIF program, fellows team up with agency changemakers to tackle the nation’s biggest and most pressing technology challenges, such as improving access to education, fueling job creation and the economy, and expanding the public’s ability to access their personal health data.
-Fellows serve a 12-month tour of duty in Washington, D.C. with fellowships typically starting in late summer or early fall. For more information about a tour of duty with PIF and to apply [click here](https://presidentialinnovationfellows.gov/).
+Fellows serve a 12-month tour of duty in Washington, D.C. with fellowships typically starting in late summer or early fall. [Apply to become a Presidential Innovation Fellow](https://presidentialinnovationfellows.gov/).
