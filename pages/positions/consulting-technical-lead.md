@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 opens: July 30, 2018
-closes: Aug 3, 2018 8pm EDT
+closes: August 3, 2018 8pm EDT
 location: 'Boston, MA'
 gs_level: 15
 salary_min: '134,011' 
@@ -72,7 +72,7 @@ Your first project will be consulting on-site in Boston with the United States A
 ## Key Objectives
 
 ### Key objective #1: Help federal agencies develop and implement cloud migration plans.
--Partner with federal agencies to build, manage, and grow their cloud adoption teams. 
+- Partner with federal agencies to build, manage, and grow their cloud adoption teams. 
 - Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development.
 - Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories.
 - Analyze systems, identify potential problems with migration activities, and design and document solutions.
@@ -149,7 +149,7 @@ Your first project will be consulting on-site in Boston with the United States A
 ## Key Objectives
 
 ### Key objective #1: Help federal agencies develop and implement cloud migration plans.
--Partner with federal agencies to build, manage, and grow their cloud adoption teams. 
+- Partner with federal agencies to build, manage, and grow their cloud adoption teams. 
 - Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development.
 - Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories.
 - Analyze systems, identify potential problems with migration activities, and design and document solutions.
@@ -223,7 +223,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -275,8 +275,8 @@ We will use a method called Category Rating to assess your application.
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
 - **Technical Leadership:** The ability to provide technical leadership, mastery, and architecture on complex engineering projects. 
-- **Software Engineering** Practices: Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products. (14-20 points)  
-Agile Orientation: Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs. 
+- **Software Engineering** Practices: Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products. 
+- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs. 
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. 
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
 
