@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 opens: July 30, 2018
-closes: Aug 3, 2018 8PM EDT
+closes: Aug 3, 2018 8pm EDT
 location: 'Boston, MA'
 gs_level: 15
 salary_min: '134,011' 
@@ -26,8 +26,8 @@ apply_url: https://goo.gl/forms/eCwNDoAUA0j5egcq1
 ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
-bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'none'
+bargaining_unit: Non Bargaining Unit
+promotion_potential: '15'
 supervisory_status: 'NO'
 ---
 
@@ -192,7 +192,7 @@ Your first project will be consulting on-site in Boston with the United States A
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 _For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to._
 
