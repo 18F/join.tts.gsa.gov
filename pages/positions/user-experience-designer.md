@@ -8,7 +8,7 @@ redirect_from:
   - /join/18f-ux-designer-closed/
   - /join/18F-user-experience-designer/
   - /join/upcoming-18F-user-experience-designer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -24,7 +24,7 @@ contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: 'TBD'
+job_announcement_number: '1800513JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
@@ -243,7 +243,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -312,17 +312,16 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+To qualify for this role, **you must have ONE year of specialized experience** equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is: 
 
-This experience must include **ALL** of the following:
-1. Experience conducting user or human centered research in the development of digital products or services. This experience must include at least **THREE** of the following for a duration of not less than **ONE** year:
+1. Experience conducting user or human centered research in the development of digital products or services. This experience must include at least **THREE** of the following:
 - Developing user research plans, interview protocols or question guides
 - Conducting User interviews
 - Conducting Contextual inquiry or Observational research
-- Qualitative research
-- Participatory design workshops 
+- Conducting Qualitative research
+- Conducting Participatory design workshops 
 
-2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following for a duration not less than **ONE** year:
+2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following:
 - Conducting usability testing or user testing
 - Using agile, lean or other iterative product development approaches 
 - Teaching or mentoring non-designers how to use user-centered design methodologies 
