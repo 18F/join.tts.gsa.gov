@@ -4,7 +4,7 @@ permalink: /join/content-designer/
 redirect_from:
   - /join/18f-content-designer-gs15-closed/
   - /join/18f-content-designer-gs15/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
