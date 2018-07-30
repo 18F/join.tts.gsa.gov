@@ -275,7 +275,7 @@ We will use a method called Category Rating to assess your application.
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
 - **Technical Leadership:** The ability to provide technical leadership, mastery, and architecture on complex engineering projects. 
-- **Software Engineering** Practices: Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products. 
+- **Software Engineering Practices:** Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products. 
 - **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs. 
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. 
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
