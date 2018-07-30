@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '1800520JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '5'
 series: '0301' 
