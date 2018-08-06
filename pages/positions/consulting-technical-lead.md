@@ -1,13 +1,13 @@
 ---
 title: Consulting Technical Lead
 permalink: /join/consulting-technical-lead/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: July 30, 2018
-closes: August 3, 2018, 8pm EDT
+## opens: July 30, 2018
+## closes: August 3, 2018, 8pm EDT
 location: 'Boston, MA'
 gs_level: 15
 salary_min: '134,011' 
