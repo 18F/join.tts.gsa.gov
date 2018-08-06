@@ -1,7 +1,7 @@
 ---
 title: Consulting Technical Lead
 permalink: /join/consulting-technical-lead/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
