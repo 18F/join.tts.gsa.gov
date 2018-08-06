@@ -9,7 +9,7 @@ redirect_from:
 state: upcoming
 job_post_type: tts
 
-## opens:  Monday, July 2, 2018 8:00am EDT
+opens:  'TBD'
 ## closes: Friday, July 6, 2018 8:00pm EDT
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
