@@ -6,7 +6,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-## opens: July 30, 2018
+opens: 'TBD'
 ## closes: August 3, 2018, 8pm EDT
 location: 'Boston, MA'
 gs_level: 15
@@ -23,8 +23,7 @@ pd_job_title: 'Innovation Specialist'
 num_vacancies: '5'
 series: '0301' 
 apply_url: https://goo.gl/forms/eCwNDoAUA0j5egcq1
-ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: Non Bargaining Unit
 promotion_potential: '15'
