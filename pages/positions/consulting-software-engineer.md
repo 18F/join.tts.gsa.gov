@@ -6,11 +6,11 @@ redirect_from:
   - /join/consulting-software-engineer-gs15-closed/
   - /join/consulting-software-engineer-gs15/
   - /join/18F-consulting-software-engineer/
-state: closed
+state: upcoming
 job_post_type: tts
 
-opens:  Monday, July 2, 2018 8:00am EDT
-closes: Friday, July 6, 2018 8:00pm EDT
+## opens:  Monday, July 2, 2018 8:00am EDT
+## closes: Friday, July 6, 2018 8:00pm EDT
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
