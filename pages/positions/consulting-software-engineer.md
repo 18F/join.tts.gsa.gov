@@ -311,7 +311,7 @@ Experience developing full-stack web applications using test-driven development,
 - Developing digital applications using a relational or non-relational data layers
 - Developing digital applications using test-driven development and software testing tools
 
-Experience deploying or operating digital applications on cloud technologies.This experience must include **ONE** of the following:
+Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
 - Developing digital applications using Infrastructure-as-a-Service (IaaS) 
 - Developing digital applications using Platform-as-a-Service (PaaS)
 - Developing digital applications using containerization technologies
