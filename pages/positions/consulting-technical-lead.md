@@ -1,16 +1,16 @@
 ---
 title: Consulting Technical Lead
 permalink: /join/consulting-technical-lead/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 opens: 'TBD'
-## closes: August 3, 2018, 8pm EDT
-location: 'Boston, MA'
+## closes: TBD
+location: 'Boston, MA; Hampton, VA'
 gs_level: 15
-salary_min: '134,011' 
+salary_min: '134,789' 
 salary_max: '164,200' 
 org: '18F' 
 contact_name: 'Leigh Finkel'
@@ -22,7 +22,7 @@ job_announcement_number: '1800520JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '5'
 series: '0301' 
-apply_url: https://goo.gl/forms/eCwNDoAUA0j5egcq1
+apply_url: https://goo.gl/forms/uMcXaJxX3Z9Aorzx1
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: Non Bargaining Unit
@@ -65,7 +65,7 @@ Consulting Technical Leads on our team are:
 - Capable of building and managing technical teams.
 - Comfortable operating Cloud Foundry platforms.
 
-Your first project will be consulting on-site in Boston with the United States Air Force.
+Your first project will be consulting on-site in Boston, Massachusetts or at Langley Air Force Base in Hampton, Virginia with the United States Air Force.
 
 
 ## Key Objectives
@@ -142,7 +142,7 @@ Consulting Technical Leads on our team are:
 - Capable of building and managing technical teams.
 - Comfortable operating Cloud Foundry platforms.
 
-Your first project will be consulting on-site in Boston with the United States Air Force.
+Your first project will be consulting on-site in Boston, Massachusetts or at Langley Air Force Base in Hampton, Virginia with the United States Air Force.
 
 
 ## Key Objectives
