@@ -20,7 +20,7 @@ contact_email: 'jointts@gsa.gov'
 
 job_announcement_number: '1800520JCOTR'
 pd_job_title: 'Innovation Specialist' 
-num_vacancies: '5'
+num_vacancies: '3'
 series: '0301' 
 apply_url: https://goo.gl/forms/uMcXaJxX3Z9Aorzx1
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
