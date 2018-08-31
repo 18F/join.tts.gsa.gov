@@ -8,10 +8,10 @@ job_post_type: tts
 
 opens: 'TBD'
 ## closes: TBD
-location: 'Boston, MA; Hampton, VA'
+location: 'Boston, MA and Hampton, VA'
 gs_level: 15
-salary_min: '134,789' 
-salary_max: '164,200' 
+salary_min: '105,123' 
+salary_max: '136,659' 
 org: '18F' 
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
