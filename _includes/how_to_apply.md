@@ -40,7 +40,7 @@ Need Assistance in applying or have questions regarding this job opportunity, pl
   - If you are claiming 10-point preference or derived preference (a spouse, widow or widower, or parent of a deceased or disabled veteran), submit both of the following in addition to the DD-214:
     - completed [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) form; and
     - proof of your entitlement; refer to [SF-15](http://www.opm.gov/forms/pdf_fill/SF15.pdf) for complete list.
-    - **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to {{ page.ohrm_contact_name }} at {{ page.ohrm_comtact_email }} by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting {{ page.job_announcement_number }}”.
+    - **If you are claiming veterans preference**, you **MUST** submit all Veteran’s documentation to {{ page.ohrm_contact_name }} at {{ page.ohrm_contact_email }} by the job posting closing date. Please subject the email “Veteran’s documentation for Job Posting {{ page.job_announcement_number }}”.
 - **If you are active duty military:** Certification on a letterhead from your military branch that includes your rank, character of service (must be under honorable conditions) & military service dates including discharge/release date (must be no later than 120 days after the date the certification is submitted).
 
 ## Other Information
