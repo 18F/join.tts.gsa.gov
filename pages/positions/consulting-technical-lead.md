@@ -1,13 +1,13 @@
 ---
 title: Consulting Technical Lead
 permalink: /join/consulting-technical-lead/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'TBD'
-## closes: TBD
+opens: September 4, 2018 8:00am EDT
+closes: September 9, 2018 11:59pm EDT
 location: 'Boston, MA and Hampton, VA'
 gs_level: 15
 salary_min: '105,123' 
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '1800596JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '3'
 series: '0301' 
