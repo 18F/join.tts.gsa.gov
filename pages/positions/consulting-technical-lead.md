@@ -6,23 +6,23 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'TBD'
-## closes: August 3, 2018, 8pm EDT
-location: 'Boston, MA'
+opens: September 4, 2018 8:00am EDT
+closes: September 9, 2018 11:59pm EDT
+location: 'Boston, MA and Hampton, VA'
 gs_level: 15
-salary_min: '134,011' 
-salary_max: '164,200' 
+salary_min: '105,123' 
+salary_max: '136,659' 
 org: '18F' 
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1800520JCOTR'
+job_announcement_number: '1800596JCOTR'
 pd_job_title: 'Innovation Specialist' 
-num_vacancies: '5'
+num_vacancies: '3'
 series: '0301' 
-apply_url: https://goo.gl/forms/eCwNDoAUA0j5egcq1
+apply_url: https://goo.gl/forms/uMcXaJxX3Z9Aorzx1
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: Non Bargaining Unit
@@ -65,7 +65,7 @@ Consulting Technical Leads on our team are:
 - Capable of building and managing technical teams.
 - Comfortable operating Cloud Foundry platforms.
 
-Your first project will be consulting on-site in Boston with the United States Air Force.
+Your first project will be consulting on-site in Boston, Massachusetts or at Langley Air Force Base in Hampton, Virginia with the United States Air Force.
 
 
 ## Key Objectives
@@ -142,7 +142,7 @@ Consulting Technical Leads on our team are:
 - Capable of building and managing technical teams.
 - Comfortable operating Cloud Foundry platforms.
 
-Your first project will be consulting on-site in Boston with the United States Air Force.
+Your first project will be consulting on-site in Boston, Massachusetts or at Langley Air Force Base in Hampton, Virginia with the United States Air Force.
 
 
 ## Key Objectives
@@ -191,7 +191,7 @@ Your first project will be consulting on-site in Boston with the United States A
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-${{ page.salary_min }} to ${{ page.salary_max }}
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 _For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to._
 
