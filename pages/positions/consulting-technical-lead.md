@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 opens: September 4, 2018 8:00am EDT
-closes: September 9, 2018 11:59pm EDT
+closes: September 10, 2018 5:00pm EDT
 location: 'Boston, MA and Hampton, VA'
 gs_level: 15
 salary_min: '105,123' 
