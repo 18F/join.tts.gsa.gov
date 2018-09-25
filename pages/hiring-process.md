@@ -118,6 +118,7 @@ Unlike private-sector resumes, government-style resumes are often several pages 
 
 This is the information that you should include for each position on your resume.
 - Company/Organization Name
+- Size of organization (x,xxx employees)
 - Location (City, State)
 - Dates of employment (MM/YYYY)
 - Hours Per Week (e.g. 15, 20, 40. If “full time” list 40 hours)
@@ -147,7 +148,7 @@ Here is where you will capture the skills, methodologies, techniques and tools t
 
 ### Example Resume Excerpt
 
-**Technology Transformation Service - Washington, DC**
+**Technology Transformation Service - Washington, DC - (300 employees)**
 
 _The Technology Transformation Service’s (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people._
 
