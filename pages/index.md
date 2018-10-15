@@ -4,16 +4,16 @@ permalink: /
 
 subnav:
   - text: About TTS
-    href: "#about-the-technology-transformation-service"
+    href: "#about-the-technology-transformation-services"
   - text: Offices of TTS
     href: "#offices-of-tts"
   - text: Join us
     href: "#join-us"
 ---
 
-## About the Technology Transformation Service
+## About the Technology Transformation Services
 
-The Technology Transformation Service's (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people.
+The Technology Transformation Services' (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people.
 
 Our teams work together to provide the support, authorities, and assurances that supercharge agencies’ ability to deliver on their missions. We apply modern methodologies and technologies to improve the public’s experience with government, online and off. We commit to finding, creating, and sharing the technology applications, platforms, processes, personnel, and software solutions that help federal agencies better serve their constituencies and their missions.
 
