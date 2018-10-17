@@ -148,9 +148,9 @@ Here is where you will capture the skills, methodologies, techniques and tools t
 
 ### Example Resume Excerpt
 
-**Technology Transformation Service - Washington, DC - (300 employees)**
+**Technology Transformation Services - Washington, DC - (300 employees)**
 
-_The Technology Transformation Service’s (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people._
+_The Technology Transformation Services' (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people._
 
 **Software Engineer - 07/2015 to Present** - Hours per week: 40
 
