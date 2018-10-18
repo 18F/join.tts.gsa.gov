@@ -8,7 +8,7 @@ redirect_from:
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
-state: closed
+state: upcoming
 job_post_type: usajobs
 opens: tbd
 # closes: June 25, 2018, 11:59pm EDT
