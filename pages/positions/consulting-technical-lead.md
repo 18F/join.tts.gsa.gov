@@ -6,7 +6,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-## opens: TBD 
+opens: 'tbd' 
 ## closes: TBD
 location: 'Boston, MA and Hampton, VA'
 gs_level: 15
