@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: TBD 
-closes: TBD
+## opens: TBD 
+## closes: TBD
 location: 'Boston, MA and Hampton, VA'
 gs_level: 15
 salary_min: '105,123' 
