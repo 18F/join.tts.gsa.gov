@@ -1,13 +1,13 @@
 ---
-title: Consulting Technical Lead
-permalink: /join/consulting-technical-lead/
-state: closed
+title: Cloud Consulting Platform Lead 
+permalink: /join/cloud-consulting-platform-lead/
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: September 4, 2018 8:00am EDT
-closes: September 10, 2018 5:00pm EDT
+opens: TBD 
+closes: TBD
 location: 'Boston, MA and Hampton, VA'
 gs_level: 15
 salary_min: '105,123' 
@@ -56,9 +56,9 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Consulting Technical Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Consulting Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and [cloud.gov](https://cloud.gov/)) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting Technical Leads on our team are:
+Consulting Platform Leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
@@ -102,8 +102,7 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 The information in this sections outlines the criteria that your application will be evaluated against to determine if you 
 meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
 
-- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be
-interviewed
+- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
 - The Minimum Qualification determination can only be made using the information that's directly within your resume and 
 directly associated your listed work experience.
   - Examples of stuff that can't be used:
@@ -133,9 +132,9 @@ directly reflects the qualifications listed below. We also have more guidance on
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Consulting Technical Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Consulting Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting Technical Leads on our team are:
+Cloud Consulting Platform Leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
