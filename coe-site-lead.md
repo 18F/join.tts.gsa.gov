@@ -1,20 +1,20 @@
 ---
 title: Site Lead
-# permalink: /join/site-lead/
-# state: upcoming
-# job_post_type: tts 
+permalink: /join/site-lead/
+state: upcoming
+job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-# opens: 'TBD'
+opens: 'TBD'
 # closes: 'TBD'
-# location: Washington, DC
-# gs_level: 15
-# salary_min: '134,789' 
-# salary_max: '164,200' 
-# org: 'Centers of Excellence'
-# contact_name: 'Amanda Schonfeld'
-# contact_email: 'jointts@gsa.gov'
+location: Washington, DC
+gs_level: 15
+salary_min: '134,789' 
+salary_max: '164,200' 
+org: 'Centers of Excellence'
+contact_name: 'Amanda Schonfeld'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
