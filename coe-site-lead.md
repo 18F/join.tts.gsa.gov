@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'TBD'
-# closes: 'TBD'
+opens: 'tbd' 
+## closes: TBD
 location: Washington, DC
 gs_level: 15
 salary_min: '134,789' 
