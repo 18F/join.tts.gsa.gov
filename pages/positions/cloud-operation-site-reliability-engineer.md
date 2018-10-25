@@ -7,7 +7,7 @@ job_post_type: tts
 
 opens: November 5, 2018
 closes: November 9, 2018, 8pm EDT
-location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Atlanta, GA; Austin, TX; Boston, MA; Denver, CO; Greenville, SC; Houston, TX; Las Vegas, NV; Los Angeles, CA; Miami, FL; Milwaukee, WI; Minneapolis MN; Omaha, NE; Philadelphia, PA; Portland, OR; Nahville, TN; San Diego, CA; San Antonio, TX; Seattle, WA; St. Louis, MO; Virtual (100% Remote)'
 gs_level: 15
 salary_min: '105,123' 
 salary_max: '136,659' 
@@ -19,7 +19,7 @@ contact_email: 'jointts@gsa.gov'
 
 job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist' 
-num_vacancies: '1 or more'
+num_vacancies: '2'
 series: '0301' 
 apply_url: https://goo.gl/forms/T5N63ubU230x0Vi63
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov '
