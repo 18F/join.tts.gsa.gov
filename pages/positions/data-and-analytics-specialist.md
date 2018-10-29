@@ -13,8 +13,8 @@ opens: tbd
 # closes: MONTH DAY, YEAR, TIME EDT
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '134,789'
+salary_max: '164,200'
 org: 'Centers of Excellence'
 contact_name: 'Amanda Schonfeld'
 contact_email: 'jointts@gsa.gov'
