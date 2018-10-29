@@ -1,5 +1,5 @@
-title: Cloud Operations Site Reliability Engineer
-permalink: /join/cloud-operation-site-reliability-engineer/
+title: Cloud Operation Site Reliability Engineer
+permalink: /join/cloud-operation-sre/
 state: open
 job_post_type: tts 
 
