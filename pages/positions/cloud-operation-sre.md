@@ -1,3 +1,4 @@
+---
 title: Cloud Operation Site Reliability Engineer
 permalink: /join/cloud-operation-sre/
 state: open
@@ -9,8 +10,8 @@ opens: November 5, 2018
 closes: November 9, 2018, 8pm EDT
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Atlanta, GA; Austin, TX; Boston, MA; Denver, CO; Greenville, SC; Houston, TX; Las Vegas, NV; Los Angeles, CA; Miami, FL; Milwaukee, WI; Minneapolis MN; Omaha, NE; Philadelphia, PA; Portland, OR; Nahville, TN; San Diego, CA; San Antonio, TX; Seattle, WA; St. Louis, MO; Virtual (100% Remote)'
 gs_level: 15
-salary_min: '105,123' 
-salary_max: '136,659' 
+salary_min: '105,123'
+salary_max:  '136,659'
 org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
@@ -18,15 +19,16 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS OPEN: These fields are required for open
 
 job_announcement_number: 'TBD'
-pd_job_title: 'Innovation Specialist' 
+pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
-series: '0301' 
+series: '0301'
 apply_url: https://goo.gl/forms/T5N63ubU230x0Vi63
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov '
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'NO'
+
 ---
 
 {% if page.state == 'upcoming' %}
