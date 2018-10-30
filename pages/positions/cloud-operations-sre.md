@@ -1,6 +1,6 @@
 ---
-title: Cloud Operation Site Reliability Engineer
-permalink: /join/cloud-operation-sre/
+title: Cloud Operations Site Reliability Engineer
+permalink: /join/cloud-operations-sre/
 state: open
 job_post_type: tts 
 
@@ -131,13 +131,13 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Using agile methodologies
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include ONE of the following:
+2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include **ONE** of the following:
 - Conducting technology evaluations
 - Making architectural decisions
 - Implementing new features
 - Reducing technical debt
 
-3. Experience deploying, operating, maintaining, or running cloud infrastructure or platforms. This experience must include TWO OR MORE of the following:
+3. Experience deploying, operating, maintaining, or running cloud infrastructure or platforms. This experience must include **TWO OR MORE** of the following:
 - Using a cloud computing platform
 - Using cloud computing infrastructure
 - Using continuous integration or continuous deployment tools 
@@ -301,11 +301,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Maintainable Software Development:** Knowledge and ability to develop software in a repeatable and documentable way, with emphasis on automation, testing, measuring, and scaling infrastructure. (14-20 points)
-- **Modern Technology and Practices:** The ability to understand and apply modern technology and software development principles and practices.  (14-20 points)  
-- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs.  (14-20 points)
+- **Maintainable Software Development:** Knowledge and ability to develop software in a repeatable and documentable way, with emphasis on automation, testing, measuring, and scaling infrastructure. 
+- **Modern Technology and Practices:** The ability to understand and apply modern technology and software development principles and practices. 
+- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs.  
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. (14-20 points) 
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. (14-20 points)  
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
 
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
@@ -327,13 +327,13 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Using agile methodologies
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include ONE of the following:
+2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include **ONE** of the following:
 - Conducting technology evaluations
 - Making architectural decisions
 - Implementing new features
 - Reducing technical debt
 
-3. Experience deploying, operating, maintaining, or running cloud infrastructure or platforms. This experience must include TWO OR MORE of the following:
+3. Experience deploying, operating, maintaining, or running cloud infrastructure or platforms. This experience must include **TWO OR MORE** of the following:
 - Using a cloud computing platform
 - Using cloud computing infrastructure
 - Using continuous integration or continuous deployment tools 
