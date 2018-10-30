@@ -304,7 +304,7 @@ You will be scored based on a review of your application materials, measuring yo
 - **Maintainable Software Development:** Knowledge and ability to develop software in a repeatable and documentable way, with emphasis on automation, testing, measuring, and scaling infrastructure. 
 - **Modern Technology and Practices:** The ability to understand and apply modern technology and software development principles and practices. 
 - **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs.  
-- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. (14-20 points) 
+- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. 
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
 
 
