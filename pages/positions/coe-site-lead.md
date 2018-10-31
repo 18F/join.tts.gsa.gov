@@ -52,7 +52,8 @@ If you are a new federal employee, your starting salary will likely be set at th
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
 employees or contractors
 
-## Role Summary:
+## Role Summary: 
+### {{ page.title }} - GS {{ page.gs_level }}
 
 The Centers of Excellence (CoE) work directly with customer agencies to identify their needs, recommend a solution, identify 
 the best contract vehicle to procure, support, and oversee implementation of the solution.  The CoEs are established to 
@@ -67,14 +68,13 @@ As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digi
 organizational strategy, technical architecture, software engineering, and procurement. In addition, you will join the 
 broader team of the Technology Transformation Service, which includes more than 300 people. If you believe the government 
 can better serve the public through the user-centered design of digital services, we hope you’ll join us.
-### {{ page.title }} - GS-{{ page.gs_level }}
+
 
 
 
 ## Key Objectives
 
-### Key objective #1: You will provide strategic and operational leadership to optimize productivity and the delivery of 
-high-impact work. 
+### Key objective #1: You will provide strategic and operational leadership to optimize productivity and the delivery of high-impact work. 
 - Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals.
 - Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of
 new processes when necessary.
@@ -86,7 +86,7 @@ new processes when necessary.
 - Work with the talent team  to develop recruitment, retention, and engagement strategies.
 - Collaborate with and serve as a strategic advisor to the CoE Director and CoE Front Office.
 
-### Key objective #2:
+### Key objective #2: Practice an exceptional level of customer service with your agency partner, providing a unique, tailored experience and making sure that all expectations are met. 
 - Create a strong overall vision and develop an effective strategy for fulfilling that vision.
 - Use empathy and communication skills to quickly build trust with partners.
 - Explain the work to people who have varying levels of technical knowledge — always meet the client where they’re at. 
@@ -125,33 +125,49 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
-## Role Summary:
+## Role Summary: Site Lead
 
-### {{ page.title }} - GS-{{ page.gs_level }}
+### {{ page.title }} - GS {{ page.gs_level }}
 
-ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
+The Centers of Excellence (CoE) work directly with customer agencies to identify their needs, recommend a solution, identify 
+the best contract vehicle to procure, support, and oversee implementation of the solution.  The CoEs are established to 
+implement, enhance and expand public access to federal information services.  Each CoE is staffed with experts who provide 
+authoritative advice, expert guidance, and engineering services purposed to improve service design and customer interactions 
+across major organizational, federal government lines and private sector entities. Each individual CoE has a different 
+mission and objectives, but all are intended to manage centralized, function­-specific talent, solutions and acquisition 
+vehicles, and to ensure effective support for solution implementation. These five Centers focus on cloud adoption, IT 
+infrastructure optimization, customer experience, contact centers and service delivery analytics.
 
+As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digital specialists, with expertise in design, 
+organizational strategy, technical architecture, software engineering, and procurement. In addition, you will join the 
+broader team of the Technology Transformation Service, which includes more than 300 people. If you believe the government 
+can better serve the public through the user-centered design of digital services, we hope you’ll join us.
 ## Key Objectives
 
-### Key objective #1:
--
--
--
+### Key objective #1: You will provide strategic and operational leadership to optimize productivity and the delivery of high-impact work. 
+- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals.
+- Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of
+new processes when necessary.
+- Ensure continued technical and user centered design excellence in each CoE.
+- Collect feedback to discuss successes and challenges, and share patterns and key feedback with senior staff as appropriate.
+- Facilitate and support the sharing of knowledge, tools, assets, and code across the CoE’s
+- Act as a liaison between CoE teams and senior staff.
+- Document best practices and lessons learned.
+- Work with the talent team  to develop recruitment, retention, and engagement strategies.
+- Collaborate with and serve as a strategic advisor to the CoE Director and CoE Front Office.
 
-### Key objective #2:
--
--
--
+### Key objective #2:Practice an exceptional level of customer service with your agency partner, providing a unique, tailored experience and making sure that all expectations are met. 
+- Create a strong overall vision and develop an effective strategy for fulfilling that vision.
+- Use empathy and communication skills to quickly build trust with partners.
+- Explain the work to people who have varying levels of technical knowledge — always meet the client where they’re at. 
+- Express empathy through the long compliance and security processes.  
+- Serve as a liaison between the clients and the team when needed: Provide client feedback to the team, enabling the team to 
+make necessary changes to project performance or presentation.
+- Help partners and their leadership understand the value of agile-based program, project, and product management, 
+user-centered design, continuous integration, and working in the open.
+- Support, convince, and sometimes reassure, partners as they tackle challenges and adopt new practices.
 
-### Key objective #3:
--
--
--
 
-### Key objective #4:
--
--
--
 
 ## Basic Information
 
