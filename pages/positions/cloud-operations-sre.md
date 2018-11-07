@@ -213,7 +213,7 @@ cloud.gov’s core programming languages are Go, Ruby, Python, Java, JavaScript,
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
 
 **Job Title:**
 {{ page.pd_job_title }}
