@@ -6,9 +6,9 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: November 5, 2018
-closes: November 9, 2018, 8pm EDT
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Atlanta, GA; Austin, TX; Boston, MA; Denver, CO; Greenville, SC; Houston, TX; Las Vegas, NV; Los Angeles, CA; Miami, FL; Milwaukee, WI; Minneapolis MN; Omaha, NE; Philadelphia, PA; Portland, OR; Nahville, TN; San Diego, CA; San Antonio, TX; Seattle, WA; St. Louis, MO; Virtual (100% Remote)'
+opens: November 12, 2018
+closes: November 16, 2018, 8pm EDT
+location: 'Nationwide (location to be determined upon selection); Virtual (100% Remote)'
 gs_level: 15
 salary_min: '105,123'
 salary_max:  '136,659'
@@ -213,7 +213,7 @@ cloud.gov’s core programming languages are Go, Ruby, Python, Java, JavaScript,
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -256,7 +256,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -320,7 +320,7 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} grade level in the Federal service. Specialized experience is:
 
 1. Experience being a part of a team to deliver digital products or services. This experience must include **ALL** of the following:
 - Providing technical support for clients
