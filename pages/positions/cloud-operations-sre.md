@@ -233,7 +233,7 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:** 
 {{ page.supervisory_status }}
