@@ -59,9 +59,7 @@ As an expert contact center solutions architect well versed in multi-channel tec
 
 ## Key Objectives
 
-### Key objective #1: You will help federal agencies develop and execute contact center and customer experience modernization
-strategies incorporating leading technology and industry best practices to ensure their solutions can meet their current
-and future needs in an efficient, sustainable, agile, and adaptable manner.
+### Key objective #1: You will help federal agencies develop and execute contact center and customer experience modernization strategies incorporating leading technology and industry best practices to ensure their solutions can meet their current and future needs in an efficient, sustainable, agile, and adaptable manner.
 
 - Architect an enterprise-level customer experience technology solution using user story definition, holistic journey mapping, data modeling while also incorporating standard operating procedures and best-practice methodologies
 - Develop and maintain strategic application technology portfolios, roadmaps, and reference architectures to support or drive solution development or product selection
@@ -106,9 +104,7 @@ As an expert contact center solutions architect well versed in multi-channel tec
 
 ## Key Objectives
 
-### Key objective #1: You will help federal agencies develop and execute contact center and customer experience modernization
-strategies incorporating leading technology and industry best practices to ensure their solutions can meet their current
-and future needs in an efficient, sustainable, agile, and adaptable manner.
+### Key objective #1: You will help federal agencies develop and execute contact center and customer experience modernization strategies incorporating leading technology and industry best practices to ensure their solutions can meet their current and future needs in an efficient, sustainable, agile, and adaptable manner.
 
 - Architect an enterprise-level customer experience technology solution using user story definition, holistic journey mapping, data modeling while also incorporating standard operating procedures and best-practice methodologies
 - Develop and maintain strategic application technology portfolios, roadmaps, and reference architectures to support or drive solution development or product selection
@@ -132,6 +128,7 @@ Develop and track performance metrics, customer feedback, quality assurance and 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+
 
 ## Basic Information
 
@@ -241,7 +238,7 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
