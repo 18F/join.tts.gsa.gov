@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: November 13, 2018
-closes: November 20, 2018, 8pm 
+opens: November 13, 2018, 8am EDT
+closes: November 20, 2018, 8pm EDT
 location: 'Nationwide (location to be determined upon selection); Virtual (100% Remote)'
 gs_level: 15
 salary_min: '105,123'
