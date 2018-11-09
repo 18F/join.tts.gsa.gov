@@ -1,7 +1,7 @@
 ---
 title: Cloud Operations Site Reliability Engineer
 permalink: /join/cloud-operations-sre/
-state: open
+state: upcoming
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -54,7 +54,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 employees or contractors
 
 ## Role Summary:
-cloud.gov, a product team within 18F, is looking for talented site reliability engineers to help us deliver better digital services to the public. As an engineer at 18F, you will be a builder, contributor, and a catalyst. With the support of the team, you will solve large complex problems while spreading user-centered, open, and transparent culture. 18F is an open source team, so most of what you work on will be open source.
+cloud.gov, a product team within 18F, is looking for talented site reliability engineers to help us deliver better digital services to the public. As an engineer at 18F, you will be a builder, contributor, and a catalyst. With the support of the team, you will solve large complex problems while spreading user-centered, open, and transparent culture. [18F is an open source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
 Site reliability engineers on our team are:
 
