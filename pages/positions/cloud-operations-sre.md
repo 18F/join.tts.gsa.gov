@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '1900140JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
 series: '0301'
@@ -334,11 +334,11 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Reducing technical debt
 
 3. Experience deploying, operating, maintaining, or running cloud infrastructure or platforms. This experience must include **TWO OR MORE** of the following:
-- deploying, operating, maintaining, or running a cloud computing platform 
-- deploying, operating, maintaining, or running cloud computing infrastructure
-- deploying, operating, maintaining, or running continuous integration or continuous deployment tools 
-- deploying, operating, maintaining, or running infrastructure automation tooling
-- deploying, operating, maintaining, or running infrastructure monitoring tooling 
+- Making use of a cloud computing platform 
+- Making use of cloud computing infrastructure
+- Making use of continuous integration or continuous deployment tools 
+- Making use of infrastructure automation tooling
+- Making use of infrastructure monitoring tooling 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
