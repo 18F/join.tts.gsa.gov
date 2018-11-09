@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: November 12, 2018
-closes: November 16, 2018, 8pm EDT
+opens: November 13, 2018
+closes: November 20, 2018, 8pm EDT
 location: 'Nationwide (location to be determined upon selection); Virtual (100% Remote)'
 gs_level: 15
 salary_min: '105,123'
@@ -334,11 +334,11 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Reducing technical debt
 
 3. Experience deploying, operating, maintaining, or running cloud infrastructure or platforms. This experience must include **TWO OR MORE** of the following:
-- Using a cloud computing platform
-- Using cloud computing infrastructure
-- Using continuous integration or continuous deployment tools 
-- Using infrastructure automation tooling
-- Using infrastructure monitoring tooling 
+- deploying, operating, maintaining, or running a cloud computing platform 
+- deploying, operating, maintaining, or running cloud computing infrastructure
+- deploying, operating, maintaining, or running continuous integration or continuous deployment tools 
+- deploying, operating, maintaining, or running infrastructure automation tooling
+- deploying, operating, maintaining, or running infrastructure monitoring tooling 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
