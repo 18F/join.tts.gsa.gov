@@ -1,6 +1,6 @@
 ---
-title: Consulting Technical Lead
-permalink: /join/consulting-technical-lead/
+title: Cloud Platform Lead
+permalink: /join/cloud-platform-lead/
 state: closed
 job_post_type: tts
 
@@ -56,9 +56,9 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Consulting Technical Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting Technical Leads on our team are:
+Cloud Platform Leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
@@ -133,9 +133,9 @@ directly reflects the qualifications listed below. We also have more guidance on
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Consulting Technical Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting Technical Leads on our team are:
+Cloud Platform Leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
@@ -305,7 +305,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 3. Experience deploying, operating, maintaining, or running cloud platforms. This experience must include 
 **ALL** of the following:
-- Using a Cloud Foundry platform 
+- Using a Platform-as-a-Service (PaaS) 
 - Using continuous integration or continuous deployment tools 
 - Using infrastructure automation tooling
 - Using infrastructure monitoring tooling 
