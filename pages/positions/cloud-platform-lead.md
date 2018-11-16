@@ -1,17 +1,17 @@
 ---
-title: Consulting Technical Lead
-permalink: /join/consulting-technical-lead/
-state: closed
+title: Cloud Platform Lead
+permalink: /join/cloud-platform-lead/
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: September 4, 2018 8:00am EDT
-closes: September 10, 2018 5:00pm EDT
+opens: 'tbd'
+closes: 'tbd'
 location: 'Boston, MA and Hampton, VA'
 gs_level: 15
-salary_min: '105,123' 
-salary_max: '136,659' 
+salary_min: '121,280.41' 
+salary_max: '164,200' 
 org: '18F' 
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
@@ -44,7 +44,7 @@ Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+Base salary GS {{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -56,9 +56,9 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Consulting Technical Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting Technical Leads on our team are:
+Cloud Platform Leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
@@ -133,9 +133,9 @@ directly reflects the qualifications listed below. We also have more guidance on
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Consulting Technical Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting Technical Leads on our team are:
+Cloud Platform Leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
@@ -222,7 +222,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -305,7 +305,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 3. Experience deploying, operating, maintaining, or running cloud platforms. This experience must include 
 **ALL** of the following:
-- Using a Cloud Foundry platform 
+- Using a Platform-as-a-Service (PaaS) 
 - Using continuous integration or continuous deployment tools 
 - Using infrastructure automation tooling
 - Using infrastructure monitoring tooling 
