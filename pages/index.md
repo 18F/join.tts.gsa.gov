@@ -58,8 +58,3 @@ We’re looking for candidates passionate about our mission with top-notch softw
  **We are hiring and will be sharing information on new upcoming jobs as well as releasing new job postings frequently. Please check back or if you would like to be notified when new jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).**
 
 If you have any questions, please contact our Talent Team at joinTTS@gsa.gov
-
-
-<!-- GovDelivery Subscription Overlay -->
-<script src='https://content.govdelivery.com/overlay/js/6387.js'></script>
-<!-- End GovDelivery Overlay -->
