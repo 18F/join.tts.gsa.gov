@@ -274,7 +274,7 @@ You will be scored based on a review of your application materials, measuring yo
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. 
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
 
-Qualifications
+## Qualifications
 
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
