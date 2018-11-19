@@ -104,7 +104,7 @@ To qualify, you must have one year of specialized experience equivalent to the G
 
 1. Experience leading contact center and customer experience strategies for a government agency or organization. This experience must include **THREE** of the following:
 - Developing and executing contact center operations or strategies 
-- Developing and executing contact center modernization operations or strategies
+- Developing and executing customer service modernization operations or strategies
 - Leading contact center technology implementation or deployment within internal applications or systems 
 - Developing key performance metrics
 
@@ -236,7 +236,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are a male born after 12/31/1959.
+5. Register with Selective Service, if you are required by [https://www.sss.gov/Registration-Info/Who-Registration](https://www.sss.gov/Registration-Info/Who-Registration)
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -277,7 +277,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 1. Experience leading contact center and customer experience strategies for a government agency or organization. This experience must include **THREE** of the following:
 - Developing and executing contact center operations or strategies 
-- Developing and executing contact center modernization operations or strategies
+- Developing and executing customer service modernization operations or strategies
 - Leading contact center technology implementation or deployment within internal applications or systems 
 - Developing key performance metrics
 
