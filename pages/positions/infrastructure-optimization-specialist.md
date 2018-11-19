@@ -113,7 +113,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Leading large scale or enterprise wide migrations (e.g. migrating legacy data center into a hybrid cloud environment)
 - Managing federal technology or security compliance requirements for cloud based digital products or services
 
-2. Experience providing technical expertise on cloud adoption projects or initiatives. This experience must include **THREE** of the following:
+2. Experience providing technical expertise on cloud adoption projects or initiatives. This experience must include **TWO** of the following:
 - Leading cloud adoption projects or initiatives that use Infrastructure-as-a-Service (IaaS)
 - Leading cloud adoption projects or initiatives that use legacy infrastructure configurations
 - Leading cloud adoption projects or initiatives that require data migrations strategies 
@@ -287,7 +287,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Leading large scale or enterprise wide migrations (e.g. migrating legacy data center into a hybrid cloud environment)
 - Managing federal technology or security compliance requirements for cloud based digital products or services
 
-2. Experience providing technical expertise on cloud adoption projects or initiatives. This experience must include **THREE** of the following:
+2. Experience providing technical expertise on cloud adoption projects or initiatives. This experience must include **TWO** of the following:
 - Leading cloud adoption projects or initiatives that use Infrastructure-as-a-Service (IaaS)
 - Leading cloud adoption projects or initiatives that use legacy infrastructure configurations
 - Leading cloud adoption projects or initiatives that require data migrations strategies 
