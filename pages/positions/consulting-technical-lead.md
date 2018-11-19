@@ -1,7 +1,7 @@
 ---
 title: Cloud Consulting Platform Lead 
 permalink: /join/cloud-consulting-platform-lead/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
