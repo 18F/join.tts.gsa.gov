@@ -23,7 +23,7 @@ title: ENTER ROLE TITLE HERE
 # num_vacancies: 'ENTER NUMBER OF VACANCIES'
 # series: '0301' ENTER SERIES IF DIFFERENT
 # apply_url: APPLICATION URL
-# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
 # ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
 # bargaining_unit: 'Non Bargaining Unit'
 # promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
@@ -211,7 +211,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by [https://www.sss.gov/Registration-Info/Who-Registration](https://www.sss.gov/Registration-Info/Who-Registration)
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
