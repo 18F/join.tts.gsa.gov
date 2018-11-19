@@ -76,15 +76,15 @@ You will need a thorough knowledge of infrastructure, networking, cloud, integra
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
-- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
+- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned 
+- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government
 
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
@@ -118,7 +118,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Leading cloud adoption projects or initiatives that use legacy infrastructure configurations
 - Leading cloud adoption projects or initiatives that require data migrations strategies 
 - Leading cloud adoption projects or initiatives that use Virtualization technologies
-- Leading cloud adoption projects or initiatives that use Containerization technologie
+- Leading cloud adoption projects or initiatives that use Containerization technologies
 
 
 {% else %}
