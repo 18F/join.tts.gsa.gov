@@ -54,6 +54,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 employees or contractors
 
 ## Role Summary:
+### {{ page.title }} - GS-{{ page.gs_level }}
 cloud.gov, a product team within 18F, is looking for talented site reliability engineers to help us deliver better digital services to the public. As an engineer at 18F, you will be a builder, contributor, and a catalyst. With the support of the team, you will solve large complex problems while spreading user-centered, open, and transparent culture. [18F is an open source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
 Site reliability engineers on our team are:
@@ -65,9 +66,6 @@ Site reliability engineers on our team are:
 **This role is perfect for you if you care deeply about building great public-facing digital products and services.** You should be excited to apply your skills, share them with your colleagues, and learn from them in turn.
 
 cloud.gov’s core programming languages are Go, Ruby, Python, Java, JavaScript, and POSIX shell in addition to YAML for configuration. You should have experience with at least two of those languages, and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The best candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
-
-
-### {{ page.title }} - GS-{{ page.gs_level }}
 
 
 ## Key Objectives
