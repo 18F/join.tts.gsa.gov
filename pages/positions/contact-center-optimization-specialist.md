@@ -23,7 +23,7 @@ pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
 series: '0301' 
 apply_url: https://goo.gl/forms/Z7gqz1ipL0Veoj622
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
