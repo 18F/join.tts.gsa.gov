@@ -10,8 +10,8 @@ opens: November 26, 2018, 8am EDT
 closes: November 30, 2018, 8pm EDT
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '134,789'
+salary_max: '164,200'
 org: 'Centers of Excellence'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
@@ -184,7 +184,7 @@ You will need a thorough knowledge of infrastructure, networking, cloud, integra
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
