@@ -8,33 +8,36 @@ redirect_from:
   - join/CoE-upcoming-cloud-adoption-lead/
   - join/upcoming-CoE-cloud-adoption-lead/
   - join/CoE-cloud-adoption-specialist/
-state: upcoming
+state: open
 job_post_type: usajobs
-opens: tbd
-# closes: June 25, 2018, 11:59pm EDT
+opens: November 26, 2018
+closes: November 30, 2018, 8pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
 salary_max: '164,200'
 org: 'Centers of Excellence (COE)'
-contact_name: 'Amanda Schonfeld'
+contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
-# job_announcement_number: '1800462BWDHA'
-# pd_job_title: 'IT Specialist (ENTARCH/INFOSEC)'
-# num_vacancies: '1'
-# series: '2210'
-# apply_url: https://www.usajobs.gov/GetJob/ViewDetails/501933500
-# ohrm_comtact_email: 'beverly.white@gsa.gov'
-# ohrm_contact_name: 'Beverly White'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: '15'
-# supervisory_status: 'NO'
+job_announcement_number: '1800462BWDHA'
+pd_job_title: 'Innovation Specialist'
+num_vacancies: '1'
+series: '0301'
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeErrkOtWRM8eUcFk2VNSyyhQ3ZQUNvGrOAczcz9XqKbXjdjA/viewform
+ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'NO'
 
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
-{% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2). {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process. 
+{% if page.opens == 'tbd' %}
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+{% else %}
+Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
 {% endif %}
 
 ## Basic Information
@@ -43,7 +46,7 @@ contact_email: 'jointts@gsa.gov'
 {{ page.location }}
 
 **Salary Range:**
-Base salary - {{ page.salary_min }} to {{ page.salary_max }}
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -52,40 +55,41 @@ All United States citizens and nationals (residents of American Samoa and Swains
 employees or contractors
 
 ## Role Summary:
-
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Specialist is to help those agencies that have come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
+Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Lead is to help those agencies that have come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
 
-As a Cloud Adoption Specialist, you’ll need experience leading organizational strategy and change related to migration to cloud environments. You should have strong knowledge of public clouds like Amazon Web Services (AWS),  Microsoft Azure, Redhat or VMWare as well as a firm grasp on federal compliance requirements in server configuration, tool development and access controls.
+As a Cloud Adoption Lead, you’ll need experience leading organizational strategy and change related to migration to cloud environments. You should have strong knowledge of public clouds like Amazon Web Services (AWS),  Microsoft Azure, Redhat or VMWare as well as a firm grasp on federal compliance requirements in server configuration, tool development and access controls.
 
 No one can be equally expert on all phases of the cloud adoption process, but we expect a working knowledge of legacy infrastructure configurations, data migrations strategies (including SnapMirror, Storage Area Network replication, Powershell, and Service Management Automation), security best practices, post-migration testing, debugging and systems analysis skills, and virtualization and containerization.
 
+
 ## Key Objectives
 
-### Key objective #1: You will help federal agencies develop and execute cloud migration apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
+### Key Objective #1: You will help federal agencies develop and execute cloud migration apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
 
 - Drive planning and delivery by utilizing agile tools such as product roadmaps, backlogs, measurable success criteria, and write user stories.
 - Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with migration activities.
 - Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or co-location facility.
 - Engage in the solicitation, evaluation and selection and management of external vendors.
-- Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
+Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
+
 
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
-
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
+- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
-### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
+### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+
 
 ## Minimum Qualifications
 
@@ -101,7 +105,26 @@ The information in this sections outlines the criteria that your application wil
 The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
 ### Specialized Experience
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
+1. Experience leading a team to deliver digital products or services. This experience must include **ALL** of the following:
+- Managing change across the organization
+- Using agile methodologies
+- Reducing technical debt
+
+2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include **TWO OR MORE** of the following:
+- Conducting technology evaluations
+- Making architectural decisions
+- Implementing new features
+- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.95%+)
+- Providing technical support for clients integrating with cloud platforms
+
+3. Experience deploying, operating, maintaining, or running cloud infrastructure or platforms. This experience must include **TWO OR MORE** of the following:
+- Creating applications or services using a cloud computing platform
+- Creating applications or services using cloud computing infrastructure
+- Maintaining systems that use continuous integration or continuous deployment tools 
+- Maintaining systems that use infrastructure automation tooling
+- Maintaining systems that use infrastructure monitoring tooling 
 
 {% else %}
 
@@ -112,37 +135,36 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 - [How to apply](#how-to-apply)
 
 ## Role Summary:
-
 ### {{ page.title }} - GS-{{ page.gs_level }}
+Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Lead is to help those agencies that have come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
 
-Your challenge as the IT Modernization Centers of Excellence (COE) Cloud Adoption Specialist is to help those agencies that have come to depend on legacy data centers migrate to cloud and hybrid environments. You will work to understand the needs and the desires of the client, analyze systems to meet those needs and work cross functionally with both members from the partner agency and vendor partners to implement solutions.  By using an agile and flexible framework, the CoE accelerates cloud adoption across the enterprise.
-
-As a Cloud Adoption Specialist, you’ll need experience leading organizational strategy and change related to migration to cloud environments. You should have strong knowledge of public clouds like Amazon Web Services (AWS),  Microsoft Azure, Redhat or VMWare as well as a firm grasp on federal compliance requirements in server configuration, tool development and access controls.
+As a Cloud Adoption Lead, you’ll need experience leading organizational strategy and change related to migration to cloud environments. You should have strong knowledge of public clouds like Amazon Web Services (AWS),  Microsoft Azure, Redhat or VMWare as well as a firm grasp on federal compliance requirements in server configuration, tool development and access controls.
 
 No one can be equally expert on all phases of the cloud adoption process, but we expect a working knowledge of legacy infrastructure configurations, data migrations strategies (including SnapMirror, Storage Area Network replication, Powershell, and Service Management Automation), security best practices, post-migration testing, debugging and systems analysis skills, and virtualization and containerization.
 
+
 ## Key Objectives
 
-### Key objective #1: You will help federal agencies develop and execute cloud migration apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
+### Key Objective #1: You will help federal agencies develop and execute cloud migration apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
 
 - Drive planning and delivery by utilizing agile tools such as product roadmaps, backlogs, measurable success criteria, and write user stories.
 - Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with migration activities.
 - Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or co-location facility.
 - Engage in the solicitation, evaluation and selection and management of external vendors.
-- Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
+Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
+
 
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
-
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
+- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
 - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
-### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
 
+### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
@@ -153,7 +175,7 @@ No one can be equally expert on all phases of the cloud adoption process, but we
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -173,7 +195,7 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:** 
 {{ page.supervisory_status }}
