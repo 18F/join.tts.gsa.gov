@@ -1,6 +1,6 @@
 ---
 title: Infrastructure Optimization Specialist
-permalink: join/infrastructure-optimization-specialist/
+permalink: /join/infrastructure-optimization-specialist/
 state: open
 job_post_type: tts
 
