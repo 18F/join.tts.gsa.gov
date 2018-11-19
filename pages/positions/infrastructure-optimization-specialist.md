@@ -6,7 +6,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: November 26, 2018
+opens: November 26, 2018, 8am EDT
 closes: November 30, 2018, 8pm EDT
 location: 'Washington, DC'
 gs_level: 15
@@ -20,7 +20,7 @@ contact_email: 'jointts@gsa.gov'
 
 job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist' 
-num_vacancies: '1'
+num_vacancies: '2'
 series: '0301' 
 apply_url: https://docs.google.com/forms/d/e/1FAIpQLSfcmAaip_B0zNoYf8bGXQ-sVFi9wuGfxFPIxdj6CV0gax7DiQ/viewform
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
@@ -29,6 +29,7 @@ bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
 supervisory_status: 'NO' 
 ---
+
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
@@ -130,7 +131,6 @@ To qualify for this role, you must have one year of specialized experience equiv
 - [How to apply](#how-to-apply)
 
 ## Role Summary:
-
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
 We are looking for an Infrastructure Optimization lead to join the IT Modernization Centers of Excellence (COE) to help develop the capabilities and services of our partner agencies.
