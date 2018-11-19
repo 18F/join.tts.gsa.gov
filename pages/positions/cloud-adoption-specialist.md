@@ -1,6 +1,6 @@
 ---
 title: Cloud Adoption Specialist
-permalink: join/cloud-adoption-specialist/
+permalink: /join/cloud-adoption-specialist/
 state: open
 job_post_type: tts
 
