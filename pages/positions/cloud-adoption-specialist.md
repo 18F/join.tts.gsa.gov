@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS OPEN: These fields are required for open
 job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
-num_vacancies: '1'
+num_vacancies: '2'
 series: '0301'
 apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeErrkOtWRM8eUcFk2VNSyyhQ3ZQUNvGrOAczcz9XqKbXjdjA/viewform
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
@@ -28,6 +28,7 @@ promotion_potential: '15'
 supervisory_status: 'NO'
 
 ---
+
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
