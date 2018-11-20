@@ -1,7 +1,9 @@
 primary:
   - text: Home
     href: /
-  - text: TTS Offices
+  - text: TTS offices
     href: /tts-offices/
-  - text: Hiring Process
+  - text: Hiring process
     href: /hiring-process/
+  - text: Preparing your resume
+    href: /preparing-your-resume/
