@@ -1,4 +1,3 @@
-
 ---
 title: Cloud Consulting Tech Lead
 permalink: /join/cloud-consulting-tech-lead/
@@ -29,7 +28,6 @@ ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'NO'
-
 ---
 
 {% if page.state == 'upcoming' %}
