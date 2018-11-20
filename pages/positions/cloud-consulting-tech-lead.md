@@ -8,7 +8,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 opens: 'tbd'
-closes: 'tbd'
+## closes: TBD
 location: 'Boston, MA; Washington, DC; Denver, CO'
 gs_level: 15
 salary_min: '105,123'
