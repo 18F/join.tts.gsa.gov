@@ -344,8 +344,7 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }
-} grade level in the Federal service. Specialized experience is:
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} grade level in the Federal service. Specialized experience is:
 
 1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or 
 complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
