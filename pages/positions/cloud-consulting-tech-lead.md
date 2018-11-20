@@ -1,7 +1,7 @@
 
 ---
 title: Cloud Consulting Tech Lead
-permalink: /join/cloud-oconsulting-tech-lead/
+permalink: /join/cloud-consulting-tech-lead/
 state: upcoming
 job_post_type: tts 
 
