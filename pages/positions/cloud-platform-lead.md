@@ -118,7 +118,26 @@ most intense and rigorous resume review you've ever heard of. To get through thi
 directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on 
 [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
+### Specialized Experience
+To qualify for this role, you must have one year of specialized experience equivalent to the 
+GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience is:
 
+1. Experience leading a team to deliver digital products or services. This experience must include **ALL** of the following:
+- Managing client, partner, or account relationships
+- Using agile methodologies
+- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+
+2. Experience providing technical leadership on projects or initiatives to deliver digital products or services. This experience must include **ONE** of the following:
+- Conducting technology evaluations
+- Making architectural decisions
+- Developing product roadmaps
+
+3. Experience deploying, operating, maintaining, or running cloud platforms. This experience must include 
+**ALL** of the following:
+- Using a Platform-as-a-Service (PaaS) 
+- Using continuous integration or continuous deployment tools 
+- Using infrastructure automation tooling
+- Using infrastructure monitoring tooling 
 
 {% else %}
 
