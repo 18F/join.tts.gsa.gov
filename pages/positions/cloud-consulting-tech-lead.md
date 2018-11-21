@@ -8,7 +8,7 @@ job_post_type: tts
 
 opens: 'tbd'
 ## closes: TBD
-location: 'Boston, MA; Washington, DC; Denver, CO; Orlando, FL'
+location: 'Boston, MA; Washington, DC; Denver, CO'
 gs_level: 15
 salary_min: '105,123'
 salary_max:  '136,659'
