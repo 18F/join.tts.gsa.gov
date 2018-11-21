@@ -242,7 +242,7 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of COE.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
