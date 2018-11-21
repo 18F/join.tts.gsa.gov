@@ -1,6 +1,6 @@
 ---
 title: Data & Analytics Specialist
-permalink: join/data-and-analytics-specialist/
+permalink: /join/data-and-analytics-specialist/
 state: open
 job_post_type: tts
 
