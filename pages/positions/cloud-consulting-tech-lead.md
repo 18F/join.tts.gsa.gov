@@ -1,5 +1,5 @@
 ---
-title: Cloud Consulting Tech Lead
+title: Cloud Consulting Technical Lead
 permalink: /join/cloud-consulting-tech-lead/
 state: upcoming
 job_post_type: tts 
@@ -8,7 +8,7 @@ job_post_type: tts
 
 opens: 'tbd'
 ## closes: TBD
-location: 'Boston, MA; Washington, DC; Denver, CO'
+location: 'Boston, MA; Washington, DC; Denver, CO; Orlando, FL'
 gs_level: 15
 salary_min: '105,123'
 salary_max:  '136,659'
@@ -76,39 +76,38 @@ Your first project will be consulting on-site in Boston, Massachusetts, with the
 
 ### Key objective #1: Help federal agencies develop and implement cloud migration plans
 
-- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts. 
-- Provide engineering leadership and mentoring via technology evaluations and architectural decisions.
-- Influence project planning and design using usability research, analytics, and other metrics.
-- Analyze systems, identify potential problems with migration activities, and design and document solutions.
+- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts
+- Provide engineering leadership and mentoring via technology evaluations and architectural decisions
+- Influence project planning and design using usability research, analytics, and other metrics
+- Analyze systems, identify potential problems with migration activities, and design and document solutions
 - Assist agency partners through the change management process of cloud adoption, and in particular help them work through 
-staffing planning challenges.
+staffing planning challenges
 
-### Key objective #2:  Contribute high-quality, well-tested, maintainable code across multiple projects, using best practices
-for modern software development
+### Key objective #2:  Contribute high-quality, well-tested, maintainable code across multiple projects, using best practices for modern software development
 
-- Lead engineering efforts in building new and migrating existing applications to a cloud computing environment, leveraging infrastructure as code where applicable for any application configuration.
-- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle, or by introducing tooling into an existing project, as needed.
-- Participate in code review, architecture discussions, and feature prioritization.
-- Take pride of ownership in all projects you touch; leave code better than you found it. 
-- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more.
+- Lead engineering efforts in building new and migrating existing applications to a cloud computing environment, leveraging infrastructure as code where applicable for any application configuration
+- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle, or by introducing tooling into an existing project, as needed
+- Participate in code review, architecture discussions, and feature prioritization
+- Take pride of ownership in all projects you touch; leave code better than you found it
+- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more
 
 
 ### Key objective #3: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing
 
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including 
-iterative development and continuous improvement.
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-- Support teammates and partners in learning new skills and applying new methods for project management.
-- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices.
+iterative development and continuous improvement
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
+- Support teammates and partners in learning new skills and applying new methods for project management
+- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices
 
 
 ### Key objective #4: In conjunction with team leadership, help establish and implement an organizational vision 
 
-- Develop new insights into situations and question conventional approaches. 
-- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts.
-- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views. 
-- Adapt to change and quickly integrate new information. 
-- Formulate and execute consistently against objectives and priorities.
+- Develop new insights into situations and question conventional approaches
+- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
+- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views
+- Adapt to change and quickly integrate new information
+- Formulate and execute consistently against objectives and priorities
 
 
 ## Minimum Qualifications
@@ -193,39 +192,39 @@ Your first project will be consulting on-site in Boston, Massachusetts, with the
 
 ### Key objective #1: Help federal agencies develop and implement cloud migration plans
 
-- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts. 
-- Provide engineering leadership and mentoring via technology evaluations and architectural decisions.
-- Influence project planning and design using usability research, analytics, and other metrics.
-- Analyze systems, identify potential problems with migration activities, and design and document solutions.
+- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts
+- Provide engineering leadership and mentoring via technology evaluations and architectural decisions
+- Influence project planning and design using usability research, analytics, and other metrics
+- Analyze systems, identify potential problems with migration activities, and design and document solutions
 - Assist agency partners through the change management process of cloud adoption, and in particular help them work through 
-staffing planning challenges.
+staffing planning challenges
 
 ### Key objective #2:  Contribute high-quality, well-tested, maintainable code across multiple projects, using best practices
 for modern software development
 
-- Lead engineering efforts in building new and migrating existing applications to a cloud computing environment, leveraging infrastructure as code where applicable for any application configuration.
-- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle, or by introducing tooling into an existing project, as needed.
-- Participate in code review, architecture discussions, and feature prioritization.
-- Take pride of ownership in all projects you touch; leave code better than you found it. 
-- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more.
+- Lead engineering efforts in building new and migrating existing applications to a cloud computing environment, leveraging infrastructure as code where applicable for any application configuration
+- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle, or by introducing tooling into an existing project, as needed
+- Participate in code review, architecture discussions, and feature prioritization
+- Take pride of ownership in all projects you touch; leave code better than you found it
+- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more
 
 
 ### Key objective #3: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing
 
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including 
-iterative development and continuous improvement.
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-- Support teammates and partners in learning new skills and applying new methods for project management.
-- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices.
+iterative development and continuous improvement
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
+- Support teammates and partners in learning new skills and applying new methods for project management
+- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices
 
 
 ### Key objective #4: In conjunction with team leadership, help establish and implement an organizational vision 
 
-- Develop new insights into situations and question conventional approaches. 
-- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts.
-- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views. 
-- Adapt to change and quickly integrate new information. 
-- Formulate and execute consistently against objectives and priorities.
+- Develop new insights into situations and question conventional approaches
+- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
+- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views 
+- Adapt to change and quickly integrate new information
+- Formulate and execute consistently against objectives and priorities
 ## Basic Information
 
 **Job announcement number:** 
