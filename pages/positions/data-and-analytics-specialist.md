@@ -285,10 +285,8 @@ You will be scored based on a review of your application materials, measuring yo
 
 - **Technical Leadership:** The ability to provide technical leadership, mastery, and architecture on complex engineering 
 projects.
-- **Software Engineering Practices:** Ability to apply tools, technologies, and established engineering best practices to 
-help deliver innovative technical solutions and products.
-- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative 
-fashion to address user needs.  
+- **Analytics Technical Fluency:** The ability to assimilate, synthesize and leverage highly technical data to drive decision making and effectively communicate that information to audiences with a wide range of technical expertise. 
+**Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency.   
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish
 a shared vision and understanding of a project’s technical implementation, objectives and goals. 
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact 
