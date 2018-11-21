@@ -1,7 +1,7 @@
 ---
 title: Data & Analytics Specialist
 permalink: join/data-and-analytics-specialist/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -195,7 +195,7 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
