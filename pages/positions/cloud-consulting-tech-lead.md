@@ -132,6 +132,9 @@ most intense and rigorous resume review you've ever heard of. To get through thi
 
 ### Specialized Experience
 
+To qualify for this role, you must have one year of specialized experience equivalent to the 
+GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience is:
+
 1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or 
 complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
 - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
