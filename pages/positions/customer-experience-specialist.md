@@ -1,7 +1,7 @@
 ---
 title: Customer Experience Specialist
 permalink: /join/customer-experience-specialist/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -87,7 +87,7 @@ To be successful you’ll need consulting experience along with a background in 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
@@ -174,6 +174,7 @@ To be successful you’ll need consulting experience along with a background in 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+
 ## Basic Information
 
 **Job announcement number:** 
