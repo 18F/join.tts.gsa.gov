@@ -69,23 +69,23 @@ To be successful you’ll need consulting experience along with a background in 
 ## Key Objectives
 
 ### Key objective #1: You will lead cross-functional teams to help federal agencies define problems and create the vision for solutions that will drive innovation through all aspects of their customer experience.
-- Conduct research, usability or user testing including co-design workshops, contextual inquiry, diary studies and stakeholder interviews to support the team’s development of digital products or services.
- - Navigate complex organizational relationships to bring stakeholders together around common goals and priorities.
+- Conduct research, usability or user testing including co-design workshops, contextual inquiry, diary studies and stakeholder interviews to support the team’s development of digital products or services
+ - Navigate complex organizational relationships to bring stakeholders together around common goals and priorities
 - Coach project teams and agency stakeholders through the adoption of agile, lean or other iterative product development approaches
-- Lead service design using tools and techniques like journey mapping, experience prototyping, service blueprints and developing service quality metrics.
-- Organize and structure complex information by creating artifacts such as wireframes, sitemaps and process flows..
+- Lead service design using tools and techniques like journey mapping, experience prototyping, service blueprints and developing service quality metrics
+- Organize and structure complex information by creating artifacts such as wireframes, sitemaps and process flows
 
 
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
-- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
+- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned
+- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government
 
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
