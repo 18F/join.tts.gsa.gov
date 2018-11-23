@@ -45,7 +45,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 {{ page.location }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
