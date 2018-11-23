@@ -44,7 +44,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 {{ page.location }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -159,7 +159,7 @@ You will need a thorough knowledge of infrastructure, networking, cloud, integra
 
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
@@ -184,7 +184,7 @@ You will need a thorough knowledge of infrastructure, networking, cloud, integra
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
