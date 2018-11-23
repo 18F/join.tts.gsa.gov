@@ -1,7 +1,7 @@
 ---
 title: Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
