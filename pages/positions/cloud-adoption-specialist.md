@@ -43,7 +43,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 {{ page.location }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -81,7 +81,7 @@ Assist your agency partners through the change management process of cloud adopt
 
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
@@ -145,25 +145,25 @@ No one can be equally expert on all phases of the cloud adoption process, but we
 
 ### Key Objective #1: You will help federal agencies develop and execute cloud migration apply cloud adoption technical knowledge, problem-solving analysis, and risk calculation to produce high-quality results, meeting customer expectations and organizational goals.
 
-- Drive planning and delivery by utilizing agile tools such as product roadmaps, backlogs, measurable success criteria, and write user stories.
-- Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with migration activities.
-- Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or co-location facility.
-- Engage in the solicitation, evaluation and selection and management of external vendors.
-Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
+- Drive planning and delivery by utilizing agile tools such as product roadmaps, backlogs, measurable success criteria, and write user stories
+- Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with migration activities
+- Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or co-location facility
+- Engage in the solicitation, evaluation and selection and management of external vendors
+Assist your agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges
 
 
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
-- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
+- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned
+- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government
 
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
@@ -186,7 +186,7 @@ Assist your agency partners through the change management process of cloud adopt
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
