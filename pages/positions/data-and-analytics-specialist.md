@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: tbd
-# closes: MONTH DAY, YEAR, TIME EDT
+opens: November 3, 2018
+closes: November 7, 2018, 8pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
@@ -44,7 +44,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 {{ page.location }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -79,7 +79,7 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
 - Capture specific technology capabilities (e.g. strategies, roadmaps, playbooks) to  document best practices across government
-- Promote best practices for data governance (e.g. strategies, roadmaps, charters) and provide guidance for instituting enterprise-wide data governance as it aligns with organizational goals.
+- Promote best practices for data governance (e.g. strategies, roadmaps, charters) and provide guidance for instituting enterprise-wide data governance as it aligns with organizational goals
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned
 
@@ -176,7 +176,7 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
 - Capture specific technology capabilities (e.g. strategies, roadmaps, playbooks) to  document best practices across government
-- Promote best practices for data governance (e.g. strategies, roadmaps, charters) and provide guidance for instituting enterprise-wide data governance as it aligns with organizational goals.
+- Promote best practices for data governance (e.g. strategies, roadmaps, charters) and provide guidance for instituting enterprise-wide data governance as it aligns with organizational goals
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned
 
@@ -207,7 +207,7 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
@@ -283,10 +283,9 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Technical Leadership:** The ability to provide technical leadership, mastery, and architecture on complex engineering 
-projects.
 - **Analytics Technical Fluency:** The ability to assimilate, synthesize and leverage highly technical data to drive decision making and effectively communicate that information to audiences with a wide range of technical expertise. 
-**Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency.   
+- **Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency.   
+- **Agile Orientation:** Ability to apply agile methodologies to deliver work in a frequent and iterative fashion to address user needs.
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish
 a shared vision and understanding of a project’s technical implementation, objectives and goals. 
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact 
