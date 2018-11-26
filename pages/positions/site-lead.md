@@ -63,7 +63,7 @@ As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digi
 ## Key Objectives
 
 ### Key objective #1: You will provide strategic and operational leadership to optimize enterprise productivity and the delivery of high-impact work across the enterprise. 
-- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals.
+- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals
 - Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of new processes when necessary
 - Ensure continued technical and user centered design excellence in each CoE.
 - Collect feedback to discuss successes and challenges, and share patterns and key feedback with C-Suite executives as appropriate
@@ -136,7 +136,7 @@ As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digi
 ## Key Objectives
 
 ### Key objective #1: You will provide strategic and operational leadership to optimize enterprise productivity and the delivery of high-impact work across the enterprise. 
-- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals.
+- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals
 - Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of new processes when necessary
 - Ensure continued technical and user centered design excellence in each CoE.
 - Collect feedback to discuss successes and challenges, and share patterns and key feedback with C-Suite executives as appropriate
@@ -163,7 +163,7 @@ As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digi
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -183,7 +183,7 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:** 
 {{ page.supervisory_status }}
