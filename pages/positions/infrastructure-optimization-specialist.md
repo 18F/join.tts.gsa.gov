@@ -1,7 +1,7 @@
 ---
 title: Infrastructure Optimization Specialist
 permalink: /join/infrastructure-optimization-specialist/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900162JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '2'
 series: '0301' 
