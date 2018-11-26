@@ -1,7 +1,7 @@
 ---
 title: Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '1900160JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
 series: '0301' 
