@@ -1,5 +1,5 @@
 ---
-title: User Experience Designer
+title: 18F - User Experience Designer
 permalink: /join/user-experience-designer/
 redirect_from:
   - /join/18f-user-experience-designer-gs15/
