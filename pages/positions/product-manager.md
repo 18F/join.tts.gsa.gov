@@ -1,5 +1,5 @@
 ---
-title: Product Manager
+title: 18F - Product Manager
 permalink: /join/product-manager/
 redirect_from:
   - join/upcoming-18F-product-manager/
