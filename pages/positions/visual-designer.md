@@ -1,5 +1,5 @@
 ---
-title: Visual Designer
+title: 18F - Visual Designer
 permalink: /join/visual-designer/
 redirect_from:
   - /join/18f-visual-designer-closed/
