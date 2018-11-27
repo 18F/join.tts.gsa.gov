@@ -1,5 +1,5 @@
 ---
-title: Customer Experience Specialist
+title: Centers of Excellence - Customer Experience Specialist
 permalink: /join/customer-experience-specialist/
 state: open
 job_post_type: tts
