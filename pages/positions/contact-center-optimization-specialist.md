@@ -1,5 +1,5 @@
 ---
-title: Contact Center Optimization Specialist
+title: Centers of Excellence - Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
 state: open
 job_post_type: tts
