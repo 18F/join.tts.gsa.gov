@@ -1,5 +1,5 @@
 ---
-title: Cloud Adoption Specialist
+title: Centers of Excellence - Cloud Adoption Specialist
 permalink: /join/cloud-adoption-specialist/
 state: open
 job_post_type: tts
