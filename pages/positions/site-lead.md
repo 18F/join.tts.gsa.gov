@@ -6,7 +6,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'December 3, 2018'
+opens: 'December 3, 2018, 8am EDT'
 closes: 'December 7, 2018, 8pm EDT'
 location: Washington, DC
 gs_level: 15
