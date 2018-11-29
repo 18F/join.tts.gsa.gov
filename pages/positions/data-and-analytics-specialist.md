@@ -1,24 +1,24 @@
 ---
 title: Data & Analytics Specialist
 permalink: /join/data-and-analytics-specialist/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: November 3, 2018
+opens: November 3, 2018, 8am EDT
 closes: November 7, 2018, 8pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
 salary_max: '164,200'
-org: 'Centers of Excellence'
+org: 'Centers of Excellence (CoE)'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900171JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '2'
 series: '0301' 
@@ -56,7 +56,7 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-We are looking for a Data & Analytics Specialist to join the IT Modernization Centers of Excellence (COE) to help develop and improve the capabilities and services of our partner agencies.
+We are looking for a Data & Analytics Specialist to join the IT Modernization Centers of Excellence (CoE) to help develop and improve the capabilities and services of our partner agencies.
 
 The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As a Data & Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
 
@@ -86,9 +86,9 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
@@ -117,7 +117,7 @@ most intense and rigorous resume review you've ever heard of. To get through thi
 To qualify for this role, you must have one year of specialized experience equivalent to the 
 GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience is:
 
-1. Experience clients collect and manage their data as a practitioner in the craft of data science. This experience must include **ALL** of the following:
+1. Experience helping clients collect and manage their data as a practitioner in the craft of data science. This experience must include **ALL** of the following:
 - Analyzing large data sets using statistical packages (e.g. Python, R, SAS, SQL, etc.)
 - Implementing data warehousing solutions (e.g. Teradata, Oracle, Amazon Web Services)
 - Developing reports using business intelligence tools (e.g. Tableau, Power BI, MicroStrategy etc.)
@@ -153,7 +153,7 @@ GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience 
 ## Role Summary:
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-We are looking for a Data & Analytics Specialist to join the IT Modernization Centers of Excellence (COE) to help develop and improve the capabilities and services of our partner agencies.
+We are looking for a Data & Analytics Specialist to join the IT Modernization Centers of Excellence (CoE) to help develop and improve the capabilities and services of our partner agencies.
 
 The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As a Data & Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
 
@@ -183,9 +183,9 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
 - Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
-- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+- Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
@@ -207,7 +207,7 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
@@ -242,7 +242,7 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of COE.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of CoE.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -264,7 +264,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration.
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -307,7 +307,7 @@ and following our general guidance on creating federal style resume.
 To qualify for this role, you must have one year of specialized experience equivalent to the 
 GS-{{ page.gs_level | minus: 1 }} grade level in the Federal service. Specialized experience is:
 
-1. Experience clients collect and manage their data as a practitioner in the craft of data science. This experience must include **ALL** of the following:
+1. Experience helping clients collect and manage their data as a practitioner in the craft of data science. This experience must include **ALL** of the following:
 - Analyzing large data sets using statistical packages (e.g. Python, R, SAS, SQL, etc.)
 - Implementing data warehousing solutions (e.g. Teradata, Oracle, Amazon Web Services)
 - Developing reports using business intelligence tools (e.g. Tableau, Power BI, MicroStrategy etc.)
