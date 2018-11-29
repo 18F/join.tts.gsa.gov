@@ -1,7 +1,7 @@
 ---
 title: Site Lead
 permalink: /join/site-lead/
-state: open
+state: upcoming
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -57,7 +57,7 @@ employees or contractors
 
 The Centers of Excellence (CoE) work directly with customer agencies to identify their needs, recommend a solution, and identify the best contract vehicle to procure, support, and oversee implementation of the solution.  The CoEs are established to implement, enhance and expand public access to federal information services.  Each CoE is staffed with experts who provide authoritative advice, expert guidance, and IT transformation services purposed to improve service design and customer interactions across major organizational and federal government lines. Each individual CoE has a different mission and objectives, but all are intended to manage centralized, function­-specific talent, and to ensure effective support for solution implementation. These five Centers focus on cloud adoption, IT infrastructure optimization, customer experience, contact centers and data analytics.
 
-As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digital transformation specialists, with expertise in human centered design, data analytics, change management strategy, technical architecture, software engineering, and procurement. In addition, you will join the broader team of the Technology Transformation Service, which includes more than 300 people. If you believe the government can better serve the public through the user-centered design of digital services, we hope you’ll join us.
+As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digital transformation specialists, with expertise in human centered design, data analytics, change management strategy, technical architecture, software engineering, and procurement. In addition, you will join the broader team of the Technology Transformation Service (TTS), which includes more than 300 people. If you believe the government can better serve the public through the user-centered design of digital services, we hope you’ll join us.
 
 
 ## Key Objectives
@@ -232,7 +232,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration. 
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
