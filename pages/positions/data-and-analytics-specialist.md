@@ -1,6 +1,6 @@
 ---
-title: Data & Analytics Specialist
-permalink: /join/data-and-analytics-specialist/
+title: Centers of Excellence - Data & Analytics Specialist
+permalink: join/data-and-analytics-specialist/
 state: upcoming
 job_post_type: tts
 

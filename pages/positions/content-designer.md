@@ -1,5 +1,5 @@
 ---
-title: Content Designer
+title: 18F - Content Designer
 permalink: /join/content-designer/
 redirect_from:
   - /join/18f-content-designer-gs15-closed/

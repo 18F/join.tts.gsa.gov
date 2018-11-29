@@ -1,5 +1,5 @@
 ---
-title: Strategist
+title: 18F - Strategist
 permalink: /join/strategist/
 redirect_from:
   - /join/strategist-gs15-closed/
