@@ -12,13 +12,13 @@ location: Washington, DC
 gs_level: 15
 salary_min: '134,789' 
 salary_max: '164,200' 
-org: 'Centers of Excellence'
+org: 'Centers of Excellence (CoE)'
 contact_name: 'Elizabeth Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900172JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
 series: '0301'
@@ -65,7 +65,7 @@ As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digi
 ### Key objective #1: You will provide strategic and operational leadership to optimize enterprise productivity and the delivery of high-impact work across the enterprise. 
 - Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals
 - Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of new processes when necessary
-- Ensure continued technical and user centered design excellence in each CoE.
+- Ensure continued technical and user centered design excellence in each CoE
 - Collect feedback to discuss successes and challenges, and share patterns and key feedback with C-Suite executives as appropriate
 - Facilitate and support the sharing of knowledge, tools, assets, and code across the CoE’s
 - Act as a liaison between CoE teams and executive partner agency staff
@@ -138,7 +138,7 @@ As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digi
 ### Key objective #1: You will provide strategic and operational leadership to optimize enterprise productivity and the delivery of high-impact work across the enterprise. 
 - Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals
 - Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of new processes when necessary
-- Ensure continued technical and user centered design excellence in each CoE.
+- Ensure continued technical and user centered design excellence in each CoE
 - Collect feedback to discuss successes and challenges, and share patterns and key feedback with C-Suite executives as appropriate
 - Facilitate and support the sharing of knowledge, tools, assets, and code across the CoE’s
 - Act as a liaison between CoE teams and executive partner agency staff
@@ -175,7 +175,7 @@ As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digi
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
@@ -210,7 +210,7 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of COE.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of CoE.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
