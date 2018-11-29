@@ -1,33 +1,33 @@
 ---
-title: Centers of Excellence - Site Lead
+title: Site Lead
 permalink: /join/site-lead/
 state: upcoming
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'tbd' 
-## closes: TBD
+opens: 'December 3, 2018, 8am EDT'
+closes: 'December 7, 2018, 8pm EDT'
 location: Washington, DC
 gs_level: 15
 salary_min: '134,789' 
 salary_max: '164,200' 
-org: 'Centers of Excellence'
-contact_name: 'Amanda Schonfeld'
+org: 'Centers of Excellence (CoE)'
+contact_name: 'Elizabeth Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_comtact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '1900172JCOTR'
+pd_job_title: 'Innovation Specialist'
+num_vacancies: '2'
+series: '0301'
+apply_url: https://goo.gl/forms/DyHCmJliyNDM27o33
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -44,7 +44,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -55,48 +55,33 @@ employees or contractors
 ## Role Summary: 
 ### {{ page.title }} - GS {{ page.gs_level }}
 
-The Centers of Excellence (CoE) work directly with customer agencies to identify their needs, recommend a solution, identify 
-the best contract vehicle to procure, support, and oversee implementation of the solution.  The CoEs are established to 
-implement, enhance and expand public access to federal information services.  Each CoE is staffed with experts who provide 
-authoritative advice, expert guidance, and engineering services purposed to improve service design and customer interactions 
-across major organizational, federal government lines and private sector entities. Each individual CoE has a different 
-mission and objectives, but all are intended to manage centralized, function­-specific talent, solutions and acquisition 
-vehicles, and to ensure effective support for solution implementation. These five Centers focus on cloud adoption, IT 
-infrastructure optimization, customer experience, contact centers and service delivery analytics.
+The Centers of Excellence (CoE) work directly with customer agencies to identify their needs, recommend a solution, and identify the best contract vehicle to procure, support, and oversee implementation of the solution.  The CoEs are established to implement, enhance and expand public access to federal information services.  Each CoE is staffed with experts who provide authoritative advice, expert guidance, and IT transformation services purposed to improve service design and customer interactions across major organizational and federal government lines. Each individual CoE has a different mission and objectives, but all are intended to manage centralized, function­-specific talent, and to ensure effective support for solution implementation. These five Centers focus on cloud adoption, IT infrastructure optimization, customer experience, contact centers and data analytics.
 
-As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digital specialists, with expertise in design, 
-organizational strategy, technical architecture, software engineering, and procurement. In addition, you will join the 
-broader team of the Technology Transformation Service, which includes more than 300 people. If you believe the government 
-can better serve the public through the user-centered design of digital services, we hope you’ll join us.
-
-
+As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digital transformation specialists, with expertise in human centered design, data analytics, change management strategy, technical architecture, software engineering, and procurement. In addition, you will join the broader team of the Technology Transformation Service (TTS), which includes more than 300 people. If you believe the government can better serve the public through the user-centered design of digital services, we hope you’ll join us.
 
 
 ## Key Objectives
 
-### Key objective #1: You will provide strategic and operational leadership to optimize productivity and the delivery of high-impact work. 
-- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals.
-- Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of
-new processes when necessary.
-- Ensure continued technical and user centered design excellence in each CoE.
-- Collect feedback to discuss successes and challenges, and share patterns and key feedback with senior staff as appropriate.
+### Key objective #1: You will provide strategic and operational leadership to optimize enterprise productivity and the delivery of high-impact work across the enterprise. 
+- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals
+- Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of new processes when necessary
+- Ensure continued technical and user centered design excellence in each CoE
+- Collect feedback to discuss successes and challenges, and share patterns and key feedback with C-Suite executives as appropriate
 - Facilitate and support the sharing of knowledge, tools, assets, and code across the CoE’s
-- Act as a liaison between CoE teams and senior staff.
-- Document best practices and lessons learned.
-- Work with the talent team  to develop recruitment, retention, and engagement strategies.
-- Collaborate with and serve as a strategic advisor to the CoE Director and CoE Front Office.
+- Act as a liaison between CoE teams and executive partner agency staff
+- Document best practices and lessons learned
+- Work with the talent team to develop recruitment, retention, and engagement strategies
+- Collaborate with and serve as a strategic advisor to the CoE Director and CoE Front Office
 
-### Key objective #2: Practice an exceptional level of customer service with your agency partner, providing a unique, tailored experience and making sure that all expectations are met. 
-- Create a strong overall vision and develop an effective strategy for fulfilling that vision.
-- Use empathy and communication skills to quickly build trust with partners.
-- Explain the work to people who have varying levels of technical knowledge — always meet the client where they’re at. 
-- Express empathy through the long compliance and security processes.  
-- Serve as a liaison between the clients and the team when needed: Provide client feedback to the team, enabling the team to 
-make necessary changes to project performance or presentation.
-- Help partners and their leadership understand the value of agile-based program, project, and product management, 
-user-centered design, continuous integration, and working in the open.
-- Support, convince, and sometimes reassure, partners as they tackle challenges and adopt new practices.
 
+### Key objective #2: Practice an exceptional level of customer service with your agency partner, providing a unique, tailored experience and making sure that all expectations are met.
+- Coordinate a strong overall enterprise transformation vision and develop an effective strategy for fulfilling that vision
+- Use empathy and communication skills to quickly build trust with partners
+- Explain the work to people who have varying levels of technical knowledge — always meet the client where they are
+- Express empathy through the long compliance and security processes 
+- Serve as a liaison between the clients and the team when needed: Provide client feedback to the team, enabling the team to make necessary changes to project performance or presentation
+- Help partners and their leadership understand the value of agile-based program, project, and product management, user-centered design, continuous integration, and working in the open
+- Support, convince, and sometimes reassure, partners as they tackle challenges and adopt new practices
 
 
 ## Minimum Qualifications
@@ -113,7 +98,22 @@ The information in this sections outlines the criteria that your application wil
 The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
 ### Specialized Experience
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
+1. Experience leading enterprise transformation and modernization projects, including the research, design, development or delivery of digital products or services. This experience must include **ALL** of the following:
+- Leading and implementing process improvements that result in efficiencies, cost savings, regulatory compliance or improved profitable service levels
+- Creating and managing a program vision
+Applying multidisciplinary project management practices (e.g. PMI, SAFE, Agile, OCM, BPM)
+- Leading teams through the adoption of new tools, technologies or methodologies
+- Gaining consensus on program and project goals across a diverse set of stakeholders
+- Leading enterprise wide projects or initiatives within large organizations (either public sector institutions, private corporations, or non-profits) or within highly regulated industries
+
+2. Experience leading business decisions throughout all levels of an organization within highly ambiguous or uncertain situations. This experience must include **THREE** of the following:
+- Leading intrapreneurial efforts with measurable and demonstrated impactful results to the organization
+- Managing program or project resources, budgets, and deliverables
+- Coaching clients or stakeholders through the adoption of agile, lean or other iterative product development approaches (e.g. Kanban, SCRUM, Agile SAFE framework, Lean, Systems thinking)
+- Coaching upper management, clients or stakeholders through change management related to business transformation
+- Explaining products or services to people who have varying levels of technical knowledge 
 
 
 {% else %}
@@ -125,48 +125,36 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
 
-## Role Summary: Site Lead
-
+## Role Summary: 
 ### {{ page.title }} - GS {{ page.gs_level }}
 
-The Centers of Excellence (CoE) work directly with customer agencies to identify their needs, recommend a solution, identify 
-the best contract vehicle to procure, support, and oversee implementation of the solution.  The CoEs are established to 
-implement, enhance and expand public access to federal information services.  Each CoE is staffed with experts who provide 
-authoritative advice, expert guidance, and engineering services purposed to improve service design and customer interactions 
-across major organizational, federal government lines and private sector entities. Each individual CoE has a different 
-mission and objectives, but all are intended to manage centralized, function­-specific talent, solutions and acquisition 
-vehicles, and to ensure effective support for solution implementation. These five Centers focus on cloud adoption, IT 
-infrastructure optimization, customer experience, contact centers and service delivery analytics.
+The Centers of Excellence (CoE) work directly with customer agencies to identify their needs, recommend a solution, and identify the best contract vehicle to procure, support, and oversee implementation of the solution.  The CoEs are established to implement, enhance and expand public access to federal information services.  Each CoE is staffed with experts who provide authoritative advice, expert guidance, and IT transformation services purposed to improve service design and customer interactions across major organizational and federal government lines. Each individual CoE has a different mission and objectives, but all are intended to manage centralized, function­-specific talent, and to ensure effective support for solution implementation. These five Centers focus on cloud adoption, IT infrastructure optimization, customer experience, contact centers and data analytics.
 
-As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digital specialists, with expertise in design, 
-organizational strategy, technical architecture, software engineering, and procurement. In addition, you will join the 
-broader team of the Technology Transformation Service, which includes more than 300 people. If you believe the government 
-can better serve the public through the user-centered design of digital services, we hope you’ll join us.
+As a Site Lead for the CoEs, you’ll lead a cross-functional team of other digital transformation specialists, with expertise in human centered design, data analytics, change management strategy, technical architecture, software engineering, and procurement. In addition, you will join the broader team of the Technology Transformation Service, which includes more than 300 people. If you believe the government can better serve the public through the user-centered design of digital services, we hope you’ll join us.
+
+
 ## Key Objectives
 
-### Key objective #1: You will provide strategic and operational leadership to optimize productivity and the delivery of high-impact work. 
-- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals.
-- Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of
-new processes when necessary.
-- Ensure continued technical and user centered design excellence in each CoE.
-- Collect feedback to discuss successes and challenges, and share patterns and key feedback with senior staff as appropriate.
+### Key objective #1: You will provide strategic and operational leadership to optimize enterprise productivity and the delivery of high-impact work across the enterprise. 
+- Monitor productivity (revenue and non-revenue work) to ensure CoE teams are hitting their optimization and billing goals
+- Assume responsibility for tracking all action items to completion, using existing tools and proposing the implementation of new processes when necessary
+- Ensure continued technical and user centered design excellence in each CoE
+- Collect feedback to discuss successes and challenges, and share patterns and key feedback with C-Suite executives as appropriate
 - Facilitate and support the sharing of knowledge, tools, assets, and code across the CoE’s
-- Act as a liaison between CoE teams and senior staff.
-- Document best practices and lessons learned.
-- Work with the talent team  to develop recruitment, retention, and engagement strategies.
-- Collaborate with and serve as a strategic advisor to the CoE Director and CoE Front Office.
+- Act as a liaison between CoE teams and executive partner agency staff
+- Document best practices and lessons learned
+- Work with the talent team to develop recruitment, retention, and engagement strategies
+- Collaborate with and serve as a strategic advisor to the CoE Director and CoE Front Office
 
-### Key objective #2:Practice an exceptional level of customer service with your agency partner, providing a unique, tailored experience and making sure that all expectations are met. 
-- Create a strong overall vision and develop an effective strategy for fulfilling that vision.
-- Use empathy and communication skills to quickly build trust with partners.
-- Explain the work to people who have varying levels of technical knowledge — always meet the client where they’re at. 
-- Express empathy through the long compliance and security processes.  
-- Serve as a liaison between the clients and the team when needed: Provide client feedback to the team, enabling the team to 
-make necessary changes to project performance or presentation.
-- Help partners and their leadership understand the value of agile-based program, project, and product management, 
-user-centered design, continuous integration, and working in the open.
-- Support, convince, and sometimes reassure, partners as they tackle challenges and adopt new practices.
 
+### Key objective #2: Practice an exceptional level of customer service with your agency partner, providing a unique, tailored experience and making sure that all expectations are met.
+- Coordinate a strong overall enterprise transformation vision and develop an effective strategy for fulfilling that vision
+- Use empathy and communication skills to quickly build trust with partners
+- Explain the work to people who have varying levels of technical knowledge — always meet the client where they are 
+- Express empathy through the long compliance and security processes 
+- Serve as a liaison between the clients and the team when needed: Provide client feedback to the team, enabling the team to make necessary changes to project performance or presentation
+- Help partners and their leadership understand the value of agile-based program, project, and product management, user-centered design, continuous integration, and working in the open
+- Support, convince, and sometimes reassure, partners as they tackle challenges and adopt new practices
 
 
 ## Basic Information
@@ -175,7 +163,7 @@ user-centered design, continuous integration, and working in the open.
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -187,7 +175,7 @@ user-centered design, continuous integration, and working in the open.
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
@@ -195,7 +183,7 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:** 
 {{ page.supervisory_status }}
@@ -218,11 +206,11 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCIST/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of CoE.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -244,7 +232,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration. 
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -263,7 +251,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-COPY AND PASTE THE COMPETENCY BULLET POINTS FROM THE SPECIALIZED EXPERIENCE
+- **Program Management:** Ability to develop and execute a program’s strategy and objectives to meet or exceed desired business results.
+- **Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency.
+- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs.  
+- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. 
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
@@ -279,7 +271,20 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
+1. Experience leading enterprise transformation and modernization projects, including the research, design, development or delivery of digital products or services. This experience must include **ALL** of the following:
+- Leading and implementing process improvements that result in efficiencies, cost savings, regulatory compliance or improved profitable service levels
+- Creating and managing a program vision
+Applying multidisciplinary project management practices (e.g. PMI, SAFE, Agile, OCM, BPM)
+- Leading teams through the adoption of new tools, technologies or methodologies
+- Gaining consensus on program and project goals across a diverse set of stakeholders
+- Leading enterprise wide projects or initiatives within large organizations (either public sector institutions, private corporations, or non-profits) or within highly regulated industries
+
+2. Experience leading business decisions throughout all levels of an organization within highly ambiguous or uncertain situations. This experience must include **THREE** of the following:
+- Leading intrapreneurial efforts with measurable and demonstrated impactful results to the organization
+- Managing program or project resources, budgets, and deliverables
+- Coaching clients or stakeholders through the adoption of agile, lean or other iterative product development approaches (e.g. Kanban, SCRUM, Agile SAFE framework, Lean, Systems thinking)
+- Coaching upper management, clients or stakeholders through change management related to business transformation
+- Explaining products or services to people who have varying levels of technical knowledge 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
