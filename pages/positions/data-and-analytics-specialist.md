@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: November 3, 2018, 8am EDT
-closes: November 7, 2018, 8pm EDT
+opens: December 3, 2018, 8am EDT
+closes: December 7, 2018, 8pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
