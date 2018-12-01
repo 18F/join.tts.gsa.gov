@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
