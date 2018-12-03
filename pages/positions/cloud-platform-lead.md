@@ -20,7 +20,7 @@ contact_email: 'jointts@gsa.gov'
 
 job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist' 
-num_vacancies: '3'
+num_vacancies: '2'
 series: '0301' 
 apply_url: https://docs.google.com/forms/d/e/1FAIpQLScDqd44SB1gDYANhTkiSKyiz9FmEttt2Sfsnbi4xI-EiqgjiQ/viewform
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
