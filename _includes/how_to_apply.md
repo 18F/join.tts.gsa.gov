@@ -69,6 +69,10 @@ To learn more, please consult the following resources:
 - [Equal Employment Opportunity (EEO) office at OPM](https://www.opm.gov/about-us/our-people-organization/support-functions/equal-employment-opportunity/)
 - [Office of Equal Opportunity](http://www.eeoc.gov/eeoc/internal_eeo/index.cfm)
 
+## Drug Free Workplace Policy
+
+The General Services Administration and the Technology Transformation Services have an obligation to create a safe and drug-free workplace. All GSA employees are covered by the drug-free workplace program, but only certain positions are subject to application and random drug testing. These positions are called Testing Designated Positions and are for positions such as those that require an active Top Secret security clearance or for you to carry a firearm while on duty. Most TTS jobs are not Testing Designated Positions, but all employees may become subject to drug testing in special situations. You can learn more about GSA's Drug Free Workforce policy, including what positions require testing and when non-required positions may be tested, by reading the [official policy on gsa.gov](https://www.gsa.gov/directives-library/gsa-drugfree-workplace-program-97003-oad-extended). 
+
 ## What To Expect
 
 After the closing date:
