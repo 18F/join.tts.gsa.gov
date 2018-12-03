@@ -1,14 +1,14 @@
 ---
 title: 18F - Cloud Consulting Technical Lead
 permalink: /join/cloud-consulting-tech-lead/
-state: upcoming
+state: open
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'tbd'
-## closes: TBD
-location: 'Boston, MA; Washington, DC; Denver, CO'
+opens: 'December 10, 2018, 8am EDT'
+closes: ' December 14, 2018, 8pm EDT'
+location: 'Washington, DC; Boston, MA (virtual); Denver, CO (virtual)'
 gs_level: 15
 salary_min: '105,123'
 salary_max:  '136,659'
@@ -22,7 +22,7 @@ job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
 series: '0301'
-apply_url: 
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSfdTuvl8W_XmAHNEzPrxWIWwAOJLBmt-Kxv6IQgGb9tdKPqJg/viewform
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov '
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
@@ -35,7 +35,7 @@ supervisory_status: 'NO'
 {% if page.opens == 'tbd' %}
 The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
 {% else %}
-Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
+Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
 {% endif %}
 
 ## Basic Information
@@ -54,34 +54,28 @@ employees or contractors
 
 ## Role Summary:
 ### {{ page.title }} - GS-{{ page.gs_level }}
-cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital 
-services to the public. As a consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as 
-well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver 
-their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) 
-to implement solutions. 
+cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital services to the public. As a consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
 Consulting technical leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
-- Interested in building systems and processes that meet federal security compliance requirements in effective and modern 
-ways.
+- Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
 - Capable of building and migrating apps with a cloud native mindset.
-- Experienced working in cloud computing platforms (e.g., Cloud Foundry) and leveraging cloud computing infrastructure 
-(e.g., Amazon Web Services).
+- Experienced working in cloud computing platforms (e.g., Cloud Foundry) and leveraging cloud computing infrastructure (e.g., Amazon Web Services).
 
-Your first project will be consulting on-site in Boston, Massachusetts, with the United States Air Force.
+Your first project will be consulting on-site with the United States Air Force.
 
 
 ## Key Objectives
 
-### Key objective #1: Help federal agencies develop and implement cloud migration plans
+### Key objective #1: Help federal agencies develop and implement cloud migration plans.
 
-- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts
+- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts 
 - Provide engineering leadership and mentoring via technology evaluations and architectural decisions
 - Influence project planning and design using usability research, analytics, and other metrics
 - Analyze systems, identify potential problems with migration activities, and design and document solutions
-- Assist agency partners through the change management process of cloud adoption, and in particular help them work through 
-staffing planning challenges
+- Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges
+
 
 ### Key objective #2:  Contribute high-quality, well-tested, maintainable code across multiple projects, using best practices for modern software development
 
@@ -94,8 +88,7 @@ staffing planning challenges
 
 ### Key objective #3: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing
 
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including 
-iterative development and continuous improvement
+- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
 - Support teammates and partners in learning new skills and applying new methods for project management
 - Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices
@@ -103,9 +96,9 @@ iterative development and continuous improvement
 
 ### Key objective #4: In conjunction with team leadership, help establish and implement an organizational vision 
 
-- Develop new insights into situations and question conventional approaches
+- Develop new insights into situations and question conventional approaches 
 - Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
-- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views
+- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views 
 - Adapt to change and quickly integrate new information
 - Formulate and execute consistently against objectives and priorities
 
@@ -132,11 +125,9 @@ most intense and rigorous resume review you've ever heard of. To get through thi
 
 ### Specialized Experience
 
-To qualify for this role, you must have one year of specialized experience equivalent to the 
-GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience is:
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience is:
 
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or 
-complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
 - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
 - Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
@@ -149,11 +140,12 @@ experience must include **ONE** of the following:
 
 3. Experience developing full-stack web applications using test-driven development, delivering measurable results for 
 clients. This experience must include **ALL** of the following:
-- Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or JavaScript/Node.js
+- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or JavaScript/Node.js
 - Developing digital applications using a relational or non-relational data layers
 - Developing digital applications using test-driven development and software testing tools
 
-4. Experience deploying or operating digital applications on cloud technologies.This experience must include 
+
+4. Experience deploying or operating digital applications on cloud technologies. This experience must include 
 **ONE** of the following:
 - Developing digital applications using Infrastructure-as-a-Service (IaaS) 
 - Developing digital applications using Platform-as-a-Service (PaaS)
@@ -173,37 +165,30 @@ clients. This experience must include **ALL** of the following:
 
 ## Role Summary:
 ### {{ page.title }} - GS-{{ page.gs_level }}
-cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital 
-services to the public. As a consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as 
-well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver 
-their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) 
-to implement solutions. 
+cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital services to the public. As a consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
 Consulting technical leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
-- Interested in building systems and processes that meet federal security compliance requirements in effective and modern 
-ways.
+- Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
 - Capable of building and migrating apps with a cloud native mindset.
-- Experienced working in cloud computing platforms (e.g., Cloud Foundry) and leveraging cloud computing infrastructure 
-(e.g., Amazon Web Services).
+- Experienced working in cloud computing platforms (e.g., Cloud Foundry) and leveraging cloud computing infrastructure (e.g., Amazon Web Services).
 
-Your first project will be consulting on-site in Boston, Massachusetts, with the United States Air Force.
+Your first project will be consulting on-site with the United States Air Force.
 
 
 ## Key Objectives
 
-### Key objective #1: Help federal agencies develop and implement cloud migration plans
+### Key objective #1: Help federal agencies develop and implement cloud migration plans.
 
-- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts
+- Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts 
 - Provide engineering leadership and mentoring via technology evaluations and architectural decisions
 - Influence project planning and design using usability research, analytics, and other metrics
 - Analyze systems, identify potential problems with migration activities, and design and document solutions
-- Assist agency partners through the change management process of cloud adoption, and in particular help them work through 
-staffing planning challenges
+- Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges
 
-### Key objective #2:  Contribute high-quality, well-tested, maintainable code across multiple projects, using best practices
-for modern software development
+
+### Key objective #2:  Contribute high-quality, well-tested, maintainable code across multiple projects, using best practices for modern software development
 
 - Lead engineering efforts in building new and migrating existing applications to a cloud computing environment, leveraging infrastructure as code where applicable for any application configuration
 - Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle, or by introducing tooling into an existing project, as needed
@@ -214,8 +199,7 @@ for modern software development
 
 ### Key objective #3: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing
 
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including 
-iterative development and continuous improvement
+- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
 - Support teammates and partners in learning new skills and applying new methods for project management
 - Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices
@@ -223,11 +207,13 @@ iterative development and continuous improvement
 
 ### Key objective #4: In conjunction with team leadership, help establish and implement an organizational vision 
 
-- Develop new insights into situations and question conventional approaches
+- Develop new insights into situations and question conventional approaches 
 - Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
 - Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views 
 - Adapt to change and quickly integrate new information
 - Formulate and execute consistently against objectives and priorities
+
+
 ## Basic Information
 
 **Job announcement number:** 
@@ -303,7 +289,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration.
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -348,8 +334,7 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} grade level in the Federal service. Specialized experience is:
 
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or 
-complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
 - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
 - Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
@@ -362,11 +347,12 @@ experience must include **ONE** of the following:
 
 3. Experience developing full-stack web applications using test-driven development, delivering measurable results for 
 clients. This experience must include **ALL** of the following:
-- Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or JavaScript/Node.js
+- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or JavaScript/Node.js
 - Developing digital applications using a relational or non-relational data layers
 - Developing digital applications using test-driven development and software testing tools
 
-4. Experience deploying or operating digital applications on cloud technologies.This experience must include 
+
+4. Experience deploying or operating digital applications on cloud technologies. This experience must include 
 **ONE** of the following:
 - Developing digital applications using Infrastructure-as-a-Service (IaaS) 
 - Developing digital applications using Platform-as-a-Service (PaaS)
