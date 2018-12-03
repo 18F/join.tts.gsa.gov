@@ -68,7 +68,7 @@ Your first project will be consulting on-site with the United States Air Force.
 
 ## Key Objectives
 
-### Key objective #1: Help federal agencies develop and implement cloud migration plans.
+### Key objective #1: Help federal agencies develop and implement cloud migration plans
 
 - Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts 
 - Provide engineering leadership and mentoring via technology evaluations and architectural decisions
@@ -179,7 +179,7 @@ Your first project will be consulting on-site with the United States Air Force.
 
 ## Key Objectives
 
-### Key objective #1: Help federal agencies develop and implement cloud migration plans.
+### Key objective #1: Help federal agencies develop and implement cloud migration plans
 
 - Partner with federal agencies to build, manage, and grow their cloud adoption and migration development efforts 
 - Provide engineering leadership and mentoring via technology evaluations and architectural decisions
