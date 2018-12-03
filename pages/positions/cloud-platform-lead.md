@@ -1,14 +1,14 @@
 ---
 title: 18F - Cloud Platform Lead
 permalink: /join/cloud-platform-lead/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'tbd'
-closes: 'tbd'
-location: 'Boston, MA and Hampton, VA'
+opens: 'December 10, 2018, 8AM EDT'
+closes: 'December 14, 2018, 8PM EDT'
+location: 'Boston, MA and Hampton, VA (working virtually in either location)'
 gs_level: 15
 salary_min: '121,280.41' 
 salary_max: '164,200' 
@@ -18,11 +18,11 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1800596JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '3'
 series: '0301' 
-apply_url: https://goo.gl/forms/uMcXaJxX3Z9Aorzx1
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLScDqd44SB1gDYANhTkiSKyiz9FmEttt2Sfsnbi4xI-EiqgjiQ/viewform
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: Non Bargaining Unit
@@ -71,30 +71,30 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 ## Key Objectives
 
 ### Key objective #1: Help federal agencies develop and implement cloud migration plans.
-- Partner with federal agencies to build, manage, and grow their cloud adoption teams. 
-- Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development.
-- Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories.
-- Analyze systems, identify potential problems with migration activities, and design and document solutions.
-- Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges.
+- Partner with federal agencies to build, manage, and grow their cloud adoption teams
+- Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development
+- Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories
+- Analyze systems, identify potential problems with migration activities, and design and document solutions
+- Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges
 
 ### Key objective #2: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement.
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-- Support teammates and partners in learning new skills and applying new methods for project management.
-- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices.
+- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
+- Support teammates and partners in learning new skills and applying new methods for project management
+- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices
 
 ### Key objective #3: Design and implement multiple Cloud Foundry deployments, ensuring efficiency, reliability, and security
-- Create processes and procedures that keep multiple Cloud Foundry environments in multiple geographical regions, environments, and security domains resilient, fault-tolerant, and consistent.
-- Work with internal and external groups to integrate, configure, manage, and support production systems, including monitoring platform and application uptime and maximizing platform reliability.
-- Lead the team in developing and maintaining robust problem handling, including responding to system alerts, troubleshooting system errors, and resolving incidents.
-- Ensure easy deployment and upgrades of platforms and subsystems.
-- Ensure infrastructure is used efficiently.
+- Create processes and procedures that keep multiple Cloud Foundry environments in multiple geographical regions, environments, and security domains resilient, fault-tolerant, and consistent
+- Work with internal and external groups to integrate, configure, manage, and support production systems, including monitoring platform and application uptime and maximizing platform reliability
+- Lead the team in developing and maintaining robust problem handling, including responding to system alerts, troubleshooting system errors, and resolving incidents
+- Ensure easy deployment and upgrades of platforms and subsystems
+- Ensure infrastructure is used efficiently
 
 ### Key objective #4:  Automate platform operations using modern software development techniques.
-- Treat configuration as code: manage, design, deploy, and test platform operations.
-- Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity.
-- Deploy software in a repeatable and documented way, tracking specifications, process, systems, and procedures.
-- Take an iterative approach to identifying and removing single points of failure.
+- Treat configuration as code: manage, design, deploy, and test platform operations
+- Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity
+- Deploy software in a repeatable and documented way, tracking specifications, process, systems, and procedures
+- Take an iterative approach to identifying and removing single points of failure
 
 
 ## Minimum Qualifications
@@ -167,30 +167,30 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 ## Key Objectives
 
 ### Key objective #1: Help federal agencies develop and implement cloud migration plans.
-- Partner with federal agencies to build, manage, and grow their cloud adoption teams. 
-- Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development.
-- Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories.
-- Analyze systems, identify potential problems with migration activities, and design and document solutions.
-- Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges.
+- Partner with federal agencies to build, manage, and grow their cloud adoption teams
+- Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development
+- Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories
+- Analyze systems, identify potential problems with migration activities, and design and document solutions
+- Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges
 
 ### Key objective #2: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement.
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-- Support teammates and partners in learning new skills and applying new methods for project management.
-- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices.
+- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
+- Support teammates and partners in learning new skills and applying new methods for project management
+- Make and use prototypes and hands-on demonstrations as tools to help teach modern technology practices
 
 ### Key objective #3: Design and implement multiple Cloud Foundry deployments, ensuring efficiency, reliability, and security
-- Create processes and procedures that keep multiple Cloud Foundry environments in multiple geographical regions, environments, and security domains resilient, fault-tolerant, and consistent.
-- Work with internal and external groups to integrate, configure, manage, and support production systems, including monitoring platform and application uptime and maximizing platform reliability.
-- Lead the team in developing and maintaining robust problem handling, including responding to system alerts, troubleshooting system errors, and resolving incidents.
-- Ensure easy deployment and upgrades of platforms and subsystems.
-- Ensure infrastructure is used efficiently.
+- Create processes and procedures that keep multiple Cloud Foundry environments in multiple geographical regions, environments, and security domains resilient, fault-tolerant, and consistent
+- Work with internal and external groups to integrate, configure, manage, and support production systems, including monitoring platform and application uptime and maximizing platform reliability
+- Lead the team in developing and maintaining robust problem handling, including responding to system alerts, troubleshooting system errors, and resolving incidents
+- Ensure easy deployment and upgrades of platforms and subsystems
+- Ensure infrastructure is used efficiently
 
 ### Key objective #4:  Automate platform operations using modern software development techniques.
-- Treat configuration as code: manage, design, deploy, and test platform operations.
-- Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity.
-- Deploy software in a repeatable and documented way, tracking specifications, process, systems, and procedures.
-- Take an iterative approach to identifying and removing single points of failure.
+- Treat configuration as code: manage, design, deploy, and test platform operations
+- Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity
+- Deploy software in a repeatable and documented way, tracking specifications, process, systems, and procedures
+- Take an iterative approach to identifying and removing single points of failure
 
 ## Basic Information
 
@@ -241,7 +241,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -267,7 +267,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation.
 3. You may be required to serve a trial period.
 4. Direct Deposit of salary check to financial organization required.
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration.
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
@@ -277,13 +277,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
 ## Duties
-Typical duties include but are not limited to: 
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward thinking design and development principles to product or services development, delivery and program management, such as lean startup, user centered design, and agile development; 
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; 
-- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; 
-- Developing authoritative papers/reports; developing and leading adoption of government wide standards for digital services, leading to their adoption across citizen and business facing government Services; 
-- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; 
-- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
+Typical duties include but are not limited to: Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward thinking design and development principles to product or services development, delivery and program management, such as lean startup, user centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government wide standards for digital services, leading to their adoption across citizen and business facing government Services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
