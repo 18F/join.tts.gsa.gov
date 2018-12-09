@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Site Lead
 permalink: /join/site-lead/
-state: open
+state: closed
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
