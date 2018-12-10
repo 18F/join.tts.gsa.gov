@@ -115,7 +115,6 @@ Applying multidisciplinary project management practices (e.g. PMI, SAFE, Agile, 
 - Coaching upper management, clients or stakeholders through change management related to business transformation
 - Explaining products or services to people who have varying levels of technical knowledge 
 
-
 {% else %}
 
 {{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more the application process.
