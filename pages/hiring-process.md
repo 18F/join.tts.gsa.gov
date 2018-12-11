@@ -3,8 +3,6 @@ title: Navigating the hiring process
 permalink: hiring-process/
 
 subnav:
-  - text: Process timeline
-    href: "#process-timeline"
   - text: Application
     href: "#application"
   - text: Interviews
@@ -14,12 +12,7 @@ subnav:
 ---
 
 Don’t let the federal hiring process seem daunting. We demystify it
-below, so you know what to expect.
-
-## Process timeline
-
-Take a look below at the average time from application to your first day
-at TTS.
+below, so you know what to expect. Here's a look at the average time of each stage from application to your first day at TTS.
 
   |Process Stage | Average Duration/Days |
 |:--|:-:|
@@ -34,18 +27,14 @@ at TTS.
 
 When you apply for a role at TTS, you’ll need to submit a
 [government-style
-resume](https://join.tts.gsa.gov/resume/).
+resume](https://join.tts.gsa.gov/resume/). We collect applications during the period specified in the [Basic
+Information section](https://join.tts.gsa.gov/federal-job-posting/#basic-information/) of the job posting, generally within five-10 days.
+After the period has closed, we review and evaluate all applications at
+the same time.
 
 [Veterans’
 Preference](https://www.fedshirevets.gov/job-seekers/veterans-preference/)
 is applied for candidates who have claimed their veteran status.
-
-### How we collect and review applications
-
-We collect applications during the period specified in the [Basic
-Information section](https://join.tts.gsa.gov/federal-job-posting/#basic-information/) of the job posting, generally within five-10 days.
-After the period has closed, we review and evaluate all applications at
-the same time.
 
 ## Interviews
 
