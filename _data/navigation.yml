@@ -1,7 +1,15 @@
 primary:
   - text: Home
     href: /
-  - text: TTS Offices
-    href: /tts-offices/
-  - text: Hiring Process
+  - text: Navigating the hiring process
     href: /hiring-process/
+  - text: Reading a federal job posting
+    href: /federal-job-posting/
+  - text: Preparing your resume
+    href: /resume/
+  - text: Understanding compensation and benefits
+    href: /compensation-and-benefits/
+  - text: TTS offices
+    href: /tts-offices/
+  - text: Learn more about how we hire
+    href: /learn-more/
