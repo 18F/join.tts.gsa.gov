@@ -9,7 +9,7 @@ prepare the strongest possible application. Below, we’ll explain each
 section of a TTS job posting and what information to look for when
 crafting your application.
 
-> Looking for information to customize your resume? Be sure to carefully read the [Role Summary](#role-summary), [Evaluations](#evaluations), and [Qualifications](#qualifications) sections.
+> **Looking for information to customize your resume?** Be sure to carefully read the [Role Summary](#role-summary), [Evaluations](#evaluations), and [Qualifications](#qualifications) sections.
 
 ## Job Title
 
