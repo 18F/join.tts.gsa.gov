@@ -6,5 +6,4 @@ _site
 .DS_Store
 todo.txt
 .jekyll-metadata
-.ruby-version
 *.pyc
