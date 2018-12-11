@@ -12,7 +12,7 @@ subnav:
   - text: The application process
     href: "#the-application-process"
   - text: About TTS
-    href: "#about-the-technology-transformation-services"
+    href: "#about-technology-transformation-services"
 
 ---
 
@@ -29,6 +29,8 @@ We're growing and are accepting applications to fill current and
 upcoming positions. Take a look below, and [join our mailing
 list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform)
 if you would like to be notified when we post new jobs.
+
+{% assign sortedpages = site.pages | sort: 'title' %}
 
 ## Open positions
 

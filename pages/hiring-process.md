@@ -21,14 +21,14 @@ below, so you know what to expect.
 Take a look below at the average time from application to your first day
 at TTS.
 
-  **Process Stage**                                                                          **Average Duration/Days**
-  ------------------------------------------------------------------------------------------ ---------------------------
-  [Application](https://join.tts.gsa.gov/hiring-process/#application) collection           5
-  Application review                                                                         5
-  GSA HR application review                                                                  10
-  [Interviews](https://join.tts.gsa.gov/hiring-process/#interviews)                        30
-  [Offer and security](https://join.tts.gsa.gov/hiring-process/#security-and-onboarding)   30-60
-  Total from application to start                                                            80 to 110
+  |Process Stage | Average Duration/Days |
+|:--|:-:|
+| [Application](#application) collection | 5 |
+| TTS application review | 5 |
+| GSA HR application review | 10 |
+| [Interviews](#interviews) | 30 |
+| [Offer and security](#security-and-onboarding) | 30 to 60 |
+| **Total from application to start** | **80 to 110** |
 
 ## Application
 
