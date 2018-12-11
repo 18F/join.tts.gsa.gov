@@ -9,8 +9,8 @@ subnav:
     href: "#open-positions"
   - text: Upcoming positions
     href: "#upcoming-positions"
-  - text: The application process
-    href: "#the-application-process"
+  - text: Application process
+    href: "#Application-process"
   - text: About TTS
     href: "#about-technology-transformation-services"
 
@@ -58,7 +58,7 @@ if you would like to be notified when we post new jobs.
 {% endif %}
 {% endfor %}
 
-## The application process
+## Application process
 
 Did you know we have an amazing recruitment team dedicated to ushering
 you from application to interview to onboarding with TTS, so you have
