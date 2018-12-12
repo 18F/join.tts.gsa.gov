@@ -6,12 +6,12 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'December 10, 2018, 8AM EDT'
-closes: 'December 14, 2018, 8PM EDT'
+opens: 'December 14, 2018, 8AM EDT'
+closes: 'December 18, 2018, 8PM EDT'
 location: 'Boston, MA (virtual) and Hampton, VA (virtual)'
 gs_level: 15
-salary_min: '121,280.41' 
-salary_max: '164,200' 
+salary_min: '105,123'
+salary_max: '136,659'
 org: '18F' 
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
@@ -241,7 +241,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. Technology Transformation Services (TTS) is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
