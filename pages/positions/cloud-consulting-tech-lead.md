@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'December 14, 2018, 8am EDT'
-closes: ' December 18, 2018, 8pm EDT'
+opens: 'December 17, 2018, 8am EDT'
+closes: ' December 21, 2018, 8pm EDT'
 location: 'Washington, DC; Boston, MA (virtual); Denver, CO (virtual)'
 gs_level: 15
 salary_min: '105,123'
