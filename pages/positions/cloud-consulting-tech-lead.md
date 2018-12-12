@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'December 10, 2018, 8am EDT'
-closes: ' December 14, 2018, 8pm EDT'
+opens: 'December 14, 2018, 8am EDT'
+closes: ' December 18, 2018, 8pm EDT'
 location: 'Washington, DC; Boston, MA (virtual); Denver, CO (virtual)'
 gs_level: 15
 salary_min: '105,123'
@@ -54,9 +54,9 @@ employees or contractors
 
 ## Role Summary:
 ### {{ page.title }} - GS-{{ page.gs_level }}
-cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital services to the public. As a consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital services to the public. As a cloud consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting technical leads on our team are:
+Cloud consulting technical leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
@@ -263,7 +263,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. Technology Transformation Services (TTS) is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
