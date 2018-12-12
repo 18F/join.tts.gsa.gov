@@ -54,7 +54,7 @@ employees or contractors
 
 ## Role Summary:
 ### {{ page.title }} - GS-{{ page.gs_level }}
-cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital services to the public. As a cloud consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+cloud.gov, a product team within 18F, is looking for a talented cloud consulting technical lead to help us deliver better digital services to the public. As a cloud consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
 Cloud consulting technical leads on our team are:
 
@@ -165,9 +165,9 @@ clients. This experience must include **ALL** of the following:
 
 ## Role Summary:
 ### {{ page.title }} - GS-{{ page.gs_level }}
-cloud.gov, a product team within 18F, is looking for a talented consulting technical lead to help us deliver better digital services to the public. As a consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+cloud.gov, a product team within 18F, is looking for a talented cloud consulting technical lead to help us deliver better digital services to the public. As a cloud consulting technical lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
 
-Consulting technical leads on our team are:
+Cloud consulting technical leads on our team are:
 
 - Experienced in leading cloud migration projects, including organizational strategy and change management.
 - Interested in building systems and processes that meet federal security compliance requirements in effective and modern ways.
