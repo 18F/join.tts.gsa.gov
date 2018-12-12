@@ -7,8 +7,6 @@ subnav:
     href: "#government-pay-grades"
   - text: Understanding grade levels
     href: "#understanding-grade-levels"
-  - text: Salary calculator
-    href: "#salary-calculator"
   - text: Raises and bonuses
     href: "#raises-and-bonuses"
   - text: Benefits and leave
@@ -26,15 +24,13 @@ level are based on education, background, accomplishments, and
 experience. The specific requirements will always be listed in the job
 posting. Salaries of federal employees are public information, and your
 salary may become publicly available on sites such as
-[FederalPay.org](https://www.federalpay.org/employees).
-
-## Understanding grade levels
-
-Federal employees on the general schedule range from GS-1 to GS-15. Find
+[FederalPay.org](https://www.federalpay.org/employees). Find
 out more about the GS system from the [Office of Personnel
 Management](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).
 
-GS grade levels specify a fixed compensation range for a particular
+## Understanding grade levels
+
+Federal employees on the general schedule range from GS-1 to GS-15. GS grade levels specify a fixed compensation range for a particular
 position, in particular geographic localities, within the federal
 government. Understanding the relationship between GS grade level,
 location, and compensation is important to understanding how salaries
@@ -47,15 +43,11 @@ newly-appointed federal employee based on a [special need of the agency
 or superior qualifications of the prospective
 employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
 
-The annual salary cap for all GS employees is $164,200 per year. You
-cannot be offered more than this under any circumstance.
-
-## Salary calculator
-
 Use this [OPM General Schedule (GS) Salary
 Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2017/general-schedule-gs-salary-calculator/)
 to help you understand how GS level, step, and locality affect
-compensation.
+compensation. The annual salary cap for all GS employees is $164,200 per year. You
+cannot be offered more than this under any circumstance.
 
 ## Raises and bonuses
 

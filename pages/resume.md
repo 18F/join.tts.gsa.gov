@@ -3,8 +3,8 @@ title: Preparing your resume
 permalink: resume/
 
 subnav:
-  - text: General resume recommendations
-    href: "#general-resume-recommendations"
+  - text: General recommendations
+    href: "#general-recommendations"
   - text: Key information for each position
     href: "#key-information-for-each-position"
   - text: Example resume excerpt
@@ -22,7 +22,7 @@ resume, which may be several pages long and should include detailed
 information about the jobs you’ve held, your responsibilities, and what
 you accomplished.
 
-## General resume recommendations
+## General recommendations
 
 -   When you’re preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
 -   Don’t get hung up on trying to match specific formatting; just make sure you’ve included the information relevant to each section.

@@ -46,7 +46,7 @@ if you would like to be notified when we post new jobs.
 {% endif %}
 {% endfor %}
 
-**We are hiring** and will be sharing upcoming jobs and open positions soon. Please check back soon or [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link) to be notified when new jobs are posted.
+**We are hiring** and will be sharing upcoming jobs and open positions soon.
 
 ## Upcoming positions
 
