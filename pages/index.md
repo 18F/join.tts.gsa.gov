@@ -26,9 +26,7 @@ experience with the government by helping agencies build, buy, and share
 technology that allows them to better serve the public.
 
 We're growing and are accepting applications to fill current and
-upcoming positions. Take a look below, and [join our mailing
-list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform)
-if you would like to be notified when we post new jobs.
+upcoming positions. Take a look below, and <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_6">join our mailing list</a> if you would like to be notified when we post new jobs.
 
 {% assign sortedpages = site.pages | sort: 'title' %}
 
