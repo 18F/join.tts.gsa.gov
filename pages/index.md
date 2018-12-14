@@ -44,7 +44,7 @@ upcoming positions. Take a look below, and <a href="https://public.govdelivery.c
 {% endif %}
 {% endfor %}
 
-**We are hiring** and will be sharing upcoming jobs and open positions soon.
+**We are hiring** and will be sharing upcoming jobs and open positions as they are available.
 
 ## Upcoming positions
 
