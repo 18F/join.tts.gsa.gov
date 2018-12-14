@@ -1,13 +1,13 @@
 ---
 title: Centers of Excellence - Data & Analytics Specialist
 permalink: join/data-and-analytics-specialist/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: December 3, 2018, 8am EDT
-closes: December 7, 2018, 8pm EDT
+opens: TBD
+closes: TBD
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
@@ -18,11 +18,11 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1900171JCOTR'
+# job_announcement_number: '1900171JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '2'
 series: '0301' 
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLSefu-2w4fy-eR4vJJmwrbrFx1lRO2CGmQ3Y4ArRkLoYUC-x0A/viewform
+# apply_url: https://docs.google.com/forms/d/e/1FAIpQLSefu-2w4fy-eR4vJJmwrbrFx1lRO2CGmQ3Y4ArRkLoYUC-x0A/viewform
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
