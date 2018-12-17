@@ -70,14 +70,14 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 
 ## Key Objectives
 
-### Key objective #1: Help federal agencies develop and implement cloud migration plans.
+### Key objective #1: Help federal agencies develop and implement cloud migration plans
 - Partner with federal agencies to build, manage, and grow their cloud adoption teams
 - Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development
 - Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories
 - Analyze systems, identify potential problems with migration activities, and design and document solutions
 - Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges
 
-### Key objective #2: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
+### Key objective #2: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
 - Support teammates and partners in learning new skills and applying new methods for project management
@@ -90,7 +90,7 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 - Ensure easy deployment and upgrades of platforms and subsystems
 - Ensure infrastructure is used efficiently
 
-### Key objective #4:  Automate platform operations using modern software development techniques.
+### Key objective #4:  Automate platform operations using modern software development techniques
 - Treat configuration as code: manage, design, deploy, and test platform operations
 - Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity
 - Deploy software in a repeatable and documented way, tracking specifications, process, systems, and procedures
@@ -166,14 +166,14 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 
 ## Key Objectives
 
-### Key objective #1: Help federal agencies develop and implement cloud migration plans.
+### Key objective #1: Help federal agencies develop and implement cloud migration plans
 - Partner with federal agencies to build, manage, and grow their cloud adoption teams
 - Provide engineering leadership via technology evaluations, architectural decisions, and product roadmap development
 - Drive planning and delivery by using agile tools such as product roadmaps, backlogs, measurable success criteria, and user stories
 - Analyze systems, identify potential problems with migration activities, and design and document solutions
 - Assist agency partners through the change management process of cloud adoption, and in particular help them work through staffing planning challenges
 
-### Key objective #2: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
+### Key objective #2: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle, including iterative development and continuous improvement
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams
 - Support teammates and partners in learning new skills and applying new methods for project management
@@ -186,7 +186,7 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 - Ensure easy deployment and upgrades of platforms and subsystems
 - Ensure infrastructure is used efficiently
 
-### Key objective #4:  Automate platform operations using modern software development techniques.
+### Key objective #4:  Automate platform operations using modern software development techniques
 - Treat configuration as code: manage, design, deploy, and test platform operations
 - Develop automation tools to eliminate manual tasks, reduce errors, and increase the team’s productivity
 - Deploy software in a repeatable and documented way, tracking specifications, process, systems, and procedures
