@@ -1,7 +1,7 @@
 ---
 title: 18F - Cloud Platform Lead
 permalink: /join/cloud-platform-lead/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
