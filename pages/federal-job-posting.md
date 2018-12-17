@@ -23,7 +23,7 @@ design to front-end developer to account manager.
 > get confused if there’s a different one in the Basic Information
 > section.
 
-## Role Summary
+### Role Summary
 
 This is the heart of the job posting. This section will include
 information about the skills we’re looking for in this job, what kind of

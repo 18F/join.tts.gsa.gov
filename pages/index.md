@@ -1,10 +1,8 @@
 ---
-title:
+title: Join Us
 permalink: /
 
 subnav:
-  - text: Join us
-    href: "#join-us"
   - text: Open positions
     href: "#open-positions"
   - text: Upcoming positions
@@ -15,8 +13,6 @@ subnav:
     href: "#about-technology-transformation-services"
 
 ---
-
-## Join Us
 
 Looking for an opportunity to make a difference while leveraging your
 software development, product management, procurement, design, content,
