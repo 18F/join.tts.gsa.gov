@@ -1,13 +1,13 @@
 ---
 title: Centers of Excellence - Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'November 26, 2018, 8am EDT' 
-closes: 'November 30, 2018, 8pm EDT' 
+opens: TBD 
+closes: TBD
 location: Washington, DC
 gs_level: 15
 salary_min: '134,789' 
