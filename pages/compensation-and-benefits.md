@@ -13,7 +13,7 @@ subnav:
     href: "#benefits-and-leave"
 ---
 
-## Government pay grades
+### Government Pay Grades
 
 TTS team members are hired for specific position descriptions at a
 specific grade level from the federal General Schedule (GS) (excluding
@@ -28,7 +28,7 @@ salary may become publicly available on sites such as
 out more about the GS system from the [Office of Personnel
 Management](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).
 
-## Understanding grade levels
+### Understanding Grade Levels
 
 Federal employees on the general schedule range from GS-1 to GS-15. GS grade levels specify a fixed compensation range for a particular
 position, in particular geographic localities, within the federal
@@ -45,11 +45,11 @@ employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration
 
 Use this [OPM General Schedule (GS) Salary
 Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2017/general-schedule-gs-salary-calculator/)
-to help you understand how GS level, step, and locality affect
+to help you understand how GS level, step and locality affect
 compensation. The annual salary cap for all GS employees is $164,200 per year. You
 cannot be offered more than this under any circumstance.
 
-## Raises and bonuses
+### Raises and Bonuses
 
 A step increase is the most common kind of raise for GS employees, and
 the amount of time between step increases is dependent on the step. As a
@@ -66,7 +66,7 @@ must be a TTS employee for at least three months to get a performance
 review. Bonuses are awarded as either a small percentage of your annual
 salary or through allotment of additional paid leave.
 
-## Benefits and leave
+### Benefits and Leave
 
 The benefits package for federal employees includes medical, vision, and
 dental insurance, FSA accounts, life insurance, paid leave, and the

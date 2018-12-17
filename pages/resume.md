@@ -15,29 +15,29 @@ subnav:
 ---
 
 Your resume may need revision to ensure you’re positioning yourself to
-make it through the initial steps in the government hiring process.
+make it through the initial steps of the government hiring process.
 
 There is no such thing as too much information when preparing your
 resume, which may be several pages long and should include detailed
 information about the jobs you’ve held, your responsibilities, and what
 you accomplished.
 
-## General recommendations
+### General Recommendations
 
 -   When you’re preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
--   Don’t get hung up on trying to match specific formatting; just make sure you’ve included the information relevant to each section.
+-   Don’t get hung up on trying to match specific formatting; do make sure you’ve included the information relevant to each section.
 -   Be as detailed as possible. Length is not an issue as long as the information you’re including is relevant.
 -   For your most relevant, recent, or longest held position, list eight-10 bullet points about your responsibilities and accomplishments. For each prior position, you can list fewer points focusing on the information that is most relevant to the job for which you are applying.
 -   Don’t be afraid to use technical terminology if it’s relevant to your current or past roles or to the role for which you are applying. Do avoid acronyms and abbreviations.
 -   We don’t use automated screening tools, so your application will be evaluated by people who have varying levels of familiarity with your professional experience. It’s better to be explicit and not assume the reader has expert domain knowledge or context.
 -   Quantify as applicable.
 
-## Key information for each position
+### Key Information for Each Position
 
 This is the information that you should include for each position on your resume.
 
 -   Company/organization name
--   Size of organization (x,xxx employees)
+-   Size of organization (number of employees)
 -   Location (City, State)
 -   Dates of employment (MM/YYYY)
 -   Hours per week (e.g. 15, 20, 40. If “full time” list 40 hours)
@@ -48,9 +48,9 @@ This is the information that you should include for each position on your resume
 -   List of relevant skills, tools, technologies used
 -   Specific duties, responsibilities, accomplishments of the position
 
-### Detailed description of sections
+#### Detailed Description of Sections
 
-#### Brief description of the organization and brief description of the product/project/team you worked on or supported (if applicable)
+##### Brief description of the organization and brief description of the product/project/team you worked on or supported (if applicable)
 
 This should provide a context for your work and accomplishments which helps us understand how they’re applicable to our work and the role for which you’re applying. Include the following information:
 
@@ -58,7 +58,7 @@ This should provide a context for your work and accomplishments which helps us u
 -   Impact/performance metrics and scope: users, clients, datasets, uptime, cycle time, etc.
 -   Team size/composition
 
-#### Relevant skills, tools, technologies used
+##### Relevant skills, tools, technologies used
 
 Describe the skills, methodologies, techniques, and tools you used in the position. Focus on those things significant to your work and relevant to the role for which you’re applying. Include such things as:
 
@@ -67,7 +67,7 @@ Describe the skills, methodologies, techniques, and tools you used in the positi
 -   Information architecture, service design, visual design, content design, project management, copywriting, server-side development, front end development, containerization, configuration management, infrastructure automation
 -   Axure, Powerpoint, Trello, Amazon Web Services, Azure, Docker, Slack, Github, Ruby, Mercurial, PyUnit, JUnit, Rspec, Travis, MongoDB, Redis, Cassandra
 
-## Example resume excerpt
+### Example Resume Excerpt
 
 This is an example of what you resume might look like for a position with TTS:
 
@@ -100,12 +100,12 @@ This is an example of what you resume might look like for a position with TTS:
 > -   *Automated testing of codebase using Rspec and CircleCi for continuous integration*
 > -   *Guided team members on data infrastructure to implement front end solutions and peer review code commits for potential refactorization to ensure quality*
 
-## Other sections to include, as applicable
+### Other Sections to Include, as Applicable
 
 -   Volunteer work (include the organization’s name, years of participation, and a one-line description of your role)
 -   Relevant awards (include awarding organization, title of award, year received, and any relevant details, such as chosen as *award winner out of 300 contenders*)
 -   Relevant public speaking engagements and presentations (include title of presentation, name of conference/event, month and year of presentation, along with any other relevant details)
 -   Certifications held (name of certificate, institution issuing the certificate, year issued)
 -   Relevant professional affiliations (organization name, years of participation)
--   Published work (including personal blog posts) (title of published work, publication, month and year of publication)
+-   Published work, including personal blog posts (title of published work, publication, month and year of publication)
 -   Training (name of training or course, organization providing the training, MM/YYYY completed)

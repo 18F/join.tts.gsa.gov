@@ -11,7 +11,7 @@ crafting your application.
 
 > **Looking for information to customize your resume?** Be sure to carefully read the [Role Summary](#role-summary), [Evaluations](#evaluations), and [Qualifications](#qualifications) sections.
 
-## Job Title
+### Job Title
 
 Most job openings at TTS have two job titles: a functional title similar
 to one you would find in the private sector and an official title from
@@ -34,14 +34,14 @@ bullet points describing the core responsibilities of the position.
 > **Take away:** Look for a match to your skills and experience in this
 > section, and determine if you could fulfill the key objectives.
 
-## Basic Information
+### Basic Information
 
 This section gets into some of the technical details of a federal job
 posting. Here’s what to look for in each section:
 
 **Job announcement number:** Applicants claiming veteran status will
 need this number to submit their veterans’ preference documents. Other
-applications will not need to use this number during the application
+applicants will not need to use this number during the application
 process.
 
 **Opening and closing period for this job application:** Pay close
@@ -99,7 +99,7 @@ hours per week.
 positions. Some have a maximum term of four years, so make sure to pay
 attention to what type of position for which you are applying.
 
-## Job Summary
+### Job Summary
 
 This is the official job summary attached to the official job title.
 It’s a broader and more formal version of the Role Summary that’s
@@ -111,13 +111,13 @@ position than the Role Summary section.
 > information from other sections to determine what to include in your
 > application.
 
-## Key Requirements and Employment Requirements
+### Key Requirements and Employment Requirements
 
 These two sections contain required information and language that is
 consistent across most TTS positions. They reiterate eligibility,
 application, and employment requirements.
 
-## Duties
+### Duties
 
 This is another required section that expands on the official summary
 for the official job title of the position. The duties in this section
@@ -125,7 +125,7 @@ will likely be broad and apply to a number of different job types.
 Please rely on the information in the Role Summary section and not the
 duties section to learn more about the particular position.
 
-## Evaluations
+### Evaluations
 
 It’s important that your resume show that you meet all of the
 competencies in this section. Before the interview stage, your resume
@@ -139,7 +139,7 @@ with these skills, make sure you include them in detail in your resume.
 > categories. The more they align, the better chance you have of being
 > placed into a higher category.
 
-## Qualifications
+### Qualifications
 
 This section has critical information that must be present in your
 resume for you to advance through the application process. Read this
@@ -160,25 +160,25 @@ experience qualifications.
 > consideration for a TTS position. Make sure to include relevant
 > language, so it is obvious how you meet the qualification criteria.
 
-## How To Apply
+### How To Apply
 
 This section includes information about the documents required for your
 application and a link to submit your application. If you’re claiming
 veterans’ preference, this section will list the specific documentation
 you’ll need to provide.
 
-## Other Information
+### Other Information
 
 This includes additional boilerplate information that we include with
 all job postings.
 
-## Reasonable Accommodation and Equal Employment Opportunity Policy
+### Reasonable Accommodation and Equal Employment Opportunity Policy
 
 These two sections include standard language about GSA’s commitment to
 provide reasonable accommodation to applicants with disabilities and
 GSA’s non discrimination employment policy.
 
-## What To Expect
+### What To Expect
 
 The final section has a short description of the hiring process. You can
 find more detail on the page about [navigating the hiring process](https://join.tts.gsa.gov/hiring-process/).

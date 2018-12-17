@@ -16,7 +16,7 @@ subnav:
 
 ---
 
-# Join us
+## Join Us
 
 Looking for an opportunity to make a difference while leveraging your
 software development, product management, procurement, design, content,
@@ -32,7 +32,7 @@ if you would like to be notified when we post new jobs.
 
 {% assign sortedpages = site.pages | sort: 'title' %}
 
-## Open positions
+### Open Positions
 
 {% for pg in sortedpages %}
 {% if pg.state == 'open' %}
@@ -48,7 +48,7 @@ if you would like to be notified when we post new jobs.
 
 **We are hiring** and will be sharing upcoming jobs and open positions soon.
 
-## Upcoming positions
+### Upcoming Positions
 
 {% for pg in sortedpages %}
 {% if pg.state == 'upcoming' %}
@@ -58,7 +58,7 @@ if you would like to be notified when we post new jobs.
 {% endif %}
 {% endfor %}
 
-## Application process
+### Application Process
 
 Did you know we have an amazing recruitment team dedicated to ushering
 you from application to interview to onboarding with TTS, so you have
@@ -67,7 +67,7 @@ guidance every step of the way? Learn more about our [hiring process](https://jo
 If you have any questions about the process or positions, please contact
 our Talent Team at [joinTTS@gsa.gov](mailto:joinTTS@gsa.gov).
 
-## About Technology Transformation Services
+### About Technology Transformation Services
 
 Technology Transformation Services (TTS) applies modern methodologies
 and technologies to improve the public’s experience with government. We
