@@ -1,12 +1,12 @@
 ---
 title: Centers of Excellence - Cloud Adoption Specialist
 permalink: /join/cloud-adoption-specialist/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-opens: November 26, 2018
-closes: November 30, 2018, 8pm EDT
+opens: TBD
+closes: TBD
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
