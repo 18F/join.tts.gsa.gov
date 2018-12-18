@@ -1,45 +1,30 @@
 ---
-title:
+title: Join Us
 permalink: /
 
 subnav:
+  - text: Open positions
+    href: "#open-positions"
+  - text: Upcoming positions
+    href: "#upcoming-positions"
+  - text: Application process
+    href: "#Application-process"
   - text: About TTS
-    href: "#about-the-technology-transformation-services"
-  - text: Offices of TTS
-    href: "#offices-of-tts"
-  - text: Join us
-    href: "#join-us"
+    href: "#about-technology-transformation-services"
+
 ---
 
-## About the Technology Transformation Services
+Looking for an opportunity to make a difference while leveraging your
+software development, product management, procurement, design, content,
+cloud migration, outreach, or operations skills? We’re looking for
+candidates passionate about our mission to improve the public’s
+experience with the government by helping agencies build, buy, and share
+technology that allows them to better serve the public.
 
-The Technology Transformation Services' (TTS) mission is to lead the digital transformation of the federal government by helping agencies build, buy, and share technology that allows them to provide more accessible, efficient, and effective products and services to the American people.
-
-Our teams work together to provide the support, authorities, and assurances that supercharge agencies’ ability to deliver on their missions. We apply modern methodologies and technologies to improve the public’s experience with government, online and off. We commit to finding, creating, and sharing the technology applications, platforms, processes, personnel, and software solutions that help federal agencies better serve their constituencies and their missions.
-
-In this video, members of TTS share their feelings on why they love their work and being part of this amazing organization.
-
-{% include youtube.html id="WURf2Z1uTaI" %}
-
-## Offices of TTS
-
-{% include offices.html %}
-
-## Join us
-
-We’re looking for candidates passionate about our mission with top-notch software development, product management, procurement, design, content, cloud migration, outreach or operations skills to match.
+We're growing and are accepting applications to fill current and
+upcoming positions. Take a look below, and <a href="https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_6">join our mailing list</a> if you would like to be notified when we post new jobs.
 
 {% assign sortedpages = site.pages | sort: 'title' %}
-
-### Upcoming Positions
-
-{% for pg in sortedpages %}
-{% if pg.state == 'upcoming' %}
-{% unless pg.path contains 'template'  %}
-* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }})
-{% endunless %}
-{% endif %}
-{% endfor %}
 
 ### Open Positions
 
@@ -55,6 +40,46 @@ We’re looking for candidates passionate about our mission with top-notch softw
 {% endif %}
 {% endfor %}
 
- **We are hiring and will be sharing information on new upcoming jobs as well as releasing new job postings frequently. Please check back or if you would like to be notified when new jobs are posted, [join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSf-HCWKQp_3TKJs0ss-3IqzbI0HY16rH5LnV8CRpIBykeH07g/viewform?usp=sf_link).**
+**We are hiring** and will be sharing upcoming jobs and open positions as they are available.
 
-If you have any questions, please contact our Talent Team at joinTTS@gsa.gov
+### Upcoming Positions
+
+{% for pg in sortedpages %}
+{% if pg.state == 'upcoming' %}
+{% unless pg.path contains 'template'  %}
+* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }})
+{% endunless %}
+{% endif %}
+{% endfor %}
+
+### Application Process
+
+Did you know we have an amazing recruitment team dedicated to ushering
+you from application to interview to onboarding with TTS, so you have
+guidance every step of the way? Learn more about our [hiring process](https://join.tts.gsa.gov/hiring-process/).
+
+If you have any questions about the process or positions, please contact
+our Talent Team at [joinTTS@gsa.gov](mailto:joinTTS@gsa.gov).
+
+### About Technology Transformation Services
+
+Technology Transformation Services (TTS) applies modern methodologies
+and technologies to improve the public’s experience with government. We
+help agencies make their services more accessible, efficient, and
+effective with modern applications, platforms, processes, personnel, and
+software solutions.
+
+TTS is comprised of four business units and front office, operations, and acquisition teams. Find out more below:
+
+-   [**Centers of Excellence**](https://join.tts.gsa.gov/tts-offices/#centers-of-excellence)
+-   [**18F**](https://join.tts.gsa.gov/tts-offices/#18F)
+-   [**Office of Products & Programs**](https://join.tts.gsa.gov/tts-offices/#office-of-products-and-programs)
+-   [**Presidential Innovation Fellows**](https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows)
+-   [**TTS Front Office**](https://join.tts.gsa.gov/tts-offices/#tts-front-office)
+-   [**Office of Operations**](https://join.tts.gsa.gov/tts-offices/#office-of-operations)
+-   [**Office of Acquisitions**](https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions)
+
+Hear from TTS staff members about why they love their work and being
+part of this amazing organization.
+
+{% include youtube.html id="WURf2Z1uTaI" %}
