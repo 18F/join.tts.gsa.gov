@@ -1,7 +1,7 @@
 ---
 title: 18F - Cloud Consulting Technical Lead
 permalink: /join/cloud-consulting-tech-lead/
-state: open
+state: closed
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
