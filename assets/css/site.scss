@@ -15,7 +15,7 @@ h2 {
 }
 
 // Sticky sidebar
-@include media($large-screen) {
+@media screen and (min-width: 951px) {
   .usa-layout-docs {
     .sidenav {
       position: sticky;
