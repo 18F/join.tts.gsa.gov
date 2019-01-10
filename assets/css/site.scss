@@ -14,10 +14,21 @@ h2 {
   }
 }
 
+// Sticky sidebar
+@include media($large-screen) {
+  .usa-layout-docs {
+    .sidenav {
+      position: sticky;
+      top: 0;
+    }
+  }
+}
+
 .offices {
   list-style-type: none;
   margin-bottom: 20px;
 }
+
 .office {
   float: left;
   margin-right: 0.5em;
