@@ -5,13 +5,8 @@ h2 {
   margin-top: 3em;
 }
 
-// only show on narrow screens
 .usa-nav {
   display: none;
-
-  &.is-visible {
-    display: flex;
-  }
 }
 
 // Sticky sidebar
@@ -20,6 +15,22 @@ h2 {
     .sidenav {
       position: sticky;
       top: 0;
+    }
+  }
+}
+
+// Shorten logo text on small screen sizes
+@media screen and (max-width: 369px) {
+  .usa-logo-text {
+    a {
+      display: none;
+    }
+  }
+
+  .usa-logo-text {
+    &::after {
+      content: "Join TTS";
+      color: #fff;
     }
   }
 }
