@@ -63,3 +63,7 @@ defaults:
 
 styles:
   - /assets/css/site.css
+
+# Add GovDelivery
+scripts:
+  - https://content.govdelivery.com/overlay/js/6387.js
