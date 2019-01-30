@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Cloud Adoption Specialist
 permalink: /join/cloud-adoption-specialist/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
