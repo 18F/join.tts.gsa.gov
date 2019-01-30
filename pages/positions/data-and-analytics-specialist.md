@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Data & Analytics Specialist
 permalink: join/data-and-analytics-specialist/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
