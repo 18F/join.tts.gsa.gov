@@ -11,7 +11,7 @@ closes: February 15, 2018, 8pm EDT
 location: 'Virtual (100% Remote), Washington, DC; New York, NY; San Francisco, CA; Chicago, IL
 gs_level: 15
 salary_min: '105,123'
-salary_max:  '136,659'
+salary_max: '136,659'
 org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
