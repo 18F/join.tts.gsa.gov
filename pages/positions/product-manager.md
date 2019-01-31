@@ -310,11 +310,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Communication:** Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals.
+- **Communication:** Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals
 - **Product Experience:** Ability to deliver the right digital product using user-centered and agile-based methodologies  
-- **Leadership:** Ability to effectively lead a cross-functional team to meet digital project/product objectives.
-- **Innovation:** Ability to apply innovative tools and technologies and to help partners make strategic & tactical decisions toward innovation. 
-- **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment. 
+- **Leadership:** Ability to effectively lead a cross-functional team to meet digital project/product objectives
+- **Innovation:** Ability to apply innovative tools and technologies and to help partners make strategic & tactical decisions toward innovation
+- **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment
 
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
