@@ -5,8 +5,8 @@ state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-opens: tbd
-# closes: tbd
+opens: 'Monday, February 11, at 8am EDT'
+closes: 'Friday, February 15, at 8pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
@@ -22,7 +22,7 @@ pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301' 
 apply_url: https://goo.gl/forms/vEITjfwsAUQwRIuy2
-ohrm_comtact_email: 'jaqueline.coleman@gsa.gov'
+ohrm_contact_email: 'jaqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
@@ -126,26 +126,26 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Experience leading interdisciplinary product teams in the research, design, development and delivery of digital products or services. This experience must include **ALL** of the following:
-	 - Leading the development of multiple digital products or services, or leading the development of multiple features 		in  large products
- 	- Creating and managing the product vision based on user research & metrics
- 	- Leading teams through the adoption of new tools, technologies or methodologies
+1. Experience leading interdisciplinary product teams in the research, design, development and delivery of digital products or services. This experience must include **ALL** of the following:
+- Leading the development of multiple digital products or services, or leading the development of multiple features in large products
+- Creating and managing the product vision based on user research & metrics
+- Leading teams through the adoption of new tools, technologies or methodologies
 
-- Experience leading digital product or service development, from concept to delivery, within highly ambiguous or uncertain situations. This experience must include **ONE** of the following:
- 	- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
- 	- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
+2. Experience leading digital product or service development, from concept to delivery, within highly ambiguous or uncertain situations. This experience must include **ONE** of the following:
+- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
+- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
 
-- Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following:
-	 - Developing new products or services for startups
-	 - Developing products or services for legacy migrations
-	 - Developing products or services for large integrations
-	 - Developing products, services or features for large consumer products
+3. Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following:
+- Developing new products or services for startups
+- Developing products or services for legacy migrations
+- Developing products or services for large integrations
+- Developing products, services or features for large consumer products
 
-- Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience must include **ONE** of the following:
- 	- Developing digital products or services using experimentation based frameworks
- 	- Developing digital products or services using iterative development methodologies
- 	- Developing digital products or services using user-centered design and planning tools
- 	- Developing digital products or services using continuous delivery methodologies
+4. Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience must include **ONE** of the following:
+- Developing digital products or services using experimentation based frameworks
+- Developing digital products or services using iterative development methodologies
+- Developing digital products or services using user-centered design and planning tools
+- Developing digital products or services using continuous delivery methodologies
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
@@ -242,7 +242,7 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:** 
 {{ page.supervisory_status }}
@@ -331,26 +331,26 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Experience leading interdisciplinary product teams in the research, design, development and delivery of digital products or services. This experience must include **ALL** of the following:
-	 - Leading the development of multiple digital products or services, or leading the development of multiple features 		in  large products
- 	- Creating and managing the product vision based on user research & metrics
- 	- Leading teams through the adoption of new tools, technologies or methodologies
+1. Experience leading interdisciplinary product teams in the research, design, development and delivery of digital products or services. This experience must include **ALL** of the following:
+- Leading the development of multiple digital products or services, or leading the development of multiple features in  large products
+- Creating and managing the product vision based on user research & metrics
+- Leading teams through the adoption of new tools, technologies or methodologies
 
-- Experience leading digital product or service development, from concept to delivery, within highly ambiguous or uncertain situations. This experience must include **ONE** of the following:
- 	- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
- 	- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
+2. Experience leading digital product or service development, from concept to delivery, within highly ambiguous or uncertain situations. This experience must include **ONE** of the following:
+- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
+- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
 
-- Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following:
-	 - Developing new products or services for startups
-	 - Developing products or services for legacy migrations
-	 - Developing products or services for large integrations
-	 - Developing products, services or features for large consumer products
+3. Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following:
+- Developing new products or services for startups
+- Developing products or services for legacy migrations
+- Developing products or services for large integrations
+- Developing products, services or features for large consumer products
 
-- Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience must include **ONE** of the following:
- 	- Developing digital products or services using experimentation based frameworks
- 	- Developing digital products or services using iterative development methodologies
- 	- Developing digital products or services using user-centered design and planning tools
- 	- Developing digital products or services using continuous delivery methodologies
+4. Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience must include **ONE** of the following:
+- Developing digital products or services using experimentation based frameworks
+- Developing digital products or services using iterative development methodologies
+- Developing digital products or services using user-centered design and planning tools
+- Developing digital products or services using continuous delivery methodologies
 	
 
 
