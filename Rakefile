@@ -7,7 +7,7 @@ task :test do
     disable_external: true,
     file_ignore: [
       /-closed.*\.html$/
-    ],
+    ]
   }
   HTMLProofer.check_directory("./_site", options).run
 end
