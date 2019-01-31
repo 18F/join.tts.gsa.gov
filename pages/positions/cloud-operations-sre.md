@@ -8,7 +8,7 @@ job_post_type: tts
 
 opens: February 11, 2018, 8am EDT
 closes: February 15, 2018, 8pm EDT
-location: 'Virtual (100% Remote), Washington, DC; New York, NY; San Francisco, CA; Chicago, IL
+location: 'Virtual (100% Remote), Washington, DC; New York, NY; San Francisco, CA; Chicago, IL'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -28,7 +28,6 @@ ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'NO'
-
 ---
 
 {% if page.state == 'upcoming' %}
