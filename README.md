@@ -25,28 +25,16 @@ Try typing `docker version` in your terminal to see if it's already installed. I
 2. Running the site
 
 ```
-docker build --tag jointts .
-docker run -it
+docker-compose up
 ```
+
+Open http://127.0.0.1:4000
 
 3. Running tests
 
 ```
+docker-compose run web bundle exec rake test
 ```
-
-4. Install packages.
-
-    ```sh
-    bundle install
-    ```
-
-5. Run the site.
-
-    ```sh
-    bundle exec jekyll serve
-    ```
-
-6. Open http://127.0.0.1:4000/.
 
 ## Public domain
 
