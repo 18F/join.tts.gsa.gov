@@ -77,7 +77,7 @@ TTS is comprised of four business units and front office, operations, and acquis
 -   [**Presidential Innovation Fellows**](https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows)
 -   [**TTS Front Office**](https://join.tts.gsa.gov/tts-offices/#tts-front-office)
 -   [**Office of Operations**](https://join.tts.gsa.gov/tts-offices/#office-of-operations)
--   [**Office of Acquisitions**](https://join.tts.gsa.gov/tts-offices/#office-of-acquisitions)
+-   [**Office of Acquisition**](https://join.tts.gsa.gov/tts-offices/#office-of-acquisition)
 
 Hear from TTS staff members about why they love their work and being
 part of this amazing organization.
