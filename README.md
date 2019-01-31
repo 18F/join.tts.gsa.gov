@@ -18,23 +18,14 @@ This site is built on the [uswds-jekyll](https://github.com/18F/uswds-jekyll) th
 
 To work on the site locally use Docker:
 
-1. Install Docker
+1. **Install Docker** : Try typing `docker version` in your terminal to see if it's already installed. If it's not, [Docker Desktop](https://www.docker.com/products/docker-desktop) is an easy way to install.
 
-Try typing `docker version` in your terminal to see if it's already installed. If it's not, [Docker Desktop](https://www.docker.com/products/docker-desktop) is an easy way to install.
+2. **Running the site**: `docker-compose up` then open http://127.0.0.1:4000
 
-2. Running the site
+3. **Running tests**: `./run-tests.sh`
 
-```
-docker-compose up
-```
-
-Open http://127.0.0.1:4000
-
-3. Running tests
-
-```
-docker-compose run web bundle exec rake test
-```
+4. Debugging
+   - SSH into the Docker container with `docker-compose run web /bin/bash`
 
 ## Public domain
 
