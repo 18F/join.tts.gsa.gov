@@ -30,7 +30,7 @@ Need Assistance in applying or have questions regarding this job opportunity, pl
 **ALL** required documents must be submitted before the closing date to be considered for the role. Review the following list to determine what you need to submit.
 
 - **Resume**
-  - For a brief video on creating a Federal resume, click [here](https://hru.gov/Studio_Recruitment/videos/Writing_Your_Federal_Resume.aspx).
+  - For a brief video on creating a Federal resume, click [here](https://www.youtube.com/watch?v=8YX7o1PBoFk).
   - If you have volunteered your service through a National Service program (e.g. Peace Corps, Americorps), we encourage you to apply and include this experience on your resume.
 
 - **Completed application**
