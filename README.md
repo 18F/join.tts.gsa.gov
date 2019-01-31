@@ -16,22 +16,37 @@ To **reuse a job posting**, change the `state` to `upcoming`, and modify the pag
 
 This site is built on the [uswds-jekyll](https://github.com/18F/uswds-jekyll) theme, so you'll find configuration information there.
 
-To work on the site locally:
+To work on the site locally use Docker:
 
-1. Install Ruby.
-1. Install packages.
+1. Install Docker
+
+Try typing `docker version` in your terminal to see if it's already installed. If it's not, [Docker Desktop](https://www.docker.com/products/docker-desktop) is an easy way to install.
+
+2. Running the site
+
+```
+docker build --tag jointts .
+docker run -it
+```
+
+3. Running tests
+
+```
+```
+
+4. Install packages.
 
     ```sh
     bundle install
     ```
 
-1. Run the site.
+5. Run the site.
 
     ```sh
     bundle exec jekyll serve
     ```
 
-1. Open http://127.0.0.1:4000/.
+6. Open http://127.0.0.1:4000/.
 
 ## Public domain
 
