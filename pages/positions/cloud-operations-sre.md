@@ -6,9 +6,9 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: February 11, 2018, 8am EDT
-closes: February 15, 2018, 8pm EDT
-location: 'Virtual (100% Remote), Washington, DC; New York, NY; San Francisco, CA; Chicago, IL'
+opens: February 11, 2019, 8am EDT
+closes: February 15, 2019, 8pm EDT
+location: 'Virtual (100% Remote); Washington, DC; New York, NY; San Francisco, CA; Chicago, IL'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
