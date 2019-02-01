@@ -1,16 +1,11 @@
 ---
 title: 18F - Consulting Software Engineer
 permalink: /join/consulting-software-engineer/
-redirect_from:
-  - /join/upcoming-18F-consulting-software-engineer/
-  - /join/consulting-software-engineer-gs15-closed/
-  - /join/consulting-software-engineer-gs15/
-  - /join/18F-consulting-software-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
-opens:  'TBD'
-## closes: Friday, July 6, 2018 8:00pm EDT
+opens:  'Monday, February 18, 2019 8:00am EDT'
+closes: Friday, February 22, 2019 8:00pm EDT
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
@@ -19,12 +14,12 @@ org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
-job_announcement_number: '1800491JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist' 
-num_vacancies: '6'
+num_vacancies: '1'
 series: '0301' 
-# apply_url: https://goo.gl/forms/vtWcoVeFM9qyz17l1
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+apply_url: https://goo.gl/forms/aTqYkUbiLuENMvvE3
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
@@ -33,7 +28,7 @@ supervisory_status: 'No'
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
-{% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2). {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+{% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_6). {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 ## Basic Information
@@ -63,35 +58,35 @@ This role may be perfect for you if you have the technical skills to tackle engi
 ## Key Objectives
 
 ### Key objective #1: You’ll contribute high-quality, well-tested, maintainable code across an entire project lifecycle, using best practices for modern software development.
-- Practice and enthusiastically share engineering methodologies and tools throughout all stages of the project lifecycle.
-- Influence project planning and design using usability research, analytics, and other metrics.
-- Participate in code review, architecture discussions, and feature prioritization.
-- Take pride of ownership in all projects you touch; leave code better than you found it.
-- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more.
-- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle or by introducing tooling into an existing project, as needed.
+- Practice and enthusiastically share engineering methodologies and tools throughout all stages of the project lifecycle
+- Influence project planning and design using usability research, analytics, and other metrics
+- Participate in code review, architecture discussions, and feature prioritization
+- Take pride of ownership in all projects you touch; leave code better than you found it
+- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more
+- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle or by introducing tooling into an existing project, as needed
 
 ### Key objective #2: You’ll positively contribute to the culture and knowledge of the engineering team, practicing and enthusiastically sharing agile methodologies throughout all stages of the project lifecycle.
-- Work within a distributed, multidisciplinary agile team by participating in constructive discussions, openly sharing knowledge, and demonstrating value for technical and non-technical contributions.
-- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
-- Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it.
-- Demonstrate a strong understanding of the elements of agile methodology (scrum, kanban, and so on).
-- Practice human-centered design, user testing, feature prioritization, DevOps, and other relevant concepts.
+- Work within a distributed, multidisciplinary agile team by participating in constructive discussions, openly sharing knowledge, and demonstrating value for technical and non-technical contributions
+- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+- Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it
+- Demonstrate a strong understanding of the elements of agile methodology (scrum, kanban, and so on)
+- Practice human-centered design, user testing, feature prioritization, DevOps, and other relevant concepts
 
 ### Key objective #3: You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
-- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results.
-- Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes.
-- Meet the needs of internal and external customers.
-- Make well-informed, effective, and timely decisions.
-- Identify and analyze problems in a constructive manner.
-- Explain technical issues and concepts clearly to both technical and non-technical audiences.
+- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
+- Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
+- Meet the needs of internal and external customers
+- Make well-informed, effective, and timely decisions
+- Identify and analyze problems in a constructive manner
+- Explain technical issues and concepts clearly to both technical and non-technical audiences
 
 ### Key objective #4: You’ll lead change, both within and outside the organization, to meet organizational goals. You’ll help establish an organizational vision and implement it in a continuously changing environment.
-- Develop new insights into situations and question conventional approaches.
-- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts.
-- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views.
-- Adapt to change and quickly integrate new information.
-- Formulate and execute consistently against objectives and priorities.
-- Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government.
+- Develop new insights into situations and question conventional approaches
+- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
+- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views
+- Adapt to change and quickly integrate new information
+- Formulate and execute consistently against objectives and priorities
+- Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government
 
 ## Minimum Qualifications
 
@@ -104,24 +99,24 @@ The information in this sections outlines the criteria that your application wil
     - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
  
-The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
 ### Specialized Experience
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 
-Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
 - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
 - Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
-- Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
+2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
+- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
 - Developing digital applications using a relational or non-relational data layers
 - Developing digital applications using test-driven development and software testing tools
 
-Experience deploying or operating digital applications on cloud technologies.This experience must include **ONE** of the following:
+3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
 - Developing digital applications using Infrastructure-as-a-Service (IaaS) 
 - Developing digital applications using Platform-as-a-Service (PaaS)
 - Developing digital applications using containerization technologies
@@ -150,35 +145,35 @@ This role may be perfect for you if you have the technical skills to tackle engi
 ## Key Objectives
 
 ### Key objective #1: You’ll contribute high-quality, well-tested, maintainable code across an entire project lifecycle, using best practices for modern software development.
-- Practice and enthusiastically share engineering methodologies and tools throughout all stages of the project lifecycle.
-- Influence project planning and design using usability research, analytics, and other metrics.
-- Participate in code review, architecture discussions, and feature prioritization.
-- Take pride of ownership in all projects you touch; leave code better than you found it.
-- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more.
-- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle or by introducing tooling into an existing project, as needed.
+- Practice and enthusiastically share engineering methodologies and tools throughout all stages of the project lifecycle
+- Influence project planning and design using usability research, analytics, and other metrics
+- Participate in code review, architecture discussions, and feature prioritization
+- Take pride of ownership in all projects you touch; leave code better than you found it
+- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more
+- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle or by introducing tooling into an existing project, as needed
 
 ### Key objective #2: You’ll positively contribute to the culture and knowledge of the engineering team, practicing and enthusiastically sharing agile methodologies throughout all stages of the project lifecycle.
-- Work within a distributed, multidisciplinary agile team by participating in constructive discussions, openly sharing knowledge, and demonstrating value for technical and non-technical contributions.
-- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
-- Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it.
-- Demonstrate a strong understanding of the elements of agile methodology (scrum, kanban, and so on).
-- Practice human-centered design, user testing, feature prioritization, DevOps, and other relevant concepts.
+- Work within a distributed, multidisciplinary agile team by participating in constructive discussions, openly sharing knowledge, and demonstrating value for technical and non-technical contributions
+- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+- Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it
+- Demonstrate a strong understanding of the elements of agile methodology (scrum, kanban, and so on)
+- Practice human-centered design, user testing, feature prioritization, DevOps, and other relevant concepts
 
 ### Key objective #3: You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
-- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results.
-- Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes.
-- Meet the needs of internal and external customers.
-- Make well-informed, effective, and timely decisions.
-- Identify and analyze problems in a constructive manner.
-- Explain technical issues and concepts clearly to both technical and non-technical audiences.
+- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
+- Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
+- Meet the needs of internal and external customers
+- Make well-informed, effective, and timely decisions
+- Identify and analyze problems in a constructive manner
+- Explain technical issues and concepts clearly to both technical and non-technical audiences
 
 ### Key objective #4: You’ll lead change, both within and outside the organization, to meet organizational goals. You’ll help establish an organizational vision and implement it in a continuously changing environment.
-- Develop new insights into situations and question conventional approaches.
-- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts.
-- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views.
-- Adapt to change and quickly integrate new information.
-- Formulate and execute consistently against objectives and priorities.
-- Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government.
+- Develop new insights into situations and question conventional approaches
+- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
+- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views
+- Adapt to change and quickly integrate new information
+- Formulate and execute consistently against objectives and priorities
+- Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government
 
 ## Basic Information
 
@@ -186,7 +181,7 @@ This role may be perfect for you if you have the technical skills to tackle engi
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -229,7 +224,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services. Technology Transformation Services (TTS) is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 
 
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government. 
 
@@ -252,26 +247,21 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
-2. Suitable for federal employment, determined by a background investigation.
-3. You may be required to serve a trial period.
-4. Direct Deposit of salary check to financial organization required.
+2. Suitable for federal employment, determined by a background investigation
+3. You may be required to serve a trial period
+4. Direct Deposit of salary check to financial organization required
 5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
 
 ## Employment Requirements
-- Serve a one year trial period, if required.
-- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this.
-- Any discrepancies must be resolved as a condition of continued employment.
-- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
+- Serve a one year trial period, if required
+- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this
+- Any discrepancies must be resolved as a condition of continued employment
+- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
 ## Duties
 Typical duties for the fellow include but are not limited to: 
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
-- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences
-- Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services
-- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
-- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
+Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
 
 
 ## Evaluation
@@ -281,10 +271,10 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Software Engineering Technical Experience:** Deliver technical solutions and products using software engineering technology. 
-- **Software Engineering Practices:** Deliver innovative technical solutions and products using established engineering best practices.
+- **Software Engineering Technical Experience:** Deliver technical solutions and products using software engineering technology
+- **Software Engineering Practices:** Deliver innovative technical solutions and products using established engineering best practices
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
-- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture. 
+- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
@@ -301,17 +291,17 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
 - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
 - Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 
-Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
-- Developing digital applications using ONE of the following server-side languages: Python, Ruby, Go or Node.js
+2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
+- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
 - Developing digital applications using a relational or non-relational data layers
 - Developing digital applications using test-driven development and software testing tools
 
-Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
+3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
 - Developing digital applications using Infrastructure-as-a-Service (IaaS) 
 - Developing digital applications using Platform-as-a-Service (PaaS)
 - Developing digital applications using containerization technologies
