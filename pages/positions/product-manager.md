@@ -77,9 +77,9 @@ Successful product managers at 18F:
 - Identify and proactively monitor and address product risks
 - Lead a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience
 - Work with the team to set and meet quality standards for any product you build
-- Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law.”
-- Energize and motivate the team by recognizing successes and learning from failures.
-- Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508.
+- Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
+- Energize and motivate the team by recognizing successes and learning from failures
+- Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508
 
 ### Objective #2: Work with agency partners to make sure they’re set up for success
 
@@ -92,7 +92,7 @@ Successful product managers at 18F:
 - Help partners navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy
 - Coach the partner in agile, open source, and user-centered principles so they understand the value these practices bring
 - Ensure the partner understands how to do day-to-day product management by coaching and mentoring junior product managers
-- Work with partners to ensure they have the right team to continue iterating on the product beyond the engagement.
+- Work with partners to ensure they have the right team to continue iterating on the product beyond the engagement
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
 - Work with partners to develop communications strategies to sustain the product during and beyond the engagement
 
@@ -184,9 +184,9 @@ Successful product managers at 18F:
 - Identify and proactively monitor and address product risks
 - Lead a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience
 - Work with the team to set and meet quality standards for any product you build
-- Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law.”
-- Energize and motivate the team by recognizing successes and learning from failures.
-- Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508.
+- Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
+- Energize and motivate the team by recognizing successes and learning from failures
+- Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508
 
 ### Objective #2: Work with agency partners to make sure they’re set up for success
 
@@ -199,7 +199,7 @@ Successful product managers at 18F:
 - Help partners navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy
 - Coach the partner in agile, open source, and user-centered principles so they understand the value these practices bring
 - Ensure the partner understands how to do day-to-day product management by coaching and mentoring junior product managers
-- Work with partners to ensure they have the right team to continue iterating on the product beyond the engagement.
+- Work with partners to ensure they have the right team to continue iterating on the product beyond the engagement
 - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
 - Work with partners to develop communications strategies to sustain the product during and beyond the engagement
 
