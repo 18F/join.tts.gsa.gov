@@ -50,9 +50,6 @@ If you are a new federal employee, your starting salary will likely be set at th
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply. 
 
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
-
-
 ## Role Summary:
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
