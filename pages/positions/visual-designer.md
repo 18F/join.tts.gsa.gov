@@ -1,15 +1,12 @@
 ---
 title: 18F - Visual Designer
 permalink: /join/visual-designer/
-redirect_from:
-  - /join/18f-visual-designer-closed/
-  - /join/18f-visual-designer/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-opens: June 25, 2018 8:00am EDT
-closes: June 29, 2018 8:00pm EDT
+opens: February 18, 2019 8:00am EDT
+closes: Febrary 22, 2019 8:00pm EDT
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY' 
 gs_level: 14
 salary_min: '89,370'
@@ -19,11 +16,11 @@ contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: '1800481JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: https://goo.gl/forms/fKNSStpLIhaiqJ2s2
+apply_url: 
 ohrm_contact_name: 'Jacqueline Coleman'
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
@@ -34,7 +31,7 @@ supervisory_status: 'No'
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_6).
 {% else %}
 Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -52,19 +49,6 @@ If you are a new federal employee, your starting salary will likely be set at th
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply. 
 
-## Basic Information
-
-**Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
-
-**Series & Grade:**
-{{ page.series }} - {{ page.gs_level }}
-
-**Location:**
-{{ page.location }}
-
-**Salary Range:**
-Base salary - {{ page.salary_min }} to {{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
 
@@ -86,27 +70,27 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 
 ### Objective #1: Lead projects from a visual design perspective.
 - Coach agency partners through the visual design process and establish a shared vision for the user experience.
-- Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research.
-- Identify visual design opportunities through exercises such as brand/interface audits, comparative or competitive analyses, gap analyses, and system mapping, and make recommendations based on what you discover.
-- Navigate complex organizational relationships to bring stakeholders together around shared design systems or visual identity goals and priorities.
-- Give agency partners and peers advice they need to hear versus what they want to hear, in a manner that respects their intelligence and experience.
+- Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research
+- Identify visual design opportunities through exercises such as brand/interface audits, comparative or competitive analyses, gap analyses, and system mapping, and make recommendations based on what you discover
+- Navigate complex organizational relationships to bring stakeholders together around shared design systems or visual identity goals and priorities
+- Give agency partners and peers advice they need to hear versus what they want to hear, in a manner that respects their intelligence and experience
 
 ### Objective #2: Deliver high-quality, user-centered visual design for agency partners.
-- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment.<br> 
-_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, looks-like/works-like prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
-- Iterate quickly by collaborating on prototypes at various levels of fidelity.
-- Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions.
-- Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools.
-- Uphold our team values of being clear, concise, inclusive, curious, and honest — in both your designs and daily collaboration.
+- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment<br> 
+_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
+- Iterate quickly by collaborating on prototypes at various levels of fidelity
+- Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions
+- Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools
+- Uphold our team values of being clear, concise, inclusive, curious, and honest — in both your designs and daily collaboration
 
 ### Objective #3: Contribute to the continued success of the visual design team and shared resources.
-- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
-- Contribute to team-wide resources and training materials, including tutorials, guides, presentations, and design toolkits.
-- Recognize when practices or processes are inconsistent or no longer serve the team, and recommend a way forward to improve effectiveness or efficiency.
-- Share your work in an unfinished state and give peer feedback in weekly critique sessions and drop-in labs.
-- Learn about accessible and inclusive visual design practices and evangelize them throughout your work and partnerships.
-- Promote the practice of visual design in workshops, office hours, brown bags, and design-related events.
-- Write and publish conversational blog posts to raise awareness about the team’s work and promote the 18F brand.
+- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project
+- Contribute to team-wide resources and training materials, including tutorials, guides, presentations, and design toolkits
+- Recognize when practices or processes are inconsistent or no longer serve the team, and recommend a way forward to improve effectiveness or efficiency
+- Share your work in an unfinished state and give peer feedback in weekly critique sessions and drop-in labs
+- Learn about accessible and inclusive visual design practices and evangelize them throughout your work and partnerships
+- Promote the practice of visual design in workshops, office hours, brown bags, and design-related events
+- Write and publish conversational blog posts to raise awareness about the team’s work and promote the 18F brand
 
 ## Minimum Qualifications
 
@@ -119,30 +103,23 @@ The information in this sections outlines the criteria that your application wil
     - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
  
-The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
 ### Specialized Experience
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Experience leading the design of digital products as part of a cross-functional team. This experience must include **ALL** of the following:
+1. Experience leading the design of digital products as part of a cross-functional team. This experience must include **ALL** of the following:
   - Leading teams of designers or leading the design process 
-  - Collaborating with non-designers (including developers, product managers, or clients)
-  - Mentoring, coaching, or training clients, partners, or team members.
+  - Mentoring, coaching, or training clients, partners, or team members
 
-- Experience crafting digital experiences using visual identity and design system methodologies. Experience must include **ALL** of the following:
+2. Experience crafting digital experiences using visual identity and design system methodologies. Experience must include **ALL** of the following:
   - Conducting visual identity or brand design
-  - Conducting user-centered design research activities to identify user needs
-  - Wireframing or prototyping 
-  - Designing for desktop and mobile devices. 
+  - Conducting research activities to identify user needs
+  - Creating wireframes, prototypes, or other early tested concepts
+  - Designing for desktop and mobile devices
   - Using agile, lean or other iterative product development approaches
 
-- Experience executing product design within the framework of a specialized design domain. Experience must include **ONE** of the following:
-  - Conducting Communications design
-  - Conducting Content design
-  - Conducting Front end design
-  - Conducting Interaction (or UX) design
-  - Conducting Service design
 
 {% else %}
 
@@ -169,26 +146,27 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 
 ### Objective #1: Lead projects from a visual design perspective.
 - Coach agency partners through the visual design process and establish a shared vision for the user experience.
-- Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research.
-- Identify visual design opportunities through exercises such as brand/interface audits, comparative or competitive analyses, gap analyses, and system mapping, and make recommendations based on what you discover.
-- Navigate complex organizational relationships to bring stakeholders together around shared design systems or visual identity goals and priorities.
-- Give agency partners and peers advice they need to hear versus what they want to hear, in a manner that respects their intelligence and experience.
+- Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research
+- Identify visual design opportunities through exercises such as brand/interface audits, comparative or competitive analyses, gap analyses, and system mapping, and make recommendations based on what you discover
+- Navigate complex organizational relationships to bring stakeholders together around shared design systems or visual identity goals and priorities
+- Give agency partners and peers advice they need to hear versus what they want to hear, in a manner that respects their intelligence and experience
 
 ### Objective #2: Deliver high-quality, user-centered visual design for agency partners.
-- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment. Examples include selecting and applying appropriate styles from the U.S. Web Design System, building interface patterns, looks-like/works-like prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials.
-- Iterate quickly by collaborating on prototypes at various levels of fidelity.
-- Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions.
-- Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools.
-- Uphold our team values of being clear, concise, inclusive, curious, and honest — in both your designs and daily collaboration.
+- Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment<br> 
+_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
+- Iterate quickly by collaborating on prototypes at various levels of fidelity
+- Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions
+- Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools
+- Uphold our team values of being clear, concise, inclusive, curious, and honest — in both your designs and daily collaboration
 
 ### Objective #3: Contribute to the continued success of the visual design team and shared resources.
-- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
-- Contribute to team-wide resources and training materials, including tutorials, guides, presentations, and design toolkits.
-- Recognize when practices or processes are inconsistent or no longer serve the team, and recommend a way forward to improve effectiveness or efficiency.
-- Share your work in an unfinished state and give peer feedback in weekly critique sessions and drop-in labs.
-- Learn about accessible and inclusive visual design practices and evangelize them throughout your work and partnerships.
-- Promote the practice of visual design in workshops, office hours, brown bags, and design-related events.
-- Write and publish conversational blog posts to raise awareness about the team’s work and promote the 18F brand.
+- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project
+- Contribute to team-wide resources and training materials, including tutorials, guides, presentations, and design toolkits
+- Recognize when practices or processes are inconsistent or no longer serve the team, and recommend a way forward to improve effectiveness or efficiency
+- Share your work in an unfinished state and give peer feedback in weekly critique sessions and drop-in labs
+- Learn about accessible and inclusive visual design practices and evangelize them throughout your work and partnerships
+- Promote the practice of visual design in workshops, office hours, brown bags, and design-related events
+- Write and publish conversational blog posts to raise awareness about the team’s work and promote the 18F brand
 
 ## Basic Information
 
@@ -196,7 +174,7 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -216,7 +194,7 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:** 
 {{ page.supervisory_status }}
@@ -239,11 +217,11 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services. Technology Transformation Services (TTS) is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 
 
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government. 
 
-This position is located within the General Services Administration (GSA), Technology Transformation Service (TTS), Office of 18F.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 
@@ -263,24 +241,20 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
-2. Suitable for federal employment, determined by a background investigation.
-3. You may be required to serve a trial period.
-4. Direct Deposit of salary check to financial organization required.
+2. Suitable for federal employment, determined by a background investigation
+3. You may be required to serve a trial period
+4. Direct Deposit of salary check to financial organization required
 5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
 
 ## Employment Requirements
-- Serve a one year trial period, if required.
-- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment.
-- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
+- Serve a one year trial period, if required
+- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment
+- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
 ## Duties
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward-thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­-centered design, and agile development;
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions;
-- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences;
-- Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business-­facing government services;
-- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles.
-
+Typical duties for the fellow include but are not limited to: 
+Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -289,11 +263,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Visual identity design:** The ability to create and maintain a consistent, recognizable, and meaningful visual language. 
-- **Design systems:** The ability to create a collection of reusable, combinable components that adhere to a set of standards that define a consistent user experience. 
-- **Design methods:** The ability to design interactive digital products, systems, and services. 
-- **Teamwork & collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships. 
-- **TTS core values alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact driven environment.
+- **Visual identity design:** The ability to create and maintain a consistent, recognizable, and meaningful visual language 
+- **Design systems:** The ability to create a collection of reusable, combinable components that adhere to a set of standards that define a consistent user experience
+- **Design methods:** The ability to design interactive digital products, systems, and services
+- **Teamwork & collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships
+- **TTS core values alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact driven environment
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
@@ -305,24 +279,16 @@ Within each category, veterans will receive selection priority over non-veterans
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Experience leading the design of digital products as part of a cross-functional team. This experience must include **ALL** of the following:
+1. Experience leading the design of digital products as part of a cross-functional team. This experience must include **ALL** of the following:
   - Leading teams of designers or leading the design process 
-  - Collaborating with non-designers (including developers, product managers, or clients)
-  - Mentoring, coaching, or training clients, partners, or team members.
+  - Mentoring, coaching, or training clients, partners, or team members
 
-- Experience crafting digital experiences using visual identity and design system methodologies. Experience must include **ALL** of the following:
+2. Experience crafting digital experiences using visual identity and design system methodologies. Experience must include **ALL** of the following:
   - Conducting visual identity or brand design
-  - Conducting user-centered design research activities to identify user needs
-  - Wireframing or prototyping 
-  - Designing for desktop and mobile devices. 
+  - Conducting research activities to identify user needs
+  - Creating wireframes, prototypes, or other early tested concepts
+  - Designing for desktop and mobile devices
   - Using agile, lean or other iterative product development approaches
-
-- Experience executing product design within the framework of a specialized design domain. Experience must include **ONE** of the following:
-  - Conducting Communications design
-  - Conducting Content design
-  - Conducting Front end design
-  - Conducting Interaction (or UX) design
-  - Conducting Service design
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
