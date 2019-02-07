@@ -14,4 +14,5 @@ ADD . $app
 # Set some other necessary ENVs
 ENV LC_ALL=C.UTF-8
 
-CMD bundle exec jekyll serve --host 0.0.0.0 --livereload
+# --force-polling supports Windows users
+CMD bundle exec jekyll serve --host 0.0.0.0 --livereload --force-polling
