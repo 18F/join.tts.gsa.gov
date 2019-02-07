@@ -14,7 +14,7 @@ org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900272JCOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
