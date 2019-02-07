@@ -22,7 +22,7 @@ To work on the site locally use Docker:
 
 2. **Running the site**: `docker-compose up` then open http://127.0.0.1:4000
 
-3. **Running tests**: `./run-tests.sh`
+3. **Running tests**: `docker-compose run web bundle exec rake test`
 
 4. Debugging
    - SSH into the Docker container with `docker-compose run web /bin/bash`
