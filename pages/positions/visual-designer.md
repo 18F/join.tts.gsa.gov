@@ -20,7 +20,7 @@ job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: 
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeiIvOoNWTwedyr1kcVnvuFQD9tEvr_OUzlW1JRQyhvar0l-A/viewform
 ohrm_contact_name: 'Jacqueline Coleman'
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
@@ -74,7 +74,7 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 
 ### Objective #2: Deliver high-quality, user-centered visual design for agency partners.
 - Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment<br> 
-_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
+_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials_
 - Iterate quickly by collaborating on prototypes at various levels of fidelity
 - Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions
 - Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools
@@ -150,7 +150,7 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 
 ### Objective #2: Deliver high-quality, user-centered visual design for agency partners.
 - Create clear, inclusive, accessible, and extensible visual styles and components in a fast-paced, collaborative environment<br> 
-_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials._
+_Examples include selecting and applying appropriate styles from the [U.S. Web Design System](https://designsystem.digital.gov/), building interface patterns, prototypes, landing pages, logo and identity designs, brand or design principles, pattern libraries, research findings with visual storytelling, and product launch materials_
 - Iterate quickly by collaborating on prototypes at various levels of fidelity
 - Incorporate continuous feedback from users, peers, and stakeholders by leading design-focused usability and critique sessions
 - Implement style changes in GitHub, or pair with engineers to implement and review them collaboratively. Make visual design work visible in shared project management tools
@@ -251,7 +251,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 
 ## Duties
 Typical duties for the fellow include but are not limited to: 
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
+Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
