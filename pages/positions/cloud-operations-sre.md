@@ -27,7 +27,7 @@ ohrm_contact_email: 'jacqueline.coleman@gsa.gov '
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
-supervisory_status: 'NO'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
