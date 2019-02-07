@@ -49,7 +49,6 @@ If you are a new federal employee, your starting salary will likely be set at th
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply. 
 
-
 ## Role Summary:
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
