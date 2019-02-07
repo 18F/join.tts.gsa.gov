@@ -4,8 +4,8 @@ permalink: /join/consulting-software-engineer/
 state: upcoming
 job_post_type: tts
 
-opens:  'Monday, February 18, 2019 8:00am EDT'
-closes: Friday, February 22, 2019 8:00pm EDT
+opens:  'Tuesday, February 19, 2019 8:00am EDT'
+closes: Monday, February 25, 2019 8:00pm EDT
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
