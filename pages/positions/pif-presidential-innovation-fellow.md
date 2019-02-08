@@ -377,16 +377,12 @@ We will use a method called Category Rating to assess your application.
 You will be scored based on a review of your application materials, measuring your possession of each of the following
 competencies:
 
-- Analysis and Creative Problem Solving: Expertise determining user needs or identifying market opportunities and designing
-and deploying solutions
-- Technology Acumen: Experience translating business problems into technology solutions that draw on current and emergent
-tools and technologies; and experience describing esoteric and highly technical solutions to non-technical stakeholders
-- Entrepreneurship and Product Management: experience delivering products or services from concept to market
-- Approach and Methodology: Expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative
-learnings, and responsiveness
-- Empathy and Emotional Intelligence: Experience in client-facing roles, navigating bureaucracy, business development, or
-delivering services with a strong user-facing or consumer-oriented element
-- Tools and Execution: Experience in design, development and deployment of solutions leveraging current and emergent
+- **Analysis and Creative Problem Solving:** Expertise determining user needs or identifying market opportunities and designing and deploying solutions
+- **Technology Acumen:** Experience translating business problems into technology solutions that draw on current and emergent tools and technologies; and experience describing esoteric and highly technical solutions to non-technical stakeholders
+- **Entrepreneurship and Product Management:** Experience delivering products or services from concept to market
+- **Approach and Methodology:** Expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
+- **Empathy and Emotional Intelligence:** Experience in client-facing roles, navigating bureaucracy, business development, or delivering services with a strong user-facing or consumer-oriented element
+- **Tools and Execution:** Experience in design, development and deployment of solutions leveraging current and emergent
 technologies and best practices
 
 Your score will be used to place you in one 4 categories: Superior Qualified, Best Qualified, Well Qualified or Qualified.
