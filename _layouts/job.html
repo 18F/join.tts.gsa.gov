@@ -8,7 +8,7 @@ layout: page
     <div class="usa-alert-body">
       <h3 class="usa-alert-heading">This job posting has closed.</h3>
       <p class="usa-alert-text">Please see
-        <a href="{{site.baseurl}}/#join-us">our other open positions</a>.</p>
+        <a href="{{site.baseurl}}/#open-positions">our other open positions</a>.</p>
     </div>
   </div>
   {% elsif page.state == 'upcoming' %}
@@ -29,8 +29,8 @@ layout: page
 
   <h1>{{ page.title }}</h1>
   {{ content }}
-  
+
   {% capture apply %}{% include how_to_apply.md %}{% endcapture %}
   {{ apply | markdownify }}
-  
+
 </div>
