@@ -1,12 +1,12 @@
 ---
 title: PIF - Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
 opens: February 15, 2019
-closes: , 2019, 11:59pm EDT
+closes: March 22, 2019, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
@@ -60,16 +60,15 @@ government to tackle some of our nation’s biggest challenges and deliver bette
 are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems,
 shaping smarter policy and/or delivering on technology.
 
-Since the program was launched in 2012 by former U.S. CTO Todd Park, [120 Fellows](https://presidentialinnovationfellows.gov/fellows/)
-have worked with over [30 agencies](https://presidentialinnovationfellows.gov/agencies/).
+Since the program was launched in 2012 by former U.S. CTO Todd Park, [135 Fellows](https://presidentialinnovationfellows.gov/fellows/)
+have worked with over [35 agencies](https://presidentialinnovationfellows.gov/agencies/).
 These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome
 Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer
 clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk
 and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster
 care system.
 
-We will begin recruiting the next cohort of Fellows in mid-April. Applicants can apply online at [www.pif.gov](http://www.pif.gov) and Fellows
-will start in September 2018.
+We will begin recruiting the next cohort of Fellows in mid-April. Applicants can apply online at [www.pif.gov](http://www.pif.gov) and Fellows will start the summer of 2019.
 
 The characteristics that we look for in Fellows, include:
 
@@ -152,34 +151,23 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 ### Specialized Experience
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
+1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
 - Navigating bureaucracy (e.g. complex organization structure, matrix organization), building coalitions and leading
-stakeholders with disparate views through change.
+stakeholders with disparate views through change
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
-users; OR intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
-measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
+users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
+measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users
 
-Experience applying technology innovation craft to the design and development of products and services.
-This experience must include **ONE** of the following:
+2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
 
-- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side
-languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, Javascript) and database
-and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
-- Advising organizations on developing and delivering digital products or services, contributing to the development or the
-evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code
-and overall architecture and making technical recommendations).
-- Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research
-(i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site
-maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles &
-practices (e.g. User Centered Design, Human Centered Design, Design Thinking).
-- Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation
-methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and
-leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services.
-- Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or
-venture capital firm (including corporate venture capital).
-- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive
-analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling
-techniques to positively impact business outcomes.
+- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
+- Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations)
+- Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking)
+- Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services
+- Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or venture capital firm (including corporate venture capital)
+- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this
 information may result in disqualification.
@@ -205,16 +193,15 @@ government to tackle some of our nation’s biggest challenges and deliver bette
 are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems,
 shaping smarter policy and/or delivering on technology.
 
-Since the program was launched in 2012 by former U.S. CTO Todd Park, [120 Fellows](https://presidentialinnovationfellows.gov/fellows/)
-have worked with over [30 agencies](https://presidentialinnovationfellows.gov/agencies/).
+Since the program was launched in 2012 by former U.S. CTO Todd Park, [135 Fellows](https://presidentialinnovationfellows.gov/fellows/)
+have worked with over [35 agencies](https://presidentialinnovationfellows.gov/agencies/).
 These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome
 Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer
 clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk
 and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster
 care system.
 
-We will begin recruiting the next cohort of Fellows in mid-April. Applicants can apply online at [www.pif.gov](http://www.pif.gov) and Fellows
-will start in September 2018.
+We will begin recruiting the next cohort of Fellows in mid-April. Applicants can apply online at [www.pif.gov](http://www.pif.gov) and Fellows will start the summer of 2019.
 
 The characteristics that we look for in Fellows, include:
 
@@ -284,7 +271,7 @@ deliver with integrity, ensuring compliance at all levels.
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }}
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -304,7 +291,7 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} - (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }}  (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:** 
 {{ page.supervisory_status }}
@@ -362,34 +349,25 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
-2. Suitable for federal employment, determined by a background investigation.
-3. You may be required to serve a trial period.
-4. Direct Deposit of salary check to financial organization required.
+2. Suitable for federal employment, determined by a background investigation
+3. You may be required to serve a trial period
+4. Direct Deposit of salary check to financial organization required
 5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
 
 ## Employment Requirements
-- Serve a one year trial period, if required.
-- Undergo and pass a background investigation. You must be granted this clearance before you can start the job.
+- Serve a one year trial period, if required
+- Undergo and pass a background investigation. You must be granted this clearance before you can start the job
 - Have your identity and work status eligibility verified if you are not a GSA employee. We will use the Department of
-Homeland Security’s e-Verify system for this.
-- Any discrepancies must be resolved as a condition of continued employment.
+Homeland Security’s e-Verify system for this
+- Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your
-financial interest and this position.
+financial interest and this position
 
 ## Duties
 Typical duties for the Presidential Innovation Fellow include, but are not limited to:
 
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­thinking design and development principles to product development and program management, such as lean startup, user centered design, and agile development
-- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice;
-conferring with key government/private officials and top experts in the field; representing the agency at technical symposia
-and/or conferences
-- Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital
-services, leading to their adoption across citizen and business­facing government services
-- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
-- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex
-and esoteric challenges.
-- Performs other duties, as assigned
+Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­thinking design and development principles to product development and program management, such as lean startup, user centered design, and agile development; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field; representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex
+and esoteric challenges; Performs other duties, as assigned
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -426,34 +404,24 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
+1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
+
 - Navigating bureaucracy (e.g. complex organization structure, matrix organization), building coalitions and leading
-stakeholders with disparate views through change.
+stakeholders with disparate views through change
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
-users; OR intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
-measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
+users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
+measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users
 
-Experience applying technology innovation craft to the design and development of products and services.
-This experience must include **ONE** of the following:
+2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
 
-- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side
-languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, Javascript) and database
-and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
-- Advising organizations on developing and delivering digital products or services, contributing to the development or the
-evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code
-and overall architecture and making technical recommendations).
-- Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research
-(i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site
-maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles &
-practices (e.g. User Centered Design, Human Centered Design, Design Thinking).
-- Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation
-methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and
-leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services.
-- Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or
-venture capital firm (including corporate venture capital).
-- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive
-analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling
-techniques to positively impact business outcomes.
+- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
+- Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations)
+- Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking)
+- Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services
+- Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or venture capital firm (including corporate venture capital)
+- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this
 information may result in disqualification.
