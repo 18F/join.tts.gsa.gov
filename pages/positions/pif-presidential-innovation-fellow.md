@@ -128,10 +128,6 @@ overcome significant challenges resulting from complex bureaucratic environments
 - You have a high degree of emotional intelligence, are a quick study, and intuitively know what needs to get done to
 deliver with integrity, ensuring compliance at all levels.
 
-{% else %}
-
-{{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
-
 ## Minimum Qualifications
 
 The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
@@ -173,12 +169,14 @@ For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
 
+{% else %}
+
+{{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 
 **Quick Links to Posting Sections**
 - [Basic Information](#basic-information)
 - [Qualifications](#qualifications)
 - [How to apply](#how-to-apply)
-
 
 ## Role Summary:
 
