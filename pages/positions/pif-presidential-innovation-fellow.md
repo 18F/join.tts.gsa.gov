@@ -5,8 +5,8 @@ state: closed
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
-opens: April 24, 2018, 11:59pm EDT
-closes: July 11, 2018, 11:59pm EDT
+opens: February 15, 2019
+closes: , 2019, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
@@ -16,7 +16,7 @@ contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS_OPEN: These fields are required for open
-job_announcement_number: '1800335JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Presidential Innovation Fellow'
 num_vacancies: '25'
 series: '0301'
@@ -135,6 +135,59 @@ deliver with integrity, ensuring compliance at all levels.
 {% else %}
 
 {{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+
+## Minimum Qualifications
+
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
+
+- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
+- The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
+  - Examples of stuff that can't be used:
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+ 
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
+
+### Specialized Experience
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+
+- Navigating bureaucracy (e.g. complex organization structure, matrix organization), building coalitions and leading
+stakeholders with disparate views through change.
+- Working in a team-oriented environment and collaborating within teams
+- Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
+users; OR intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
+measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
+
+Experience applying technology innovation craft to the design and development of products and services.
+This experience must include **ONE** of the following:
+
+- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side
+languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, Javascript) and database
+and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
+- Advising organizations on developing and delivering digital products or services, contributing to the development or the
+evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code
+and overall architecture and making technical recommendations).
+- Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research
+(i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site
+maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles &
+practices (e.g. User Centered Design, Human Centered Design, Design Thinking).
+- Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation
+methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and
+leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services.
+- Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or
+venture capital firm (including corporate venture capital).
+- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive
+analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling
+techniques to positively impact business outcomes.
+
+Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this
+information may result in disqualification.
+
+For each job on your resume, provide:
+- the exact dates you held each job (from month/year to month/year or “present”)
+- number of hours per week you worked (if part time)
+
 
 **Quick Links to Posting Sections**
 - [Basic Information](#basic-information)
