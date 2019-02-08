@@ -5,7 +5,7 @@ state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
-opens: February 15, 2019
+opens: February 15, 2019, 11:59 am EDT
 closes: March 22, 2019, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15
