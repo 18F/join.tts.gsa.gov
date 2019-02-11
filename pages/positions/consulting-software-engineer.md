@@ -37,6 +37,18 @@ supervisory_status: 'No'
   {{ page.org }} is hiring for GS-{{ page.gs_level }} {{ page.title }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
+**Location:**
+{{ page.location }}
+
+**Salary Range:**
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
+
+**Who May Apply:**
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
+employees or contractors
+
 ## Role Summary:
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
@@ -84,6 +96,8 @@ This role may be perfect for you if you have the technical skills to tackle engi
 - Formulate and execute consistently against objectives and priorities
 - Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government
 
+{% if page.state != 'upcoming' %}
+
 ## Basic Information
 
 **Location:**
@@ -98,7 +112,6 @@ If you are a new federal employee, your starting salary will likely be set at th
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
 employees or contractors
 
-{% if page.state != 'upcoming' %}
 **Job announcement number:**
 {{ page.job_announcement_number }}
 
