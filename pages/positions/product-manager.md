@@ -1,7 +1,7 @@
 ---
 title: 18F - Product Manager
 permalink: /join/product-manager/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
