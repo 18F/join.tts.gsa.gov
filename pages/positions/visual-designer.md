@@ -22,7 +22,7 @@ num_vacancies: '1'
 series: '0301'
 apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeiIvOoNWTwedyr1kcVnvuFQD9tEvr_OUzlW1JRQyhvar0l-A/viewform
 ohrm_contact_name: 'Jacqueline Coleman'
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '14'
 supervisory_status: 'No'
@@ -66,7 +66,7 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 ## Key Objectives
 
 ### Objective #1: Lead projects from a visual design perspective.
-- Coach agency partners through the visual design process and establish a shared vision for the user experience.
+- Coach agency partners through the visual design process and establish a shared vision for the user experience
 - Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research
 - Identify visual design opportunities through exercises such as brand/interface audits, comparative or competitive analyses, gap analyses, and system mapping, and make recommendations based on what you discover
 - Navigate complex organizational relationships to bring stakeholders together around shared design systems or visual identity goals and priorities
@@ -107,7 +107,7 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience leading the design of digital products as part of a cross-functional team. This experience must include **ALL** of the following:
-  - Leading teams of designers or leading the design process 
+  - Managing or leading teams of designers or the design process on a project
   - Mentoring, coaching, or training clients, partners, or team members
 
 2. Experience crafting digital experiences using visual identity and design system methodologies. Experience must include **ALL** of the following:
@@ -142,7 +142,7 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 ## Key Objectives
 
 ### Objective #1: Lead projects from a visual design perspective.
-- Coach agency partners through the visual design process and establish a shared vision for the user experience.
+- Coach agency partners through the visual design process and establish a shared vision for the user experience
 - Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research
 - Identify visual design opportunities through exercises such as brand/interface audits, comparative or competitive analyses, gap analyses, and system mapping, and make recommendations based on what you discover
 - Navigate complex organizational relationships to bring stakeholders together around shared design systems or visual identity goals and priorities
@@ -277,7 +277,7 @@ Within each category, veterans will receive selection priority over non-veterans
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience leading the design of digital products as part of a cross-functional team. This experience must include **ALL** of the following:
-  - Leading teams of designers or leading the design process 
+  - Managing or leading teams of designers or the design process on a project 
   - Mentoring, coaching, or training clients, partners, or team members
 
 2. Experience crafting digital experiences using visual identity and design system methodologies. Experience must include **ALL** of the following:
