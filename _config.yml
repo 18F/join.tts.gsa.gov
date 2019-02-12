@@ -67,3 +67,4 @@ styles:
 # Add GovDelivery
 scripts:
   - https://content.govdelivery.com/overlay/js/6387.js
+  - /assets/uswds/js/uswds.min.js
