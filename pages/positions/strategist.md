@@ -1,21 +1,17 @@
 ---
 title: 18F - Strategist
 permalink: /join/strategist/
-redirect_from:
-  - /join/strategist-gs15-closed/
-  - /join/strategist-gs15/
-state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-opens: June 25, 2018, 8:00am EDT
-closes: June 29, 2018, 8:00pm EDT
+opens: February 25, 2019, 8:00am EDT
+closes: March 1, 2019, 8:00pm EDT
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789'
 salary_max: '164,200'
 org: '18F'
-contact_name: 'Stephanie Fonteneaux'
+contact_name: 'Elizabeth Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
@@ -23,8 +19,8 @@ job_announcement_number: '1800400JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: https://goo.gl/forms/BHpVrDx1awyGruRe2
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLScd8ppJjAF5HGL8SqKS1J0DuOcKKB43xn0ZePyFvcUhNlp9Zg/viewform
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: 'none'
@@ -57,46 +53,45 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include articulating what the current state is, aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems. 
+Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems. 
 
-We're looking for a senior-level candidate in the Washington, D.C. area who has consulting experience along with a background in a user-centered design or digital strategy discipline. Experience in an agile development environment a plus.
+We're looking for senior-level candidates who have consulting experience along with a background in a user-centered design or strategy discipline such as digital strategy, service design, user experience design, content design/strategy, user research, product or software development. Experience in an agile development environment a plus.
 
 
 ## Key Objectives
 
 ### Objective #1: Lead small, cross-functional project teams that define the partner’s problem
-- Navigate complex organizational relationships to bring stakeholders together around common goals and priorities.
+- Navigate complex organizational relationships to bring stakeholders together around common goals and priorities
 - Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry,
-workshops, and analytics research.
-- Work comfortably amidst uncertainty.
+workshops, and analytics research
+- Work comfortably amidst uncertainty
 - Provide strategic value to partners early, reduce the risks of improperly-scoped work, and allow the team to quickly
-steer the project in the right direction.
-- Create artifacts to communicate what you learn in a way that resonates with our agency partners.
+steer the project in the right direction
+- Create artifacts to communicate what you learn in a way that resonates with our agency partners
 
 ### Objective 2: Deliver recommendations that frame next steps
 - Give agency partners and peers the advice they need to hear over what they want to hear, in a manner that respects their
-intelligence and experience.
-- Provide visibility into the project’s progress, communicate blockers and challenges, and ask for help when you need it.
-- Explain issues clearly to both technical and non-technical audiences.
-- Help agency partners tell their own story within their organization.
+intelligence and experience
+- Provide visibility into the project’s progress, communicate blockers and challenges, and ask for help when you need it
+- Explain issues clearly to both technical and non-technical audiences
+- Help agency partners tell their own story within their organization
 - Take a position on what needs to happen in order for a project to be set up for success, and communicate this position
-in a way that’s easy for stakeholders to understand.
+in a way that’s easy for stakeholders to understand
 
 ### Objective #3: Model the behaviors we want to see partners adopt
-- Teach agency teams how to take risks and validate ideas.
-- Demonstrate how to incorporate users into the product development process.
-- Help teams discover their internal creative thinkers and champions.
-- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results.
-- Demonstrate credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes.
+- Teach agency teams how to take risks and validate ideas
+- Demonstrate how to incorporate users into the product development process
+- Help teams discover their internal creative thinkers and champions
+- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
+- Demonstrate credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
 
 ### Objective #4: Contribute to your team’s continued success
-- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
-- Participate in business development by understanding what our agency partners need and articulating how 18F might be able to help them achieve it.
-- Contribute to team-wide reusable resources and materials.
-- Recognize when practices no longer serve the team and recommend a way forward.
-- Share your work in an unfinished state and give peer feedback in critique sessions.
+- Continually make a strong case for iterative, user-centered design on every project
+- Contribute to team-wide reusable resources and materials
+- Recognize when practices no longer serve the team and recommend a way forward
+- Share your work in an unfinished state and give peer feedback in critique sessions
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual
-differences.
+differences
 
 ## Minimum Qualifications
 
@@ -115,19 +110,17 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must
+1. Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must
 include **ALL** of the following:
+- Leading client-facing consulting projects or initiatives
+- Collaborating with cross-functional teams to achieve organizational or project objectives
+- Getting buy-in from stakeholders to effect change
 
-  1. Leading client-facing consulting projects or initiatives
-  2. Collaborating with cross-functional teams to achieve organizational or project objectives
-  3. Getting buy-in from stakeholders to effect change
-
-Experience applying user-centered design disciplines to the development of products or services. This experience must
+2. Experience applying user-centered design disciplines to the development of products or services. This experience must
 include at least **ONE** of the following:
-
-  1. Leading teams in the user research of digital products or services.
-  2. Leading teams in the iterative development of digital products or services using agile development methodologies.
-  3. Leading the development of content strategies for web or digital products.
+- Leading teams in the user research or user-centered design of digital products or services
+- Leading teams in the development of digital products or services using agile development methodologies
+- Leading the development of content strategies for web or digital products.
 
 {% else %}
 
@@ -142,47 +135,45 @@ include at least **ONE** of the following:
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include articulating what the current state is, aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems. 
+FFederal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems. 
 
-We're looking for a senior-level candidate in the Washington, D.C. area who has consulting experience along with a background in a user-centered design or digital strategy discipline. Experience in an agile development environment a plus.
+We're looking for senior-level candidates who have consulting experience along with a background in a user-centered design or strategy discipline such as digital strategy, service design, user experience design, content design/strategy, user research, product or software development. Experience in an agile development environment a plus.
 
 
 ## Key Objectives
 
 ### Objective #1: Lead small, cross-functional project teams that define the partner’s problem
-- Navigate complex organizational relationships to bring stakeholders together around common goals and priorities.
+- Navigate complex organizational relationships to bring stakeholders together around common goals and priorities
 - Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry,
-workshops, and analytics research.
-- Work comfortably amidst uncertainty.
+workshops, and analytics research
+- Work comfortably amidst uncertainty
 - Provide strategic value to partners early, reduce the risks of improperly-scoped work, and allow the team to quickly
-steer the project in the right direction.
-- Create artifacts to communicate what you learn in a way that resonates with our agency partners.
+steer the project in the right direction
+- Create artifacts to communicate what you learn in a way that resonates with our agency partners
 
 ### Objective 2: Deliver recommendations that frame next steps
 - Give agency partners and peers the advice they need to hear over what they want to hear, in a manner that respects their
-intelligence and experience.
-- Provide visibility into the project’s progress, communicate blockers and challenges, and ask for help when you need it.
-- Explain issues clearly to both technical and non-technical audiences.
-- Help agency partners tell their own story within their organization.
+intelligence and experience
+- Provide visibility into the project’s progress, communicate blockers and challenges, and ask for help when you need it
+- Explain issues clearly to both technical and non-technical audiences
+- Help agency partners tell their own story within their organization
 - Take a position on what needs to happen in order for a project to be set up for success, and communicate this position
-in a way that’s easy for stakeholders to understand.
+in a way that’s easy for stakeholders to understand
 
 ### Objective #3: Model the behaviors we want to see partners adopt
-- Teach agency teams how to take risks and validate ideas.
-- Demonstrate how to incorporate users into the product development process.
-- Help teams discover their internal creative thinkers and champions.
-- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results.
-- Demonstrate credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes.
+- Teach agency teams how to take risks and validate ideas
+- Demonstrate how to incorporate users into the product development process
+- Help teams discover their internal creative thinkers and champions
+- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
+- Demonstrate credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
 
 ### Objective #4: Contribute to your team’s continued success
-- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
-- Participate in business development by understanding what our agency partners need and articulating how 18F might be able to help them achieve it.
-- Contribute to team-wide reusable resources and materials.
-- Recognize when practices no longer serve the team and recommend a way forward.
-- Share your work in an unfinished state and give peer feedback in critique sessions.
+- Continually make a strong case for iterative, user-centered design on every project
+- Contribute to team-wide reusable resources and materials
+- Recognize when practices no longer serve the team and recommend a way forward
+- Share your work in an unfinished state and give peer feedback in critique sessions
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual
-differences.
-
+differences
 
 ## Basic Information
 
@@ -233,7 +224,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services. TTS is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
 
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
@@ -257,24 +248,19 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
-2. Suitable for federal employment, determined by a background investigation.
-3. You may be required to serve a trial period.
-4. Direct Deposit of salary check to financial organization required.
+2. Suitable for federal employment, determined by a background investigation
+3. You may be required to serve a trial period
+4. Direct Deposit of salary check to financial organization required
 5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
 
 ## Employment Requirements
 - Serve a one year trial period, if required.
-- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job.
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment.
-- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
+- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this. Any discrepancies must be resolved as a condition of continued employment
+- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
 ## Duties
-- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
-- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences
-- Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services
-- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
-- Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
+Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -306,20 +292,18 @@ Within each category, veterans will receive selection priority over non-veterans
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized
 experience for this position is:
 
-Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must
+1. Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must
 include **ALL** of the following:
+- Leading client-facing consulting projects or initiatives
+- Collaborating with cross-functional teams to achieve organizational or project objectives
+- Getting buy-in from stakeholders to effect change
 
-  1. Leading client-facing consulting projects or initiatives
-  2. Collaborating with cross-functional teams to achieve organizational or project objectives
-  3. Getting buy-in from stakeholders to effect change
-
-
-Experience applying user-centered design disciplines to the development of products or services. This experience must
+2. Experience applying user-centered design disciplines to the development of products or services. This experience must
 include at least **ONE** of the following:
+- Leading teams in the user research or user-centered design of digital products or services
+- Leading teams in the development of digital products or services using agile development methodologies
+- Leading the development of content strategies for web or digital products.
 
-  1. Leading teams in the user research of digital products or services.
-  2. Leading teams in the iterative development of digital products or services using agile development methodologies.
-  3. Leading the development of content strategies for web or digital products.
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide
