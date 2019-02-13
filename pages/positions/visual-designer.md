@@ -16,7 +16,7 @@ contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: 'tbd'
+job_announcement_number: '1900281JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
