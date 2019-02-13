@@ -1,7 +1,8 @@
 ---
 title: 18F - Strategist
 permalink: /join/strategist/
-job_post_type: open
+state: open
+job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 opens: February 25, 2019, 8:00am EDT
