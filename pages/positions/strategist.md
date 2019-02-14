@@ -7,16 +7,16 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 opens: February 25, 2019, 8:00am EDT
 closes: March 1, 2019, 8:00pm EDT
-location: 'Washington, DC; Chicago, IL; San Francisco, CA; New York, NY; Virtual (100% remote)'
+locations: 'Washington, DC; Chicago, IL; San Francisco, CA; New York, NY; Virtual (100% remote)'
 gs_level: 15
-salary_min: '134,789'
-salary_max: '164,200'
+salary_min: '105,123'
+salary_max: '136,659'
 org: '18F'
 contact_name: 'Elizabeth Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: '1800400JCOTR'
+job_announcement_number: '1900285JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
@@ -25,7 +25,7 @@ ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: 'none'
-supervisory_status: 'NO'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -33,7 +33,7 @@ supervisory_status: 'NO'
 {% if page.opens == 'tbd' %}
 The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_6).
 {% else %}
-Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
 ## Basic Information
@@ -198,8 +198,8 @@ Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_m
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
-**Location:**
-{{ page.location }}
+**Locations:**
+{{ page.locations }}
 
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
@@ -261,7 +261,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
 ## Duties
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges
+Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -275,7 +275,7 @@ competencies:
 - **Collaboration:** Work closely with others to accomplish shared goals and build strong working relationships
 - **Communication:** Convey information and ideas clearly, succinctly and effectively with a variety of audiences to establish a shared vision and understanding
 - **Leadership:** Lead cross-functional teams to meet organization and project objectives
-- **TTS Core Values Alignment:** TWork with integrity, transparency and resiliency in a civic-minded or high-impact environment
+- **TTS Core Values Alignment:** Work with integrity, transparency and resiliency in a civic-minded or high-impact environment
 
 Your score will be used to place you in one of the 3 categories: Superior, Qualified, or Not Qualified.
 
