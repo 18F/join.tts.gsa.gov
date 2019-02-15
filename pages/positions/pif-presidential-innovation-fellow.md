@@ -9,8 +9,8 @@ opens: 'tbd'
 closes: March 22, 2019, 11:59pm EDT
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '134,789'
-salary_max: '164,200'
+# salary_min: '134,789'
+# salary_max: '164,200'
 org: 'Presidential Innovation Fellows'
 contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
