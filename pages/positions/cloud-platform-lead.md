@@ -12,16 +12,16 @@ location: 'Boston, MA (virtual) and Hampton, VA (virtual)'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
-org: '18F' 
+org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
 job_announcement_number: '1900204JCOTR'
-pd_job_title: 'Innovation Specialist' 
+pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
-series: '0301' 
+series: '0301'
 apply_url: https://docs.google.com/forms/d/e/1FAIpQLScDqd44SB1gDYANhTkiSKyiz9FmEttt2Sfsnbi4xI-EiqgjiQ/viewform
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
@@ -33,7 +33,7 @@ supervisory_status: 'NO'
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% else %}
 Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -46,7 +46,7 @@ Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y
 **Salary Range:**
 GS {{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -56,7 +56,7 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions.
 
 Cloud Platform Leads on our team are:
 
@@ -99,27 +99,27 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 
 ## Minimum Qualifications
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you 
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you
 meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
 
 - Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be
 interviewed
-- The Minimum Qualification determination can only be made using the information that's directly within your resume and 
+- The Minimum Qualification determination can only be made using the information that's directly within your resume and
 directly associated your listed work experience.
   - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the 
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the
     information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your 
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your
     work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
- 
-The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the 
-most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume 
-directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on 
+
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the
+most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume
+directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on
 [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
 ### Specialized Experience
-To qualify for this role, you must have one year of specialized experience equivalent to the 
+To qualify for this role, you must have one year of specialized experience equivalent to the
 GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience is:
 
 1. Experience leading a team to deliver digital products or services. This experience must include **ALL** of the following:
@@ -132,12 +132,12 @@ GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience 
 - Making architectural decisions
 - Developing product roadmaps
 
-3. Experience deploying, operating, maintaining, or running cloud platforms. This experience must include 
+3. Experience deploying, operating, maintaining, or running cloud platforms. This experience must include
 **ALL** of the following:
-- Using a Platform-as-a-Service (PaaS) 
-- Using continuous integration or continuous deployment tools 
+- Using a Platform-as-a-Service (PaaS)
+- Using continuous integration or continuous deployment tools
 - Using infrastructure automation tooling
-- Using infrastructure monitoring tooling 
+- Using infrastructure monitoring tooling
 
 {% else %}
 
@@ -152,7 +152,7 @@ GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience 
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions. 
+As a Cloud Platform Lead at 18F, you’ll work closely with a federal agency partner team (as well as teammates from 18F and cloud.gov) to support ambitious cloud migration projects that transform how agencies deliver their missions. You’ll need to understand the partner team’s needs and desires, and work with them (as well as vendor partners) to implement solutions.
 
 Cloud Platform Leads on our team are:
 
@@ -194,7 +194,7 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 
 ## Basic Information
 
-**Job announcement number:** 
+**Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
@@ -206,7 +206,7 @@ Your first project will be consulting on-site in Boston, Massachusetts or at Lan
 **Series & Grade:**
 {{ page.series }} - {{ page.gs_level }}
 
-**Promotion Potential:** 
+**Promotion Potential:**
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
@@ -218,22 +218,22 @@ _For specific details on locality pay, please visit [OPM's Salaries & Wages page
 {{ page.location }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} 
+{{ page.num_vacancies }}
 
-**Supervisory status:** 
+**Supervisory status:**
 {{ page.supervisory_status }}
 
-**Travel requirement:** 
+**Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:** 
-Public trust. Background investigation required. 
+**Security clearance:**
+Public trust. Background investigation required.
 
-**Work Schedule:** 
-Full time 
+**Work Schedule:**
+Full time
 
 **Appointment Type:**
 Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
@@ -241,7 +241,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. Technology Transformation Services (TTS) is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. Technology Transformation Services (TTS) is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible.
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -286,11 +286,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Technical Leadership:** The ability to provide technical leadership, mastery, and architecture on complex engineering projects. 
-- **Software Engineering Practices:** Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products. 
-- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs. 
-- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals. 
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
+- **Technical Leadership:** The ability to provide technical leadership, mastery, and architecture on complex engineering projects.
+- **Software Engineering Practices:** Ability to apply tools, technologies, and established engineering best practices to help deliver innovative technical solutions and products.
+- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs.
+- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals.
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment.
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
@@ -316,12 +316,12 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Making architectural decisions
 - Developing product roadmaps
 
-3. Experience deploying, operating, maintaining, or running cloud platforms. This experience must include 
+3. Experience deploying, operating, maintaining, or running cloud platforms. This experience must include
 **ALL** of the following:
-- Using a Platform-as-a-Service (PaaS) 
-- Using continuous integration or continuous deployment tools 
+- Using a Platform-as-a-Service (PaaS)
+- Using continuous integration or continuous deployment tools
 - Using infrastructure automation tooling
-- Using infrastructure monitoring tooling 
+- Using infrastructure monitoring tooling
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.

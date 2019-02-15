@@ -25,9 +25,9 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 job_announcement_number: '1800513JCOTR'
-pd_job_title: 'Innovation Specialist' 
+pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
-series: '0301' 
+series: '0301'
 apply_url: https://goo.gl/forms/uVSGPKNPWn6TvkWM2
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
@@ -39,7 +39,7 @@ supervisory_status: 'NO'
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% else %}
 Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -52,7 +52,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-_If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)._ 
+_If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)._
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -116,7 +116,7 @@ The information in this sections outlines the criteria that your application wil
     - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
     - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
- 
+
 The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
 ### Specialized Experience
@@ -129,12 +129,12 @@ This experience must include **ALL** of the following:
 - Conducting User interviews
 - Conducting Contextual inquiry or Observational research
 - Qualitative research
-- Participatory design workshops 
+- Participatory design workshops
 
 2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following for a duration not less than **ONE** year:
 - Conducting usability testing or user testing
-- Using agile, lean or other iterative product development approaches 
-- Teaching or mentoring non-designers how to use user-centered design methodologies 
+- Using agile, lean or other iterative product development approaches
+- Teaching or mentoring non-designers how to use user-centered design methodologies
 - Managing or leading design efforts within complex organizations or highly regulated environments
 
 
@@ -196,7 +196,7 @@ Successful UX Designers:
 
 ## Basic Information
 
-**Job announcement number:** 
+**Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
@@ -208,7 +208,7 @@ Successful UX Designers:
 **Series & Grade:**
 {{ page.series }} - {{ page.gs_level }}
 
-**Promotion Potential:** 
+**Promotion Potential:**
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
@@ -222,20 +222,20 @@ _For specific details on locality pay, please visit [OPM's Salaries & Wages page
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
-**Supervisory status:** 
+**Supervisory status:**
 {{ page.supervisory_status }}
 
-**Travel requirement:** 
+**Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:** 
-Public trust. Background investigation required. 
+**Security clearance:**
+Public trust. Background investigation required.
 
-**Work Schedule:** 
-Full time 
+**Work Schedule:**
+Full time
 
 **Appointment Type:**
 Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
@@ -243,7 +243,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service, U.S. Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services. 18F uses lean start­up and agile development principles to make easy things easy and hard things possible.
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -279,7 +279,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position.
 
 ## Duties
-Typical duties for the fellow include but are not limited to: 
+Typical duties for the fellow include but are not limited to:
 - Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development
 - Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
 - Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences
@@ -312,19 +312,19 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, **you must have ONE year of specialized experience** equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is: 
+To qualify for this role, **you must have ONE year of specialized experience** equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience conducting user or human centered research in the development of digital products or services. This experience must include at least **THREE** of the following:
 - Developing user research plans, interview protocols or question guides
 - Conducting User interviews
 - Conducting Contextual inquiry or Observational research
 - Conducting Qualitative research
-- Conducting Participatory design workshops 
+- Conducting Participatory design workshops
 
 2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following:
 - Conducting usability testing or user testing
-- Using agile, lean or other iterative product development approaches 
-- Teaching or mentoring non-designers how to use user-centered design methodologies 
+- Using agile, lean or other iterative product development approaches
+- Teaching or mentoring non-designers how to use user-centered design methodologies
 - Managing or leading design efforts within complex organizations or highly regulated environments
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
