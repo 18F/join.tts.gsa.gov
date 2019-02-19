@@ -283,6 +283,7 @@ If your resume does not support your possession of the competencies listed above
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
+
 ## Qualifications
 
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
