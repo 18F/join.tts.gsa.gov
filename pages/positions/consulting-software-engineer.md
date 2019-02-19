@@ -1,7 +1,7 @@
 ---
 title: 18F - Consulting Software Engineer
 permalink: /join/consulting-software-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
 opens:  'Tuesday, February 19, 2019 8:00am EDT'
