@@ -1,16 +1,16 @@
 ---
 title: PIF - Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
-opens: 'tbd'
-closes: March 22, 2019, 11:59pm EDT
+opens: 'February 22, 2019'
+closes: 'April 1, 2019, 11:59pm EDT'
 location: 'Washington, DC'
 gs_level: 15
-# salary_min: '134,789'
-# salary_max: '164,200'
+salary_min: '134,789'
+salary_max: '164,200'
 org: 'Presidential Innovation Fellows'
 contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
@@ -18,10 +18,10 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS_OPEN: These fields are required for open
 job_announcement_number: 'tbd'
 pd_job_title: 'Presidential Innovation Fellow'
-num_vacancies: '25'
+num_vacancies: '15'
 series: '0301'
 apply_url: https://apply.pif.gov/
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
@@ -57,13 +57,7 @@ government to tackle some of our nation’s biggest challenges and deliver bette
 are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems,
 shaping smarter policy and/or delivering on technology.
 
-Since the program was launched in 2012 by former U.S. CTO Todd Park, [135 Fellows](https://presidentialinnovationfellows.gov/fellows/)
-have worked with over [35 agencies](https://presidentialinnovationfellows.gov/agencies/).
-These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome
-Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer
-clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk
-and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster
-care system.
+Since the program was launched in 2012 by former U.S. CTO Todd Park, [135 Fellows](https://presidentialinnovationfellows.gov/fellows/) have worked with over [35 agencies](https://presidentialinnovationfellows.gov/agencies/). These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster care system.
 
 We will begin recruiting the next cohort of Fellows in mid-April. Applicants can apply online at [www.pif.gov](http://www.pif.gov) and Fellows will start the summer of 2019.
 
