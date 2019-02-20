@@ -1,7 +1,7 @@
 ---
 title: 18F - Visual Designer
 permalink: /join/visual-designer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming

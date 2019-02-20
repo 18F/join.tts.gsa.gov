@@ -1,7 +1,7 @@
 ---
 title: 18F - Consulting Software Engineer
 permalink: /join/consulting-software-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
 opens:  'Tuesday, February 19, 2019 8:00am EDT'
@@ -282,6 +282,7 @@ If found to be eligible and at least minimally qualified for the position, your 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+
 
 ## Qualifications
 
