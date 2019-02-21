@@ -5,7 +5,7 @@ state: open
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
-opens: 'February 22, 2019'
+opens: 'February 22, 2019, 12pm EDT'
 closes: 'April 1, 2019, 11:59pm EDT'
 location: 'Washington, DC'
 gs_level: 15
@@ -153,7 +153,7 @@ measured by increased revenue, promoted growth, drove business strategy, acquire
 - Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking)
 - Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services
 - Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or venture capital firm (including corporate venture capital)
-- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes
+- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive analytics) or working in an organizational leadership capacity in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this
@@ -298,15 +298,11 @@ Public trust. Background investigation required.
 Full time 
 
 **Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service: Not to exceed 12 months (1 year); may be extended for 1 additional year for a maximum of 2 years total.
 
 ## Job Summary
 
-The Presidential Innovation Fellows (PIF) program brings the principles, values, and practices of the innovation economy
-into government through the most effective agents of change we know: our people. This highly competitive program pairs
-talented, diverse individuals from the innovation community with top civil servants to tackle many of our nation’s biggest
-challenges, and to achieve a profound and lasting social impact. These teams of government experts and private­sector doers
-are using approaches like design­thinking and lean startup to achieve results for the American people in months, not years.
+This position is located within the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transportation Service (TTS), Office of the Presidential Innovation Fellows (PIF). The Presidential Innovation Fellows (PIF) program brings the principles, values, and practices of the innovation economy into government through the most effective agents of change we know: our people. This highly competitive program pairs talented, diverse individuals from the innovation community with top civil servants to tackle many of our nation’s biggest challenges, and to achieve a profound and lasting social impact. These teams of government experts and private­sector doers are using approaches like design­thinking and lean startup to achieve results for the American people in months, not years.
 
 The position requires Fellows perform work of an exceptional degree of difficulty across a wide range of topics at the
 convergence of technology, policy, and delivery. The incumbent will leverage their experience deploying high­quality,
@@ -356,7 +352,7 @@ financial interest and this position
 Typical duties for the Presidential Innovation Fellow include, but are not limited to:
 
 Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­thinking design and development principles to product development and program management, such as lean startup, user centered design, and agile development; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field; representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex
-and esoteric challenges; Performs other duties, as assigned
+and esoteric challenges.
 
 ## Evaluations
 We will use a method called Category Rating to assess your application.
@@ -374,7 +370,7 @@ competencies:
 - **Tools and Execution:** Experience in design, development and deployment of solutions leveraging current and emergent
 technologies and best practices
 
-Your score will be used to place you in one 4 categories: Superior Qualified, Best Qualified, Well Qualified or Qualified.
+Your score will be used to place you in one 4 categories: Best Qualified, Well Qualified or Qualified.
 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could
 place you in a lower category.
@@ -405,7 +401,7 @@ measured by increased revenue, promoted growth, drove business strategy, acquire
 - Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking)
 - Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services
 - Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or venture capital firm (including corporate venture capital)
-- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive analytics) or working in an organizational leadership capacity in the field of in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes
+- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive analytics) or working in an organizational leadership capacity in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this
