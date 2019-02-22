@@ -19,21 +19,21 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS OPEN: These fields are required for open
 
 # job_announcement_number: '1900171JCOTR'
-pd_job_title: 'Innovation Specialist' 
+pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
-series: '0301' 
+series: '0301'
 # apply_url: https://docs.google.com/forms/d/e/1FAIpQLSefu-2w4fy-eR4vJJmwrbrFx1lRO2CGmQ3Y4ArRkLoYUC-x0A/viewform
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15' 
+promotion_potential: '15'
 supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% else %}
 Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -46,7 +46,7 @@ Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on
 **Salary Range:**
 ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -58,7 +58,7 @@ employees or contractors
 
 We are looking for a Data & Analytics Specialist to join the IT Modernization Centers of Excellence (CoE) to help develop and improve the capabilities and services of our partner agencies.
 
-The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As a Data & Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
+The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As a Data & Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission.
 
 Data & Analytics Specialists should not be theoreticians, but rather practitioners in the craft of data science. You’ll need to be able to get hands on when necessary, but we often help partner agencies capitalize on their existing tools and resources or work in tandem with government contractors. It’s imperative that our  Data Analytics Specialist is dedicated to results and has genuine passion about building a sustainable data infrastructure within government. We aspire to not only help our partners solve their problems efficiently and with the ability to scale, but also help them do it in an agile way.
 
@@ -87,34 +87,34 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
 ## Minimum Qualifications
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you 
-meet the Minimum Qualifications for the position. There are two very important things to note about this step in the 
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you
+meet the Minimum Qualifications for the position. There are two very important things to note about this step in the
 process:
 
 - Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to
 be interviewed
-- The Minimum Qualification determination can only be made using the information that's directly within your resume and 
+- The Minimum Qualification determination can only be made using the information that's directly within your resume and
 directly associated your listed work experience.
   - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the 
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the
     information is not).
     - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your
     work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
- 
-The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the 
+
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the
 most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
 ### Specialized Experience
 
-To qualify for this role, you must have one year of specialized experience equivalent to the 
+To qualify for this role, you must have one year of specialized experience equivalent to the
 GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience is:
 
 1. Experience helping clients collect and manage their data as a practitioner in the craft of data science. This experience must include **ALL** of the following:
@@ -138,7 +138,7 @@ GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience 
 
 4. Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must include **ALL** of the following:
 - Coaching clients or stakeholders through the adoption of human centered design
-- Communicating technical information to people with varying levels of technical knowledge 
+- Communicating technical information to people with varying levels of technical knowledge
 - Serving as a liaison between stakeholders or clients and project teams
 
 {% else %}
@@ -155,7 +155,7 @@ GS-{{ page.gs_level | minus: 1}} in the Federal service. Specialized experience 
 
 We are looking for a Data & Analytics Specialist to join the IT Modernization Centers of Excellence (CoE) to help develop and improve the capabilities and services of our partner agencies.
 
-The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As a Data & Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
+The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As a Data & Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission.
 
 Data & Analytics Specialists should not be theoreticians, but rather practitioners in the craft of data science. You’ll need to be able to get hands on when necessary, but we often help partner agencies capitalize on their existing tools and resources or work in tandem with government contractors. It’s imperative that our  Data Analytics Specialist is dedicated to results and has genuine passion about building a sustainable data infrastructure within government. We aspire to not only help our partners solve their problems efficiently and with the ability to scale, but also help them do it in an agile way.
 
@@ -184,14 +184,14 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
 
 ## Basic Information
 
-**Job announcement number:** 
+**Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
@@ -203,7 +203,7 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 **Series & Grade:**
 {{ page.series }} - {{ page.gs_level }}
 
-**Promotion Potential:** 
+**Promotion Potential:**
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
@@ -217,20 +217,20 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
-**Supervisory status:** 
+**Supervisory status:**
 {{ page.supervisory_status }}
 
-**Travel requirement:** 
+**Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:** 
-Public trust. Background investigation required. 
+**Security clearance:**
+Public trust. Background investigation required.
 
-**Work Schedule:** 
-Full time 
+**Work Schedule:**
+Full time
 
 **Appointment Type:**
 Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
@@ -238,7 +238,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
 
 ## Job Summary
 
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible.
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -283,13 +283,13 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Analytics Technical Fluency:** The ability to assimilate, synthesize and leverage highly technical data to drive decision making and effectively communicate that information to audiences with a wide range of technical expertise. 
+- **Analytics Technical Fluency:** The ability to assimilate, synthesize and leverage highly technical data to drive decision making and effectively communicate that information to audiences with a wide range of technical expertise.
 - **Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency.   
 - **Agile Orientation:** Ability to apply agile methodologies to deliver work in a frequent and iterative fashion to address user needs.
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish
-a shared vision and understanding of a project’s technical implementation, objectives and goals. 
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact 
-environment. 
+a shared vision and understanding of a project’s technical implementation, objectives and goals.
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact
+environment.
 
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
@@ -304,7 +304,7 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the 
+To qualify for this role, you must have one year of specialized experience equivalent to the
 GS-{{ page.gs_level | minus: 1 }} grade level in the Federal service. Specialized experience is:
 
 1. Experience helping clients collect and manage their data as a practitioner in the craft of data science. This experience must include **ALL** of the following:
@@ -328,7 +328,7 @@ GS-{{ page.gs_level | minus: 1 }} grade level in the Federal service. Specialize
 
 4. Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must include **ALL** of the following:
 - Coaching clients or stakeholders through the adoption of human centered design
-- Communicating technical information to people with varying levels of technical knowledge 
+- Communicating technical information to people with varying levels of technical knowledge
 - Serving as a liaison between stakeholders or clients and project teams
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.

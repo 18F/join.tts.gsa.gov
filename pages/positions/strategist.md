@@ -31,7 +31,7 @@ supervisory_status: 'No'
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_6).
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% else %}
 Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -54,7 +54,7 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems. 
+Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems.
 
 We're looking for senior-level candidates who have consulting experience along with a background in a user-centered design or strategy discipline such as digital strategy, service design, user experience design, content design/strategy, user research, product or software development. Experience in an agile development environment a plus.
 
@@ -104,7 +104,7 @@ The information in this sections outlines the criteria that your application wil
     - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
     - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
- 
+
 The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
 ### Specialized Experience
@@ -136,7 +136,7 @@ include at least **ONE** of the following:
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems. 
+Federal government agencies often approach 18F for help with improving an internal process or redesigning the way they present information to the American public. As a strategist with 18F, you’ll lead early efforts with these agency partners to define what problem they’re trying to solve and identify what’s needed to ensure successful next steps. Your work will include aligning stakeholders, talking to end users, turning vague ideas into concrete priorities, and minimizing risk in the product development process. And you’ll do all this in a spirit of partnership, with a sense of humility and empathy for our partners and the people who use their systems.
 
 We're looking for senior-level candidates who have consulting experience along with a background in a user-centered design or strategy discipline such as digital strategy, service design, user experience design, content design/strategy, user research, product or software development. Experience in an agile development environment a plus.
 
@@ -178,11 +178,11 @@ differences
 
 ## Basic Information
 
-**Job announcement number:** 
+**Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -190,7 +190,7 @@ differences
 **Series & Grade:**
 {{ page.series }} - {{ page.gs_level }}
 
-**Promotion Potential:** 
+**Promotion Potential:**
 {{ page.promotion_potential }}
 
 **Salary Range:**
@@ -204,20 +204,20 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
-**Supervisory status:** 
+**Supervisory status:**
 {{ page.supervisory_status }}
 
-**Travel requirement:** 
+**Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:** 
-Public trust. Background investigation required. 
+**Security clearance:**
+Public trust. Background investigation required.
 
-**Work Schedule:** 
-Full time 
+**Work Schedule:**
+Full time
 
 **Appointment Type:**
 Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
