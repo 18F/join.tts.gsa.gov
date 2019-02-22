@@ -41,7 +41,7 @@ supervisory_status: 'No'
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -139,8 +139,7 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
-- Navigating bureaucracy (e.g. complex organization structure, matrix organization), building coalitions and leading
-stakeholders with disparate views through change
+- Leading stakeholders through change
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
 users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
@@ -274,7 +273,7 @@ GS-{{ page.promotion_potential }}
 **Salary Range:**
 GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
 **Location:**
 {{ page.location }}
@@ -298,7 +297,7 @@ Public trust. Background investigation required.
 Full time 
 
 **Appointment Type:**
-Excepted Service: Not to exceed 12 months (1 year); may be extended for 1 additional year for a maximum of 2 years total.
+Excepted Service: 12 months and 1 day. May be extended up to an additional 12 months.
 
 ## Job Summary
 
@@ -362,13 +361,11 @@ We will use a method called Category Rating to assess your application.
 You will be scored based on a review of your application materials, measuring your possession of each of the following
 competencies:
 
-- **Analysis and Creative Problem Solving:** Expertise determining user needs or identifying market opportunities and designing and deploying solutions
-- **Technology Acumen:** Experience translating business problems into technology solutions that draw on current and emergent tools and technologies; and experience describing esoteric and highly technical solutions to non-technical stakeholders
-- **Entrepreneurship and Product Management:** Experience delivering products or services from concept to market
-- **Approach and Methodology:** Expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
-- **Empathy and Emotional Intelligence:** Experience in client-facing roles, navigating bureaucracy, business development, or delivering services with a strong user-facing or consumer-oriented element
-- **Tools and Execution:** Experience in design, development and deployment of solutions leveraging current and emergent
-technologies and best practices
+- **Analysis and Creative Problem Solving:** Determining user needs or identifying market opportunities and designing and deploying solutions
+- **Technology Acumen:** Translating business problems into technology solutions that draw on current and emergent tools and technologies; and experience describing esoteric and highly technical solutions to non-technical stakeholders
+- **Entrepreneurship and Product Management:** Delivering products or services from concept to market
+- **Approach and Methodology:** Applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
+- **Tools and Execution:** Designing, developing and deploying of solutions leveraging current and emergent technologies and best practices
 
 Your score will be used to place you in one 4 categories: Best Qualified, Well Qualified or Qualified.
 
@@ -387,8 +384,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
 
-- Navigating bureaucracy (e.g. complex organization structure, matrix organization), building coalitions and leading
-stakeholders with disparate views through change
+- Leading stakeholders through change
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
 users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
