@@ -5,7 +5,7 @@ state: open
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
-opens: 'February 25, 2019, 12pm EDT'
+opens: 'February 25, 2019, 6pm EDT'
 closes: 'April 1, 2019, 11:59pm EDT'
 location: 'Washington, DC'
 gs_level: 15
@@ -16,7 +16,7 @@ contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS_OPEN: These fields are required for open
-job_announcement_number: 'tbd'
+job_announcement_number: '1900303JCOTR'
 pd_job_title: 'Presidential Innovation Fellow'
 num_vacancies: '15'
 series: '0301'
@@ -84,8 +84,8 @@ lean start-up, user centered design and agile
 integrity
 - Experience in client-facing roles, navigating bureaucracy,  business development and delivering services with a
 strong user-facing or consumer-oriented element
-- Coalition builder with the ability to persuade and convince others to think about solutions in new and creative ways.
-Ability to know when you need to show and when you need to tell
+- Coalition builder with the ability to persuade and convince others to think about solutions in new and creative ways
+- Ability to know when you need to show and when you need to tell
 - Tenacity to push forward over difficult obstacles
 - Evidence navigating large, complex organizations and stakeholders
 - Demonstrates patience and leads with humility
@@ -102,25 +102,25 @@ including providing feedback and collaborating when appropriate
 
 ### Objective #1: You will assess the state of digital services provided by the Federal Government, and work to align strategies and practice; conferring with key government/private officials and top experts in the field.
 
-- You will analyze and scope the technical and policy requirements needed to implement complex digital solutions.
-- You will leverage your experience deploying high-quality, user centric platforms and services to lead major initiatives.
+- You will analyze and scope the technical and policy requirements needed to implement complex digital solutions
+- You will leverage your experience deploying high-quality, user centric platforms and services to lead major initiatives
 - You will apply forward thinking design and development principles to product development and project management such as
-lean start-up, user centered design and agile.
+lean start-up, user centered design and agile
 
 ### Objective #2: You will conceive/recommend projects/strategies to advance the state of the art in the specialty area.
 
 - You will consult on systems and policy proposals, and provide technical policy and programmatic guidance to the government.
-- You will demonstrate thought leadership, contributing best practices in a variety of technologies and principles.
-- You will translate business problems into technology solutions that draw on current and emergent tools and technologies.
+- You will demonstrate thought leadership, contributing best practices in a variety of technologies and principles
+- You will translate business problems into technology solutions that draw on current and emergent tools and technologies
 
 ### Objective #3: You will utilize an entrepreneurial mindset, technology acumen, and strong communication skills in order to drive projects from ideation to completion.
 
 - You have the ability to present sensitive recommendations to higher authority and to articulate positions/policy of vast
-technical complexity.
+technical complexity
 - You possess knowledge of and expertise in driving and implementing technology solutions from concept to market that
-overcome significant challenges resulting from complex bureaucratic environments or technically difficult problems.
+overcome significant challenges resulting from complex bureaucratic environments or technically difficult problems
 - You have a high degree of emotional intelligence, are a quick study, and intuitively know what needs to get done to
-deliver with integrity, ensuring compliance at all levels.
+deliver with integrity, ensuring compliance at all levels
 
 ## Minimum Qualifications
 
@@ -139,11 +139,9 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
-- Leading stakeholders through change
+- Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy
 - Working in a team-oriented environment and collaborating within teams
-- Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
-users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
-measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users
+- Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
 
 2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
 
@@ -214,8 +212,8 @@ lean start-up, user centered design and agile
 integrity
 - Experience in client-facing roles, navigating bureaucracy,  business development and delivering services with a
 strong user-facing or consumer-oriented element
-- Coalition builder with the ability to persuade and convince others to think about solutions in new and creative ways.
-Ability to know when you need to show and when you need to tell
+- Coalition builder with the ability to persuade and convince others to think about solutions in new and creative ways
+- Ability to know when you need to show and when you need to tell
 - Tenacity to push forward over difficult obstacles
 - Evidence navigating large, complex organizations and stakeholders
 - Demonstrates patience and leads with humility
@@ -232,25 +230,25 @@ including providing feedback and collaborating when appropriate
 
 ### Objective #1: You will assess the state of digital services provided by the Federal Government, and work to align strategies and practice; conferring with key government/private officials and top experts in the field.
 
-- You will analyze and scope the technical and policy requirements needed to implement complex digital solutions.
-- You will leverage your experience deploying high-quality, user centric platforms and services to lead major initiatives.
+- You will analyze and scope the technical and policy requirements needed to implement complex digital solutions
+- You will leverage your experience deploying high-quality, user centric platforms and services to lead major initiatives
 - You will apply forward thinking design and development principles to product development and project management such as
-lean start-up, user centered design and agile.
+lean start-up, user centered design and agile
 
 ### Objective #2: You will conceive/recommend projects/strategies to advance the state of the art in the specialty area.
 
-- You will consult on systems and policy proposals, and provide technical policy and programmatic guidance to the government.
-- You will demonstrate thought leadership, contributing best practices in a variety of technologies and principles.
-- You will translate business problems into technology solutions that draw on current and emergent tools and technologies.
+- You will consult on systems and policy proposals, and provide technical policy and programmatic guidance to the government
+- You will demonstrate thought leadership, contributing best practices in a variety of technologies and principles
+- You will translate business problems into technology solutions that draw on current and emergent tools and technologies
 
 ### Objective #3: You will utilize an entrepreneurial mindset, technology acumen, and strong communication skills in order to drive projects from ideation to completion.
 
 - You have the ability to present sensitive recommendations to higher authority and to articulate positions/policy of vast
-technical complexity.
+technical complexity
 - You possess knowledge of and expertise in driving and implementing technology solutions from concept to market that
-overcome significant challenges resulting from complex bureaucratic environments or technically difficult problems.
+overcome significant challenges resulting from complex bureaucratic environments or technically difficult problems
 - You have a high degree of emotional intelligence, are a quick study, and intuitively know what needs to get done to
-deliver with integrity, ensuring compliance at all levels.
+deliver with integrity, ensuring compliance at all levels
 
 
 ## Basic Information
@@ -385,11 +383,8 @@ To qualify for this role, you must have one year of specialized experience equiv
 1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
 
 - Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy
-- Leading stakeholders through change efforts to garner support for the team like persuading others to provide approval, funding, or resources
 - Working in a team-oriented environment and collaborating within teams
-- Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
-users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
-measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users
+- Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
 
 2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
 
