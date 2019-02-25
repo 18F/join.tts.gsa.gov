@@ -1,7 +1,7 @@
 ---
 title: 18F - Cloud Operations Site Reliability Engineer
 permalink: /join/cloud-operations-sre/
-state: closed
+state: open
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
