@@ -1,7 +1,7 @@
 ---
 title: PIF - Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
@@ -139,6 +139,7 @@ The Minimum Qualification process is a bureaucratic requirement that we are stuc
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
+
 - Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
