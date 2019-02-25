@@ -5,7 +5,7 @@ state: open
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
-opens: 'February 22, 2019, 12pm EDT'
+opens: 'February 25, 2019, 12pm EDT'
 closes: 'April 1, 2019, 11:59pm EDT'
 location: 'Washington, DC'
 gs_level: 15
@@ -301,7 +301,7 @@ Excepted Service: 12 months and 1 day. May be extended up to an additional 12 mo
 
 ## Job Summary
 
-This position is located within the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transportation Service (TTS), Office of the Presidential Innovation Fellows (PIF). The Presidential Innovation Fellows (PIF) program brings the principles, values, and practices of the innovation economy into government through the most effective agents of change we know: our people. This highly competitive program pairs talented, diverse individuals from the innovation community with top civil servants to tackle many of our nation’s biggest challenges, and to achieve a profound and lasting social impact. These teams of government experts and private­sector doers are using approaches like design­thinking and lean startup to achieve results for the American people in months, not years.
+The Presidential Innovation Fellows (PIF) program brings the principles, values, and practices of the innovation economy into government through the most effective agents of change we know: our people. This highly competitive program pairs talented, diverse individuals from the innovation community with top civil servants to tackle many of our nation’s biggest challenges, and to achieve a profound and lasting social impact. These teams of government experts and private­sector doers are using approaches like design­thinking and lean startup to achieve results for the American people in months, not years.
 
 The position requires Fellows perform work of an exceptional degree of difficulty across a wide range of topics at the
 convergence of technology, policy, and delivery. The incumbent will leverage their experience deploying high­quality,
@@ -313,7 +313,7 @@ services, and provide value to the citizens at whom those services are directed.
 The incumbent will use their demonstrated experience building and scaling initiatives to grow the effectiveness of the
 program.
 
-This position is located within the Federal Acquisition Service (FAS).
+This position is located within the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of the Presidential Innovation Fellows (PIF). 
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)
 in the federal government.
@@ -363,9 +363,9 @@ competencies:
 
 - **Analysis and Creative Problem Solving:** Determining user needs or identifying market opportunities and designing and deploying solutions
 - **Technology Acumen:** Translating business problems into technology solutions that draw on current and emergent tools and technologies; and experience describing esoteric and highly technical solutions to non-technical stakeholders
+- **Leadership:** Ability to effectively lead a cross-functional team to meet product objectives
 - **Entrepreneurship and Product Management:** Delivering products or services from concept to market
-- **Approach and Methodology:** Applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
-- **Tools and Execution:** Designing, developing and deploying of solutions leveraging current and emergent technologies and best practices
+- **Communication:**  Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals.
 
 Your score will be used to place you in one 4 categories: Best Qualified, Well Qualified or Qualified.
 
@@ -384,7 +384,8 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
 
-- Leading stakeholders through change
+- Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy
+- Leading stakeholders through change efforts to garner support for the team like persuading others to provide approval, funding, or resources
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or
 users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions)
