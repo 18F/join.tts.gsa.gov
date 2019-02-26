@@ -5,7 +5,7 @@ state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
-opens: 'February 26, 2019, 6pm EDT'
+opens: 'February 26, 2019, 10am EDT'
 closes: 'April 1, 2019, 11:59pm EDT'
 location: 'Washington, DC'
 gs_level: 15
@@ -39,7 +39,7 @@ supervisory_status: 'No'
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. 
 
@@ -382,13 +382,11 @@ and following our general guidance on creating federal style resume.
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
-
 - Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
 
 2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following:
-
 - Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
 - Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations)
 - Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking)
