@@ -30,7 +30,7 @@ supervisory_status: 'No'
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
-{% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_6). {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+{% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 ## Basic Information
@@ -132,7 +132,7 @@ The information in this sections outlines the criteria that your application wil
     - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
     - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
- 
+
 The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
 ### Specialized Experience
@@ -144,7 +144,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
 
-2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
+2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following:
 
 - Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
 - Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations)
@@ -254,11 +254,11 @@ deliver with integrity, ensuring compliance at all levels
 
 ## Basic Information
 
-**Job announcement number:** 
+**Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -266,7 +266,7 @@ deliver with integrity, ensuring compliance at all levels
 **Series & Grade:**
 {{ page.series }} - GS-{{ page.gs_level }}
 
-**Promotion Potential:** 
+**Promotion Potential:**
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
@@ -280,20 +280,20 @@ If you are a new federal employee, your starting salary will likely be set at th
 **Number of vacancies:**
 {{ page.num_vacancies }}  (Additional vacancies may be filled from this announcement as needed)
 
-**Supervisory status:** 
+**Supervisory status:**
 {{ page.supervisory_status }}
 
-**Travel requirement:** 
+**Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:** 
-Public trust. Background investigation required. 
+**Security clearance:**
+Public trust. Background investigation required.
 
-**Work Schedule:** 
-Full time 
+**Work Schedule:**
+Full time
 
 **Appointment Type:**
 Excepted Service: 12 months and 1 day. May be extended up to an additional 12 months.
@@ -387,7 +387,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
 
-2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
+2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following:
 
 - Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
 - Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations)
