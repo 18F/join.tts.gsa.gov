@@ -17,7 +17,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS_OPEN: These fields are required for open
 job_announcement_number: '1900303JCOTR'
-pd_job_title: 'Presidential Innovation Fellow'
+pd_job_title: 'Industry Specialist'
 num_vacancies: '15'
 series: '0301'
 apply_url: https://apply.pif.gov/
@@ -283,10 +283,10 @@ If you are a new federal employee, your starting salary will likely be set at th
 {{ page.supervisory_status }}
 
 **Travel requirement:**
-Occasional travel may be required up to 10%-20% per year
+Occasional travel may be required up to 10% per year
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
+All United States citizens who are not currently Federal employees or GSA contractors are eligible to apply. 
 
 **Security clearance:**
 Public trust. Background investigation required.
@@ -321,7 +321,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Life insurance coverage with several options
 - Sick leave and vacation time, including 10 paid holidays per year
 - Thrift Savings Plan (similar to a 401(k) plan)
-- Flexible work schedules and telework
 - Transit and child care subsidies
 - Training and development
 - Flexible spending accounts
