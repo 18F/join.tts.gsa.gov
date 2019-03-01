@@ -83,8 +83,7 @@ to the public.
 
 ## Key Objectives
 
-### Key objective #1: Write high-quality, well-tested, maintainable code for the Login.gov Ruby on Rails app and its 
-peripheral applications using best practices for modern software development:
+### Objective #1: Write high-quality, well-tested, maintainable code for the Login.gov Ruby on Rails app and its peripheral applications using best practices for modern software development:
 
 - Work to develop new features and functionality within the application
 - Build tests for contributed code and assure appropriate test coverage using both unit and feature tests
@@ -95,15 +94,14 @@ peripheral applications using best practices for modern software development:
 - Be available to respond to production issues when necessary
 
 
-### Key objective #2: Be an effective collaborator on a distributed, agile team:
+### Objective #2: Be an effective collaborator on a distributed, agile team:
 
 - Thrive in a collaborative, cross-functional team building the product iteratively
 - Peer review code submitted by team members in a fair and respectful manner
 - Have your own code peer reviewed by team members
 - Be a part of regular retrospectives and provide feedback to help improve the way the team works
 
-### Key objective #3: Participate in decision-making that leads to a platform with the right balance of security and usability for end-users
-and integrating partners: 
+### Objective #3: Participate in decision-making that leads to a platform with the right balance of security and usability for end-users and integrating partners: 
 
 - Provide perspective and expertise to help make product decisions
 - Contribute to building the product roadmap
@@ -189,8 +187,7 @@ to the public.
 
 ## Key Objectives
 
-### Key objective #1: Write high-quality, well-tested, maintainable code for the Login.gov Ruby on Rails app and its 
-peripheral applications using best practices for modern software development:
+### Objective #1: Write high-quality, well-tested, maintainable code for the Login.gov Ruby on Rails app and its peripheral applications using best practices for modern software development:
 
 - Work to develop new features and functionality within the application
 - Build tests for contributed code and assure appropriate test coverage using both unit and feature tests
@@ -201,15 +198,14 @@ peripheral applications using best practices for modern software development:
 - Be available to respond to production issues when necessary
 
 
-### Key objective #2: Be an effective collaborator on a distributed, agile team:
+### Objective #2: Be an effective collaborator on a distributed, agile team:
 
 - Thrive in a collaborative, cross-functional team building the product iteratively
 - Peer review code submitted by team members in a fair and respectful manner
 - Have your own code peer reviewed by team members
 - Be a part of regular retrospectives and provide feedback to help improve the way the team works
 
-### Key objective #3: Participate in decision-making that leads to a platform with the right balance of security and usability for end-users
-and integrating partners: 
+### Objective #3: Participate in decision-making that leads to a platform with the right balance of security and usability for end-users and integrating partners: 
 
 - Provide perspective and expertise to help make product decisions
 - Contribute to building the product roadmap
@@ -341,7 +337,7 @@ competencies
 with emphasis on automation, testing, measuring, and scaling infrastructure
 - **Modern Technology and Practices:** The ability to understand and apply modern technology and software development 
 principles and practices
-- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs.  
+- **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs
 - **Communication:** Ability to communicate effectively with a variety of audiences, particularly managing the relationship 
 between leadership and an engineering team, to establish a shared vision and understanding of a project’s technical 
 implementation, objectives and goals.a shared vision and understanding of a project’s technical implementation, objectives 
