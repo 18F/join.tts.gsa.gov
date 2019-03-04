@@ -1,7 +1,7 @@
 ---
 title: 18F - Strategist
 permalink: /join/strategist/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
