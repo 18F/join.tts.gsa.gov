@@ -145,6 +145,7 @@ in the Federal service. Specialized experience is:
 
 1. Experience being a part of a team to deliver digital products or services. This experience must include **ALL** of the 
 following:
+
 - Providing technical support or product development for clients
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 - Experience using Site Reliability Engineering or DevOps practices in a production environment
@@ -169,9 +170,6 @@ include **TWO** of the following:
 - Using infrastructure automation tooling
 - Using infrastructure monitoring tooling
 - Developing and using software in the Ruby language ecosystem
-
-
-
 
 {% else %}
 
