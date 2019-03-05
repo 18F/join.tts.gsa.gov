@@ -1,7 +1,7 @@
 ---
 title: Login.gov - DevOps Engineer
 permalink: /join/devops-engineer/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
