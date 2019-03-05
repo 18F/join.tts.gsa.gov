@@ -143,17 +143,13 @@ directly reflects the qualifications listed below. We also have more guidance on
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }}
 in the Federal service. Specialized experience is:
 
-1. Experience being a part of a team to deliver digital products or services. This experience must include **ALL** of the 
-following:
-
+1. Experience being a part of a team to deliver digital products or services. This experience must include **ALL** of the following:
 - Providing technical support or product development for clients
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 - Experience using Site Reliability Engineering or DevOps practices in a production environment
 
 
-2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This 
-experience must include **ONE** of the following:
-
+2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include **ONE** of the following:
 - Conducting technology evaluations
 - Making architectural decisions
 - Developing new software features by writing code
@@ -161,9 +157,7 @@ experience must include **ONE** of the following:
 - Leading incident response
 
 
-3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must 
-include **TWO** of the following:
-
+3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must include **TWO** of the following:
 - Using a cloud computing platform
 - Using cloud computing infrastructure
 - Using continuous integration or continuous deployment tools
