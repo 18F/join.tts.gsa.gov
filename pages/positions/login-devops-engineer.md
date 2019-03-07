@@ -8,7 +8,7 @@ job_post_type: tts
 
 opens: 'March 18, 2019, 8am EDT'
 closes: 'March 22, 2019, 8pm EDT'
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
+locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900320JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
@@ -42,7 +42,7 @@ out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more ab
 
 ## Basic Information
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Salary Range:**
@@ -157,7 +157,7 @@ in the Federal service. Specialized experience is:
 - Leading incident response
 
 
-3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must include **TWO** of the following:
+3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must include **TWO** of the following: 
 - Using a cloud computing platform
 - Using cloud computing infrastructure
 - Using continuous integration or continuous deployment tools
@@ -355,16 +355,13 @@ We will use a method called Category Rating to assess your application.
 You will be scored based on a review of your application materials, measuring your possession of each of the following 
 competencies
 
-- **Maintainable Software Development:** Knowledge and ability to develop software in a repeatable and documentable way, 
-with emphasis on automation, testing, measuring, and scaling infrastructure
+- **Maintainable Software Development:** Knowledge and ability to develop software, with emphasis on reliability, automation, testing, measuring, and scaling infrastructure
 - **Modern Infrastructure Practices and Architecture:** Ability to operate complex software at scale in a cloud environment 
 using principles of Site Reliability Engineering and DevOps
-- **Production Operations:** Ability to operate production systems at scale with high availability fashion to address user 
-needs
+- **Production Operations:** Ability to operate production systems at scale with high availability
 - **Communication:** Ability to communicate effectively with a variety of audiences and stakeholders to establish a shared 
 vision and understanding of a project’s technical implementation, objectives, and goals 
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high
-impact environment
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact driven environment
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a 
 category (Best Qualified, Well Qualified, or Qualified).
@@ -382,16 +379,13 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience being a part of a team to deliver digital products or services. This experience must include **ALL** of the 
-following:
+1. Experience being a part of a team to deliver digital products or services. This experience must include **ALL** of the following:
 - Providing technical support or product development for clients
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
 - Experience using Site Reliability Engineering or DevOps practices in a production environment
 
 
-2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This 
-experience must include **ONE** of the following:
-
+2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include **ONE** of the following:
 - Conducting technology evaluations
 - Making architectural decisions
 - Developing new software features by writing code
@@ -399,9 +393,7 @@ experience must include **ONE** of the following:
 - Leading incident response
 
 
-3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must 
-include **TWO** of the following:
-
+3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must include **TWO** of the following:
 - Using a cloud computing platform
 - Using cloud computing infrastructure
 - Using continuous integration or continuous deployment tools
