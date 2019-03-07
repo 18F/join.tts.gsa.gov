@@ -8,7 +8,7 @@ job_post_type: tts
 
 opens: 'March 11, 2019, 8am EDT'
 closes: 'March 15, 2019, 8pm EDT'
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
+locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900319JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
@@ -340,8 +340,7 @@ principles and practices
 - **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs
 - **Communication:** Ability to communicate effectively with a variety of audiences, particularly managing the relationship 
 between leadership and an engineering team, to establish a shared vision and understanding of a project’s technical 
-implementation, objectives and goals.a shared vision and understanding of a project’s technical implementation, objectives 
-and goals
+implementation, objectives and goals.
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high
 impact environment
 
