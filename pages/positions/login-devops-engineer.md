@@ -1,7 +1,7 @@
 ---
 title: Login.gov - DevOps/ Site Reliability Engineer 
 permalink: /join/devops-engineer/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900320JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
@@ -42,7 +42,7 @@ out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more ab
 
 ## Basic Information
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Salary Range:**
