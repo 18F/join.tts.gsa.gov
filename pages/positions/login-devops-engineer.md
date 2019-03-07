@@ -157,7 +157,7 @@ in the Federal service. Specialized experience is:
 - Leading incident response
 
 
-3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must include **TWO** of the following:
+3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must include **TWO** of the following: 
 - Using a cloud computing platform
 - Using cloud computing infrastructure
 - Using continuous integration or continuous deployment tools
