@@ -1,14 +1,14 @@
 ---
 title: Login.gov - DevOps/ Site Reliability Engineer 
 permalink: /join/devops-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 opens: 'March 18, 2019, 8am EDT'
 closes: 'March 22, 2019, 8pm EDT'
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
+locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
@@ -355,16 +355,13 @@ We will use a method called Category Rating to assess your application.
 You will be scored based on a review of your application materials, measuring your possession of each of the following 
 competencies
 
-- **Maintainable Software Development:** Knowledge and ability to develop software in a repeatable and documentable way, 
-with emphasis on automation, testing, measuring, and scaling infrastructure
+- **Maintainable Software Development:** Knowledge and ability to develop software, with emphasis on reliability, automation, testing, measuring, and scaling infrastructure
 - **Modern Infrastructure Practices and Architecture:** Ability to operate complex software at scale in a cloud environment 
 using principles of Site Reliability Engineering and DevOps
-- **Production Operations:** Ability to operate production systems at scale with high availability fashion to address user 
-needs
+- **Production Operations:** Ability to operate production systems at scale with high availability
 - **Communication:** Ability to communicate effectively with a variety of audiences and stakeholders to establish a shared 
 vision and understanding of a project’s technical implementation, objectives, and goals 
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high
-impact environment
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact driven environment
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a 
 category (Best Qualified, Well Qualified, or Qualified).
