@@ -42,7 +42,7 @@ out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more ab
 
 ## Basic Information
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Salary Range:**
