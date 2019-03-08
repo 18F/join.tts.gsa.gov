@@ -261,7 +261,7 @@ y-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule
 policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal 
 employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Number of vacancies:**
