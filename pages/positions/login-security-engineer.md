@@ -43,7 +43,7 @@ out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more ab
 ## Basic Information
 
 **Locations:**
-{{ page.location }}
+{{ page.locations }}
 
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
@@ -264,7 +264,7 @@ policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-c
 employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
 **Locations:**
-{{ page.location }}
+{{ page.locations }}
 
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
