@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'tbd'
-closes: 'tbd'
+opens: 'April 1, 2019, 8am EDT'
+closes: 'April 5, 2019, 8pm EDT'
 locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '105,123'
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'tbd'
+job_announcement_number: '1900328JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
