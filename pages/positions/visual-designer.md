@@ -16,11 +16,11 @@ contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: '1900281JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeiIvOoNWTwedyr1kcVnvuFQD9tEvr_OUzlW1JRQyhvar0l-A/viewform
+apply_url: 
 ohrm_contact_name: 'Jacqueline Coleman'
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
