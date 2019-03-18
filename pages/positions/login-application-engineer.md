@@ -1,13 +1,13 @@
 ---
 title: Login.gov - Application Engineer
 permalink: /join/application-engineer/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'March 11, 2019, 8am EDT'
-closes: 'March 15, 2019, 8pm EDT'
+opens: 'tbd'
+closes: 'tbd'
 locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '105,123'
