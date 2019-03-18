@@ -1,13 +1,13 @@
 ---
 title: Centers of Excellence - Site Lead
 permalink: /join/site-lead/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: 'December 3, 2018, 8am EDT'
-closes: 'December 7, 2018, 8pm EDT'
+opens: 'tbd'
+closes: 'tbd'
 location: Washington, DC
 gs_level: 15
 salary_min: '134,789'
