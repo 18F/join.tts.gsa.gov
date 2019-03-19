@@ -1,8 +1,8 @@
 ---
 title: TTS - Director of Outreach and Marketing
-# permalink: /join/director-outreach-marketing/
-# state: upcoming 
-# job_post_type: tts 
+permalink: /join/director-outreach-marketing/
+state: upcoming 
+job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
@@ -11,10 +11,10 @@ closes: 'tbd'
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '134,789' 
-# salary_max: '164,200' 
-# org: 'TTS' 
-# contact_name: 'Deborah Baptiste'
-# contact_email: 'jointts@gsa.gov'
+salary_max: '164,200' 
+org: 'TTS' 
+contact_name: 'Deborah Baptiste'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
@@ -45,7 +45,6 @@ Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on
 
 **Salary Range:**
 GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
-
 
 
 **Who May Apply:**
