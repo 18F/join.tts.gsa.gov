@@ -1,20 +1,20 @@
 ---
-title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
-# permalink: /join/ENTER ROLE TITLE HERE/
-# state: ENTER STATE HERE (open, closed, upcoming)
-# job_post_type: ENTER TYPE HERE (tts or usajobs)
+title: TTS - Director of Agency Partnerships
+permalink: /join/director-agency-partnerships/
+state: upcoming 
+job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-# opens: MONTH DAY, YEAR, TIME EDT
-# closes: MONTH DAY, YEAR, TIME EDT
-# location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-# gs_level: ENTER GS LEVEL (13, 14, 15, etc)
-# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
-# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
-# org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
-# contact_name: 'TTS TALENT TEAM NAME'
-# contact_email: 'jointts@gsa.gov'
+opens: 'tbd'
+closes: 'tbd'
+location: 'Washington, DC'
+gs_level: 15
+salary_min: '134,789' 
+salary_max: '164,200' 
+org: 'TTS' 
+contact_name: 'Deborah Baptiste'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
@@ -33,7 +33,7 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+The target date for when this position will be officially open for applying has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% else %}
 Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -44,9 +44,8 @@ Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -56,48 +55,53 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
+The Technology Transformation Service Director of Agency Partnerships serves as a recognized senior advisor and knowledge 
+expert to senior managers within TTS. The work assigned requires leadership, analytical ability, judgment, discretion, and
+knowledge of a substantial body of TTS’ administrative or program principles, concepts, policies, and objectives. As such,
+the employee engages in analytical, advisory, and evaluative work.
+
+TTS works tirelessly to improve the public’s experience with the government by helping federal agencies build, buy and share
+technology that allows them to become more accessible, efficient, and effective. Its goal is a world of easy to use,
+efficient, effective, and secure digital government products and services for the American people. TTS seeks to accelerate
+the modernization of IT to improve customer experience and reduce legacy IT spending across the government by leveraging
+private sector innovation, existing government services, and providing access to best practices and expertise.
+
 
 ## Key Objectives
 
-### Key objective #1:
--
--
--
+### Key objective #1: Develops relationships with prospective partners in agencies throughout the federal government and
+converts those relationships to opportunities and engagements.
+- Navigates bureaucratic relationships and complex organizational structures to get buy-in from stakeholders around a common
+goal
+- Manages enterprise level partnerships
+- Identifies and maintains a pipeline of new-business leads through networking, events, and research
+- Regularly attends industry, federal and civic technology events, roundtables and panel discussions (i.e. CIO Council)
+- Maintains relationships through responsive and proactive touchpoints
 
-### Key objective #2:
--
--
--
 
-### Key objective #3:
--
--
--
+### Key objective #2: Knowledge of digital and technology sales strategies and tactics, and ability to execute on them.
+- Develops and implements a robust sales management processes – pipeline, account planning, and proposals in order to scale
+revenue
+- Establishes both short-term results and long-term strategy, including revenue forecasting
+- Identifies opportunities in expanding current business model and recognizes tradeoffs in different strategic decisions
+- Moves engagement stakeholders from awareness to action
+- Stays on top of trends and experiments with novel ways of engaging communities
+- Clearly communicates expectations and enjoys mentoring
+- Monitors the strategies and processes across the revenue cycle from customer acquisition to engagement to success
 
-### Key objective #4:
--
--
--
 
-## Minimum Qualifications
+### Key objective #3: Collaborates with senior management to perform strategic analysis, long-range planning, assessment of
+business development personnel needs, budget and operating needs.
+- Collects and evaluates a range of qualitative and quantitative metrics to assess pipeline health and identify opportunities
+- Showcases impact of work through costs savings, efficiency, and efficacy narratives
+- Coordinates with other teams to ensure consistent feedback loops and alignment
+- Develops metrics to report out on progress toward objectives and course correct when necessary
+- Generates reports weekly for a variety of stakeholders and responds to data calls as needed
+- Generates new insight through proper oversight of our CRM
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
 
-- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-- The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
 
-The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
-### Specialized Experience
-
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
-
-ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 {% else %}
 

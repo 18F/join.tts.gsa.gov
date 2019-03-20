@@ -1,20 +1,20 @@
 ---
-title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
-# permalink: /join/ENTER ROLE TITLE HERE/
-# state: ENTER STATE HERE (open, closed, upcoming)
-# job_post_type: ENTER TYPE HERE (tts or usajobs)
+title: TTS - Director of Outreach and Marketing
+permalink: /join/director-outreach-marketing/
+state: upcoming 
+job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-# opens: MONTH DAY, YEAR, TIME EDT
-# closes: MONTH DAY, YEAR, TIME EDT
-# location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-# gs_level: ENTER GS LEVEL (13, 14, 15, etc)
-# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
-# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
-# org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
-# contact_name: 'TTS TALENT TEAM NAME'
-# contact_email: 'jointts@gsa.gov'
+opens: 'tbd'
+closes: 'tbd'
+location: 'Washington, DC'
+gs_level: 15
+salary_min: '134,789' 
+salary_max: '164,200' 
+org: 'TTS' 
+contact_name: 'Deborah Baptiste'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
@@ -33,7 +33,7 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+The target date for when this position will be officially open for applying has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% else %}
 Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -44,9 +44,8 @@ Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -56,48 +55,57 @@ employees or contractors
 
 ### {{ page.title }} - GS-{{ page.gs_level }}
 
-ENTER POSITION SUMMARY FROM PERFORMANCE PROFILE
+The Technology Transformation Services Director of Outreach and Marketing serves as a recognized senior advisor and knowledge
+expert to senior managers within TTS on marketing and engagement with stakeholders such as agency partners, industry and the
+media. This position requires leadership, analytical ability, judgment, discretion, and knowledge of a substantial body of
+TTS’ administrative or program principles, concepts, policies, and objectives.  
+
+TTS works to improve the public’s experience with the government by helping federal agencies build, buy and share technology
+that allows them to better serve the public. TTS applies modern methodologies and technologies to improve the public’s
+experience with government by helping agencies make their services more accessible, efficient, and effective, and by itself
+providing services that exemplify these values.
+
+We’re looking for candidates who are broad, strategic, conceptual thinkers, able to see the interconnectivity between the
+types of work that TTS does and possessing the skill to weave this into a comprehensive, yet easy-to-follow story to our
+stakeholders, partners, and America. Candidates who are tireless executors, able to roll up their sleeves and translate
+those stories into action and business results, will be a good fit for this position. 
+
 
 ## Key Objectives
 
-### Key objective #1:
--
--
--
+### Key objective #1: Translate overall business strategy into an actionable brand and marketing strategy. You will work
+directly with GSA, Federal Acquisition Service, and TTS leadership and staff to develop a deep understanding of the business
+objectives the organization is working to achieve and develop a brand and marketing strategy. The strategy will engage key
+stakeholders including the media, congressional members and their staff, industry, agency partners and the American public
+to:
+- Increase awareness of and clarify GSA’s and TTS’ mission and service offerings
+- Develop and nurture relationships with the technology contracting community 
+- Showcase impact of TTS’ work 
+- Move engagement stakeholders from awareness to action
+- Build the TTS brand and support recruitment efforts 
 
-### Key objective #2:
--
--
--
 
-### Key objective #3:
--
--
--
+### Key objective #2: Lead execution of the brand and marketing strategy and measure performance. As the TTS Director of
+Outreach and Marketing, you’ll use various channels to engage with key audiences, including:
+- Digital platforms to maintain a consistent brand and tone of voice
+- Press outreach (including mainstream, government and tech media) to feature user-centered stories that convey the impact
+of public-private partnerships, modernizing services and the adoption of modern technology practices in partnership with
+GSA’s Office of Strategic Communications
+- Industry events, including civic technology events, roundtables and panel discussions
 
-### Key objective #4:
--
--
--
 
-## Minimum Qualifications
+### Key objective #3: Lead and inspire TTS staff to support all brand and marketing efforts, including but not limited
+to Outreach direct reports. Collaborate with leadership and various team members to achieve your goals. As such, you’ll
+need to:
+- Develop and lead a cohesive, integrated and high impact Outreach team
+- Clearly communicate expectations to TTS staff 
+- Remove blockers that prevent TTS teammates from effectively supporting brand and marketing efforts
+- Appropriately manage up, to influence decisions 
+- Stay on top of trends in marketing and outreach, and experiment with novel ways of improving impact and driving down costs
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
 
-- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-- The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
 
-The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
-### Specialized Experience
-
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
-
-ENTER SE THAT WILL BE ON JOB ANNONOUCEMENT SENT TO HR
 
 {% else %}
 

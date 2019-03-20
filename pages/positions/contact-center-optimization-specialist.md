@@ -1,17 +1,17 @@
 ---
 title: Centers of Excellence - Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: TBD 
+opens: TBD
 closes: TBD
 location: Washington, DC
 gs_level: 15
-salary_min: '134,789' 
-salary_max: '164,200' 
+salary_min: '134,789'
+salary_max: '164,200'
 org: 'Centers of Excellence'
 contact_name: 'Elizabeth Scott'
 contact_email: 'jointts@gsa.gov'
@@ -21,7 +21,7 @@ contact_email: 'jointts@gsa.gov'
 job_announcement_number: '1900160JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
-series: '0301' 
+series: '0301'
 apply_url: https://goo.gl/forms/Z7gqz1ipL0Veoj622
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
@@ -33,7 +33,7 @@ supervisory_status: 'NO'
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
+The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% else %}
 Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -46,7 +46,7 @@ Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on
 **Salary Range:**
  ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). 
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -81,7 +81,7 @@ As an expert contact center solutions architect well versed in multi-channel tec
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
@@ -96,26 +96,26 @@ The information in this sections outlines the criteria that your application wil
     - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
     - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
     - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
- 
+
 The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
 
 ### Specialized Experience
 To qualify, you must have one year of specialized experience equivalent to the GS-14 in the Federal service. Specialized experience is:
 
 1. Experience leading contact center and customer experience strategies for a government agency or organization. This experience must include **THREE** of the following:
-- Developing and executing contact center operations or strategies 
+- Developing and executing contact center operations or strategies
 - Developing and executing customer service modernization operations or strategies
-- Leading contact center technology implementation or deployment within internal applications or systems 
+- Leading contact center technology implementation or deployment within internal applications or systems
 - Developing key performance metrics
 
 2. Experience applying user-centered design disciplines.  This experience must include **ALL** of the following:
-- Using user-centered planning tools 
+- Using user-centered planning tools
 - Using agile, lean or other iterative product development methodologies
 
 3. Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must include **ALL** of the following:
-- Leading client-facing consulting projects or initiatives 
+- Leading client-facing consulting projects or initiatives
 - Collaborating with cross-functional teams to achieve organizational or project objectives and deliverables
-- Monitoring and providing mentorship, corrections, and feedback to team members 
+- Monitoring and providing mentorship, corrections, and feedback to team members
 
 
 {% else %}
@@ -156,7 +156,7 @@ As an expert contact center solutions architect well versed in multi-channel tec
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
 - Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
@@ -164,11 +164,11 @@ As an expert contact center solutions architect well versed in multi-channel tec
 
 ## Basic Information
 
-**Job announcement number:** 
+**Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }} 
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z EDT on %A, %B %e, %Y' }}
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -176,7 +176,7 @@ As an expert contact center solutions architect well versed in multi-channel tec
 **Series & Grade:**
 {{ page.series }} - GS-{{ page.gs_level }}
 
-**Promotion Potential:** 
+**Promotion Potential:**
 GS-{{ page.promotion_potential }}
 
 **Salary Range:**
@@ -190,27 +190,27 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
-**Supervisory status:** 
+**Supervisory status:**
 {{ page.supervisory_status }}
 
-**Travel requirement:** 
+**Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and non-GSA employees/contractors are eligible to apply.
 
-**Security clearance:** 
-Public trust. Background investigation required. 
+**Security clearance:**
+Public trust. Background investigation required.
 
-**Work Schedule:** 
-Full time 
+**Work Schedule:**
+Full time
 
 **Appointment Type:**
 Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
 
 
 ## Job Summary
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible. 
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Service. TTS is charged with developing innovative digital tools and services. TTS uses lean start­up and agile development principles to make easy things easy and hard things possible.
 
 As an Innovation Specialist the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
 
@@ -255,11 +255,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Contact Center Innovation Expertise:** Ability to apply innovative contact center tools and technologies and to help guide agency partners in making strategic & tactical innovative decisions. 
-- **Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency. 
+- **Contact Center Innovation Expertise:** Ability to apply innovative contact center tools and technologies and to help guide agency partners in making strategic & tactical innovative decisions.
+- **Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency.
 - **Agile Orientation:** Ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs..  
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals.
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment. 
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment.
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
@@ -276,19 +276,19 @@ and following our general guidance on creating federal style resume.
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience leading contact center and customer experience strategies for a government agency or organization. This experience must include **THREE** of the following:
-- Developing and executing contact center operations or strategies 
+- Developing and executing contact center operations or strategies
 - Developing and executing customer service modernization operations or strategies
-- Leading contact center technology implementation or deployment within internal applications or systems 
+- Leading contact center technology implementation or deployment within internal applications or systems
 - Developing key performance metrics
 
 2. Experience applying user-centered design disciplines.  This experience must include **ALL** of the following:
-- Using user-centered planning tools 
+- Using user-centered planning tools
 - Using agile, lean or other iterative product development methodologies
 
 3. Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must include **ALL** of the following:
-- Leading client-facing consulting projects or initiatives 
+- Leading client-facing consulting projects or initiatives
 - Collaborating with cross-functional teams to achieve organizational or project objectives and deliverables
-- Monitoring and providing mentorship, corrections, and feedback to team members 
+- Monitoring and providing mentorship, corrections, and feedback to team members
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 

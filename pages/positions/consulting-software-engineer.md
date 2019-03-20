@@ -1,7 +1,7 @@
 ---
 title: 18F - Consulting Software Engineer
 permalink: /join/consulting-software-engineer/
-state: upcoming
+state: closed
 job_post_type: tts
 
 opens:  'Tuesday, February 19, 2019 8:00am EDT'
@@ -15,9 +15,9 @@ contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 job_announcement_number: '1900272JCOTR'
-pd_job_title: 'Innovation Specialist' 
+pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
-series: '0301' 
+series: '0301'
 apply_url: https://goo.gl/forms/aTqYkUbiLuENMvvE3
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
@@ -27,10 +27,8 @@ supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
-  {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
-  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list](https://goo.gl/forms/QMbyPse8f4rfnZ9z2).
-  {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
-  {% endif %}
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
+{% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). {% else %} Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -150,14 +148,14 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
   
 ## Job Summary
   
-  This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
 
-  As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
+As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
-  This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
 
-  GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
-  You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
+GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
+You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
   - Health insurance (choose from a wide range of plans)
   - Life insurance coverage with several options
@@ -250,6 +248,31 @@ If found to be eligible and at least minimally qualified for the position, your 
 If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+
+## Qualifications
+
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
+order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
+and following our general guidance on creating federal style resume.
+
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+
+1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
+- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
+- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+
+2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
+- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
+- Developing digital applications using a relational or non-relational data layers
+- Developing digital applications using test-driven development and software testing tools
+
+3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
+- Developing digital applications using Infrastructure-as-a-Service (IaaS)
+- Developing digital applications using Platform-as-a-Service (PaaS)
+- Developing digital applications using containerization technologies
+- Developing digital applications using configuration management tools
+- Developing digital applications using infrastructure automation tooling
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
