@@ -61,12 +61,15 @@ This should provide a context for your work and accomplishments which helps us u
 
 ##### Relevant skills, tools, technologies used
 
-Describe the skills, methodologies, techniques, and tools you used in the position. Focus on those things significant to your work and relevant to the role for which you’re applying. Include such things as:
+Describing the skills, methodologies, techniques, and tools you used in a position is important, but they can't simply be a list. If the skills, tools and technologies is just a list, it will not be able to be used to help you meet the minimum qualifications required for the role. You need to provide the context of how and why those skilled were used in that position.
 
--   Scrum, scaled agile framework, paired-programming, test-driven development, contextual inquiry, ethnograph, Lean startup
--   Wireframes, sitemaps, card sorting, storyboards, journey maps, proto-typing, roadmaps, style guides, pattern libraries, A/B testing, continuous integration
--   Information architecture, service design, visual design, content design, project management, copywriting, server-side development, front end development, containerization, configuration management, infrastructure automation
--   Axure, Powerpoint, Trello, Amazon Web Services, Azure, Docker, Slack, Github, Ruby, Mercurial, PyUnit, JUnit, Rspec, Travis, MongoDB, Redis, Cassandra
+Here is an example of the **WRONG** way to do it:
+
+> Technical Skills Used: Ruby on Rails, Postgres, PostGIS SQL, JSON, Redis, Heroku, Amazon Web Services (AWS), Relational Database Services (RDS), Elastic Search environments
+
+Here is an example of the **CORRECT** way to do it:
+
+> Developed new features and provided technical support solutions utilizing the Ruby on Rails framework, Postgres/PostGIS SQL, JSON and Redis while maintaining and deploying to Heroku, Amazon Web Services (AWS) cloud technologies including Relational Database Services (RDS) and Elastic Search environments
 
 ### Example Resume Excerpt
 
@@ -85,11 +88,6 @@ This is an example of what you resume might look like for a position with TTS:
 > *Developer for USAJobs, a job posting and application collection
 > portal used by more than 500 offices/agencies posting 320k jobs and
 > with more than 10M applicant accounts.*
->
-> ***Technical Skills Used:** Javascript, Docker, Node.js, Git,
-> Postgres, test-driven development, scrum, Ruby on Rails,
-> Postgres/PostGIS SQL, JSON, Redis, Heroku, Amazon Web Services (AWS),
-> RESTful API, Rspec, CircleCi***
 >
 > -   *Led and managed backend web development*
 > -   *Supported USAJobs providing metrics and analytics dashboards*
