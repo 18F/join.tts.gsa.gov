@@ -68,8 +68,7 @@ select "Operations" from the list of roles**
 
 ## Key Objectives
 
-### You'll attract highly qualified and engaged candidates to our agency partners and shepherd them through the federal
-application process.   
+### You'll attract highly qualified and engaged candidates to our agency partners and shepherd them through the federal application process.   
 - Increase awareness of and clarify GSA’s and TTS’ mission and service offerings
 - Develop and nurture relationships with the technology contracting community 
 - Showcase impact of TTS’ work 
@@ -77,8 +76,7 @@ application process.
 - Build the TTS brand and support recruitment efforts 
 
 
-### Key objective #2: You will develop and institutionalize a comprehensive and highly successful recruitment strategy for
-your discipline. 
+### Key objective #2: You will develop and institutionalize a comprehensive and highly successful recruitment strategy for your discipline. 
 - Cultivate a deep knowledge of and curiosity about the technology space
 - Identify gaps and issues with the hiring process by conducting user research; use concrete data (user analytics) to develop
 solutions
@@ -87,8 +85,7 @@ connect with candidates
 - Diligently maintain applicant data and find new ways to use that data to inform hiring strategies
 
 
-### Key objective #3: You will maintain strong relationships and advise our agency partners who need recruitment as a
-service.
+### Key objective #3: You will maintain strong relationships and advise our agency partners who need recruitment as a service.
 - Navigate bureaucratic relationships and complex organizational structures to get buy-in from hiring managers around a
 talent acquisition strategy
 - Spend time understanding our partners’ business in order to effectively build talent acquisition strategies for them
