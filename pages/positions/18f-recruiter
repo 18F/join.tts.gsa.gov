@@ -12,7 +12,7 @@ location: 'Boston, MA'
 gs_level: 15
 salary_min: '134,778' 
 salary_max: '164,200' 
-org: 'TTS' 
+org: '18F' 
 contact_name: 'Amanda Schonfeld'
 contact_email: 'jointts@gsa.gov'
 
@@ -91,7 +91,35 @@ talent acquisition strategy
 - Spend time understanding our partners’ business in order to effectively build talent acquisition strategies for them
 - Maintain relationships through responsive and proactive touchpoints
 
+## Minimum Qualifications
 
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Minimum Qualifications for the position. There are two very important things to note about this step in the process:
+
+- Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
+- The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
+  - Examples of stuff that can't be used:
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+
+The Minimum Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/)
+
+### Specialized Experience
+
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }}
+in the Federal service. Specialized experience is:
+
+Experience developing and executing a talent acquisition program and managing hiring manager/client relationships. 
+This experience must include **ALL** of the following:  
+
+- Leading stakeholders/clients through participation in the talent acquisition process
+- Recruiting for open source technology positions that function in an agile and user centered design environment
+- Recruiting for additional disciplines including: design (visual, UX, or content) or product managers
+- Developing and implementing targeted recruitment attraction and acquisition strategies
+- Conducting direct recruitment outreach via a variety of methods (e.g. networking, email, social media, events, job postings and cold calling)
+- Sourcing candidates using Boolean, LinkedIn and alternative search techniques
+- Working with hiring teams to drive recruiting efforts, increase hiring efficacy, and improving process efficiency
+- Working on cross functional teams using collaboration, open communication, or working across functional borders
 
 
 {% else %}
