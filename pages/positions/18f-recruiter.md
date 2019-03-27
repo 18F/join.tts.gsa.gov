@@ -33,7 +33,7 @@ contact_email: 'jointts@gsa.gov'
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
 {% if page.opens == 'tbd' %}
-The target date for when this position will be officially open for applying has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+The target date for when this position will be officially open for applying has not yet been determined. If you’d like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter) and select Operations.
 {% else %}
 Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
@@ -60,9 +60,6 @@ ambassador for our agency partners, representing their work and job opportunitie
 candidates. You will potentially be recruiting for a wide range of disciplines including: design, engineering, product
 managers, strategists and business operations. You’ll work closely with hiring managers to implement targeted attraction
 strategies, and you’ll also ensure that all of the candidates have a pleasant application experience.
-
-**If you are interested in this role please [sign up to our mailing list](https://join.tts.gsa.gov/newsletter/) and 
-select "Operations" from the list of roles** 
 
 
 
