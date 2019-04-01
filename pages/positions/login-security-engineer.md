@@ -48,10 +48,7 @@ out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more ab
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are 
-selected. Total compensation may include locality pay based on the individual's duty location. For more salary information 
-including locality pay details, please visit 
-[OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -259,8 +256,7 @@ GS-{{ page.promotion_potential }}
 Base Salary - ${{ page.salary_min }} to ${{ page.salary_max }}
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pa
-y-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/
-policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal 
+y-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/). If you are a new federal 
 employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
 **Locations:**
