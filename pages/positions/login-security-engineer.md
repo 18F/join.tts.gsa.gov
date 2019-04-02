@@ -1,7 +1,7 @@
 ---
 title: Login.gov - Security Ops Engineer
 permalink: /join/security-ops-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -10,8 +10,8 @@ opens: 'April 1, 2019, 8am EDT'
 closes: 'April 5, 2019, 8pm EDT'
 locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '106,595'
+salary_max: '138,572'
 org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
@@ -22,7 +22,7 @@ job_announcement_number: '1900328JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLSfLRSJVurp-PdHauF2ZjSDSe6f5j9sS80_kl1dvmked06lVnw/viewform
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSc0dwDHy4BShFm-PWKnzeG7RCwf5DIquz_cgTxriPZbCFANbA/viewform?usp=sf_link
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
@@ -147,6 +147,16 @@ employees or contractors
 
 **Promotion Potential:**
 GS-{{ page.promotion_potential }}
+
+**Salary Range:**
+Base Salary - ${{ page.salary_min }} to ${{ page.salary_max }}
+
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pa
+y-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/). If you are a new federal 
+employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
+
+**Locations:**
+{{ page.locations }}
 
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)

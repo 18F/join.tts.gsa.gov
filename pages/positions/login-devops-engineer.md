@@ -1,13 +1,13 @@
 ---
 title: Login.gov - DevOps/Site Reliability Engineer 
 permalink: /join/devops-engineer/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: DevOps/Site Reliability Engineer
-opens: 'March 18, 2019, 8am EDT'
-closes: 'March 22, 2019, 8pm EDT'
+opens: 'tbd'
+closes: 'tbd'
 locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '105,123'
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1900320JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
