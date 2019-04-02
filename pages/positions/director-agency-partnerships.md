@@ -46,9 +46,15 @@ contact_email: 'jointts@gsa.gov'
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
+Please note the maximum salary available for the GS pay system is **$166,500**
+
+The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+
+You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
+
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -203,6 +209,7 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
 
 1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
+
 2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
   - Examples of stuff that can't be used:
     - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
@@ -212,3 +219,36 @@ The information in this sections outlines the criteria that your application wil
   The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
 {% endif %}  
+
+{% if page.state != 'upcoming' %}
+
+## Evaluation
+
+We will use a method called Category Rating to assess your application.
+
+**Here’s how it will work:**
+
+You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
+
+- **Software Engineering Technical Experience:** Deliver technical solutions and products using software engineering technology
+- **Software Engineering Practices:** Deliver innovative technical solutions and products using established engineering best practices
+- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
+- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
+
+If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
+
+If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+
+Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+
+{% endif %}
+
+## Qualifications
+
+Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
+
+For each job on your resume, provide:
+
+- the exact dates you held each job (from month/year to month/year or “present”)
+- number of hours per week you worked (if part time)
