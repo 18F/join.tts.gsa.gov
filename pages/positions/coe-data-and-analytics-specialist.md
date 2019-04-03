@@ -1,6 +1,6 @@
 ---
 title: Centers of Excellence - Data & Analytics Specialist
-permalink: join/coe-data-and-analytics-specialist/
+permalink: /join/coe-data-and-analytics-specialist/
 state: upcoming
 job_post_type: tts
 
