@@ -12,7 +12,7 @@ locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtua
 gs_level: 15
 salary_min: '106,595'
 salary_max: '138,572'
-org: '18F'
+org: 'Login.gov'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
