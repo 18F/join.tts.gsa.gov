@@ -61,8 +61,6 @@ candidates. You will potentially be recruiting for a wide range of disciplines i
 managers, strategists and business operations. You’ll work closely with hiring managers to implement targeted attraction
 strategies, and you’ll also ensure that all of the candidates have a pleasant application experience.
 
-
-
 ## Key Objectives
 
 ### You'll attract highly qualified and engaged candidates to our agency partners and shepherd them through the federal application process.   
