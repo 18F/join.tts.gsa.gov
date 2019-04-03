@@ -42,7 +42,7 @@ supervisory_status: 'No'
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Salary Range:**
