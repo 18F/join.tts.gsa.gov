@@ -8,7 +8,7 @@ job_post_type: tts
 role_name: Security Ops Engineer
 opens: 'April 1, 2019, 8am EDT'
 closes: 'April 5, 2019, 8pm EDT'
-locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
+location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '106,595'
 salary_max: '138,572'
