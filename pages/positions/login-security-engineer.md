@@ -121,7 +121,7 @@ differences
 
 ## Basic Information
 
-**Location:**
+**Locations:**
 {{ page.location }}
 
 **Salary Range:**
