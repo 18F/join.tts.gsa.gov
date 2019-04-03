@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Data & Analytics Specialist
 permalink: join/data-and-analytics-specialist/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -10,19 +10,19 @@ opens: TBD
 closes: TBD
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '134,789'
-salary_max: '164,200'
+salary_min: '137,849'
+salary_max: '166,500'
 org: 'Centers of Excellence (CoE)'
-contact_name: 'Leigh Finkel'
+contact_name: 'Amanda Schonfeld'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: '1900171JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '2'
 series: '0301'
-# apply_url: https://docs.google.com/forms/d/e/1FAIpQLSefu-2w4fy-eR4vJJmwrbrFx1lRO2CGmQ3Y4ArRkLoYUC-x0A/viewform
+apply_url: 
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
@@ -46,15 +46,7 @@ supervisory_status: 'NO'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
-
-Please note the maximum salary available for the GS pay system is **$166,500**
-
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
-
-You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
-
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -107,7 +99,7 @@ Data & Analytics Specialists should not be theoreticians, but rather practitione
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+${{ page.salary_min }} to ${{ page.salary_max }}
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
@@ -150,11 +142,11 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
   
 ## Job Summary
   
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The COE office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
 
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of COE.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -220,13 +212,13 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Analytics Technical Fluency:** The ability to assimilate, synthesize and leverage highly technical data to drive decision making and effectively communicate that information to audiences with a wide range of technical expertise.
-- **Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency.   
-- **Agile Orientation:** Ability to apply agile methodologies to deliver work in a frequent and iterative fashion to address user needs.
+- **Analytics Technical Fluency:** The ability to assimilate, synthesize and leverage highly technical data to drive decision making and effectively communicate that information to audiences with a wide range of technical expertise
+- **Leadership:** Ability to effectively inspire and lead cross-functional teams to meet the project vision and shared objectives of agency partner organizations, while simultaneously providing support and guidance to all members of the partner agency
+- **Agile Orientation:** Ability to apply agile methodologies to deliver work in a frequent and iterative fashion to address user needs
 - **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish
-a shared vision and understanding of a project’s technical implementation, objectives and goals.
+a shared vision and understanding of a project’s technical implementation, objectives and goals
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact
-environment.
+environment
 
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
