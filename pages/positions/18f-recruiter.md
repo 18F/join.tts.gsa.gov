@@ -8,7 +8,7 @@ job_post_type: tts
 
 opens: 'tbd'
 closes: 'tbd'
-location: 'Boston, MA'
+location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Boston, MA'
 gs_level: 15
 salary_min: '134,778' 
 salary_max: '164,200' 
