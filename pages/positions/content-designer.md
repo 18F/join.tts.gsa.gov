@@ -9,19 +9,19 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Content Designer
-opens: Monday, July 16, 2018
-closes: Friday, July 20, 2018 8:00pm EDT
+opens: 'TBD'
+closes: 'TBD'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '106,595'
+salary_max: '138,572'
 org: '18F'
 contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1800505JCOTR'
+job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
