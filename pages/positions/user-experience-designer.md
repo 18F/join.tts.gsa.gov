@@ -8,27 +8,27 @@ redirect_from:
   - /join/18f-ux-designer-closed/
   - /join/18F-user-experience-designer/
   - /join/upcoming-18F-user-experience-designer/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-opens: July 23, 2018
-closes: July 27, 2018, 8PM EDT
+opens: 'TBD'
+closes: 'TBD'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '106,595'
+salary_max: '138,572'
 org: '18F'
 contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: '1800513JCOTR'
+job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: https://goo.gl/forms/uVSGPKNPWn6TvkWM2
+apply_url: 
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
