@@ -73,8 +73,6 @@ We’re looking for candidates who have delivered visual design artifacts iterat
 
 ## Key Objectives
 
-## Key Objectives
-
 ### Objective #1: Lead projects from a visual design perspective.
 - Coach agency partners through the visual design process and establish a shared vision for the user experience
 - Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research
