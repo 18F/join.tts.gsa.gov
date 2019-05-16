@@ -75,6 +75,8 @@ You will need a thorough knowledge of infrastructure, networking, cloud, integra
 
 Although this position isn’t an “official” supervisor, you will have accountability and responsibility for the overall technology portfolio function.
 
+**Please email jointts@gsa.gov if you are interested in this opportunity**
+
 
 ## Key Objectives
 
