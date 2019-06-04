@@ -1,7 +1,7 @@
 ---
 title: TTS - Director of Outreach and Marketing
 permalink: /join/director-outreach-marketing/
-state: upcoming 
+state: closed 
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
