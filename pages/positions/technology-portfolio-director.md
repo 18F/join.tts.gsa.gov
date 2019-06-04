@@ -1,7 +1,7 @@
 ---
 title: TTS Operations - Technology Portfolio Director
 permalink: /join/technology-portfolio-director/
-state: upcoming 
+state: closed 
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
