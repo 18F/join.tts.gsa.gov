@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
 # pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
 # num_vacancies: 'ENTER NUMBER OF VACANCIES'
 # series: '0301' ENTER SERIES IF DIFFERENT
