@@ -1,7 +1,7 @@
 ---
 title: 18F - Recruiter
 permalink: /join/recruiter/
-state: upcoming 
+state: closed 
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
