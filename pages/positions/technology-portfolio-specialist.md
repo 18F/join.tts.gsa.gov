@@ -32,7 +32,7 @@ contact_email: 'jointts@gsa.gov'
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
-  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you are interested in this role please reach out to jointts@gsa.gov
   {% endif %}
   
   Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
@@ -76,7 +76,7 @@ efficient, sustainable, agile, and adaptable manner. You will be responsible for
 * Acquisition - customer centric compliance/ transparency
 * Sandboxing/piloting
 
-** If you are interested in this role, please email jointts@gsa.gov**
+
 
 ## Key Objectives
 
@@ -212,22 +212,7 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 {% if page.state == 'upcoming' %}
 
-## Application Evaluation
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
-
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
-
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
-
-{% endif %}  
-
-{% if page.state != 'upcoming' %}
 
 ## Evaluation
 
@@ -251,34 +236,4 @@ Within each category, veterans will receive selection priority over non-veterans
 
 {% endif %}
 
-## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
-
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
-
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
-- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
-- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
-
-2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
-- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
-- Developing digital applications using a relational or non-relational data layers
-- Developing digital applications using test-driven development and software testing tools
-
-3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
-- Developing digital applications using Infrastructure-as-a-Service (IaaS)
-- Developing digital applications using Platform-as-a-Service (PaaS)
-- Developing digital applications using containerization technologies
-- Developing digital applications using configuration management tools
-- Developing digital applications using infrastructure automation tooling
-
-Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
-
-For each job on your resume, provide:
-
-- the exact dates you held each job (from month/year to month/year or “present”)
-- number of hours per week you worked (if part time)
