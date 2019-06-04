@@ -2,7 +2,7 @@
 title: TTS - Technology Portfolio Specialist
 permalink: /join/technology-portfolio-specialist/
 state: upcoming
-job_post_type: usajobs
+job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Technology Portfolio Specialist
