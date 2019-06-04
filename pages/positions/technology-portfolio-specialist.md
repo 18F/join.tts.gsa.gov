@@ -30,13 +30,14 @@ contact_email: 'jointts@gsa.gov'
 # supervisory_status: 'YES' or 'NO'
 ---
 
-{% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
-  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you are interested in this role please reach out to jointts@gsa.gov
-  {% endif %}
-  
-  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+{{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
+{% if page.opens == 'tbd' %}
+The target date for when this position will be officially open for applying has not yet been determined. If you’d like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter) and select Operations.
+{% else %}
+Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
+
 
 {% if page.state != 'upcoming' %}
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
@@ -76,7 +77,7 @@ efficient, sustainable, agile, and adaptable manner. You will be responsible for
 * Acquisition - customer centric compliance/ transparency
 * Sandboxing/piloting
 
-
+**Please email jointts@gsa.gov if you are interested in this opportunity**
 
 ## Key Objectives
 
@@ -214,25 +215,6 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 
 
-## Evaluation
-
-We will use a method called Category Rating to assess your application.
-
-**Here’s how it will work:**
-
-You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
-
-- **Software Engineering Technical Experience:** Deliver technical solutions and products using software engineering technology
-- **Software Engineering Practices:** Deliver innovative technical solutions and products using established engineering best practices
-- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
-- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
-
-If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
-
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
-
-Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
 {% endif %}
 
