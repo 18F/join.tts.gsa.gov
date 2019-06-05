@@ -33,7 +33,7 @@ contact_email: 'jointts@gsa.gov'
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
-  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you are interested in this position please reach out to jointts@gsa.gov
+  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. **If you are interested in this position please reach out to jointts@gsa.gov**
   {% endif %}
   
   Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
