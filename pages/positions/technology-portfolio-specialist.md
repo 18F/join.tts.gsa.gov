@@ -5,6 +5,7 @@ state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
+
 role_name: Technology Portfolio Specialist
 opens: 'tbd'
 closes: 'tbd'
@@ -211,11 +212,11 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 {% endif %}
 
-{% if page.state == 'upcoming' %}
 
 
 
 
-{% endif %}
+
+
 
 
