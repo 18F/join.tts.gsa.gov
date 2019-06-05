@@ -5,21 +5,22 @@ state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
+
 role_name: Technology Portfolio Specialist
-opens: 'TBD'
-closes: 'TBD'
+opens: 'tbd'
+closes: 'tbd'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-gs_level: GS 15
+gs_level: 15
 salary_min: '106,595'
 salary_max: '138,572'
-org: 'TTS Operations'
+org: 'TTS'
 contact_name: 'Amanda Schonfeld'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
 # job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist
+# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
 # num_vacancies: 'ENTER NUMBER OF VACANCIES'
 # series: '0301' ENTER SERIES IF DIFFERENT
 # apply_url: APPLICATION URL
@@ -30,13 +31,13 @@ contact_email: 'jointts@gsa.gov'
 # supervisory_status: 'YES' or 'NO'
 ---
 
-{{% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.title }}.
-{% if page.opens == 'tbd' %} The target date for when this position will be officially open for applying has not yet been determined. If you’d like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter) and select Operations.
-{% else %}
-Applications will be open for submission at {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
+  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you are interested in this position please reach out to jointts@gsa.gov
+  {% endif %}
+  
+  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
-
 
 {% if page.state != 'upcoming' %}
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
@@ -64,36 +65,29 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-We are looking for someone to join the TTS Technology Portfolio team which sits under TTS Operations.
-For this role, you will need a thorough knowledge of infrastructure, networking, cloud, integration, data, custom & packaged 
-applications, and security to ensure that TTS’ infrastructure offerings and architecture meets current and future needs in an 
-efficient, sustainable, agile, and adaptable manner. You will be responsible for: 
+This role lives within the TTS Technology Portfolio Team, which was previously called infrastructure. 
+
+For this role, you will need a thorough knowledge of infrastructure, networking, cloud, integration, data, custom & packaged applications, and security to ensure that TTS’ infrastructure offerings and architecture meets current and future needs in an efficient, sustainable, agile, and adaptable manner. You will be responsible for: 
 
 * Technology Infrastructure
 * Information System Security - Ensuring monitoring, compliance and reporting requirements are met 
 * Systems governance 
 * IT Portfolio Management/Process
-* Acquisition - customer centric compliance/ transparency
-* Sandboxing/piloting
+  * Acquisition - customer centric compliance/ transparency
+  * Sandboxing/piloting
 
-**Please email jointts@gsa.gov if you are interested in this opportunity**
 
 ## Key Objectives
 
 ### Key objective #1: You will execute initiatives to modernize TTS’ systems and infrastructure, empowering TTS to better deliver on its mission.
-- Partner with others in TTS’ operations, and execute on an overall technical strategy, investment, and acquisition plan for 
-TTS that results in lower costs, availability of highly usable software and infrastructure and higher velocity
-- Use modern research methods and/or internal TTS research resources to fully understand the real needs of TTS users and the 
-impact driven by systems & cloud infrastructure
-- Analyze current system architecture and existing products to identify the functionality and capabilities that can be 
-leveraged and the areas requiring refactoring
-- Develop solutions with an API first mindset using reusable components and operational strategies to support scalability, 
-availability, performance, monitoring, backup, etc, to improve the security, resiliency, and agility of infrastructure and 
-applications
-- Establish and maintain the technical infrastructure for managing both performance and customer relationship management for 
-TTS
+
+- Partner with others in TTS’ operations, and execute on an overall technical strategy, investment, and acquisition plan for TTS that results in lower costs, availability of highly usable software and infrastructure and higher velocity
+- Use modern research methods and/or internal TTS research resources to fully understand the real needs of TTS users and the impact driven by systems & cloud infrastructure
+- Analyze current system architecture and existing products to identify the functionality and capabilities that can be leveraged and the areas requiring refactoring
+- Develop solutions with an API first mindset using reusable components and operational strategies to support scalability, availability, performance, monitoring, backup, etc, to improve the security, resiliency, and agility of infrastructure and applications
+- Establish and maintain the technical infrastructure for managing both performance and customer relationship management for TTS
 - Foster appropriate and innovative use of new tools by sponsoring or supporting pilot programs
-- Inspire honesty and integrity through open communication and liberal knowledge sharing 
+Inspire honesty and integrity through open communication and liberal knowledge sharing 
 
 
 ### Key objective #2: You will develop a framework of best practices and controls to address systems governance and security.
@@ -102,12 +96,13 @@ TTS
 - Develop and enforce policy around the use of software and services on TTS local systems
 - Coordinate with TTS Office of Acquisition on developing and enforcing policy of FITARA and IT Standards review of acquisitions
 - Oversee Information System and Software Authorizations:
-  - Coordinate with software providers about FedRAMP authorization or component authorization
-  - Support continuous improvement of the Authority of Operate (ATO) processes, providing feedback and recommendations to GSA IT Security
+- Coordinate with software providers about FedRAMP authorization or component authorization
+- Support continuous improvement of the Authority of Operate (ATO) processes, providing feedback and recommendations to GSA IT Security
 
-### Key objective #3: Objective #3: Practice an exceptional level of customer service for TTS, providing a unique, tailored experience
-- Explain products or services to people who have varying levels of technical knowledge — always meet the people where they’re 
-at
+
+### Key objective #3: Practice an exceptional level of customer service for TTS, providing a unique, tailored experience.  
+
+- Explain products or services to people who have varying levels of technical knowledge — always meet the people where they’re at
 - Facilitate licensing, update, and installation of software and infrastructure process for TTS users that reduces user burden and doesn’t interfere with daily activities 
 - Empathetically guide TTS stakeholders through the bureaucracy of the sometimes long and arduous acquisition, compliance, and security processes 
 - Develop and make widely available concise and clear instructions on the processes outlined above.
@@ -210,11 +205,14 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 {% endif %}
 
-{% if page.state == 'upcoming' %}
 
+## Qualifications
 
+Coming soon
 
+Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
-{% endif %}
+For each job on your resume, provide:
 
-
+- the exact dates you held each job (from month/year to month/year or “present”)
+- number of hours per week you worked (if part time)
