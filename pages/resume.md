@@ -61,7 +61,7 @@ This should provide a context for your work and accomplishments which helps us u
 
 ##### Relevant skills, tools, technologies used
 
-Describing the skills, methodologies, techniques, and tools you used in a position is important, but they can't simply be a list. If the skills, tools and technologies is just a list, it will not be able to be used to help you meet the minimum qualifications required for the role. You need to provide the context of how and why those skilled were used in that position.
+Describing the skills, methodologies, techniques, and tools you used in a position is important, but they can't simply be a list. If the skills, tools and technologies is just a list, it will not be able to be used to help you meet the minimum qualifications required for the role. You need to provide the context of how and why those skills were used in that position.
 
 Here is an example of the **WRONG** way to do it:
 
