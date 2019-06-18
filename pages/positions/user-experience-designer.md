@@ -13,6 +13,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
+role_name: User Experience Designer
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
