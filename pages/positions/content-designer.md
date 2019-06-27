@@ -1,6 +1,6 @@
 ---
-title: 18F - Content Designer
-permalink: /join/content-designer/
+title: 18F - Content Strategist
+permalink: /join/content-strategist/
 redirect_from:
   - /join/18f-content-designer-gs15-closed/
   - /join/18f-content-designer-gs15/
@@ -8,7 +8,7 @@ state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Content Designer
+role_name: Content Strategist
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
@@ -25,7 +25,7 @@ job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: https://goo.gl/forms/ejUE4ZaH0SUi0FhH3
+apply_url: 
 ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: Non Bargaining Unit
@@ -51,7 +51,6 @@ supervisory_status: 'No'
 **Salary Range:**
 The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-
 The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
@@ -66,38 +65,38 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-Content designers on the 18F experience design team collaborate with agency partners, product managers, other designers, and engineers to deliver user-centered content for audiences both inside and outside of government. Starting from the premise that good content is easy to understand and meets people where they are, our content designers go far beyond copywriting. They work with partners to craft strategies for creating, managing, and publishing content. They work with user experience researchers to teach, participate in, and sometimes lead usability testing and user-centered writing. And they work with visual designers and engineers to develop interactive experiences that treat all aspects of the experience as essential.
+As an 18F content strategist, you’ll go far beyond copywriting — you’ll work on cross-functional teams of experts in design, product strategy, technical architecture, software engineering, and procurement. Besides creating and maintaining clear, accessible content, you’ll also help our partners improve (or develop) their user-centered content practices and promote content best practices across government.  
 
-As an 18F content designer, you’ll work on cross-functional teams of experts in design, product strategy, technical architecture, software engineering, and procurement. Besides creating and maintaining clear, accessible content, you’ll also help our partners improve (or develop) their user-centered content practices and promote content best practices across government.  
+The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our content strategists focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to write beautifully. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place. 
 
-The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our content designers focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to write beautifully. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place.
+We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, who love to help others discover better ways of creating great content even more than they love writing it. 
 
-We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, who love to help others discover better ways of creating great content even more than they love writing it.
 
 
 ## Key Objectives
 
 ### Objective #1: Lead projects from a content perspective.
-- Coach agency partners through the design process and establish a shared vision for the user experience.
-- Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research.
-- Identify content opportunities through exercises such as content audits, comparative analyses, gap analyses, and site mapping, and make recommendations based on what you discover.
-- Navigate complex organizational relationships to bring stakeholders together around common editorial goals and priorities.
-- Give agency partners and peers advice they need to hear over what they want to hear, in a manner that respects their intelligence and experience.
+- Coach agency partners through the design process and establish a shared vision for the user experience
+- Identify user and organizational needs through formal interviews, informal conversations, contextual inquiry, workshops, and analytics research
+- Identify content opportunities and make recommendations based on exercises such as content audits, comparative analyses, gap analyses, or site mapping
+- Navigate complex organizational relationships to bring stakeholders together around common editorial goals and priorities
+- Give agency partners and peers advice they need to hear over what they want to hear, in a manner that respects their intelligence and experience
+
 
 ### Objective #2: Deliver high-quality, user-centered content for agency partners.
-- Create clear, accessible, and concise content in a fast-paced, collaborative environment. Examples include landing pages, interface writing, navigation labels, notifications, research findings, and launch materials.
-- Iterate quickly by writing, editing, and collaborating on drafts.
-- Incorporate continuous feedback from users, peers, and stakeholders by leading content-focused usability and critique sessions.
-- Implement content changes in GitHub, and make content design work visible in shared project management tools.
-- Maintain consistency with our style and standards in the 18F Content Guide. Work with partner agencies to evolve their style where appropriate.
-- Uphold our team values of being clear, concise, inclusive, curious, and honest — in both your writing and daily collaboration.
+- Create clear, accessible, and concise content in a collaborative and iterative environment. This could include landing pages, interface writing, navigation labels, notifications, research findings, or launch materials
+- Incorporate continuous feedback from users, peers, and stakeholders by leading content-focused usability and critique sessions
+- Maintain consistency with our style and standards in the [18F Content Guide](https://content-guide.18f.gov/). Work with partner agencies to evolve their style where appropriate
+- Uphold our team values of being clear, concise, inclusive, curious, and honest — in both writing and daily collaboration
+
 
 ### Objective #3: Contribute to the continued success of the content team and shared resources.
-- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project.
-- Contribute to team-wide resources and training materials, including tutorials, guides, presentations, and design toolkits.
-- Recognize when practices or processes are inconsistent or no longer serve the team, and recommend a way forward to improve effectiveness or efficiency.
-- Share your work in an unfinished state and give peer feedback in weekly critique sessions and drop-in labs.
-- Promote the practice of content design in workshops, office hours, brown bags, and content-related events, and find ways to raise awareness of the content team’s work among external audiences.
+- Continually promote 18F’s ways of working by making a strong case for iterative, user-centered design on every project
+- Contribute to team-wide resources and training materials, including methods cards, tutorials, guides, presentations, and design toolkits
+- Recognize when practices or processes are inconsistent or no longer serve the team, and recommend a way forward to improve effectiveness or efficiency
+- Share work in an unfinished state and give peer feedback in weekly critique sessions and drop-in labs
+- Promote the practice of content design in workshops, office hours, brown bags, and content-related events, and find ways to raise awareness of the content team’s work among external audiences
+
 
 {% if page.state != 'upcoming' %}
 
