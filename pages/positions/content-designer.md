@@ -12,9 +12,9 @@ role_name: Content Designer
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
-gs_level: 15
-salary_min: '106,595'
-salary_max: '138,572'
+gs_level: 14
+salary_min: '90,621'
+salary_max: '117,810'
 org: '18F'
 contact_name: 'Liz Scott'
 contact_email: 'jointts@gsa.gov'
