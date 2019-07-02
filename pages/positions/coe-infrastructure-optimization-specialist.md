@@ -1,6 +1,6 @@
 ---
-title: Infrastructure Optimization Specialist
-permalink: /join/infrastructure-optimization-specialist/
+title: CoE - Infrastructure Optimization Specialist
+permalink: /join/coe-infrastructure-optimization-specialist/
 redirect from:
   -/join/infrastructure-optimization-specialist-closed/
 state: upcoming
