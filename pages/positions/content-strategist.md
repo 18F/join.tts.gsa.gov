@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Content Strategist'
-opens: 'July 15, 2019 at 8am ET'
-closes: 'July 22, 2019 at 8pm ET'
+opens: 'July 15, 2019 at 8am EDT'
+closes: 'July 22, 2019 at 8pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 14
 salary_min: '90,621'
