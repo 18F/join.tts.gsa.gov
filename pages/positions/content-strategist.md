@@ -1,16 +1,13 @@
 ---
 title: 18F - Content Strategist
 permalink: /join/content-strategist/
-redirect_from:
-  - /join/18f-content-designer-gs15-closed/
-  - /join/18f-content-designer-gs15/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Content Strategist
-opens: 'TBD'
-closes: 'TBD'
+role_name: 'Content Strategist'
+opens: 'July 15, 2019 at 8am EDT'
+closes: 'July 22, 2019 at 8pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 14
 salary_min: '90,621'
@@ -25,8 +22,8 @@ job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: 
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeRkJL-zfLIqbWVWzWQx1gZK-YoQ2ewgsJGUHM6TP9d3mqW1A/viewform
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: Non Bargaining Unit
 promotion_potential: '15'
@@ -70,7 +67,6 @@ As an 18F content strategist, you’ll go far beyond copywriting — you’ll wo
 The products 18F helps design and create are as varied as the ways the government serves the public. That’s why our content strategists focus on learning from our partners’ expertise and reflecting that to their users in a clear, consistent way even more than they focus on trying to write beautifully. You’ll work with our partners more than for them, so that at the end of an engagement, those partners are in a better position to keep building on the work they came to 18F for in the first place. 
 
 We’re looking for candidates who have delivered content iteratively, who have wrestled with the challenges of producing compelling copy in large organizations that have to balance competing interests, who love to help others discover better ways of creating great content even more than they love writing it. 
-
 
 
 ## Key Objectives
@@ -149,7 +145,7 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
   
 ## Job Summary
   
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
 
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
@@ -188,7 +184,16 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 ## Duties
 
 Typical duties for the fellow include but are not limited to:
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
+
+- Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward-thinking design and development principles to product or services development, delivery and program management, such as lean startup, user-centered design, and agile development;
+- Analyzing and scoping the technical and policy requirements
+needed to implement complex digital solutions;
+- Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice;
+conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences;
+- Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services,
+leading to their adoption across citizen and business-facing government services;
+- Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; and
+- Performing other related duties, as assigned
 
 {% endif %}
 
@@ -241,18 +246,22 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience planning, writing, editing, and publishing content for digital products or services. This experience must include **ONE** of the following:
-- Creating content for mobile applications
+1. Experience planning, writing, editing, and publishing content with a focus on digital products or services. This experience must include **ONE** of the following:
 - Creating content for websites or web-based applications
-- Creating content for internal teams
+- Creating content for intranets or other employee-facing products or services
+- Creating content for use across multiple contexts and communication channels (such as mobile, SMS, desktop, print)
 
-2. Experience developing content strategy or content design approaches. This experience must include the following:
+
+2. Experience developing content strategy, information architecture, or content design approaches. This must include **TWO** of the following:
 - Gathering feedback from external users
-- Researching organizational or market constraints
+- Experience with client management, collaborating with clients, or building buy-in with stakeholders
+- Experience designing for content in languages other than English
+- Experience organizing information for websites, digital applications, or other data-heavy projects
 
-3. Experience advocating for content design with stakeholders and project team members.
-
-4. Experience leading content or design efforts for cross-functional teams building complex digital projects.
+3. Experience participating in content or design efforts for cross-functional teams building complex digital projects. This must include **ONE** of the following:
+- Experience collaborating with teammates across different disciplines such as design, product, or engineering
+- Experience working on a digital project for complex organizations such as public sector institutions, private corporations or non-profits
+- Experience working in highly-regulated domains or bureaucratic environments
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
