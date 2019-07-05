@@ -1,7 +1,7 @@
 ---
 title: 18F - Content Strategist
 permalink: /join/content-strategist/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
