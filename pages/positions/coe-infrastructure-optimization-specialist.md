@@ -1,5 +1,5 @@
 ---
-title: CoE - Infrastructure Optimization Specialist
+title: Centers of Excellence - Infrastructure Optimization Specialist
 permalink: /join/coe-infrastructure-optimization-specialist/
 redirect from:
   -/join/infrastructure-optimization-specialist-closed/
