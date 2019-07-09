@@ -6,7 +6,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Content Strategist'
-opens: 'July 15, 2019 at 8am EDT'
+opens: 'July 15, 2019'
 closes: 'July 22, 2019 at 8pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 14
@@ -26,7 +26,7 @@ apply_url: https://docs.google.com/forms/d/e/1FAIpQLSeRkJL-zfLIqbWVWzWQx1gZK-YoQ
 ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: Non Bargaining Unit
-promotion_potential: '15'
+promotion_potential: 'N/A'
 supervisory_status: 'No'
 ---
 
@@ -35,7 +35,7 @@ supervisory_status: 'No'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -114,7 +114,7 @@ employees or contractors
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -141,7 +141,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service: Not to exceed 24 months (2 years); may be extended up to an additional 2 years for a maximum of 4 years total.
   
 ## Job Summary
   
@@ -193,7 +193,6 @@ conferring with key government/private officials and top experts in the field, r
 - Developing authoritative papers/reports; developing and leading adoption of government-wide standards for digital services,
 leading to their adoption across citizen and business-facing government services;
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; and
-- Performing other related duties, as assigned
 
 {% endif %}
 
