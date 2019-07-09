@@ -114,7 +114,7 @@ employees or contractors
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -123,7 +123,7 @@ employees or contractors
 {{ page.series }} - {{ page.gs_level }}
 
 **Promotion Potential:**
-GS-{{ page.promotion_potential }}
+{{ page.promotion_potential }}
 
 **Number of vacancies:**
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
