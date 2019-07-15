@@ -98,7 +98,7 @@ ADVOCACY AND OUTREACH
 * Contributed as one of four subject matter experts to the University of Minnesota’s Content Strategy Self-Help Guide, recommending resources and structuring process for the centrally-maintained system to help contributors at all levels improve content writing and strategic thinking for the web.
 * Frequently presented at local Twin Cities-based tech meetups, translating content strategy best practices to adjacent fields such as front- and back-end development, UX research, accessibility, interactive design, and marketing.
 
-TECHNICAL SKILLS: Content strategy, copywriting, content design, pattern libraries, style guides, plain language, comprehension/reading levels. Card sorting (OptimumSort), tree testing (Treejack), usability evaluation, user research methods. Asana, Trello, Apple Keynote, Slack, Hemingway, Google Drive, MS Office Suite (Word, Excel, Power Point), semantic HTML.
+TECHNICAL SKILLS: Provided strategic content design with skills in copywriting, style guides, plain language, comprehension/reading levels. Conducted usability evaluations using card sorting (OptimumSort), tree testing (Treejack), direct observation user research methods. Worked on a cross-functional team that used Asana, Trello, Slack, Hemingway, pattern libraries, Google Drive, MS Office Suite (Word, Excel, Power Point), and semantic HTML. 
 
 SELECTED WORK
 * CEHD Academic Programs, www.cehd.umn.edu/programs  
