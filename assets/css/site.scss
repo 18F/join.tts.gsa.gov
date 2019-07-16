@@ -1,22 +1,83 @@
 ---
 ---
 
+// Set typographic styles
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
+  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  line-height: 1.3;
+  margin-bottom: 0.5em;
+  margin-top: 1.5em; }
+
+h1 {
+  font-weight: 600; }
+
 h2 {
   margin-top: 3em;
-}
+  color: #00567E; }
 
+a:hover, 
+a:active {
+  color: #00567E; }
+
+// Set banner background color
+.usa-banner {
+  background-color: #d8f7ff; }
+
+// Set header background color
+.usa-header {
+  background-color: #202020; }
+
+// Set nav as hidden
 .usa-nav {
-  display: none;
-}
+  display: none; }
 
-// Sticky sidebar
+// Set menu button default colors
+.usa-menu-btn {
+  color: #1c304a;
+  background-color: #00cfff; }
+
+// Set menu button hover colors
+.usa-menu-btn:hover {
+  color: #1c304a;
+  background-color: #b3efff; }
+
+// Set sidenav default colors
+.usa-sidenav-list a.usa-current {
+  border-left: 0.4rem solid #00cfff;
+  color: #00567E; }
+
+// Set sidenav hover colors
+.usa-sidenav-list a:hover {
+  background-color: #d8f7ff;
+  color: #00567E; }
+  
+// Set sidenav border color
+.usa-sidenav-list > li {
+  border-top: 1px solid #00CFFF; }
+
+// Set table header background color
+thead th,
+thead td {
+  background-color: #d8f7ff; }
+
+// Set table border color
+th,
+td {
+  border: 1px solid#B6B6B6; }
+
+// Set sidebar as sticky
 @media screen and (min-width: 951px) {
   .usa-layout-docs {
     .sidenav {
       position: sticky;
-      top: 0;
+      top: 0; }
     }
-  }
 }
 
 // Shorten logo text on small screen sizes
