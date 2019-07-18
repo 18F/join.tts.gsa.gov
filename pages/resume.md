@@ -23,6 +23,8 @@ resume, which may be several pages long and should include detailed
 information about the jobs you’ve held, your responsibilities, and what
 you accomplished.
 
+This is an [example](https://handbook.18f.gov/resume/) of what your resume might look like for a position with TTS.
+
 ### General Recommendations
 
 -   When you’re preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
