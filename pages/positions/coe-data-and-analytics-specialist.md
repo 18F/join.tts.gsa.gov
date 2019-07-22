@@ -60,14 +60,14 @@ We are looking for a Data & Analytics Specialist to join the IT Modernization Ce
 
 The federal government has hundreds of thousands of data sets and managing that data is an extremely challenging task. As a Data & Analytics Specialist, you will help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
 
-Data & Analytics Specialists should not be theoreticians, but rather practitioners in the craft of data science. You’ll need to be able to get hands on when necessary, but we often help partner agencies capitalize on their existing tools and resources or work in tandem with government contractors. It’s imperative that our  Data Analytics Specialist is dedicated to results and has genuine passion about building a sustainable data infrastructure within government. We aspire to not only help our partners solve their problems efficiently and with the ability to scale, but also help them do it in an agile way.
+Data & Analytics Specialists should not be theoreticians, but rather practitioners and leaders in the craft of data science. You’ll need to be able to get hands on when necessary, but we lead government contractor teams to help partner agencies capitalize on their existing tools and resources. It’s imperative that our Data and Analytics Specialist is dedicated to results and has genuine passion about building a sustainable data infrastructure within government. We aspire to not only help our partners solve their problems efficiently and with the ability to scale, but also help them do it in an agile way.
 
 
 ## Key Objectives
 
-### Key objective #1: You work with our partner agencies to implement or improve their capabilities to use quantitative and qualitative methods to collect, validate, analyze, and display customer feedback and performance data to aid service improvement and decision-making.
+### Key objective #1: You will lead cross-functional teams to help federal agencies implement or improve their capabilities to use quantitative and qualitative methods to collect, validate, analyze, and display customer feedback and performance data to aid service improvement and decision-making.
 
-- Work on cross-functional teams to learn about the agency’s data needs within their existing systems to establish appropriate performance metrics and setting reasonable expectations for results
+- Lead cross-functional teams to learn about the agency’s data needs within their existing systems to establish appropriate performance metrics and setting reasonable expectations for results
 - Develop methods to monitor, evaluate, analyze, and report progress toward achieving performance goals and to inform continual improvements to service design and delivery
 - Evaluate existing feedback and performance tools against best practices and agency requirements and make recommendations for new data-management tools and infrastructure
 - Coordinate the implementation, deployment, troubleshooting and training for data analysis and reporting tools across the agency
