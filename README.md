@@ -37,4 +37,4 @@ This project is in the worldwide [public domain](LICENSE.md).
 
 ## Special Thanks
 
-Special thanks to the team at [18F](https://18f.gsa.gov/) for their open and transparent model which benefits citizens, government, and technology.
+Special thanks to the team at [18F](https://18f.gsa.gov/) for their open and transparent model which benefits citizens, government and technology.
