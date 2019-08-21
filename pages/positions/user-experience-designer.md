@@ -8,7 +8,7 @@ redirect_from:
   - /join/18f-ux-designer-closed/
   - /join/18F-user-experience-designer/
   - /join/upcoming-18F-user-experience-designer/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
