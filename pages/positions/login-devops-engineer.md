@@ -5,6 +5,7 @@ state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
+
 role_name: DevOps/Site Reliability Engineer
 opens: 'tbd'
 closes: 'tbd'
