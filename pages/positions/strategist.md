@@ -8,7 +8,7 @@ job_post_type: tts
 role_name: Strategist
 opens: 'February 25, 2019, 8:00am EDT'
 closes: 'March 1, 2019, 8:00pm EDT'
-locations: 'Washington, DC; Chicago, IL; San Francisco, CA; New York, NY; Virtual (100% remote)'
+location: 'Washington, DC; Chicago, IL; San Francisco, CA; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '105,123'
 salary_max: '136,659'
