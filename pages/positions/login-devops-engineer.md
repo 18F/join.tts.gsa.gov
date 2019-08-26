@@ -9,7 +9,7 @@ job_post_type: tts
 role_name: DevOps/Site Reliability Engineer
 opens: 'tbd'
 closes: 'tbd'
-locations: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
+location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '106,595'
 salary_max: '138,572'
