@@ -1,6 +1,6 @@
 ---
 title: 18F - User Experience Designer
-permalink: /join/user-experience-designer/
+permalink: /join/18f-user-experience-designer/
 state: open
 job_post_type: tts
 
