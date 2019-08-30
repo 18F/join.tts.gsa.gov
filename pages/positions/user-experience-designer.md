@@ -1,14 +1,7 @@
 ---
 title: 18F - User Experience Designer
 permalink: /join/user-experience-designer/
-redirect_from:
-  - /join/18f-user-experience-designer-gs15/
-  - /join/18f-user-experience-designer-gs15-closed/
-  - /join/18f-ux-designer/
-  - /join/18f-ux-designer-closed/
-  - /join/18F-user-experience-designer/
-  - /join/upcoming-18F-user-experience-designer/
-state: closed
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -29,8 +22,8 @@ job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '3'
 series: '0301'
-apply_url: 
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSfE6IyAHxsuEHgKLeBOvDipms2Q5plLvw58KBl1amBk3Vu7JQ/viewform
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
