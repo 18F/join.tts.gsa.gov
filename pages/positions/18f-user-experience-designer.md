@@ -220,18 +220,19 @@ The Qualification process is a bureaucratic requirement that we are stuck with. 
 
 **The evaluation process for this job is different from a typical job announcement.**
 
-The technical qualifications for this position will be evaluated by subject matter experts. Apply only if you meet the qualifications. If you are not selected for this position you may be considered for similar positions at the agency within 90 days.
+The technical qualifications for this position will be evaluated by subject matter experts. Apply only if you meet the qualifications.
 
 **1. Resume review**
 Subject matter experts will review your resume and work item or portfolio sample to determine your technical qualifications for your chosen role(s) based on the required competencies.
 
-**2. Qualifying phone interviews**
-If the subject matter experts determine that your resume and portfolio reflect the required competencies, you will have at least one phone interview to further assess whether your experience meets the required competencies for your chosen role(s). You may meet with more than one subject matter expert for a determination to be made.
+**2. Qualifying interviews**
+If the subject matter experts determine that your resume and portfolio reflect the required competencies, you will have at least one interview to further assess whether your experience meets the required competencies for your chosen role(s). You may meet with more than one subject matter expert for a determination to be made.
 
 **3. Ranking and preference**
-Preference will be applied to applicants who move forward after the qualifying phone interviews.
+Preference will be applied to applicants who move forward after the qualifying interviews.
 
 Category rating
+
 Qualified candidates will be assigned to one of the following quality categories:
 
 Best Qualified: Candidates in this category possess good skills and experience above the minimum requirements for the announced position.
@@ -249,18 +250,18 @@ Veteran preference eligibles are listed ahead of non-preference eligibles within
 
 Subject matter experts will evaluate your resume and your work item or portfolio based on these competencies. You must have at least a year demonstrating accomplishment of the duties and competencies described below.
  
-Research Methods: The knowledge and ability to understand and user research tools and methodologies, including generative methods such as contextual inquiry, field studies, journey mapping, observation and evaluative methods like usability testing. 
+**Research Methods:** The knowledge and ability to understand and user research tools and methodologies, including generative methods such as contextual inquiry, field studies, journey mapping, observation and evaluative methods like usability testing. 
 
-Agile or Iterative Design & Development: The knowledge of design and development approaches that include repeated testing of ideas and revisions of those ideas based on testing results, and the ability to carry them out in a professional environment. Regardless of challenges, launches products and drives teams to deliver iteratively. Launches minimum viable products without waiting for the perfect implementation or inclusion of every feature.
+**Agile or Iterative Design & Development:** The knowledge of design and development approaches that include repeated testing of ideas and revisions of those ideas based on testing results, and the ability to carry them out in a professional environment. Regardless of challenges, launches products and drives teams to deliver iteratively. Launches minimum viable products without waiting for the perfect implementation or inclusion of every feature.
 
-Design Methods: The ability to design interactive digital products, systems, and services. Experience creating at least one category of the following:
-Information architecture tools and techniques: wireframes, sitemaps, flowcharts, user flows, taxonomies, card sorts or treejack testing 
-Interaction design tools and techniques: wireframes, sitemaps, mockups, prototypes, design systems or patterns, style guides 
-Service design tools and techniques: service blueprints, value mapping, journey maps, experience prototypes, service quality metrics
+**Design Methods:** The ability to design interactive digital products, systems, and services. Experience creating at least one category of the following:
+- Information architecture tools and techniques: wireframes, sitemaps, flowcharts, user flows, taxonomies, card sorts or treejack testing 
+- Interaction design tools and techniques: wireframes, sitemaps, mockups, prototypes, design systems or patterns, style guides 
+- Service design tools and techniques: service blueprints, value mapping, journey maps, experience prototypes, service quality metrics
 
-Leadership & Collaboration: The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
+**Leadership & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
 
-TTS Core Values Alignment: The ability to work with integrity, transparency and resiliency in civic-minded and high-impact environments.
+**TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic-minded and high-impact environments.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
