@@ -1,14 +1,7 @@
 ---
 title: 18F - User Experience Designer
-permalink: /join/user-experience-designer/
-redirect_from:
-  - /join/18f-user-experience-designer-gs15/
-  - /join/18f-user-experience-designer-gs15-closed/
-  - /join/18f-ux-designer/
-  - /join/18f-ux-designer-closed/
-  - /join/18F-user-experience-designer/
-  - /join/upcoming-18F-user-experience-designer/
-state: closed
+permalink: /join/18f-user-experience-designer/
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -21,16 +14,16 @@ gs_level: '15'
 salary_min: '106,595'
 salary_max: '138,572'
 org: '18F'
-contact_name: 'Liz Scott'
+contact_name: 'Liz Scott and Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
-num_vacancies: '1'
+num_vacancies: '3'
 series: '0301'
-apply_url: 
-ohrm_comtact_email: 'jacqueline.coleman@gsa.gov'
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLSfE6IyAHxsuEHgKLeBOvDipms2Q5plLvw58KBl1amBk3Vu7JQ/viewform
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
 ohrm_contact_name: 'Jacqueline Coleman'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
@@ -209,16 +202,15 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 ## Application Evaluation
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. **For this role, all applicants must submit a resume AND a work item or portfolio sample.**
 
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+The Minimum Qualification determination can only be made using the information that’s directly within your resume or work item/portfolio and directly associated your listed work experience.
 
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
+Examples of stuff that can’t be used:
+- Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+- Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+
+The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
 {% endif %}  
 
@@ -226,46 +218,50 @@ The information in this sections outlines the criteria that your application wil
 
 ## Evaluation
 
-We will use a method called Category Rating to assess your application.
+**The evaluation process for this job is different from a typical job announcement.**
 
-**Here’s how it will work:**
+The technical qualifications for this position will be evaluated by subject matter experts. Apply only if you meet the qualifications.
 
-You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
+**1. Resume review**
+Subject matter experts will review your resume and work item or portfolio sample to determine your technical qualifications for your chosen role(s) based on the required competencies.
 
-- **Research methods:** The knowledge and ability to understand and apply user research tools and methodologies.
-- **Design methods:** The ability to design interactive digital products, systems, and services.
-- **Agile or iterative development:** The knowledge of design and development approaches that include repeated testing of ideas and revision of those ideas based on testing results, and the ability to carry them out in a professional environment.
-- **Teamwork & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships.
-- **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
+**2. Qualifying interviews**
+If the subject matter experts determine that your resume and portfolio reflect the required competencies, you will have at least one interview to further assess whether your experience meets the required competencies for your chosen role(s). You may meet with more than one subject matter expert for a determination to be made.
 
-If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
+**3. Ranking and preference**
+Preference will be applied to applicants who move forward after the qualifying interviews.
 
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+Category rating
 
-Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+Qualified candidates will be assigned to one of the following quality categories:
+
+Best Qualified: Candidates in this category possess good skills and experience above the minimum requirements for the announced position.
+
+Well Qualified: Candidates in this category fall in between Best Qualified and Qualified.
+
+Qualified: Candidates in this category meet the minimum experience requirements for the announced position.
+
+Veterans' Preference
+Veteran preference eligibles are listed ahead of non-preference eligibles within each quality category. Based upon your category and score, you may be referred to the selecting official.
 
 {% endif %}
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
+Subject matter experts will evaluate your resume and your work item or portfolio based on these competencies. You must have at least a year demonstrating accomplishment of the duties and competencies described below.
+ 
+**Research Methods:** The knowledge and ability to understand and user research tools and methodologies, including generative methods such as contextual inquiry, field studies, journey mapping, observation and evaluative methods like usability testing. 
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+**Agile or Iterative Design & Development:** The knowledge of design and development approaches that include repeated testing of ideas and revisions of those ideas based on testing results, and the ability to carry them out in a professional environment. Regardless of challenges, launches products and drives teams to deliver iteratively. Launches minimum viable products without waiting for the perfect implementation or inclusion of every feature.
 
-1. Experience conducting user or human centered research in the development of digital products or services. This experience must include at least **THREE** of the following:
-- Developing user research plans, interview protocols or question guides
-- Conducting User interviews
-- Conducting Contextual inquiry or Observational research
-- Qualitative research
-- Participatory design workshops
+**Design Methods:** The ability to design interactive digital products, systems, and services. Experience creating at least one category of the following:
+- Information architecture tools and techniques: wireframes, sitemaps, flowcharts, user flows, taxonomies, card sorts or treejack testing 
+- Interaction design tools and techniques: wireframes, sitemaps, mockups, prototypes, design systems or patterns, style guides 
+- Service design tools and techniques: service blueprints, value mapping, journey maps, experience prototypes, service quality metrics
 
-2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following:
-- Conducting usability testing or user testing
-- Using agile, lean or other iterative product development approaches
-- Teaching or mentoring non-designers how to use user-centered design methodologies
-- Managing or leading design efforts within complex organizations or highly regulated environments
+**Leadership & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
+
+**TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic-minded and high-impact environments.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
