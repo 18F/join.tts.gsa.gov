@@ -10,8 +10,8 @@ opens: tbd
 closes: tbd EDT
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
-salary_min: '$106,595' 
-salary_max: '$138,572' 
+salary_min: '$106,595'
+salary_max: '$138,572'
 org: 'cloud.gov'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
