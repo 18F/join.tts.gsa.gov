@@ -1,33 +1,33 @@
 ---
 title: cloud.gov - Security Compliance Architect
-# permalink: /join/security-compliance-architect
-# state: open
-# job_post_type: tts
+permalink: /join/security-compliance-architect
+state: open
+job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-# role_name: Security Compliance Architect
-# opens: tbd
-# closes: tbd EDT
-# location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-# gs_level: 15
-# salary_min: '$106,595' 
-# salary_max: '$138,572' 
-# org: 'cloud.gov'
-# contact_name: 'Leigh Finkel'
-# contact_email: 'jointts@gsa.gov'
+role_name: Security Compliance Architect
+opens: tbd
+closes: tbd EDT
+location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+gs_level: 15
+salary_min: '$106,595' 
+salary_max: '$138,572' 
+org: 'cloud.gov'
+contact_name: 'Leigh Finkel'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: tbd
-# pd_job_title: 'Innovation Specialist' 
-# num_vacancies: '1'
-# series: '0301' 
-# apply_url: https://forms.gle/Bws2mRSEQZwkLjPp6
-# ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-# ohrm_contact_name: 'Jacqueline Coleman'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: '15'
-# supervisory_status: 'NO'
+job_announcement_number: tbd
+pd_job_title: 'Innovation Specialist' 
+num_vacancies: '1'
+series: '0301' 
+apply_url: https://forms.gle/Bws2mRSEQZwkLjPp6
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
