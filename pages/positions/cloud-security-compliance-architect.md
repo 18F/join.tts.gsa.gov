@@ -1,6 +1,6 @@
 ---
 title: cloud.gov - Security Compliance Architect
-permalink: /join/cloudgov-security-compliance-architect
+permalink: /join/cloud-security-compliance-architect
 state: open
 job_post_type: tts
 
