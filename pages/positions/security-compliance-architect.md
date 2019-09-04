@@ -1,33 +1,33 @@
 ---
-title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
-# permalink: /join/ENTER ROLE TITLE HERE/
-# state: ENTER STATE HERE (open, closed, upcoming)
-# job_post_type: ENTER TYPE HERE (tts or usajobs)
+title: cloud.gov - Security Compliance Architect
+permalink: /join/security-compliance-architect
+state: open
+job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-# role_name: ENTER THE NAME OF THE ROLE HERE (Without Org)
-# opens: MONTH DAY, YEAR, TIME EDT
-# closes: MONTH DAY, YEAR, TIME EDT
-# location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-# gs_level: ENTER GS LEVEL (13, 14, 15, etc)
-# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
-# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
-# org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
-# contact_name: 'TTS TALENT TEAM NAME'
-# contact_email: 'jointts@gsa.gov'
+role_name: Security Compliance Architect
+opens: tbd
+closes: tbd EDT
+location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+gs_level: 15
+salary_min: '$106,595' 
+salary_max: '$138,572' 
+org: 'cloud.gov'
+contact_name: 'Leigh Finkel'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: tbd
+pd_job_title: 'Innovation Specialist' 
+num_vacancies: '1'
+series: '0301' 
+apply_url: https://forms.gle/Bws2mRSEQZwkLjPp6
+ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
+ohrm_contact_name: 'Jacqueline Coleman'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -64,48 +64,52 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-18F is looking for talented software developers who will help our partner agencies deliver better digital services to the public. As a Consulting Engineer at 18F, you will be a builder, contributor, and catalyst. Working with folks across the organization, you will solve large, complex problems while promoting user-centered, open, and transparent culture. The role involves diverse responsibilities — you might be writing code one day, meeting with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. [18F is an open-source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
+cloud.gov, a product team within 18F, is looking for a security compliance architect to help us deliver better digital services to the public. You will be a builder, contributor, and a catalyst. With the support of our team of about 15 people, you will solve large complex problems while spreading user-centered, open, and secure culture. [cloud.gov is an open source team](https://cloud.gov/docs/ops/repos/), so much of what you work on will be open source. Our team is excited to tackle challenging problems to improve the lives of others. We care about respect and listening to each other.
 
-This role may be perfect for you if you have the technical skills to tackle engineering problems, the social skills to face human-factors problems, and the judgment to differentiate between the two. Our ideal candidate will be equally excited about sticky technical issues and intricate human ones. Impact in this role can’t be measure on a GitHub contribution graph; ideal candidates should be equally comfortable solving technical problems by writing code, explaining technical design architecture to technical and less technical folks alike, and leading organizational strategy and change.
+Our vision is to help federal government teams radically reduce the time and labor of the ATO process while fulfilling security requirements and improving security. We do this by providing a modern and cloud-native Platform as a Service (hosted on Infrastructure as a Service) with a FedRAMP Joint Authorization Board Provisional ATO at the Moderate level. Our cloud.gov customer systems inherit much of their security compliance from our system. Your role is critical to this vision, and your work will include:
 
-18F’s core languages are Ruby, Python, JavaScript, and Go. You should have strong, demonstrable experience with at least one of these languages and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
+Lead maintenance of the cloud.gov P-ATO
+Help team members and customers understand security compliance
+Improve how cloud.gov supports and accelerates customer compliance
+Publish open source compliance materials and explanations, for reuse and learning by teams in the public and private sectors
+
+This is an Information Systems Security Officer role, so it’s great if you have experience as an ISSO or equivalent. You should have strong technical writing skills. You should be able to explain the security value of engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. You should have experience making recommendations to engineering and leadership team members. You do not need to write code — it’s more important to be able to write policies and procedures. The best candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
+
 
 ## Key Objectives
 
-### Key objective #1: You’ll contribute high-quality, well-tested, maintainable code across an entire project lifecycle, using best practices for modern software development.
+### Key objective #1: Lead fulfillment of FedRAMP Authorization requirements.
 
-- Practice and enthusiastically share engineering methodologies and tools throughout all stages of the project lifecycle
-- Influence project planning and design using usability research, analytics, and other metrics
-- Participate in code review, architecture discussions, and feature prioritization
-- Take pride of ownership in all projects you touch; leave code better than you found it
-- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more
-- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle or by introducing tooling into an existing project, as needed
+- Edit and maintain our security compliance documents using FedRAMP templates and NIST standards, including our System Security Plan, Plan of Actions and Milestones (POAM), Deviation Requests, Significant Change Requests, Incident Response Plan, and Contingency Plan
+- Serve as liaison between the cloud.gov team and our Authorizing Officials (our FedRAMP Joint Authorization Board Technical Reviewers’ Representatives)
+- Serve as liaison between the cloud.gov team and our security auditor (our 3PAO - Third-Party Assessment Organization)
+- Coordinate our Annual Assessments, monthly Continuous Monitoring reports, and Significant Change Request assessments, according to FedRAMP requirements
 
-### Key objective #2: You’ll positively contribute to the culture and knowledge of the engineering team, practicing and enthusiastically sharing agile methodologies throughout all stages of the project lifecycle.
+### Key objective #2: Lead high-quality and consistent security compliance within our cloud.gov team.
 
-- Work within a distributed, multidisciplinary agile team by participating in constructive discussions, openly sharing knowledge, and demonstrating value for technical and non-technical contributions
-- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
-- Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it
-- Demonstrate a strong understanding of the elements of agile methodology (scrum, kanban, and so on)
-- Practice human-centered design, user testing, feature prioritization, DevOps, and other relevant concepts
+- Coordinate with cloud.gov Product Manager, engineering team members, and other team members (including Director and Deputy Director) to explain FedRAMP requirements and plan and prioritize team tasks to fulfill those requirements.
+- Identify internal security compliance needs and issues, and coordinate resolving those issues by working constructively with the rest of the team.
+- Collaborate with team members to interpret, implement, and document requirements in ways that prioritize secure engineering best practices, not simply checking checkboxes.
+- Contribute to our procurement process for compliance-related services and products, such as our 3PAO contracts.
+- Run cloud.gov team compliance trainings, security review meetings, incident response exercises, and other required security compliance meetings in ways that engage and educate our team.
+- Participate in team security incident response and contingency plan response processes, including as Incident Commander when needed.
 
-### Key objective #3: You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
+### Key objective #3: Teach and collaborate with customers, fellow teams, and the public.
 
-- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
-- Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
-- Meet the needs of internal and external customers
-- Make well-informed, effective, and timely decisions
-- Identify and analyze problems in a constructive manner
-- Explain technical issues and concepts clearly to both technical and non-technical audiences
+- Identify and contribute to ways that cloud.gov can support and accelerate customer compliance, such as new tools, templates, and training.
+- Participate in cloud.gov business development calls and customer support email threads to answer customer questions related to security compliance.
+- Serve as the cloud.gov liaison to our division’s team that handles larger infrastructure and compliance topics.
+- Participate in cross-team working groups for security and compliance, which provide informal advising and learning.
+- Publish our compliance documents as open source materials for reuse by the public, with appropriate security risk management part of our vision is to publish most of our System Security Plan.
 
-### Key objective #4: You’ll lead change, both within and outside the organization, to meet organizational goals. You’ll help establish an organizational vision and implement it in a continuously changing environment.
+### Key objective #4: Contribute to the culture and knowledge of the team, practicing and sharing agile methodologies throughout all stages of the project lifecycle. 
 
-- Develop new insights into situations and question conventional approaches
-- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
-- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views
-- Adapt to change and quickly integrate new information
-- Formulate and execute consistently against objectives and priorities
-- Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government
+- Work within a distributed, multidisciplinary agile team by participating in constructive discussions, sharing knowledge, and demonstrating value for technical and non-technical contributions. 
+- Support a safe, inclusive, respectful workplace and a positive team culture where all team members value diversity and individual differences. 
+- Develop new insights into situations and question conventional approaches. 
+- Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help.
+- Demonstrate a strong understanding of the elements of agile methodology (scrum, kanban, and so on). 
+- Support the team practices of human-centered design, user testing, feature prioritization, and DevOps.
 
 {% if page.state != 'upcoming' %}
 
@@ -228,10 +232,10 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Software Engineering Technical Experience:** Deliver technical solutions and products using software engineering technology
-- **Software Engineering Practices:** Deliver innovative technical solutions and products using established engineering best practices
-- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
-- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture
+- **Technical Fluency:** The ability to assimilate and synthesize highly technical information and then effectively communicate that information to audiences with a wide range of technical familiarity
+- **Communication:** Ability to communicate effectively with a variety of audiences, particularly consulting clients/partners, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals.
+- **Teamwork & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships
+- **Problem Solving:** The ability to design, analyze, synthesize and/or evaluate information to produce and defend a desired solution.
 - **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
@@ -250,22 +254,14 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
-- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
-- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+1. Experience managing security compliance responsibilities. This experience must include **ALL** of the following:
+- Working with Federal Information Security Management Act (FISMA) requirements
+- Serving as a lead of a security compliance documentation process
+- Writing or editing security compliance documentation
 
-2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
-- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
-- Developing digital applications using a relational or non-relational data layers
-- Developing digital applications using test-driven development and software testing tools
+2. Experience being a part of a team to deliver digital products or services. 
 
-3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
-- Developing digital applications using Infrastructure-as-a-Service (IaaS)
-- Developing digital applications using Platform-as-a-Service (PaaS)
-- Developing digital applications using containerization technologies
-- Developing digital applications using configuration management tools
-- Developing digital applications using infrastructure automation tooling
+3. Experience using agile methodologies.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
