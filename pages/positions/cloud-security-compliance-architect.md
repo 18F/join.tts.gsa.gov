@@ -68,10 +68,10 @@ cloud.gov, a product team within 18F, is looking for a security compliance archi
 
 Our vision is to help federal government teams radically reduce the time and labor of the ATO process while fulfilling security requirements and improving security. We do this by providing a modern and cloud-native Platform as a Service (hosted on Infrastructure as a Service) with a FedRAMP Joint Authorization Board Provisional ATO at the Moderate level. Our cloud.gov customer systems inherit much of their security compliance from our system. Your role is critical to this vision, and your work will include:
 
-Lead maintenance of the cloud.gov P-ATO
-Help team members and customers understand security compliance
-Improve how cloud.gov supports and accelerates customer compliance
-Publish open source compliance materials and explanations, for reuse and learning by teams in the public and private sectors
+- Lead maintenance of the cloud.gov P-ATO
+- Help team members and customers understand security compliance
+- Improve how cloud.gov supports and accelerates customer compliance
+- Publish open source compliance materials and explanations, for reuse and learning by teams in the public and private sectors
 
 This is an Information Systems Security Officer role, so it’s great if you have experience as an ISSO or equivalent. You should have strong technical writing skills. You should be able to explain the security value of engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. You should have experience making recommendations to engineering and leadership team members. You do not need to write code — it’s more important to be able to write policies and procedures. The best candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
 
