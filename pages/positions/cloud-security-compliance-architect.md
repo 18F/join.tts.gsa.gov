@@ -1,7 +1,7 @@
 ---
 title: cloud.gov - Security Compliance Architect
 permalink: /join/cloud-security-compliance-architect/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -48,13 +48,14 @@ supervisory_status: 'NO'
 **Salary Range:**
 The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-Please note the maximum salary available for the GS pay system is **$166,500**
-
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+The base salary range does not include any adjustment for locality. Your locality will be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
+
+Please note the maximum salary available for the GS pay system is **$166,500** 
+Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -259,7 +260,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Serving as a lead of a security compliance documentation process
 - Writing or editing security compliance documentation
 
-2. Experience being a part of a team to deliver digital products or services. 
+2. Experience working as part of a team to deliver digital products or services. 
 
 3. Experience using agile methodologies.
 
