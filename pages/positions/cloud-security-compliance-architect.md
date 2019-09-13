@@ -1,7 +1,7 @@
 ---
 title: cloud.gov - Security Compliance Architect
 permalink: /join/cloud-security-compliance-architect/
-state: open
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
