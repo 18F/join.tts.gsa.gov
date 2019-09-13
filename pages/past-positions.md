@@ -11,9 +11,7 @@ subnav:
     href: "#Application-process"
   - text: About TTS
     href: "#about-technology-transformation-services"
-
 ---
-
 
 This is a list of positions we've hired for in the past. We use this page as a resource for people and teams across government to use when writing position descriptions in their agencies. If you have questions or comments, please reach out to [joinTTS@gsa.gov](mailto:joinTTS@gsa.gov).
 
