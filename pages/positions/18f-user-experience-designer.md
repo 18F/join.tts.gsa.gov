@@ -50,7 +50,7 @@ The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ 
 
 Please note the maximum salary available for the GS pay system is **$166,500**
 
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+The base salary range does not include any adjustment for locality. Your locality will be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
