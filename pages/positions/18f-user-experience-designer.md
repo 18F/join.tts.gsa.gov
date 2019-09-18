@@ -1,14 +1,14 @@
 ---
 title: 18F - User Experience Designer
 permalink: /join/18f-user-experience-designer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 role_name: User Experience Designer
-opens: 'TBD'
-closes: 'TBD'
+opens: 'Monday, September 23rd"
+closes: 'Friday, September 27th at 8PM EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
 salary_min: '106,595'
@@ -18,7 +18,7 @@ contact_name: 'Liz Scott and Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: 'TBD'
+job_announcement_number: '1900607JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '3'
 series: '0301'
