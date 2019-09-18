@@ -1,7 +1,7 @@
 ---
 title: 18F - Consulting Software Engineer
 permalink: /join/consulting-software-engineer/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
