@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Consulting Software Engineer
-opens:  'Tuesday, February 19, 2019 8:00am EDT'
-closes: Monday, February 25, 2019 8:00pm EDT
+opens:  'tbd'
+closes: 'tbd'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '105,123'
@@ -17,7 +17,7 @@ contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: '1900272JCOTR'
+job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
