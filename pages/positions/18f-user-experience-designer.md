@@ -7,8 +7,8 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 role_name: User Experience Designer
-opens: 'tbd'
-closes: 'tbd'
+opens: 'Monday, September 23rd'
+closes: 'Friday, September 27th at 8pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
 salary_min: '106,595'
