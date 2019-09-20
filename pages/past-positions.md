@@ -22,9 +22,9 @@ Take a look at [our list of open and upcoming positions »]({{ site.baseurl }}/)
 ### Closed Positions
 
 {% for pg in sortedpages %}
-  {% if pg.state == 'closed' %}
-    {% unless pg.path contains 'template'  %}
-    * [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }}) (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
-    {% endunless %}
-  {% endif %}
+{% if pg.state == 'closed' %}
+{% unless pg.path contains 'template'  %}
+* [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }}) (Closed)
+{% endunless %}
+{% endif %}
 {% endfor %}
