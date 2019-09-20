@@ -35,7 +35,7 @@ supervisory_status: 'NO'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note, the hiring process for this role will vary slightly from our typical process. Among other changes, applications for this role will require submission of a portfolio and/or work sample along with a resume.  More information will be posted in the Evaluation section of the Job Announcement once it goes live.**
 {% endif %}
 
 {% if page.state != 'upcoming' %}
