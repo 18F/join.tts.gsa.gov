@@ -7,8 +7,8 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 role_name: User Experience Designer
-opens: 'tbd'
-closes: 'tbd'
+opens: 'Monday, September 23rd'
+closes: 'Friday, September 27th at 8pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
 salary_min: '106,595'
@@ -18,7 +18,7 @@ contact_name: 'Liz Scott and Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: 'tbd'
+job_announcement_number: '1900607JCOTR'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '3'
 series: '0301'
@@ -35,7 +35,7 @@ supervisory_status: 'NO'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note, the hiring process for this role will vary slightly from our typical process. Among other changes, applications for this role will require submission of a portfolio and/or work sample along with a resume.  More information will be posted in the Evaluation section of the Job Announcement once it goes live.**
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -124,7 +124,7 @@ employees or contractors
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
 
 **Job Title:**
 {{ page.pd_job_title }}
