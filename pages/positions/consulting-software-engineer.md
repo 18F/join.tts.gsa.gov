@@ -249,22 +249,30 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
-- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
+1. Experience working on an engineering team. This experience must include **ALL** of the following:
+- Experience developing large or complex modern software projects
+- Experience navigating stakeholder relationships
+- Experience working as part of a cross-functional team
+
+2. Experience delivering projects, tools or products. This experience must include **ONE** of the following:
+- Delivering projects with multiple stakeholders while operating within high levels of bureaucracy
 - Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+- Developing within the context of a consulting relationship
 
-2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
-- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
-- Developing digital applications using a relational or non-relational data layers
-- Developing digital applications using test-driven development and software testing tools
+3. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
+- Developing applications, web apps, or web sites using **ONE** of the following server-side languages: Python, Ruby, Go, C#, or Node.js
+- Developing applications, web apps, or web sites using a relational or non-relational data layers (such as SQL or MongoDB)
+- Developing applications, web apps, or web sites using test-driven development and software testing tools
 
-3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
-- Developing digital applications using Infrastructure-as-a-Service (IaaS)
-- Developing digital applications using Platform-as-a-Service (PaaS)
-- Developing digital applications using containerization technologies
-- Developing digital applications using configuration management tools
-- Developing digital applications using infrastructure automation tooling
+4. Experience deploying or operating applications on cloud technologies.This experience must include 
+**ONE** of the following:
+- Developing applications using Infrastructure-as-a-Service (IaaS) (such as AWS)
+- Developing applications using Platform-as-a-Service (PaaS) (such as CloudFoundry or Heroku)
+- Developing applications using containerization technologies (such as Docker)
+- Developing applications using configuration management tools  (such as Chef)
+- Develop continuous integration and continuous delivery tooling for an application or web site (such as CircleCI or Jenkins)
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
