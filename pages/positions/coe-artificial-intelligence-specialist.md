@@ -5,7 +5,7 @@ title: Centers of Excellence - Artificial Intelligence Specialist
 # job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-# role_name: ENTER THE NAME OF THE ROLE HERE (Without Org)
+# role_name: Artificial Intelligence Specialist 
 # opens: tbd
 # closes: tbd
 # location: 'Washington, DC'
