@@ -230,9 +230,13 @@ We will use a method called Category Rating to assess your application.
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
 **Brand Strategy and Marketing:** The ability to translate overall business strategy into an actionable brand and marketing strategy.  This includes defining and developing the expression of the value of TTS, and communicate its characteristics and attributes. The ability to market and evangelize that value. 
+
 **Copywriting and Content Development:** The ability to craft storytelling copy conveyed through online media, video and print materials used for the purpose of marketing and building a brand. The ability to develop the information (content) and experience(s) directed toward an end-user or audience. 
-**Relationship Management:** Ability to develop and manage relationships with potential agency partners, the public (including the media, congressional members and their staff and industry), and the internal TTS team. 
+
+**Relationship Management:** Ability to develop and manage relationships with potential agency partners, the public (including the media, congressional members and their staff and industry), and the internal TTS team.
+
 **Analytical Thinking:** Measure the candidate’s ability to think logically, evaluate advantages and disadvantages and to break down and analyze data.
+
 **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
@@ -249,11 +253,11 @@ All applications will be reviewed by a panel of subject matter experts against a
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
--Ability to plans and executes marketing focused events
--Experience crafting storytelling copy including online media, video and print materials used for the purpose of advertising or marketing
--Using varying marketing tools and techniques tailored to each audience to communicate and tell stories 
--Managing a variety of relationships, such as internal, stakeholders, clients, or users 
--Exhibiting strong program management skills; able to manage and execute on multiple projects simultaneously. 
+- Ability to plans and executes marketing focused events
+- Experience crafting storytelling copy including online media, video and print materials used for the purpose of advertising or marketing
+- Using varying marketing tools and techniques tailored to each audience to communicate and tell stories 
+- Managing a variety of relationships, such as internal, stakeholders, clients, or users 
+- Exhibiting strong program management skills; able to manage and execute on multiple projects simultaneously. 
 
 For each job on your resume, provide:
 
