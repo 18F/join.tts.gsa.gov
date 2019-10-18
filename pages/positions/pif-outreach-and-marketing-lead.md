@@ -244,7 +244,7 @@ All applications will be reviewed by a panel of subject matter experts against a
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Ability to plans and executes marketing focused events
+- Ability to plan and execute marketing focused events
 - Experience crafting storytelling copy including online media, video and print materials used for the purpose of advertising or marketing
 - Using varying marketing tools and techniques tailored to each audience to communicate and tell stories 
 - Managing a variety of relationships, such as internal, stakeholders, clients, or users 
