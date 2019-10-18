@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 job_announcement_number: 'tbd'
-pd_job_title: 'Innovation Specialist'
+pd_job_title: 'Marketing and Outreach Lead' 
 num_vacancies: '1'
 series: '0301' 
 apply_url: APPLICATION URL
@@ -26,9 +26,9 @@ ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
 ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
-supervisory_status: 'No'
----
+supervisory_status: 'NO'
 
+---
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
