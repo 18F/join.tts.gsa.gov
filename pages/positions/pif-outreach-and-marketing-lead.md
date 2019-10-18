@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Marketing and Outreach Lead
-opens: TBD
-closes: TBD
+opens: 'TBD'
+closes: 'TBD'
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '137,849' 
@@ -17,7 +17,6 @@ contact_name: 'Lauren Ferrucci'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-
 job_announcement_number: 'tbd'
 pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
 num_vacancies: '1'
@@ -47,16 +46,11 @@ supervisory_status: 'NO'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
-
-The base salary range does not include any adjustment for locality. Your locality will be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
-
 Please note the maximum salary available for the GS pay system is **$166,500** 
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -106,8 +100,6 @@ This position requires a confident leader who is assertive and able to bring big
 - Nominate Fellows and program leadership for key awards across government and externally.
 - Ability to partner with users, peers and stakeholders at other agencies to align outreach strategy.
 - Ability to interact with high-profile agency leaders, business leaders and top tier White House Officials.
-
-
 
 {% if page.state != 'upcoming' %}
 
@@ -164,7 +156,7 @@ As an Innovation Specialist, the team member serves the government and makes an 
 
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
 
-GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
+GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid) in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
   - Health insurance (choose from a wide range of plans)
@@ -198,13 +190,10 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 
 Typical duties for the fellow include but are not limited to:
 Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
+
 {% endif %}
 
 {% if page.state == 'upcoming' %}
-
-{% endif %}
-
-{% if page.state != 'upcoming' %}
 
 ## Application Evaluation
 
