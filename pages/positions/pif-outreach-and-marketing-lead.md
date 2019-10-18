@@ -17,9 +17,8 @@ contact_name: 'Lauren Ferrucci'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-
 job_announcement_number: 'tbd'
-pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+pd_job_title: 'Marketing and Outreach Lead' 
 num_vacancies: '1'
 series: '0301' 
 apply_url: APPLICATION URL
@@ -28,7 +27,9 @@ ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
 supervisory_status: 'NO'
+
 ---
+
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
