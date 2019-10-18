@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 job_announcement_number: 'tbd'
-pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301' 
 apply_url: APPLICATION URL
@@ -26,7 +26,7 @@ ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
 ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
-supervisory_status: 'NO'
+supervisory_status: 'No'
 ---
 
 
