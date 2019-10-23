@@ -11,9 +11,19 @@ top:
   text: Return to top
   href: '#'
 
-heading: General Services Administration
+# Configuration for agency logo(s) (shown side by side).
+# If the logo is external add external: true
+logos:
+  - src: /assets/img/gsa-tts-identity.svg
+    alt: General Services Administration | Technology Transformation Services
+    external: true
 
 contact:
+  social_links:
+    - text: Twitter
+      href: https://twitter.com/@gsa_tts
+      external: true
+      type: twitter
   contact_links:
     - text: joinTTS@gsa.gov
       href: mailto:joinTTS@gsa.gov
