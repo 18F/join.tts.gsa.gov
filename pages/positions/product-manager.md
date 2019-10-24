@@ -1,7 +1,7 @@
 ---
 title: 18F - Product Manager
 permalink: /join/product-manager/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -10,8 +10,8 @@ opens: 'Monday, February 11, at 8am EDT'
 closes: 'Friday, February 15, at 8pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '106,595'
+salary_max: '138,572'
 org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
