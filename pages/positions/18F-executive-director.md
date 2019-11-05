@@ -1,33 +1,33 @@
 ---
-title: 18F - Product Manager
-permalink: /join/product-manager/
+title: 18F - Executive Director
+permalink: /join/executive-director/
 state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Product Manager
-opens: 'Monday, February 11, at 8am EDT'
-closes: 'Friday, February 15, at 8pm EDT'
-location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+role_name: Executive Director
+opens: TBD
+closes: TBD
+location: 'Washington'
 gs_level: 15
-salary_min: '106,595'
-salary_max: '138,572'
+salary_min: '137,849' 
+salary_max: '166,500' 
 org: '18F'
-contact_name: 'Leigh Finkel'
+contact_name: 'Amanda Schonfeld'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1900271JCOTR'
-pd_job_title: 'Innovation Specialist'
-num_vacancies: '1'
-series: '0301'
-apply_url: https://goo.gl/forms/vEITjfwsAUQwRIuy2
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
-bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15'
-supervisory_status: 'No'
+# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+# num_vacancies: 'ENTER NUMBER OF VACANCIES'
+# series: '0301' ENTER SERIES IF DIFFERENT
+# apply_url: APPLICATION URL
+# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
+# supervisory_status: 'YES' or 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -48,13 +48,14 @@ supervisory_status: 'No'
 **Salary Range:**
 The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-Please note the maximum salary available for the GS pay system is **$166,500**
-
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+The base salary range does not include any adjustment for locality. Your locality will be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
+
+Please note the maximum salary available for the GS pay system is **$166,500** 
+Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -64,59 +65,40 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-As a Product Manager at 18F, you’ll lead cross-functional teams to deliver user-centered products using agile methodologies and modern software development practices while building capacity for product innovation in government. When you build products with a partner agency, you’ll coach them on modern product development practices so they’re set up for success in the long term.
-
-Product managers on our team are:
-
-- Strategic thinkers who are comfortable defining a compelling vision and designing a measurable strategy to achieve that vision
-- Decisive leaders who know how to motivate cross-functional teams to build the right thing
-- Comfortable working in a consulting capacity as well as running a product directly
-- Empathetic coaches, mentors, and advocates who help partner agency staff develop the skills to manage their own products
+The Executive Director of 18F oversees a consulting organization of federal employees whose mission is to improve the lives of the public and public servants by transforming how government uses technology. The work involves advocating for an iterative, human-centered approach to building and buying software in government, and running the cost-recoverable consulting organization as a business.
+18F helps partner agencies improve how they build and buy effective, user-centered software that interfaces between the government and the people and organizations it serves. This position reports to the Assistant Commissioner, Clients and Markets, TTS.
 
 ## Key Objectives
 
-### Objective #1: Own or steward the product vision and lead end-to-end product development
-You are an experienced product manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to galvanize your team, whether that means generating a product vision and strategy with your team or helping agency partners articulate and focus their vision and strategy.
+### Objective #1: Determines 18F’s vision, strategic direction, objectives and goals — including the overall planning, management and direction of the program.
 
-Successful product managers at 18F:
+- Develops, implements and oversees the system of performance measures that link operations to goals and objectives.
+- Develops innovative approaches and innovative solutions to problems and opportunities associated with federal government digital service delivery.
+- Serves as a top level advisor and consultant to the Deputy Commissioner, TTS and the GSA Administrator for the 18F program. 
+- Provides advice and consultation to develop  policies, plans, and practices with the potential for government-wide impact.
 
-- Establish a vision and ensure all members of the 18F and partner teams have a shared understanding of product objectives, goals, and metrics
-- Analyze market demand and market fit, do competitive analysis, and guide build vs. buy or reuse approaches
-- Create a product strategy and roadmap and develop a communications strategy supporting product goals
-- Identify and proactively monitor and address product risks
-- Lead a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience
-- Work with the team to set and meet quality standards for any product you build
-- Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
-- Energize and motivate the team by recognizing successes and learning from failures
-- Ensure your product complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508
+### Objective #2: Builds and maintains effective internal and external working relationships to address issues of mutual interest with federal agencies, top agency management, municipal and state agencies, foreign governments, subject matter experts, industry and other high level officials across public, not-for-profit and private sectors. 
 
-### Objective #2: Work with agency partners to make sure they’re set up for success
+- Collaborates with the Office of Management and Budget (OMB), and a myriad of other federal agencies on relevant projects, policies, and initiatives.
+- Coordinates and conducts briefings and/or evaluation panel meetings comprised of officials from GSA and other agencies and departments in carrying out 18F’s strategy, planning and acquisition initiatives that have government-wide implications.
+- Markets the 18F program and associated projects to relevant audiences through speeches, presentations, articles for publication, newsletters, as well as online information sources; identifies, reviews and collaborates on articles for trade journals, scholarly journals and periodicals to highlight transformation and business performance across 18F and TTS.
+- Listens to clients, stakeholders, and the public in order to improve services and cultivate community involvement and support.
 
-As a product manager at 18F, your job isn’t to deliver software; your job is to create sustainable outcomes that benefit the public. You’ll help your partners adopt a modern product development mindset and make sure they have the right team to sustain their product once 18F’s engagement with them is done. You’ll also coach and mentor agency staff, helping them develop into capable product managers in their own right.
+### Objective #3: Provides executive leadership and EEO responsibility.
 
-Successful product managers at 18F:
+- Leads in a proactive and customer-responsive manner consistent with TTS /GSA vision and values, and effectively communicates program issues to external audiences. 
+- Ensures financial and managerial accountability by acting with prudence when executing fiduciary responsibilities.
+- Demonstrates high integrity and adheres to the highest ethical standards of public service. 
+- Uses effective business practices including balanced measures of results and values; invests in each employee; emphasizes empowerment and two-way communication. 
+- Takes a leadership role in advocating for and advancing the priorities of TTS/GSA. 
+- Serves as a role model for leadership by encouraging teamwork and a collaborative approach. 
+- Notifies Agency officials in a timely manner of all significant actions and developments, including but not limited to those related to regulatory matters, legislative matters, budget matters, reports, initiatives, and events and ensures subordinate managers do the same.
+- Directly manages 18F’s Division Directors, providing them with leadership and mentoring. Fosters the development of a world-class workforce and facilitates cooperation and teamwork. 
+- Responsible for furthering diversity within 18F, ensuring equal opportunity in recruitment, selection, training, awards, and assignments. 
+- Provides oversight on policy development, program budgets, brand management, communication plans, and implementation of operating procedures, practices, and management controls. 
+- Ensures that subordinate managers recognize the importance of their diversity enhancement responsibilities and apply principles that create an inclusive and diverse workforce. 
+- Provides reasonable accommodations required to best utilize qualified people with disabilities. Provides leadership and oversight associated with managing programs and resources, conducting analyses, providing advice, making recommendations, developing policies, and issuing guidance related to 18F activities.
 
-- Work with partners to establish in-house product ownership
-- Help partners understand how to deliver value, rather than features, to their users
-- Help partners navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy
-- Coach the partner in agile, open source, and user-centered principles so they understand the value these practices bring
-- Ensure the partner understands how to do day-to-day product management by coaching and mentoring junior product managers
-- Work with partners to ensure they have the right team to continue iterating on the product beyond the engagement
-- Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
-- Work with partners to develop communications strategies to sustain the product during and beyond the engagement
-
-### Objective #3: Build institutional expertise around product management
-
-As a member of 18F, you’ll also be part of the Technology Transformation Services. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights and opinions with other product managers, contributing to our growing culture of product management. You’ll share lessons learned from your work at 18F with peers and leaders to help guide our approach to digital transformation.
-
-Successful product managers at 18F:
-
-- Keep abreast of product management best practices and bring them back into the organization
-- Stay on top of new technologies and how they could help solve government problems
-- Speak at conferences to talk about 18F’s work and share our mission
-- Contribute to 18F’s culture of transparency by publishing accounts of your successes and failures
-- Continually seek out new product management tools that could improve the way we work
-- Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems (so that we help agencies not build custom tools if not needed)
 
 {% if page.state != 'upcoming' %}
 
@@ -239,11 +221,11 @@ We will use a method called Category Rating to assess your application.
 
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Communication:** Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals
-- **Product Experience:** Ability to deliver the right digital product using user-centered and agile-based methodologies  
-- **Leadership:** Ability to effectively lead a cross-functional team to meet digital project/product objectives
-- **Innovation:** Ability to apply innovative tools and technologies and to help partners make strategic & tactical decisions toward innovation
-- **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment
+- **Executive Leadership:** Ability to effectively lead a large cross-functional team to meet the organization's business objectives. 
+- **Relationship Management:** Ability to develop and manage relationships with potential agency partners, the public, and the internal 18F team. 
+- **Business Operations:** The administration of business practices to create the highest level of efficiency possible within an organization. Converting materials and labor into goods and services as efficiently as possible to meet cost recoverable goals. 
+- **Technical Innovation and Delivery:** Using technology to create a more efficient organization and improve alignment between technology initiatives and business goals.
+- **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
 
 If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
@@ -261,26 +243,31 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience leading interdisciplinary product teams in the research, design, development and delivery of digital products or services. This experience must include **ALL** of the following:
-- Leading the development of multiple digital products or services, or leading the development of multiple features in  large products
-- Creating and managing the product vision based on user research & metrics
-- Leading teams through the adoption of new tools, technologies or methodologies
 
-2. Experience leading digital product or service development, from concept to delivery, within highly ambiguous or uncertain situations. This experience must include **ONE** of the following:
-- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
-- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
+1. Experience ensuring effective communication of a large organization’s mission, priorities, strategies, and progress to various internal stakeholders, as well as external stakeholders (e.g. clients, the public, the press).  This experience must include **ALL** of the following:
+  -  Serving as spokesperson representing the organization to the community.
+  - Advocating for issues relevant to the organization, its services, and its customers.
+  - Initiating, developing, and maintaining relationships with key stakeholders. 
+  - Experience managing controversial situations, customer negotiations, or influencing and persuading other senior-level managers.
 
-3. Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following:
-- Developing new products or services for startups
-- Developing products or services for legacy migrations
-- Developing products or services for large integrations
-- Developing products, services or features for large consumer products
+2. Experience leading a fee-for-service program. This experience must include **ALL** of the following:
+  - Experience leading a consulting or systems integration business with yearly revenues of $10 million or more
+  - Accountable for achievement of cost recoverability targets
+  - Leading the development and execution of staffing plan resource requests 
+  - Ability to develop new business opportunities and grow revenues within an existing client base
+  - Demonstrated ability to create long-term vision and strategies for building program effectiveness (e.g. capacity planning and building out succession plans)
+  - Demonstrated project management skills (e.g. able to manage multiple tasks, priorities and stakeholders effectively)
+  - Ensuring the team completes projects and deliverables for clients within deadlines
 
-4. Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience must include **ONE** of the following:
-- Developing digital products or services using experimentation based frameworks
-- Developing digital products or services using iterative development methodologies
-- Developing digital products or services using user-centered design and planning tools
-- Developing digital products or services using continuous delivery methodologies
+3. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
+  - Leading stakeholders through organizational change 
+  - Garnering support for teams by persuading others to provide approval, funding or resources
+  - Adjusting strategy based on qualitative or quantitative strategy
+  - Previous experience leading client-facing consulting (i.e. researching, designing and executing to solve a specific problem for a client) projects or initiatives 
+  - Previous experience collaborating with cross-functional teams (i.e. developers, product managers, designers, clients) to achieve organizational or project objectives
+
+4. Experience leading teams that use modern software design and development methodologies, including human centered design and iterative development (e.g. agile, lean, kanban, user research, journey mapping, personas, user stories) 
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 

@@ -27,7 +27,7 @@ a:active {
 
 // Set banner background color
 .usa-banner {
-  background-color: #d8f7ff; }
+  background-color: #F1F1F1; }
 
 // Set header background color
 .usa-header {
@@ -105,3 +105,19 @@ td {
   float: left;
   margin-right: 0.5em;
 }
+
+// Set footer background color
+.usa-footer-secondary_section {
+  background-color: #ebebeb; }
+
+// Set footer agency logo(s) max-width
+.usa-footer-logo-img {
+  max-width: 25rem; }
+
+// Add padding to footer contact links section
+.usa-width-one-half { 
+  padding: 1.5rem 0; }
+
+// Add padding to footer twitter icon
+.usa-link-twitter {
+  padding: 0 0 0 5rem; }
