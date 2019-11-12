@@ -6,7 +6,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Executive Director
-opens: November 18, 2019
+opens: November 18, 2019 at 9am EST
 closes: November 29, 2019 at 11:59pm EST
 location: 'Washington'
 gs_level: 15
