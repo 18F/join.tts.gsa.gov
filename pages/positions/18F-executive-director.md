@@ -22,7 +22,7 @@ job_announcement_number: '2000164JCOTR'
 pd_job_title: 'Supervisory Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
-# apply_url: APPLICATION URL
+apply_url: https://docs.google.com/forms/d/1Sa24Hqdiru4GnqdgeG9jBV0k_JQFDTSTEvp5-EqJ96o/closedform
 ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
 ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
 bargaining_unit: 'Non Bargaining Unit'
