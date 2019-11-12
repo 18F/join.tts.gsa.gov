@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Executive Director
-opens: TBD
-closes: TBD
+opens: November 18, 2019
+closes: November 29, 2019 at 11:59pm EST
 location: 'Washington'
 gs_level: 15
 salary_min: '137,849' 
@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
+job_announcement_number: '2000164JCOTR'
+pd_job_title: 'Supervisory Innovation Specialist' 
+num_vacancies: '1'
+series: '0301' 
 # apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
+ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: 'N/A'
+supervisory_status: 'YES' 
 ---
 
 {% if page.state == 'upcoming' %}
