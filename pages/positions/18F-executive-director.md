@@ -8,7 +8,7 @@ job_post_type: tts
 role_name: Executive Director
 opens: November 18, 2019 at 9am EST
 closes: November 29, 2019 at 11:59pm EST
-location: 'Washington'
+location: 'Washington DC'
 gs_level: 15
 salary_min: '137,849' 
 salary_max: '166,500' 
