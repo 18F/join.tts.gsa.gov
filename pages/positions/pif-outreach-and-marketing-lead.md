@@ -244,11 +244,16 @@ All applications will be reviewed by a panel of subject matter experts against a
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-- Ability to plan and execute marketing focused events
-- Experience crafting storytelling copy including online media, video and print materials used for the purpose of advertising or marketing
-- Using varying marketing tools and techniques tailored to each audience to communicate and tell stories 
-- Managing a variety of relationships, such as internal, stakeholders, clients, or users 
-- Exhibiting strong program management skills; able to manage and execute on multiple projects simultaneously. 
+- Experience crafting storytelling copy including online media, video and print materials used for the purpose of advertising or marketing.
+- Provides advice and leadership in a variety of highly complex assignments, which include marketing, advertising, public relations, research, content development, planning and management of outreach activities.
+- Develops and implements integrated content marketing plans based on best practices. Must possess experience mapping marketing to a tailored target audience, creating marketing plans, and building strategy, objectives and tactics to support such plans.
+- Utilizes data analytics and applies data to evaluate the effectiveness of Outreach tactics in support of strategies and goals. Recommends actions to course correct deficiencies in a timely manner. 
+- Managing a variety of relationships, such as internal, stakeholders, clients, or users.
+- Plans, organizes, and directs collaborative initiatives to develop, maintain, and foster one brand vision and a cohesive voice.
+- Ensures marketing, branding, and outreach initiatives map back to the financial stability of a program.
+- Exhibits program management skills; able to manage and execute on multiple projects simultaneously. 
+- Experience navigating highly ambiguous or uncertain situations to deliver results.
+
 
 For each job on your resume, provide:
 
