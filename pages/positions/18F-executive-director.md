@@ -1,7 +1,7 @@
 ---
 title: 18F - Executive Director
 permalink: /join/executive-director/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -23,8 +23,8 @@ pd_job_title: 'Supervisory Innovation Specialist'
 num_vacancies: '1'
 series: '0301' 
 apply_url: https://docs.google.com/forms/d/1Sa24Hqdiru4GnqdgeG9jBV0k_JQFDTSTEvp5-EqJ96o/closedform
-ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+ohrm_contact_email: 'Lynne DiReda'
+ohrm_contact_name: 'lynne.direda@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: 'N/A'
 supervisory_status: 'YES' 
