@@ -1,6 +1,6 @@
 ---
 title: Centers of Excellence - Site Reliability/DevOps Engineer 
-permalink: /join/devops-engineer/
+permalink: /join/coe-devops-engineer/
 state: upcoming
 job_post_type: tts 
 
