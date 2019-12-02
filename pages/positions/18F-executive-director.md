@@ -1,7 +1,7 @@
 ---
 title: 18F - Executive Director
 permalink: /join/executive-director/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
