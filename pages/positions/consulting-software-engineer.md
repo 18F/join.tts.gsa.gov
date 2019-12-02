@@ -1,29 +1,29 @@
 ---
-title: 18F - Consulting Software Engineer
+title: 18F - Consulting Software Engineer (IT Specialist) 
 permalink: /join/consulting-software-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Consulting Software Engineer
-opens:  'tbd'
-closes: 'tbd'
+role_name: Consulting Software Engineer (IT Specialist)
+opens:  'December 2, 2019'
+closes: 'December 9, 2019'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '106,595'
+salary_max: '138,572'
 org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: 'tbd'
-pd_job_title: 'Innovation Specialist'
+job_announcement_number: '2000180LDDHA'
+pd_job_title: 'IT Specialist (APPSW)'
 num_vacancies: '1'
-series: '0301'
-apply_url: https://goo.gl/forms/aTqYkUbiLuENMvvE3
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
+series: '2210'
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/553208400#
+ohrm_contact_email: 'lynne.direda@gsa.gov'
+ohrm_contact_name: 'Lynne DiReda'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -204,14 +204,11 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 ## Application Evaluation
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
+You will be evaluated for this job based on how well you meet the qualifications below.
 
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+Applications will be evaluated against the basic qualifications. Qualified candidates will be considered in accordance with the Office of Personnel Management Direct Hire Guidelines. Veterans' Preference does not apply to the direct hire recruitment procedures. Certain selections made under this notice will be processed as new appointments to the civil service. Current civil service employees might be given new appointments to the civil service. You may not be considered for the position, if any part of the application is incomplete or missing the required supporting documentation. Falsifying your background, education and/or experience is cause for not hiring you or dismissing you if hired.
+
+If you are an Interagency Career Transition Assistance Plan eligible or a GSA Career Transition Assistance eligible, you must be considered well qualified to receive priority. ICTAP/CTAP. Well qualified is defined as possession of the majority of competencies required for the position and will be determined, based upon a review of your resume against the competencies required for the position being filled.
 
   The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
@@ -225,19 +222,17 @@ We will use a method called Category Rating to assess your application.
 
 **Here’s how it will work:**
 
+BASIC REQUIREMENTS:  Have IT-related experience demonstrating EACH of the four competencies listed below:
+
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Software Engineering Technical Experience:** Deliver technical solutions and products using software engineering technology
-- **Software Engineering Practices:** Deliver innovative technical solutions and products using established engineering best practices
-- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
-- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
+- **Attention to Detail** - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
 
-If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
+- **Customer Service** - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
 
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+- **Oral Communication** - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
 
-Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+- **Problem Solving** - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate
 
 {% endif %}
 
@@ -247,31 +242,8 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
-
-1. Experience working on an engineering team. This experience must include **ALL** of the following:
-- Experience developing large or complex modern software projects
-- Experience navigating stakeholder relationships
-- Experience working as part of a cross-functional team
-
-2. Experience delivering projects, tools or products. This experience must include **ONE** of the following:
-- Delivering projects with multiple stakeholders while operating within high levels of bureaucracy
-- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
-- Developing within the context of a consulting relationship
-
-3. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
-- Developing applications, web apps, or web sites using **ONE** of the following server-side languages: Python, Ruby, Go, C#, or Node.js
-- Developing applications, web apps, or web sites using a relational or non-relational data layers (such as SQL or MongoDB)
-- Developing applications, web apps, or web sites using test-driven development and software testing tools
-
-4. Experience deploying or operating applications on cloud technologies.This experience must include 
-**ONE** of the following:
-- Developing applications using Infrastructure-as-a-Service (IaaS) (such as AWS)
-- Developing applications using Platform-as-a-Service (PaaS) (such as CloudFoundry or Heroku)
-- Developing applications using containerization technologies (such as Docker)
-- Developing applications using configuration management tools  (such as Chef)
-- Develop continuous integration and continuous delivery tooling for an application or web site (such as CircleCI or Jenkins)
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized Experience is:
+**Specialized experience is defined as experience delivering projects, tools or products as part of an engineering team. This includes experience developing or architecting complex modern web applications using approaches such as test-driven development, continuous integration & deployment, and distributed version control such as GitHub. Candidates must have experience working with stakeholders and cross-functional teams.**
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
