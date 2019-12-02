@@ -5,7 +5,7 @@ state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Consulting Software Engineer
+role_name: Consulting Software Engineer (IT Specialist)
 opens:  'December 2, 2019'
 closes: 'December 9, 2019'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
@@ -243,7 +243,7 @@ order to properly be able to evaluate your previous experience, we recommend bei
 and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized Experience is:
-Specialized experience is defined as experience delivering projects, tools or products as part of an engineering team. This includes experience developing or architecting complex modern web applications using approaches such as test-driven development, continuous integration & deployment, and distributed version control such as GitHub. Candidates must have experience working with stakeholders and cross-functional teams.
+**Specialized experience is defined as experience delivering projects, tools or products as part of an engineering team. This includes experience developing or architecting complex modern web applications using approaches such as test-driven development, continuous integration & deployment, and distributed version control such as GitHub. Candidates must have experience working with stakeholders and cross-functional teams.**
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
