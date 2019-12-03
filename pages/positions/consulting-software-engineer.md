@@ -185,7 +185,7 @@ Leads, coordinates, communicates, integrates and is accountable for the overall 
 Leads cross functional teams at scale or in highly complex environments to develop innovative software and/or services. Focuses team efforts towards current goals and priorities.
 Plans, develops, and executes large scale IT projects that transform the manner in which work is accomplished. Determines the size, skills, and roles necessary for an ad hoc team to deliver a product and identifies appropriate team members.
 
--Relationship Management:
+- Relationship Management:
 Serves as a liaison to high-ranking stakeholders within GSA and customer agencies to convey information regarding Agile Technology Program activities, policies and goals; to clarify procedures; and to interpret directives as needed.
 Works closely with customer agencies in senior leadership roles and navigates conflicting priorities from senior stakeholders or in complex environments. Reinforces, upholds, and advocates for 18F’s core
 principles for building IT services, including building in the open, developing software using agile and lean methodologies, and using user-centered design methods.
