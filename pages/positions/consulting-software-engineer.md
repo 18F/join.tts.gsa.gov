@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Consulting Software Engineer (IT Specialist)
 opens:  'December 2, 2019'
-closes: 'December 9, 2019'
+closes: 'December 9, 2019 at 11:59pm ET'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '106,595'
