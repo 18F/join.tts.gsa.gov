@@ -167,26 +167,26 @@ Initial appointments are made lasting longer than 1 year, but not to exceed 4 ye
 - Full Time telework is negotiable after the selection (i.e., official worksite/duty location is the residence of the selectee).
 - Current civil service employees will receive new appointments if selected under this Direct Hire Authority.
 - Current GSA employees on competitive service appointments will not be considered.
-- You must perform the following Major Duties utilizing expert level skill, mastery knowledge and significant IT experience:
 
-**Expert Software Engineer/Applications Developer:**
+You must perform the following Major Duties utilizing expert level skill, mastery knowledge and significant IT experience:
 
-- Serves as an expert software engineer/ applications developer and consultant, managing and directing
+- Expert Software Engineer/Applications Developer:
+Serves as an expert software engineer/ applications developer and consultant, managing and directing
 multiple highly complex and innovative IT projects and initiatives. This includes translating technical
 specifications into programming specifications; developing, customizing, and/or acquiring applications
 software programs; and testing, debugging, and maintaining software program.
-Project Leadership:
 
-- Provides expert technical advice, leadership, and direction on all software engineering related issues for the improvement of the product. Determines project objectives and sets priorities; anticipates potential
+- Project Leadership:
+Provides expert technical advice, leadership, and direction on all software engineering related issues for the improvement of the product. Determines project objectives and sets priorities; anticipates potential
 threats and opportunities. Provides expert leadership and guidance in how to use user research findings to influence software product development. Establishes a shared understanding across team members and stakeholders. 
 Leads, coordinates, communicates, integrates and is accountable for the overall success of the program, ensuring alignment with critical agency priorities.
-Provides Leadership to Ad Hoc Teams:
 
-- Leads cross functional teams at scale or in highly complex environments to develop innovative software and/or services. Focuses team efforts towards current goals and priorities.
+- Provides Leadership to Ad Hoc Teams:
+Leads cross functional teams at scale or in highly complex environments to develop innovative software and/or services. Focuses team efforts towards current goals and priorities.
 Plans, develops, and executes large scale IT projects that transform the manner in which work is accomplished. Determines the size, skills, and roles necessary for an ad hoc team to deliver a product and identifies appropriate team members.
-Relationship Management:
 
-- Serves as a liaison to high-ranking stakeholders within GSA and customer agencies to convey information regarding Agile Technology Program activities, policies and goals; to clarify procedures; and to interpret directives as needed.
+-Relationship Management:
+Serves as a liaison to high-ranking stakeholders within GSA and customer agencies to convey information regarding Agile Technology Program activities, policies and goals; to clarify procedures; and to interpret directives as needed.
 Works closely with customer agencies in senior leadership roles and navigates conflicting priorities from senior stakeholders or in complex environments. Reinforces, upholds, and advocates for 18F’s core
 principles for building IT services, including building in the open, developing software using agile and lean methodologies, and using user-centered design methods.
 
@@ -210,7 +210,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation
 3. You may be required to serve a trial period
 4. Direct Deposit of salary check to financial organization required
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by [https://www.sss.gov/Registration-Info/Who-Registration](https://www.sss.gov/Registration-Info/Who-Registration)
 
 ## Employment Requirements
 
