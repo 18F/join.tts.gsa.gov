@@ -1,30 +1,30 @@
 ---
 title: 18F - Cloud Operations Site Reliability Engineer
 permalink: /join/cloud-operations-sre/
-state: closed
+state: upcoming
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Cloud Operations Site Reliability Engineer
-opens: February 11, 2019, 8am EDT
-closes: February 15, 2019, 8pm EDT
+opens: TBD
+closes: TBD
 location: 'Virtual (100% Remote); Washington, DC; New York, NY; San Francisco, CA; Chicago, IL'
 gs_level: 15
-salary_min: '105,123'
-salary_max: '136,659'
+salary_min: '106,595'
+salary_max: '138,572'
 org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1900273JCOTR'
+job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
 num_vacancies: '1'
 series: '0301'
-apply_url: https://goo.gl/forms/zEhTAHf8LmcEssTe2
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov '
-ohrm_contact_name: 'Jacqueline Coleman'
+apply_url: TBD
+ohrm_contact_email: 'TBD'
+ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
