@@ -38,7 +38,7 @@ supervisory_status: 'No'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
 {% endif %}
 
 **Location:**
