@@ -9,8 +9,8 @@ subnav:
     href: "#18f"
   - text: Presidential Innovation Fellows
     href: "#presidential-innovation-fellows"  
-  - text: Office of Products and Programs
-    href: "#office-of-products-and-programs"
+  - text: Office of Solutions
+    href: "#office-of-solutions"
   - text: Office of Acquisition
     href: "#office-of-acquisition"
   - text: TTS Front Office
@@ -94,25 +94,24 @@ Button Initiatives by building APIs that allow more people to access
 their health information and make more informed decisions about their
 health.
 
-### Office of Products and Programs
+### Office of Solutions
 *Portfolio of shared services that help agencies make information accessible, drive innovation, and avoid costs.*
 
-The Office of Products and Programs (OPP) works with agencies to improve
-the public experience with government. To do this, OPP enables programs
-such as USA.gov, Data.gov, and Challenge.gov. OPP also offers solutions
-to agencies seeking to modernize IT, such as FedRAMP and the Digital
-Analytics Program. OPP’s reach is tremendous, with thousands of agency
+The Office of Solutions works with agencies to improve
+the public experience with government. To do this, Solutions enables programs
+such as USA.gov, Data.gov, and Challenge.gov. Solutions also offers products and programs to support
+agencies seeking to modernize IT, such as FedRAMP and the Digital
+Analytics Program. Its reach is tremendous, with thousands of agency
 partners and millions of customer interactions. The professionals on the
-OPP team include program managers, product owners, writers, customer
+Solutions team include program managers, product owners, writers, customer
 experience specialists, engineers, data scientists, and user experience
 designers who work on established products and services for the public
-and federal agencies. [Find out more about the Office of Products and
-Programs](https://handbook.18f.gov/office-of-products-and-programs/).
+and federal agencies. [Find out more about the Office of Solutions (formerly Office of Products and Programs)](https://handbook.18f.gov/office-of-products-and-programs/).
 
 **Case study:** [Data.gov provides a central source for government
 data](https://www.data.gov)
 
-Data.gov is one of OPP’s many shared services for all of government.
+Data.gov is one of Solutions’s many shared services for all of government.
 With Data.gov, the public can come to one place to find data sets from
 all over government and use them for research, business operations, and
 journalism.
