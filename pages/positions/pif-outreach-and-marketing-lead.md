@@ -1,7 +1,7 @@
 ---
 title: Presidential Innovation Fellows - Outreach and Marketing Lead
 permalink: /join/outreach-and-marketing-lead/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
