@@ -3,7 +3,7 @@ title: Centers of Excellence - Infrastructure Optimization Specialist
 permalink: /join/coe-infrastructure-optimization-specialist/
 redirect from:
   -/join/infrastructure-optimization-specialist-closed/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
