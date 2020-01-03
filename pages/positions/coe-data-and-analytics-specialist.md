@@ -10,8 +10,8 @@ opens: TBD
 closes: TBD
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '137,849'
-salary_max: '166,500'
+salary_min: '142,701'
+salary_max: '170,800'
 org: 'Centers of Excellence (CoE)'
 contact_name: 'Amanda Schonfeld'
 contact_email: 'jointts@gsa.gov'
@@ -47,6 +47,8 @@ supervisory_status: 'NO'
 
 **Salary Range:**
 ${{ page.salary_min }} to ${{ page.salary_max }}
+
+Please note the maximum salary available for the GS pay system is **$170,800** 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
