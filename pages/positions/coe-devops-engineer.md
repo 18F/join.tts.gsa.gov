@@ -10,8 +10,8 @@ opens: TBD
 closes: TBD
 location: Washington, DC
 gs_level: 15
-salary_min: '137,849'
-salary_max: '166,500'
+salary_min: '142,701'
+salary_max: '170,800'
 org: 'Centers of Excellence (COE)'
 contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
@@ -52,9 +52,10 @@ The base salary range does not include any adjustment for locality. Your localit
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$166,500** 
+Please note the maximum salary available for the GS pay system is **$170,800** 
+
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who May Apply:**
