@@ -84,4 +84,4 @@ about working at TTS, including:
 -   [Benefits](https://handbook.18f.gov/benefits/)
 -   [Leave](https://handbook.18f.gov/benefits/#leave)
 -   [Telework and virtual worker policy](https://handbook.18f.gov/telework/)
--   [Professional development and training processes](https://handbook.18f.gov/attending-conferences/)
+-   [Professional development and training processes](https://handbook.18f.gov/conferences-events-training/)
