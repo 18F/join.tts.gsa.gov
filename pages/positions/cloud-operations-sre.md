@@ -1,5 +1,5 @@
 ---
-title: 18F - Cloud Operations Site Reliability Engineer
+title: Cloud.gov - Cloud Operations Site Reliability Engineer
 permalink: /join/cloud-operations-sre/
 state: upcoming
 job_post_type: tts 
@@ -12,7 +12,7 @@ location: 'Virtual (100% Remote); Washington, DC; New York, NY; San Francisco, C
 gs_level: 15
 salary_min: '109,366'
 salary_max: '142,180'
-org: '18F'
+org: 'TTS'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
@@ -67,7 +67,7 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-cloud.gov, a product team within 18F, is looking for talented site reliability engineers to help us deliver better digital services to the public. As an engineer at 18F, you will be a builder, contributor, and a catalyst. With the support of the team, you will solve large complex problems while spreading user-centered, open, and transparent culture. [18F is an open source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
+cloud.gov is looking for talented site reliability engineers to help us deliver better digital services to the public. As an engineer, you will be a builder, contributor, and a catalyst. With the support of the team, you will solve large complex problems while spreading user-centered, open, and transparent culture. [18F is an open source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
 Site reliability engineers on our team are:
 
@@ -169,11 +169,11 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
   
 ## Job Summary
   
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
+This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The TTS office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
 
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -286,3 +286,5 @@ For each job on your resume, provide:
 
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
+
+If you are interested in submitting your resume before the application process is open, please send your resume and  cover letter (optional) to cloud-gov-jobs@gsa.gov
