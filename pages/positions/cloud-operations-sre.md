@@ -286,5 +286,3 @@ For each job on your resume, provide:
 
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-
-If you are interested in submitting your resume before the application process is open, please send your resume and  cover letter (optional) to cloud-gov-jobs@gsa.gov
