@@ -1,29 +1,29 @@
 ---
 title: PIF - Presidential Innovation Fellow
 permalink: /join/pif-presidential-innovation-fellow/
-state: closed
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
 role_name: Presidential Innovation Fellow
-opens: 'February 26, 2019, 12pm EDT'
-closes: 'May 6, 2019, 11:59pm EDT'
+opens: 'January 29, 2020, 12pm EDT'
+closes: 'May 4, 2020, 11:59pm EDT'
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '134,789'
-salary_max: '164,200'
+salary_min: '142,701'
+salary_max: '142,701'
 org: 'Presidential Innovation Fellows'
 contact_name: 'Deb Baptiste'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS_OPEN: These fields are required for open
-job_announcement_number: '1900303JCOTR'
+job_announcement_number: '2000228OTR'
 pd_job_title: 'Industry Specialist'
 num_vacancies: '15'
 series: '0301'
 apply_url: https://apply.pif.gov/
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
+ohrm_contact_email: 'stephanie.bernstein@gsa.gov'
+ohrm_contact_name: 'Stephanie Bernstein'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -45,76 +45,52 @@ supervisory_status: 'No'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
-
-Please note the maximum salary available for the GS pay system is **$166,500**
-
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} 
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
-
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens who are not currently Federal employees or GSA contractors are eligible to apply. 
 
 ## Role Summary:
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-The Presidential Innovation Fellows (PIF) is a highly-competitive program that pairs mid-to-senior level entrepreneurs,
-technologists, designers and data scientists with top civil-servants and change-makers working within the federal
-government to tackle some of our nation’s biggest challenges and deliver better solutions to U.S. citizens. Fellows
-are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems,
-shaping smarter policy and/or delivering on technology.
+The Presidential Innovation Fellows (PIF) is a highly-competitive program that pairs mid-to-senior level entrepreneurs, technologists, designers and data scientists with top civil-servants and change-makers working within the federal government to tackle some of our nation’s biggest challenges and deliver better solutions to U.S. citizens. Fellows are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems, shaping smarter policy and/or delivering on technology. 
 
-Since the program was launched in 2012 by former U.S. CTO Todd Park, [135 Fellows](https://presidentialinnovationfellows.gov/fellows/)
-have worked with over [35 agencies](https://presidentialinnovationfellows.gov/agencies/).
-These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome
-Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer
-clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk
-and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster
-care system.
+Since the program was launched in 2012 by former U.S. CTO Todd Park, [139 Fellows](https://presidentialinnovationfellows.gov/fellows/) have worked with over [36 agencies](https://presidentialinnovationfellows.gov/agencies/). These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome Project. Past Fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster care system.
 
-We will begin recruiting the next cohort of Fellows in mid-April. Applicants can apply online at [www.pif.gov](http://www.pif.gov) and Fellows will start the summer of 2019.
+We will begin recruiting the next cohort of Fellows in January 2020. Applicants can apply online at apply.pif.gov and Fellows will start in October 2020. 
 
-The characteristics that we look for in Fellows, include:
+The characteristics that we look for in Fellows, include: 
 
-### Entrepreneurship and Initiative:
-- Expert in a hard skill such as modern product management, software development, lean startup, strategy consulting,
-analysis, strategic design, experience design, human centered design, data science, artificial intelligence, machine
-learning, cybersecurity, etc.
-- Self-starter- either an entrepreneur or intrapreneur with experience starting and building initiatives
-- Ability to engage business problems, understand and design effective solutions and strategies that draw on current and
-emergent tools, technologies, initiatives and other resources
+### Entrepreneurship and Technology:
+- Expert in a hard skill such as modern product management, software development, lean startup, strategy consulting, analysis, strategic design, experience design, human centered design, data science, artificial intelligence, machine learning, cybersecurity, etc. 
+- Self-starter - either an entrepreneur or intrapreneur with experience starting and building initiatives
+- Ability to break down business problems, understand and design effective solutions and strategies that draw on current and emergent tools, technologies, initiatives and other resources
 - Experience delivering products or services from concept to market
 
 ### Approach and Methodology:
 - Expertise applying frameworks that emphasize delivery, iteration, quantitative/qualitative learnings and responsiveness
 - Expertise determining user needs, identifying market opportunities and designing and deploying solutions
-- Ability to apply forward thinking design and development principles to product development and project management such as
-lean start-up, user centered design and agile
-- Ability to describe esoteric and highly technical solutions to non-technical stakeholders
+- Ability to apply forward thinking design and development principles to product development and project management such as lean start-up, agile and user centered design 
+- Ability to describe esoteric and highly technical solutions to non-technical stakeholders 
 
 ### Empathy and Emotional Intelligence:
-- High degree of emotional intelligence. A quick study, who intuitively knows what needs to get done to deliver with
-integrity
-- Experience in client-facing roles, navigating bureaucracy,  business development and delivering services with a
-strong user-facing or consumer-oriented element
-- Coalition builder with the ability to persuade and convince others to think about solutions in new and creative ways
+- High degree of emotional intelligence. A quick study, who intuitively knows what needs to get done to deliver with integrity
+- Experience in client-facing roles, navigating bureaucracy,  business development and delivering services with a strong user-facing or consumer-oriented element 
+- Coalition builder with the ability to persuade and convince others to think about solutions in new and creative ways 
 - Ability to know when you need to show and when you need to tell
 - Tenacity to push forward over difficult obstacles
 - Evidence navigating large, complex organizations and stakeholders
 - Demonstrates patience and leads with humility
 
 ### Leadership
-- At least 10 years of professional experience working in your area
-- Demonstrated experience leading stakeholders through change where you don’t have explicit authority
-- Ability to be a thought leader and contribute best practices in a variety of technologies and principles
+- At least 8 years of professional experience working in your area
+- Demonstrated experience leading stakeholders through change where you don’t have explicit authority 
+- Ability to be a thought leader and contribute best practices in a variety of technologies and business areas
 - Teamwork - ability to lead teams and work effective with others within a team
-- Interested in building a culture within the Fellowship and taking a genuine interest in other Fellows’ work,
-including providing feedback and collaborating when appropriate
+- Interested in building a culture within the Fellowship and taking a genuine interest in other Fellows’ work, including providing feedback and collaborating when appropriate
 
 ## Key Objectives
 
@@ -148,13 +124,10 @@ deliver with integrity, ensuring compliance at all levels
 {{ page.location }}
 
 **Salary Range:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
-
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
+Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} 
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens who are not currently Federal employees or GSA contractors are eligible to apply. 
 
 **Job announcement number:**
 {{ page.job_announcement_number }}
@@ -178,16 +151,16 @@ GS-{{ page.promotion_potential }}
 {{ page.supervisory_status }}
 
 **Travel requirement:**
-Occasional travel may be required up to 10%-20% per year
+Occasional travel may be required up to 10% per year
 
 **Security clearance:**
-Public trust. Background investigation required.
+Public trust. Background investigation required. Select positions may require higher levels of clearance. 
 
 **Work Schedule:**
 Full time
 
 **Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+Excepted Service: 12 months and 1 day. May be extended up to an additional 12 months.
   
 ## Job Summary
   
@@ -293,18 +266,17 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
+1.Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
 - Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy
 - Working in a team-oriented environment and collaborating within teams
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
 
-2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following:
+2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
 - Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
-- Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations)
-- Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking)
-- Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services
-- Functioning in an analytical capacity and executing or contributing to investment deals in an investment bank and/or venture capital firm (including corporate venture capital)
-- Experience functioning in an organizational leadership capacity as a data scientist, statistician (using predictive analytics) or working in an organizational leadership capacity in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes
+- Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations).
+- Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking).
+- Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services.
+- Experience functioning in an organizational leadership capacity as a data scientist (using predictive analytics) or working in an organizational leadership capacity in the field of artificial intelligence/machine learning which can include: utilizing tools, algorithms or mathematical/statistical modeling techniques to positively impact business outcomes. 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
