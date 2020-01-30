@@ -19,7 +19,7 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS_OPEN: These fields are required for open
 job_announcement_number: '2000228OTR'
 pd_job_title: 'Industry Specialist'
-num_vacancies: '15'
+num_vacancies: '25'
 series: '0301'
 apply_url: https://apply.pif.gov/
 ohrm_contact_email: 'stephanie.bernstein@gsa.gov'
@@ -60,7 +60,7 @@ The Presidential Innovation Fellows (PIF) is a highly-competitive program that p
 
 Since the program was launched in 2012 by former U.S. CTO Todd Park, [139 Fellows](https://presidentialinnovationfellows.gov/fellows/) have worked with over [36 agencies](https://presidentialinnovationfellows.gov/agencies/). These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome Project. Past Fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk and mitigate threats, and creating a central digital location to share and improve outcomes for children within the foster care system.
 
-We will begin recruiting the next cohort of Fellows in January 2020. Applicants can apply online at apply.pif.gov and Fellows will start in October 2020. 
+We will begin recruiting the next cohort of Fellows in January 2020. Applicants can apply online at [apply.pif.gov](https://presidentialinnovationfellows.gov/apply/) and Fellows will start in October 2020. 
 
 The characteristics that we look for in Fellows, include: 
 
@@ -266,13 +266,13 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1.Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
-- Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy
-- Working in a team-oriented environment and collaborating within teams
+1. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
+- Leading stakeholders through organizational change demonstrated by: Leading a cross-functional team to meet strategic objectives; Garnering support for team by persuading others to provide approval, funding or resources; or Adjusting strategy based on qualitative or quantitative strategy.
+- Working in a team-oriented environment and collaborating within teams.
 - Working as an entrepreneur (i.e started and grown companies or organizations) measured in increased revenue, clients or users; **OR** intrapreneur (i.e. starting and/or leading initiatives within corporate, academic or non-profit institutions) measured by increased revenue, promoted growth, drove business strategy, acquired clients or customers/end users.
 
 2. Experience applying technology innovation craft to the design and development of products and services. This experience must include **ONE** of the following: 
-- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
+- Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB).
 - Advising organizations on developing and delivering digital products or services, contributing to the development or the evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code and overall architecture and making technical recommendations).
 - Leading cross-functional teams (e.g. product leads, developers, content designers, and other UX designers) in the research (i.e. planning, conducting, analyzing, translating & sharing user research) and design (e.g. developing wireframes, site maps, journey maps, process flows and prototypes,) of digital products or services using User Experience principles & practices (e.g. User Centered Design, Human Centered Design, Design Thinking).
 - Driving the success of a product by leading the product vision, developing the product roadmap, utilizing innovation methodologies (e.g. Lean Startup, Agile, User Centered Design, Human Centered Design, UX Design, Experience Design) and leading cross functional teams (e.g.developers, content designers, UX designers, strategist) to design, develop, and deliver digital products or services.
