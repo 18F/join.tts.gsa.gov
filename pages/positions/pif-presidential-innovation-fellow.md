@@ -44,7 +44,7 @@ supervisory_status: 'No'
 **Location:**
 {{ page.location }}
 
-**Salary Range:**
+**Salary:**
 The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} 
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
@@ -123,7 +123,7 @@ deliver with integrity, ensuring compliance at all levels
 **Location:**
 {{ page.location }}
 
-**Salary Range:**
+**Salary:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} 
 
 **Who May Apply:**
