@@ -45,7 +45,7 @@ supervisory_status: 'No'
 {{ page.location }}
 
 **Salary:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} 
+The salary for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} 
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
@@ -124,7 +124,7 @@ deliver with integrity, ensuring compliance at all levels
 {{ page.location }}
 
 **Salary:**
-Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} 
+Salary GS-{{ page.gs_level }} - ${{ page.salary_min }} 
 
 **Who May Apply:**
 All United States citizens who are not currently Federal employees or GSA contractors are eligible to apply. 
