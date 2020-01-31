@@ -256,15 +256,15 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 1. Experience building, creating, strategizing, and delivering programming, content, and events for large companies or organizations which must include ALL of the following: 
 
-- Planning and executing a sponsorship or event for large conferences (i.e. more than 300+ attendees) with the purpose of branding and marketing the organization.
-- Planning large internal team-building events, such as retreats, alumni reunions, etc.
-- Creating speaker panels that receive high feedback ratings from event participants. 
-- Developing ongoing knowledge sharing and workshops.
-- Previous experience managing an organization's strategic alliances and partnerships.
-- Experience managing large cross-functional teams of 10+.
-- Account management skills with the ability to juggle a variety of relationships, such as internal stakeholders, clients, and users.
-- Experience developing programming and content initiatives that map back to the financial success of the program.
-- Experience using graphic design, video editing, and web development applications.
+   - Planning and executing a sponsorship or event for large conferences (i.e. more than 300+ attendees) with the purpose of branding and marketing the organization.
+   - Planning large internal team-building events, such as retreats, alumni reunions, etc.
+   - Creating speaker panels that receive high feedback ratings from event participants. 
+   - Developing ongoing knowledge sharing and workshops.
+   - Previous experience managing an organization's strategic alliances and partnerships.
+   - Experience managing large cross-functional teams of 10+.
+   - Account management skills with the ability to juggle a variety of relationships, such as internal stakeholders, clients, and users.
+   - Experience developing programming and content initiatives that map back to the financial success of the program.
+   - Experience using graphic design, video editing, and web development applications.
 
 
 
