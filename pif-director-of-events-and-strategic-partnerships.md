@@ -1,12 +1,12 @@
 title: Presidential Innovation Fellows - Director of Events and Strategic Partnerships
-permalink: /join/Director-of-Events-and-Strategic-Partnerships/
+permalink: /join/pif-director-of-events-and-strategic-partnerships/
 state: upcoming
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director of Events and Strategic Partnerships
-opens: TBD
-closes: TBD
+opens: 'TBD'
+closes: 'TBD'
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '142,701' 
