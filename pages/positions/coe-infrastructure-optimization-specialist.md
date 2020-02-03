@@ -12,10 +12,10 @@ opens: 'TBD'
 closes: 'TBD'
 location: 'Washington, DC'
 gs_level: 15
-salary_min: '134,849'
-salary_max: '166,500'
+salary_min: '142,700'
+salary_max: '170,800'
 org: 'Centers of Excellence'
-contact_name: 'Leigh Finkel'
+contact_name: 'Lauren Ferrucci'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
@@ -188,7 +188,7 @@ GS-{{ page.promotion_potential }}
 **Salary Range:**
 ${{ page.salary_min }} to ${{ page.salary_max }}
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2018 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/). If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you applied to.
 
 **Location:**
 {{ page.location }}
