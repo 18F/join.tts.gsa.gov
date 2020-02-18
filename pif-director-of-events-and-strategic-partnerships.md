@@ -1,7 +1,7 @@
 ---
 title: Presidential Innovation Fellows - Director of Events and Strategic Partnerships
 permalink: /join/pif-director-of-events-and-strategic-partnerships/
-state: upcoming
+state: closed
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
