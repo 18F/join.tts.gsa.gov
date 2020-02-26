@@ -4,7 +4,7 @@ permalink: tts-offices/
 
 subnav:
   - text: Centers of Excellence
-    href: "#centers-of-Excellence"
+    href: "#centers-of-excellence"
   - text: 18F
     href: "#18f"
   - text: Presidential Innovation Fellows
