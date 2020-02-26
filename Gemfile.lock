@@ -80,7 +80,7 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    uswds-jekyll (4.1.0)
+    uswds-jekyll (4.2.0)
       jekyll (~> 3.4)
     yell (2.0.7)
 
