@@ -8,7 +8,7 @@ subnav:
   - text: Upcoming positions
     href: "#upcoming-positions"
   - text: Application process
-    href: "#Application-process"
+    href: "#application-process"
   - text: About TTS
     href: "#about-technology-transformation-services"
 ---
