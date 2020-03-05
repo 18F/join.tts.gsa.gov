@@ -1,0 +1,21 @@
+
+
+on: pull_request
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    name: A job to comment the Federalist Preview link on Pull Requests
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      # - name: Checks passed
+      #   if: github.event.action.check_run[status] == 'completed'
+
+      - name: Comment Pull Request
+        uses: thollander/actions-comment-pull-request@1.0.0
+        with:
+          message: '__test__ content:HOORAY ${{ github.ref }}'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
