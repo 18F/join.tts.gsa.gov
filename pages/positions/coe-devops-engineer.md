@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Site Reliability/DevOps Engineer 
 permalink: /join/coe-devops-engineer/
-state: upcoming
+state: closed
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
