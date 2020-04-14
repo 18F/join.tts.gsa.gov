@@ -1,7 +1,7 @@
 ---
 title: Cloud.gov - Cloud Operations Site Reliability Engineer
 permalink: /join/cloud-operations-sre/
-state: upcoming
+state: closed
 job_post_type: tts 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
