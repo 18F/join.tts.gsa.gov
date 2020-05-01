@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS_UPCOMING: These fields are required for upcoming
 role_name: Presidential Innovation Fellow
 opens: 'January 29, 2020, 12pm EDT'
-closes: 'May 4, 2020, 11:59pm EDT'
+closes: 'May 18, 2020, 11:59pm EDT'
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '142,701'
