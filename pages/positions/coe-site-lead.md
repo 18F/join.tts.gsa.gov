@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Site Lead
 permalink: /join/site-lead/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -10,8 +10,8 @@ opens: 'tbd'
 closes: 'tbd'
 location: Washington, DC
 gs_level: 15
-salary_min: '134,789'
-salary_max: '164,200'
+salary_min: '142,701'
+salary_max: '170,800'
 org: 'Centers of Excellence (CoE)'
 contact_name: 'Elizabeth Scott'
 contact_email: 'jointts@gsa.gov'
@@ -46,15 +46,12 @@ supervisory_status: 'NO'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-Please note the maximum salary available for the GS pay system is **$166,500**
-
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+Please note the maximum salary available for the GS pay system is **$170,800**
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
