@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1900172JCOTR'
+job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
-num_vacancies: '2'
+num_vacancies: '1'
 series: '0301'
-apply_url: https://goo.gl/forms/DyHCmJliyNDM27o33
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
+apply_url: 'TBD'
+ohrm_contact_email: 'TBD'
+ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'NO'
