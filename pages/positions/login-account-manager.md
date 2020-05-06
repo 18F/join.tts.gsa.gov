@@ -6,9 +6,9 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Account Manager
-opens: TBD
-closes: TBD
-location: Virtual (100% Remote)
+opens: 'TBD'
+closes: 'TBD'
+location: 'Virtual (100% Remote)'
 gs_level: 15
 salary_min: '142,701'
 salary_max: '170,800'
