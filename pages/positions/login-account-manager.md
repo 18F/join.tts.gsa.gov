@@ -1,6 +1,6 @@
 ---
 title: login.gov - Account Manager
-permalink: /join/login-account-manager
+permalink: /join/login-account-manager/
 state: upcoming
 job_post_type: tts
 
