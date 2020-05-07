@@ -10,8 +10,8 @@ opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote)'
 gs_level: 15
-salary_min: '142,701'
-salary_max: '170,800'
+salary_min: '109,366'
+salary_max: '142,108'
 org: 'login.gov'
 contact_name: 'Lauren Ferrucci'
 contact_email: 'jointts@gsa.gov'
@@ -226,10 +226,10 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is experience:
 
-- Managing $5+MM accounts for large corporate or public sector clients
+- Managing $5MM+ accounts for large corporate or public sector clients
 - Increasing sales revenue with proven measurable results
 - Selling a technical product
-- Negotiating and presenting
+- Negotiating and presenting to potential clients
 - Collaborating across cross-functional teams including design, engineering, support, product and strategy
 - Working with technology software: web applications, MFA, digital identities, APIs
 - Contributing to a client’s growth strategy  
