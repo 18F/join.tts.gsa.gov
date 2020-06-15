@@ -6,25 +6,25 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager
-opens: 'TBD'
-closes: 'TBD'
+opens: 'Tuesday, June 16, 2020'
+closes: 'Friday, July 17, 2020 at 11:59PM EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '109,366'
-salary_max: '142,180'
+salary_min: '126,810'
+salary_max: '170,800'
 org: '18F'
 contact_name: 'Leigh Finkel'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
-pd_job_title: 'Innovation Specialist'
+job_announcement_number: '20FASC168SVGOTR'
+pd_job_title: 'IT Specialist (PLCYPLAN)'
 num_vacancies: '1'
-series: '0301'
-apply_url: TBD
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+series: '2210'
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/570960700
+ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
+ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -39,7 +39,7 @@ supervisory_status: 'No'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration**
 {% endif %}
 
 **Location:**
@@ -133,14 +133,13 @@ Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_m
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
 **Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -167,15 +166,32 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+Initial appointments to last longer than 1 year, but NTE 4 years. GSA, may extend appt up to 4 additional years. No individual hired under this DHA can serve in excess of 8 years with GSA.
   
 ## Job Summary
   
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
+This Notice is issued under direct-hire authority to recruit new talent to occupations for which there is a severe shortage of candidates. We have a severe shortage of qualified applicants for our Information Technology Specialist positions. To help us fill these jobs, we have been granted “Direct Hire Authority” or DHA for IT Specialist by Executive Order 13833. This means that when we have a vacant job, we can hire any qualified candidate, either from this notice or from any source. The benefit of applying to this notice is that your application may be shared with a hiring manager if they request resumes from this notice.
 
-As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
+Initial appointments are made lasting longer than 1 year, but not to exceed 4 years. GSA, may extend an appointment up to 4 additional years.  No individual hired under this DHA can serve in excess of 8 years with GSA, and cannot be transferred to positions that are not IT positions.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+**Key facts about this DHA notice:**
+
+- TTS is seeking to fill multiple TERM appointments at the GS-15 level.
+- Positions may be located in Washington, DC; San Francisco, CA; Chicago, IL;  New York, NY or Full-time Telework.
+- Salary to be determined upon selection, depending on duty location.  
+- Full Time telework is negotiable after the selection (i.e., official worksite/duty location is the residence of the selectee).
+- Current civil service employees will receive new appointments if selected under this Direct Hire Authority.
+- Current GSA employees on competitive service appointments will not be considered.
+- You must perform the following Major Duties utilizing expert level skill, mastery knowledge and significant IT experience:
+
+Expert IT Policy and Planning Consultant: Serves as a senior IT expert and authoritative technical consultant within 18F. Engages with the larger and more complex customer agencies to develop and revise highly complex and intricate IT policies, practices, products, services, and strategies based on laws, regulations, business needs, and user needs. 
+Applies innovative IT theories to problems not susceptible to treatment by standard methods and makes decisions or recommendations significantly changing, interpreting, or developing important IT policies, programs, or initiatives.
+
+Expert IT Project Leadership: Provides sound direction and vision during the entire IT project. Ensures the IT project is led in a manner consistent with the goals of engagement and with the right team members. Engages leadership in the creation process and the project vision. Establishes a shared understanding across team members and stakeholders.
+
+Provides Leadership to Ad Hoc Teams: Leads cross functional teams to develop innovative IT services. Plans, develops, and executes highly complex and intricate IT projects that transform the manner in which work is accomplished within the federal government.
+
+Relationship Management: Serves as a liaison to program personnel within the agency to convey information regarding Agile Technology Program activities, policies and goals; to clarify procedures; and to interpret directives as needed. Utilizes interpersonal skills to develop cooperative relationships. Works closely with customer agencies in a leadership role and navigates and works through conflicting priorities from stakeholders. Uses empathy, creativity, coalition building, situational awareness and tact to problem solve and manage stakeholders.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -207,10 +223,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
-## Duties
-
-Typical duties for the fellow include but are not limited to:
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
 
 {% endif %}
 
@@ -263,26 +275,10 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience leading interdisciplinary product teams in the research, design, development and delivery of digital products or services. This experience must include **ALL** of the following:
-- Leading the development of multiple digital products or services, or leading the development of multiple features in  large products
-- Creating and managing the product vision based on user research & metrics
-- Leading teams through the adoption of new tools, technologies or methodologies
-
-2. Experience leading digital product or service development, from concept to delivery, within highly ambiguous or uncertain situations. This experience must include **ONE** of the following:
-- Leading products with multiple dependencies requiring joint releases to achieve measurable and demonstrated business objectives
-- Leading intrapreneurial efforts with measurable and demonstrated impact to the organization
-
-3. Experience leading the development, delivery or integration of highly complex digital products or services. This experience must include **ONE** of the following:
-- Developing new products or services for startups
-- Developing products or services for legacy migrations
-- Developing products or services for large integrations
-- Developing products, services or features for large consumer products
-
-4. Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience must include **ONE** of the following:
-- Developing digital products or services using experimentation based frameworks
-- Developing digital products or services using iterative development methodologies
-- Developing digital products or services using user-centered design and planning tools
-- Developing digital products or services using continuous delivery methodologies
+1. Experience leading the development, delivery or integration of highly complex digital products or services;
+2. Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies;
+3. Experience crafting or creating product vision, strategy or road maps; 
+4. Experience working with cross-functional teams.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
