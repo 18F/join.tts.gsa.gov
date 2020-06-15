@@ -272,12 +272,7 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. **Specialized experience is:
-
-1. Experience leading the development, delivery or integration of highly complex digital products or services;
-2. Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies;
-3. Experience crafting or creating product vision, strategy or road maps; 
-4. Experience working with cross-functional teams.**
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. **Specialized experience is: Experience leading the development, delivery or integration of highly complex digital products or services; Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies; Experience crafting or creating product vision, strategy or road maps; Experience working with cross-functional teams.**
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
