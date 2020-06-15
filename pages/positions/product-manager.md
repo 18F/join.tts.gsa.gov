@@ -35,7 +35,7 @@ supervisory_status: 'No'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -59,8 +59,7 @@ Please note the maximum salary available for the GS pay system is **$170,800**
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands).
 
 ## Role Summary:
 
@@ -184,14 +183,14 @@ Initial appointments are made lasting longer than 1 year, but not to exceed 4 ye
 - Current GSA employees on competitive service appointments will not be considered.
 - You must perform the following Major Duties utilizing expert level skill, mastery knowledge and significant IT experience:
 
-Expert IT Policy and Planning Consultant: Serves as a senior IT expert and authoritative technical consultant within 18F. Engages with the larger and more complex customer agencies to develop and revise highly complex and intricate IT policies, practices, products, services, and strategies based on laws, regulations, business needs, and user needs. 
+**Expert IT Policy and Planning Consultant:** Serves as a senior IT expert and authoritative technical consultant within 18F. Engages with the larger and more complex customer agencies to develop and revise highly complex and intricate IT policies, practices, products, services, and strategies based on laws, regulations, business needs, and user needs. 
 Applies innovative IT theories to problems not susceptible to treatment by standard methods and makes decisions or recommendations significantly changing, interpreting, or developing important IT policies, programs, or initiatives.
 
-Expert IT Project Leadership: Provides sound direction and vision during the entire IT project. Ensures the IT project is led in a manner consistent with the goals of engagement and with the right team members. Engages leadership in the creation process and the project vision. Establishes a shared understanding across team members and stakeholders.
+**Expert IT Project Leadership:** Provides sound direction and vision during the entire IT project. Ensures the IT project is led in a manner consistent with the goals of engagement and with the right team members. Engages leadership in the creation process and the project vision. Establishes a shared understanding across team members and stakeholders.
 
-Provides Leadership to Ad Hoc Teams: Leads cross functional teams to develop innovative IT services. Plans, develops, and executes highly complex and intricate IT projects that transform the manner in which work is accomplished within the federal government.
+**Provides Leadership to Ad Hoc Teams:** Leads cross functional teams to develop innovative IT services. Plans, develops, and executes highly complex and intricate IT projects that transform the manner in which work is accomplished within the federal government.
 
-Relationship Management: Serves as a liaison to program personnel within the agency to convey information regarding Agile Technology Program activities, policies and goals; to clarify procedures; and to interpret directives as needed. Utilizes interpersonal skills to develop cooperative relationships. Works closely with customer agencies in a leadership role and navigates and works through conflicting priorities from stakeholders. Uses empathy, creativity, coalition building, situational awareness and tact to problem solve and manage stakeholders.
+**Relationship Management:** Serves as a liaison to program personnel within the agency to convey information regarding Agile Technology Program activities, policies and goals; to clarify procedures; and to interpret directives as needed. Utilizes interpersonal skills to develop cooperative relationships. Works closely with customer agencies in a leadership role and navigates and works through conflicting priorities from stakeholders. Uses empathy, creativity, coalition building, situational awareness and tact to problem solve and manage stakeholders.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -273,12 +272,12 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. **Specialized experience is:
 
 1. Experience leading the development, delivery or integration of highly complex digital products or services;
 2. Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies;
 3. Experience crafting or creating product vision, strategy or road maps; 
-4. Experience working with cross-functional teams.
+4. Experience working with cross-functional teams.**
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
