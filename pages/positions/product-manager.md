@@ -1,5 +1,5 @@
 ---
-title: 18F - Product Manager
+title: 18F - Product Manager (IT Specialist) 
 permalink: /join/product-manager/
 state: open
 job_post_type: tts
