@@ -32,10 +32,10 @@ supervisory_status: 'NO'
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
-  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+  {% if page.opens == 'tbd' %} The target date for when this position will be officially open for application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -66,38 +66,41 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-login.gov offers the public secure and private online access to participating government programs. With one login.gov account, users can sign in to multiple government agencies. login.gov’s goal is to make managing federal benefits, services and applications easier and more secure.
+Login.gov is creating a shared authentication and identity verification service for the U.S. government. With one account, the public will be able to securely sign into multiple agency applications across the federal government and beyond. We're helping people access essential public services and benefits securely, privately, and seamlessly. We focus on the complexities of digital identity authentication for the public, so agencies can focus on their mission.
 
-As an Account Manager on the login.gov Partnerships team, you’ll help potential agency partners explore and test login.gov’s digital identity solutions and platform. You will guide partners through the interagency agreement (IAA) process and toward application integration. We’re looking for an account lead who can grow trusted relationships with our agency partners, meet cost recoverability obligations, and build a sustainable digital identity shared service for the federal government.
+As an account manager on the login.gov team, you'll accelerate our growth by creating and maintaining partnerships with government agencies and programs. You’ll establish and maintain trusted relationships with our government partners, own the complete sales cycle, and drive adoption of our services. You'll help agency leadership make sense of the complex digital identity landscape and how login.gov's services can benefit their programs and users. You'll track customer accounts, metrics, financials, agreements, and application integrations. We're looking for business development and account management leaders that can ensure the success of our government partners as they meet technology modernization challenges head on.
 
 ## Key Objectives
 
-### Key objective #1: Build long-term strategic plans to increase annual revenue and create high-growth opportunities for login.gov
+### Key objective #1: Create high-growth opportunities for login.gov and increase agency adoption
+
+- Use a consultative sales approach to find, qualify, and close new business using any method available (e.g. networking, cold calling, campaign and referral follow-up).
+- Own and manage client relationships throughout the complete sales cycle.
+- Meet or exceed individual sales targets and directly contribute to overall login.gov team revenue goals.
+- Deepen customer relationships and retain clients by balancing their needs with budget, innovation, and long-term growth potential. 
+- Find entrepreneurial and creative solutions to common  large organizations challenges, such as policy, budget, security, etc. with limited resources (e.g. time, technology support) 
+- Set customer meetings, align stakeholders, develop action plans, and provide timely responses to inquiries and urgent requests.
+- Manage time effectively to increase revenue among all clients.
 
 
-- Lead and facilitate the customer acquisition process, from outreach to IAA signing to application integration launch.
-- Generate new leads through prospecting (i.e. outbound calls/emails/social media) and outreach for untapped potential targets.
-- Meet individual sales targets and directly contribute to overall login.gov team revenue goals. 
-- Retain existing partners by balancing client needs with budget, innovation, and long-term growth potential. Deepen customer relationships.
-- Define and develop agency/customer segmentation strategies.
-- Identify and define key decision-makers at agency partners through organizational mapping.
+### Key objective #2: Ensure customer agency success and satisfaction
 
-### Key objective #2: Provide exceptional delivery to current and potential clients 
-
-
-- Be responsive to agency partners who inquire about the product or request support.
-- Translate client requests into real solutions by introducing the right product or capability to drive sales revenue.
-- Ensure client needs are met on time by setting clear timelines and accountabilities, and working across capabilities.
-- Empower agency partners, and the contractors that support them, to learn, integrate, test, and launch their application with minimal intervention with the login.gov team.
-- Act as a conduit for cross-functional teams. Collaborate effectively with data team, software engineers, designers, etc. Foster positive internal relationships and ensure everyone understands deliverables and client needs.
-- Direct and provide mentorship for team members and contractors. Encourage training opportunities as needed.
+- Translate client requests into real solutions by introducing the right product or capability.
+- Ensure client needs are met on time by setting clear timelines and accountability.
+- Actively drive issue resolution to ensure client satisfaction.
+- Establish and maintain trusted relationships.
+- Leverage login.gov team resources efficiently (e.g. technical, design, content).
+- Influence and guide multiple client requests and their respective sales cycles.
+- Exhibit acute attention to detail and follow-through.
+- Coordinate and deliver timely, accurate, and quality sales information to clients and prospects.
+- Write persuasive and compelling responses to client inquiries.
+- Respond to general customer inquiries and support requests.
 
 
 ### Key objective #3: Be an extraordinary ambassador of login.gov
 
-- Maintain a thorough understanding of login.gov services and technical requirements to deftly answer inquiries, describe product capabilities, and exceed partner needs. 
-- Act as knowledge lead for login.gov product and services. Work with potential clients, stakeholders, senior level agency officials, and internal teams to continuously demonstrate our expertise and impact.
-- Partner with outreach team to build sales kits, case studies, and to package login.gov for a turn-key approach.
+- Maintain a thorough understanding of login.gov services and technical requirements to deftly answer inquiries, describe login.gov’s capabilities, and provide excellent service to partners. 
+- Act as a knowledge lead for login.gov product and services. Work with potential clients, stakeholders, senior level agency officials, and internal teams to continuously demonstrate our expertise and impact.
 - Present login.gov services at industry events, meetings, town halls, internal working groups, and agency partnership events.
 
 
@@ -121,7 +124,7 @@ employees or contractors
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -156,7 +159,7 @@ This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical s
 
 As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of Solutions.
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -224,15 +227,17 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is experience:
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. **Specialized experience is experience:**
 
-- Managing $5MM+ accounts for large corporate or public sector clients
-- Increasing sales revenue with proven measurable results
-- Selling a technical product
-- Negotiating and presenting to potential clients
-- Collaborating across cross-functional teams including design, engineering, support, product and strategy
-- Working with technology software: web applications, MFA, digital identities, APIs
-- Contributing to a client’s growth strategy  
+- Experience selling software and services to large organizations
+  - Managing accounts for large corporate or public sector clients
+  - Increasing sales revenue with proven measurable results
+  - Contributing to a client’s growth strategy
+- Previous experience selling software products
+  - E.g., software-as-a-service (SaaS) offerings, web applications, APIs, Multi-Factor Authentication (MFA), digital identity,
+   or identity proofing
+- Experience negotiating and presenting to potential clients
+- Experience navigating complex bureaucratic organizations to discover key decision makers and stakeholders
 
 
 
