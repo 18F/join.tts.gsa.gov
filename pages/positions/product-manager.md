@@ -13,7 +13,7 @@ gs_level: 15
 salary_min: '126,810'
 salary_max: '170,800'
 org: '18F'
-contact_name: 'Leigh Finkel'
+contact_name: 'Omar Gonzalez'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
