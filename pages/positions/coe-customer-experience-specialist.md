@@ -1,6 +1,6 @@
 ---
 title: Centers of Excellence - Customer Experience Specialist
-permalink: /join/customer-experience-specialist/
+permalink: /join/coe-customer-experience-specialist/
 state: 'upcoming'
 job_post_type: tts
 
