@@ -269,3 +269,4 @@ For each job on your resume, provide:
 
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
+
