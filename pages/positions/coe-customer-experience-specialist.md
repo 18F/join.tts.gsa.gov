@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Customer Experience Specialist
-opens: tbd
-closes: tbd
+opens: 'TBD'
+closes: 'TBD'
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '142,701' 
