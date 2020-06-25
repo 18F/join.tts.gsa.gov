@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Customer Experience Specialist
 permalink: /join/customer-experience-specialist/
-state: 'upcoming'
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
