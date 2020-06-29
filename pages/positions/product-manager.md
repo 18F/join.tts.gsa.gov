@@ -278,10 +278,10 @@ Problem Solving - This skill is generally demonstrated by assignments where the 
 
 SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience is defined as: 
 
--Experience leading the development, delivery or integration of highly complex digital products or services;
--Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies;
--Experience crafting or creating product vision, strategy or road maps; 
--Experience working with cross-functional teams.
+- Experience leading the development, delivery or integration of highly complex digital products or services;
+- Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies;
+- Experience crafting or creating product vision, strategy or road maps; 
+- Experience working with cross-functional teams.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
