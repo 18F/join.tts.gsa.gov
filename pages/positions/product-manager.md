@@ -276,7 +276,12 @@ Oral Communication - This skill is generally demonstrated by assignments where t
 
 Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate; AND
 
-**SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience is defined as experience delivering projects, tools or products as part of an engineering team. This includes experience developing or architecting complex modern web applications using approaches such as test-driven development, continuous integration & deployment, and distributed version control such as GitHub. Candidates must have experience working with stakeholders and cross-functional teams.**
+SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience is defined as: 
+
+-Experience leading the development, delivery or integration of highly complex digital products or services;
+-Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies;
+-Experience crafting or creating product vision, strategy or road maps; 
+-Experience working with cross-functional teams.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
