@@ -13,7 +13,7 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # salary_min: 'ENTER SALARY MIN' (XXX,XXX)
 # salary_max: 'ENTER SALARY MAX' (XXX,XXX)
 # org: 'ENTER ORG NAME HERE' (18F, Centers of Excellence, etc.)
-# contact_name: 'TTS TALENT TEAM NAME'
+# contact_name: 'TTS Talent Team'
 # contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
