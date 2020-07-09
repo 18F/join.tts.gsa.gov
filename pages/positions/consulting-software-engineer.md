@@ -13,7 +13,7 @@ gs_level: 15
 salary_min: '109,366'
 salary_max: '142,180'
 org: '18F'
-contact_name: 'Leigh Finkel'
+contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
