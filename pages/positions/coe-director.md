@@ -9,7 +9,7 @@ role_name: Director
 opens: 'July 9, 2020'
 closes: 'July 30, 2020'
 location: 'Washington, DC'
-gs_level: 'Senior Executive Service - ES00'
+gs_level: 'Senior Executive Service'
 salary_min: '131,239' 
 salary_max: '181,500' 
 org: 'Centers of Excellence'
@@ -31,7 +31,7 @@ supervisory_status: 'Yes'
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
+{{ page.org }} will soon be accepting applications for a {{ page.gs_level }} - {{ page.role_name }}.
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
@@ -39,18 +39,17 @@ supervisory_status: 'Yes'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  {{ page.org }} is hiring for {{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
 **Location:**
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The base salary range for this position is: ${{ page.salary_min }} to {{ page.salary_max }}
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) 
 
 ## Role Summary:
 
@@ -82,13 +81,12 @@ Leads in a proactive, customer­ responsive manner consistent with the TTS, FAS 
 {{ page.location }}
 
 **Salary Range:**
-Base salary {{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
+Base salary ${{ page.salary_min }} to ${{ page.salary_max }}
 
 NOTICE REGARDING SALARY: Current SES members whose salary equals or exceeds the maximum advertised salary for this vacancy ($181,500), will not lose pay if appointed to this position.
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) 
 
 **Job announcement number:**
 {{ page.job_announcement_number }}
@@ -185,7 +183,7 @@ Please see the "Required Documents" section below for complete instructions on t
 
 5.  Building Coalitions - This core qualification involves the ability to build coalitions internally and with other Federal agencies, State and local governments, nonprofit and private sector organizations, foreign governments, or international organizations to achieve common goals.
 
-For guidance on how to address the ECQ's in the context of your resume, please refer to page 29 of the "Guide to SES Qualifications" at: http://www.opm.gov/ses/references/GuidetoSESQuals_2012.pdf.
+For guidance on how to address the ECQ's in the context of your resume, please refer to page 29 of the "Guide to SES Qualifications" at: [http://www.opm.gov/ses/references/GuidetoSESQuals_2012.pdf](http://www.opm.gov/ses/references/GuidetoSESQuals_2012.pdf).
 
 ## REQUIRED DOCUMENTS:
 
