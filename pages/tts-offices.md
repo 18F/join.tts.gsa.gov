@@ -33,13 +33,14 @@ The IT Modernization Centers of Excellence (CoE) help agencies
 accelerate the modernization of information technology (IT) by
 leveraging private sector innovation, existing government services, and
 providing access to best practices and expertise. The CoE’s offices and
-staff cover five main areas:
+staff cover six main areas:
 
 -   Customer experience
 -   Cloud adoption
 -   Infrastructure optimization
 -   Contact centers
 -   Data analytics
+-   Artificial Intelligence
 
 The CoE is good for candidates looking for large, long-term projects
 where your team will be embedded at an agency with the potential for
