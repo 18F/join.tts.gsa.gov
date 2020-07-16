@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
-opens: '07/09/2020'
-closes: '07/30/2020'
+opens: 'July 9, 2020'
+closes: 'July 30, 2020'
 location: 'Washington, DC'
 gs_level: 'Senior Executive Service - ES00'
 salary_min: '131,239' 
@@ -26,8 +26,8 @@ apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/573027000'
 ohrm_contact_email: 'Christopher Wright'
 ohrm_contact_name: 'christopher.wright@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'NO' 
-supervisory_status: 'YES' 
+promotion_potential: 'No' 
+supervisory_status: 'Yes' 
 ---
 
 {% if page.state == 'upcoming' %}
