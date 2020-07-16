@@ -46,7 +46,7 @@ supervisory_status: 'Yes'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: ${{ page.salary_min }} to {{ page.salary_max }}
+The base salary range for this position is: ${{ page.salary_min }} to ${{ page.salary_max }}
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) 
