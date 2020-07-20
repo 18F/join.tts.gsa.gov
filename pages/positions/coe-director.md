@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
 opens: 'July 9, 2020'
-closes: 'July 30, 2020'
+closes: 'July 30, 2020 at 11:59PM EDT'
 location: 'Washington, DC'
 gs_level: 'Senior Executive Service'
 salary_min: '131,239' 
