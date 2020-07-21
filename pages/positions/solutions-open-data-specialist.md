@@ -265,24 +265,13 @@ and following our general guidance on creating federal style resume.
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized
 experience is:
 
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a
-cross-functional team. This experience must include **ONE** of the following:
-- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
-- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+1. Extensive experience in government open data efforts, data management, data and metadata standards, data usage and impact, and related policy issues
 
-2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL**
-of the following:
-- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
-- Developing digital applications using a relational or non-relational data layers
-- Developing digital applications using test-driven development and software testing tools
+2. Expertise in coordinating government-wide initiatives and implementing federal policies
 
-3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
-- Developing digital applications using Infrastructure-as-a-Service (IaaS)
-- Developing digital applications using Platform-as-a-Service (PaaS)
-- Developing digital applications using containerization technologies
-- Developing digital applications using configuration management tools
-- Developing digital applications using infrastructure automation tooling
+3. Demonstrated skill and experience in directing efforts to deliver improvements in website design and performance
+
+4. Knowledge and experience in information technology security requirements applicable to federal government websites and applying skills to secure operations of federal websites
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in
 disqualification.
