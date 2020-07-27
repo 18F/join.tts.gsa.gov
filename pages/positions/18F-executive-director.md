@@ -1,13 +1,13 @@
 ---
 title: 18F - Executive Director
 permalink: /join/executive-director/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Executive Director'
-opens: 'November 18, 2019 at 9am EST'
-closes: 'November 29, 2019 at 11:59pm EST'
+opens: 'tbd'
+closes: 'tbd'
 location: 'Washington DC'
 gs_level: 15
 salary_min: '142,701' 
@@ -22,9 +22,9 @@ job_announcement_number: '2000164JCOTR'
 pd_job_title: 'Supervisory Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
-apply_url: https://docs.google.com/forms/d/1Sa24Hqdiru4GnqdgeG9jBV0k_JQFDTSTEvp5-EqJ96o/closedform
-ohrm_contact_email: 'Reona Shannon'
-ohrm_contact_name: 'reona.shannon@gsa.gov'
+apply_url: 'TBD'
+ohrm_contact_email: 'TBD'
+ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: 'N/A'
 supervisory_status: 'YES' 
@@ -70,19 +70,18 @@ The Executive Director of 18F oversees a consulting organization of federal empl
 
 ## Key Objectives
 
-### Objective #1: Determines 18F’s vision, strategic direction, objectives and goals — including the overall planning, management and direction of the program.
+### Objective #1: Determines 18F’s vision, strategic direction, objectives and goals, including the overall planning, management, execution, and direction of the program.
 
-- Develops, implements and oversees the system of performance measures that link operations to goals and objectives.
-- Develops innovative approaches and innovative solutions to problems and opportunities associated with federal government digital service delivery.
+- Ensures proper oversight and develops and implements a system for performance measures that link operations to goals and objectives, including overall cost recoverability.
+- Develops innovative approaches and alternative solutions to solve problems associated with digital services delivery within the federal government.
 - Serves as a top level advisor and consultant to the Deputy Commissioner, TTS and the GSA Administrator for the 18F program. 
-- Provides advice and consultation to develop  policies, plans, and practices with the potential for government-wide impact.
+- Provides advice and consultation in the development of policies, plans, and practices that may result in government-wide impact.
 
 ### Objective #2: Builds and maintains effective internal and external working relationships to address issues of mutual interest with federal agencies, top agency management, municipal and state agencies, foreign governments, subject matter experts, industry and other high level officials across public, not-for-profit and private sectors. 
 
-- Collaborates with the Office of Management and Budget (OMB), and a myriad of other federal agencies on relevant projects, policies, and initiatives.
-- Coordinates and conducts briefings and/or evaluation panel meetings comprised of officials from GSA and other agencies and departments in carrying out 18F’s strategy, planning and acquisition initiatives that have government-wide implications.
-- Markets the 18F program and associated projects to relevant audiences through speeches, presentations, articles for publication, newsletters, as well as online information sources; identifies, reviews and collaborates on articles for trade journals, scholarly journals and periodicals to highlight transformation and business performance across 18F and TTS.
-- Listens to clients, stakeholders, and the public in order to improve services and cultivate community involvement and support.
+- Markets the 18F program and associated projects to appropriate audience through speeches, presentations, articles for publication, newsletters, as well as, computer based information sources; identifies, reviews and collaborates on articles for trade journals, scholarly journals and periodicals to highlight transformation and business performance across 18F and TTS.
+- Builds a communication and relationship strategy on how best to engage with GSA officials and other agencies and departments in order to carry out 18F strategy, planning and acquisition initiatives that have government-wide implications.
+- Collaborates with federal agencies on relevant projects, policies, and initiatives.
 
 ### Objective #3: Provides executive leadership and EEO responsibility.
 
@@ -92,13 +91,12 @@ The Executive Director of 18F oversees a consulting organization of federal empl
 - Uses effective business practices including balanced measures of results and values; invests in each employee; emphasizes empowerment and two-way communication. 
 - Takes a leadership role in advocating for and advancing the priorities of TTS/GSA. 
 - Serves as a role model for leadership by encouraging teamwork and a collaborative approach. 
-- Notifies Agency officials in a timely manner of all significant actions and developments, including but not limited to those related to regulatory matters, legislative matters, budget matters, reports, initiatives, and events and ensures subordinate managers do the same.
+- Timely notifies Agency officials of all significant actions and developments, including but not limited to those related to regulatory matters, legislative matters, budget matters, reports, initiatives, and events and ensures subordinate managers do the same.
 - Directly manages 18F’s Division Directors, providing them with leadership and mentoring. Fosters the development of a world-class workforce and facilitates cooperation and teamwork. 
 - Responsible for furthering diversity within 18F, ensuring equal opportunity in recruitment, selection, training, awards, and assignments. 
 - Provides oversight on policy development, program budgets, brand management, communication plans, and implementation of operating procedures, practices, and management controls. 
-- Ensures that subordinate managers recognize the importance of their diversity enhancement responsibilities and apply principles that create an inclusive and diverse workforce. 
-- Provides reasonable accommodations required to best utilize qualified people with disabilities. Provides leadership and oversight associated with managing programs and resources, conducting analyses, providing advice, making recommendations, developing policies, and issuing guidance related to 18F activities.
-
+- Ensures that supporting managers recognize the importance of their diversity enhancement responsibilities and apply principles that create an inclusive and diverse workforce. 
+- Provides reasonable accommodations needed to best utilize qualified people with disabilities. Provides leadership and oversight associated with managing programs and resources, conducting analyses, providing advice, making recommendations, developing policies, and issuing guidance related to 18F activities.
 
 {% if page.state != 'upcoming' %}
 
@@ -248,25 +246,23 @@ To qualify for this role, you must have one year of specialized experience equiv
   -  Serving as spokesperson representing the organization to the community.
   - Advocating for issues relevant to the organization, its services, and its customers.
   - Initiating, developing, and maintaining relationships with key stakeholders. 
-  - Experience managing controversial situations, customer negotiations, or influencing and persuading other senior-level managers.
+  - Experience managing challenging situations, customer negotiations, or influencing and persuading other senior-level managers.
 
 2. Experience leading a fee-for-service program. This experience must include **ALL** of the following:
-  - Experience leading a consulting or systems integration business with yearly revenues of $10 million or more
+  - Experience managing a team of supervisors who manage the overall team (i.e. multiple levels of management/supervisors) within a consulting or systems integration business
   - Accountable for achievement of cost recoverability targets
-  - Leading the development and execution of staffing plan resource requests 
-  - Ability to develop new business opportunities and grow revenues within an existing client base
-  - Demonstrated ability to create long-term vision and strategies for building program effectiveness (e.g. capacity planning and building out succession plans)
-  - Demonstrated project management skills (e.g. able to manage multiple tasks, priorities and stakeholders effectively)
-  - Ensuring the team completes projects and deliverables for clients within deadlines
+  - Leading the development of staffing strategies
+  - Demonstrated ability to develop new business opportunities and grow revenues within a targeted client base
+  - Demonstrated ability to create long-term vision and strategies for building program effectiveness 
+  - Demonstrated experience measuring customer satisfaction
 
 3. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
-  - Leading stakeholders through organizational change 
-  - Garnering support for teams by persuading others to provide approval, funding or resources
-  - Adjusting strategy based on qualitative or quantitative strategy
-  - Previous experience leading client-facing consulting (i.e. researching, designing and executing to solve a specific problem for a client) projects or initiatives 
-  - Previous experience collaborating with cross-functional teams (i.e. developers, product managers, designers, clients) to achieve organizational or project objectives
+  - Leading change management in organizations
+  - Building and leading a business case for plans, funding or resources
+  - Demonstrated experience in leading client-facing consulting (i.e. researching, designing and executing to solve a specific problem for a client) projects or initiatives 
+  - Demonstrated experience collaborating with cross-functional teams (i.e. developers, product managers, designers, clients) to achieve organizational or project objectives
 
-4. Experience leading teams that use modern software design and development methodologies, including human centered design and iterative development (e.g. agile, lean, kanban, user research, journey mapping, personas, user stories) 
+4. Experience leading teams that use modern software design and development methodologies, including human-centered design and iterative development (e.g. agile, lean, Kanban, user research, journey mapping, personas, user stories) 
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
