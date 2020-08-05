@@ -1,5 +1,5 @@
 ---
-title: Centers of excellence - Innovation Adoption Lead
+title: Centers of Excellence - Innovation Adoption Lead
 permalink: /join/innovation-adoption-lead/
 state: upcoming
 job_post_type: tts
