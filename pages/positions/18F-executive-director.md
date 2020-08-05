@@ -46,9 +46,9 @@ supervisory_status: 'YES'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-The base salary range does include locality pay for Washington, DC. This position is not remote and is physically based in Washington, DC. 
+The salary range does include locality pay for Washington, DC. This position is not remote and is physically based in Washington, DC. 
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
