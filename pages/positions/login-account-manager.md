@@ -1,7 +1,7 @@
 ---
 title: Login.gov - Account Manager
 permalink: /join/login-account-manager/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
