@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Executive Director'
-opens: 'tbd'
-closes: 'tbd'
+opens: 'August 21, 2020'
+closes: 'August 28, 2020'
 location: 'Washington DC'
 gs_level: 15
 salary_min: '142,701' 
@@ -32,7 +32,7 @@ supervisory_status: 'YES'
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
-  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application is Friday, August 21, 2020. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
   Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
