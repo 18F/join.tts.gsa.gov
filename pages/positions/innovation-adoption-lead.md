@@ -1,13 +1,13 @@
 ---
 title: Centers of Excellence - Innovation Adoption Lead
 permalink: /join/innovation-adoption-lead/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Innovation Adoption Lead'
-opens: 'tbd'
-closes: 'tbd'
+opens: 'Monday, August 17, 2020'
+closes: 'Friday, August 28, 2020 at 11:59PM EDT'
 location: 'Washington DC'
 gs_level: 14
 salary_min: '121,316' 
@@ -18,15 +18,15 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '20FASC238SBOTR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
-apply_url: 'TBD'
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+apply_url: 'https://forms.gle/RceZ632nDrqprdTK9'
+ohrm_contact_email: 'stephanie.bernstein@gsa.gov'
+ohrm_contact_name: 'Stephanie Bernstein'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'N/A'
+promotion_potential: '14'
 supervisory_status: 'NO' 
 ---
 
@@ -54,8 +54,6 @@ You can find more information about this in the [compensation and benefits secti
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$170,800** 
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
