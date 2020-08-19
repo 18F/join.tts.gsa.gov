@@ -18,11 +18,11 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '2000164JCOTR'
+job_announcement_number: '20FASC239SBOTR'
 pd_job_title: 'Supervisory Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
-apply_url: 'TBD'
+apply_url: 'https://forms.gle/ps2FHGVWhWfgHbKA9'
 ohrm_contact_email: 'TBD'
 ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
