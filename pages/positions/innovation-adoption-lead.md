@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Innovation Adoption Lead'
 opens: 'Monday, August 17, 2020'
-closes: 'Friday, September, 2020 at 11:59PM EDT'
+closes: 'Friday, September 4th, 2020 at 11:59PM EDT'
 location: 'Washington DC'
 gs_level: 14
 salary_min: '121,316' 
