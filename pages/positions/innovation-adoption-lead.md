@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Innovation Adoption Lead'
 opens: 'Monday, August 17, 2020'
-closes: 'Friday, August 28, 2020 at 11:59PM EDT'
+closes: 'Friday, September, 2020 at 11:59PM EDT'
 location: 'Washington DC'
 gs_level: 14
 salary_min: '121,316' 
@@ -39,7 +39,7 @@ supervisory_status: 'NO'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.  This posting is being amended to extend the closing deadline to September 4th, 2020.
 {% endif %}
 
 **Location:**
