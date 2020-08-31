@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager
 opens: 'Tuesday, June 16, 2020'
-closes: 'Monday, August 31, 2020 at 11:59PM EDT'
+closes: 'Monday, October 5, 2020 at 11:59PM EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '126,810'
