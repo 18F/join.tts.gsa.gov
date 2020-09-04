@@ -1,20 +1,22 @@
 ---
-title: PIF - Director of Agency Success
-# permalink: /join/PIF-director-of-agency-success/
-# state: upcoming
-# job_post_type: tts
+title: PIF - Director of Agency Success 
+permalink: /join/PIF-Director-of-Agency-Success/
+state: upcoming
+job_post_type: tts
+
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-# role_name: Director of Agency Success
-# opens: TBD
-# closes: TBD
-# location: 'Washington, DC'
-# gs_level: 15
-# salary_min: '142,701'
-# salary_max: '170,800'
-# org: 'PIF'
-# contact_name: 'Lauren Ferrucci'
-# contact_email: 'lauren.ferrucci@gsa.gov'
+
+role_name: Director of Agency Success
+opens: 'tbd'
+closes: 'tbd'
+location: 'Washington, DC'
+gs_level: 15
+salary_min: '142,701'
+salary_max: '170,800'
+org: 'PIF'
+contact_name: 'TTS Talent Team'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
