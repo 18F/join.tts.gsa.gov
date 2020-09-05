@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Innovation Adoption Lead
 permalink: /join/innovation-adoption-lead/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
