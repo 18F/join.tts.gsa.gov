@@ -64,7 +64,7 @@ employees or contractors
 
 We are looking for a Contact Center Optimization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improve the capabilities and services of our partner agencies.
 
-As an expert contact center solutions architect you are well versed in multi-channel and/or omnichannel technologies, platforms and contact center operations.  You will collaborate with agency partners to design, plan, and deliver on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT infrastructure and customer experience services/operations.
+As an expert contact center solutions architect, you are well versed in multi-channel and/or omnichannel technologies, platforms and contact center operations.  You will collaborate with agency partners to design, plan, and deliver on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT infrastructure and customer experience services/operations.
 
 
 ## Key Objectives
