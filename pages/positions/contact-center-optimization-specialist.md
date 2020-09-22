@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Contact Center Optimization Specialist
 permalink: /join/contact-center-optimization-specialist/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -10,21 +10,21 @@ opens: TBD
 closes: TBD
 location: Washington, DC
 gs_level: 15
-salary_min: '134,789'
-salary_max: '164,200'
+salary_min: '142,701'
+salary_max: '170,800'
 org: 'Centers of Excellence'
-contact_name: 'Elizabeth Scott'
+contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '1900160JCOTR'
+job_announcement_number: 'TBD'
 pd_job_title: 'Innovation Specialist'
-num_vacancies: '2'
+num_vacancies: '1'
 series: '0301'
-apply_url: https://goo.gl/forms/Z7gqz1ipL0Veoj622
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
+apply_url: TBD
+ohrm_contact_email: 'TBD'
+ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'NO'
@@ -48,9 +48,7 @@ supervisory_status: 'NO'
 **Salary Range:**
 The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-Please note the maximum salary available for the GS pay system is **$166,500**
-
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+Please note the maximum salary available for the GS pay system is **$170,800**
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
@@ -64,36 +62,39 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-We are looking for an Contact Center Optimization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improve the capabilities and services of our partner agencies.
+We are looking for a Contact Center Optimization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improve the capabilities and services of our partner agencies.
 
-As an expert contact center solutions architect well versed in multi-channel technologies and platforms, you will collaborate with agency partners to design, plan, and deliver on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT infrastructure and customer experience services.
+As an expert contact center solutions architect well versed in multi-channel and/or omnichannel technologies, platforms and contact center operations.  You will collaborate with agency partners to design, plan, and deliver on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s IT infrastructure and customer experience services/operations.
 
 
 ## Key Objectives
 
 ### Key objective #1: You will help federal agencies develop and execute contact center and customer experience modernization strategies incorporating leading technology and best practices to ensure solutions can meet their current and future needs in an efficient, sustainable, agile, and adaptable manner.
 - Architect an enterprise-level customer experience technology solution using user story definition, holistic journey mapping, data modeling while also incorporating standard operating procedures and best-practice methodologies
+- Ability to collect and analyze current contact center operations, data and reports to develop future-state recommendations for optimization and transformation
 - Develop and maintain strategic application technology portfolios, roadmaps, and reference architectures to support or drive solution development or product selection
 - Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications
+- Incorporate knowledge management and customer relationship management systems best practices to improve the agent experience and the agency’s overall customer experience 
 - Implement intelligent system solutions to leverage robotic process automation (RPA) & artificial intelligence (AI) to help anticipate user needs, augment conversations and automate routine tasks
 - Interface with agency data and security teams to address gaps and risks and assist in the overall design and build of security features
 - Develop and track performance metrics, customer feedback, quality assurance and other KPI’s
 
 
 ### Key objective #2: You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
-- Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
+- Practice and enthusiastically share project management and agile methodologies throughout all stages of the project lifecycle
 - Deliver educational workshops to accelerate learning and adoption of agile principles and practices
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
-- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned
-- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
+- Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned. 
+- Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
 
 
 ### Key objective #3: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.  
-- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they are
-- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes
+- Explain product or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at
+- Empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes 
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs
 - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation
 - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
+
 
 {% if page.state != 'upcoming' %}
 
@@ -239,19 +240,18 @@ and following our general guidance on creating federal style resume.
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience leading contact center and customer experience strategies for a government agency or organization. This experience must include **THREE** of the following:
-- Developing and executing contact center operations or strategies
+- Developing and executing contact center operations or strategies 
 - Developing and executing customer service modernization operations or strategies
-- Leading contact center technology implementation or deployment within internal applications or systems
+- Leading contact center technology implementation or deployment within internal applications or systems 
 - Developing key performance metrics
 
-2. Experience applying user-centered design disciplines.  This experience must include **ALL** of the following:
-- Using user-centered planning tools
-- Using agile, lean or other iterative product development methodologies
+2. Experience applying user-centered design disciplines.  This experience must include using user-centered planning tools for example: customer journey maps, process maps, stakeholder and user interviews, personas, wireframing, prototyping, and usability testing. 
 
 3. Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must include **ALL** of the following:
-- Leading client-facing consulting projects or initiatives
+- Leading client-facing consulting projects or initiatives 
 - Collaborating with cross-functional teams to achieve organizational or project objectives and deliverables
-- Monitoring and providing mentorship, corrections, and feedback to team members
+- Monitoring and providing mentorship, corrections, and feedback to team members 
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
