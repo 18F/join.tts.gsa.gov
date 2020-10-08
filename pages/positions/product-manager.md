@@ -13,8 +13,8 @@ gs_level: 15
 salary_min: '126,810'
 salary_max: '170,800'
 org: '18F'
-contact_name: 'TTS Talent Team'
-contact_email: 'jointts@gsa.gov'
+contact_name: 'Sylvia Velez-Zuniga'
+contact_email: 'sylvia.velez-zuniga@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
