@@ -1,7 +1,7 @@
 ---
 title: PIF - Director of Agency Success 
 permalink: /join/PIF-Director-of-Agency-Success/
-state: upcoming
+state: closed
 job_post_type: tts
 
 
