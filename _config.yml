@@ -36,6 +36,7 @@ exclude:
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA
+dap_subagency: TTS
 
 # Uncomment to enable AnchorJS functionality on docs layout.
 # See https://github.com/bryanbraun/anchorjs for more information.
