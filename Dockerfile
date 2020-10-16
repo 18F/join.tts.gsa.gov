@@ -1,8 +1,9 @@
-FROM ruby:2.5
+FROM ruby:2.7
 
 # Bundle install first for a simple gem cache
 COPY Gemfile* /tmp/
 WORKDIR /tmp
+RUN gem install bundler
 RUN bundle install
 
 # Set app working direcotry and copy app there.
