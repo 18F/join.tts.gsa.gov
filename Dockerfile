@@ -1,5 +1,10 @@
 FROM ruby:2.7
 
+# for USWDS
+# https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions
+RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -
+RUN apt-get install -y nodejs
+
 # Bundle install first for a simple gem cache
 COPY Gemfile* /tmp/
 WORKDIR /tmp

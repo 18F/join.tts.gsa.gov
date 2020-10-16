@@ -1,6 +1,7 @@
 node_modules
 /assets/vendor
 /vendor
+.jekyll-cache
 .sass-cache
 _site
 .DS_Store
