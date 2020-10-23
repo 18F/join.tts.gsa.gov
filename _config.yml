@@ -19,23 +19,24 @@ github:
 google_analytics_ua: UA-48605964-32
 
 exclude:
-- CONTRIBUTING.md
-- _config.yml
-- .travis.yml
-- .gitignore
-- Gemfile
-- Gemfile.lock
-- LICENSE.md
-- README.md
-- vendor
-- manifest.yml
-- node_modules
-- .nvmrc
-- .sass-cache
-- todo.txt
+  - CONTRIBUTING.md
+  - _config.yml
+  - .travis.yml
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - vendor
+  - manifest.yml
+  - node_modules
+  - .nvmrc
+  - .sass-cache
+  - todo.txt
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA
+dap_subagency: TTS
 
 # Uncomment to enable AnchorJS functionality on docs layout.
 # See https://github.com/bryanbraun/anchorjs for more information.
@@ -53,7 +54,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: custom
+      layout: page
       sidenav: primary
   - scope:
       path: pages/positions

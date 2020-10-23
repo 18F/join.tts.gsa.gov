@@ -47,20 +47,6 @@ a:active {
   color: #1c304a;
   background-color: #b3efff; }
 
-// Set sidenav default colors
-.usa-sidenav-list a.usa-current {
-  border-left: 0.4rem solid #00cfff;
-  color: #00567E; }
-
-// Set sidenav hover colors
-.usa-sidenav-list a:hover {
-  background-color: #d8f7ff;
-  color: #00567E; }
-  
-// Set sidenav border color
-.usa-sidenav-list > li {
-  border-top: 1px solid #00CFFF; }
-
 // Set table header background color
 thead th,
 thead td {
@@ -70,15 +56,6 @@ thead td {
 th,
 td {
   border: 1px solid#B6B6B6; }
-
-// Set sidebar as sticky
-@media screen and (min-width: 951px) {
-  .usa-layout-docs {
-    .sidenav {
-      position: sticky;
-      top: 0; }
-    }
-}
 
 // Shorten logo text on small screen sizes
 @media screen and (max-width: 369px) {
@@ -121,3 +98,7 @@ td {
 // Add padding to footer twitter icon
 .usa-link-twitter {
   padding: 0 0 0 5rem; }
+
+.usa-footer__logo-img {
+  max-width: 15rem;
+}

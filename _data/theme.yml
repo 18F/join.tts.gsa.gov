@@ -19,7 +19,7 @@ colors:
 #
 # # Header colors
   header:
-    header-bg: '#003965'
+    header-bg: 'gray-cool-70'
     header-title: 'white'
     header-link: 'white'
     header-link-hover: 'white'
