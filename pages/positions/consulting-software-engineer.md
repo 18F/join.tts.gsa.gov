@@ -10,8 +10,8 @@ opens:  'tbd'
 closes: 'tbd'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '109,366'
-salary_max: '142,180'
+salary_min: '126,810'
+salary_max: '170,800'
 org: '18F'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -45,13 +45,13 @@ supervisory_status: 'No'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-The base salary range does not include any adjustment for locality. Your locality will be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+Salary to be determined upon selection, depending on duty location.  
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
 
 Please note the maximum salary available for the GS pay system is **$170,800** 
 
