@@ -1,29 +1,29 @@
 ---
 title: 18F - Consulting Software Engineer (IT Specialist) 
 permalink: /join/consulting-software-engineer/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Consulting Software Engineer (IT Specialist)
-opens:  'December 2, 2019'
-closes: 'July 31, 2020 at 11:59pm EST'
+opens:  'tbd'
+closes: 'tbd'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '109,366'
-salary_max: '142,180'
+salary_min: '126,810'
+salary_max: '170,800'
 org: '18F'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: '2000180LDDHA'
+job_announcement_number: 'tbd'
 pd_job_title: 'IT Specialist (APPSW)'
 num_vacancies: '1'
 series: '2210'
-apply_url: https://www.usajobs.gov/GetJob/ViewDetails/553208400#
-ohrm_contact_email: 'lynne.direda@gsa.gov'
-ohrm_contact_name: 'Lynne DiReda'
+apply_url: tbd
+ohrm_contact_email: 'tbd'
+ohrm_contact_name: 'tbd'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -45,13 +45,13 @@ supervisory_status: 'No'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-The base salary range does not include any adjustment for locality. Your locality will be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+Salary to be determined upon selection, depending on duty location.  
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
 
 Please note the maximum salary available for the GS pay system is **$170,800** 
 
@@ -275,7 +275,7 @@ order to properly be able to evaluate your previous experience, we recommend bei
 and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized Experience is:
-**Specialized experience is defined as experience delivering projects, tools or products as part of an engineering team. This includes experience developing or architecting complex modern web applications using approaches such as test-driven development, continuous integration & deployment, and distributed version control such as GitHub. Candidates must have experience working with stakeholders and cross-functional teams.**
+**Specialized experience for this role is defined as experience delivering projects, tools or products as part of an engineering team. This includes experience developing or architecting complex modern web applications using approaches such as test-driven development, continuous integration & deployment, or distributed version control such as github. Candidate should demonstrate experience providing project leadership and experience with agile development methodologies.**
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
