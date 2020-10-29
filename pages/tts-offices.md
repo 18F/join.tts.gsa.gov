@@ -82,9 +82,9 @@ product management. In the PIF program, fellows team up with agency
 changemakers to tackle the nation’s biggest and most pressing technology
 challenges, such as improving access to education, fueling job creation
 and the economy, and expanding the public’s ability to access their
-personal health data. Fellows serve a 12-month tour of duty in
+personal health data. Fellows serve a 12-month tour of duty usually based in
 Washington, D.C., with fellowships typically starting in late summer or
-early fall. [Apply to become a Presidential Innovation
+early fall. On a case-by-case basis, some PIFs may be provided opportunities on projects outside the D.C. area.  [Apply to become a Presidential Innovation
 Fellow](https://presidentialinnovationfellows.gov/).
 
 **Case study:** [Increasing Americans' access
