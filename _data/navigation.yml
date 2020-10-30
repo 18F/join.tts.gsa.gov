@@ -3,17 +3,17 @@ sidenav-breakpoint: desktop
 primary:
   - text: Home
     href: /
-  - text: Navigating the hiring process
+  - text: Hiring process
     href: /hiring-process/
   - text: Reading a federal job posting
     href: /federal-job-posting/
-  - text: Preparing your resume
+  - text: Resume Prep
     href: /resume/
-  - text: Understanding compensation and benefits
+  - text: Compensation and benefits
     href: /compensation-and-benefits/
-  - text: TTS offices
+  - text: Our Offices
     href: /tts-offices/
-  - text: Learn more about how we hire
+  - text: How we hire
     href: /learn-more/
   - text: Get job alerts
     href: /newsletter/
