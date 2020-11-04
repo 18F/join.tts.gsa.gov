@@ -1,5 +1,5 @@
 ---
-title: Login.gov - DevOps/Site Reliability Engineer 
+title: Login.gov - DevOps/Site Reliability Engineer
 permalink: /join/devops-engineer/
 state: upcoming
 job_post_type: tts
@@ -7,7 +7,7 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-role_name: DevOps/Site Reliability Engineer
+role_name: DevOps/Site Reliability Engineer (IT Specialist)
 opens: 'tbd'
 closes: 'tbd'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
