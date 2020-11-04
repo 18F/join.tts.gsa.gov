@@ -1,5 +1,5 @@
 ---
-title: Login.gov - DevOps/Site Reliability Engineer 
+title: Login.gov - DevOps/Site Reliability Engineer (IT Specialist)
 permalink: /join/devops-engineer/
 state: upcoming
 job_post_type: tts
@@ -7,26 +7,25 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
-role_name: DevOps/Site Reliability Engineer
+role_name: DevOps/Site Reliability Engineer (IT Specialist)
 opens: 'tbd'
 closes: 'tbd'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
-salary_min: '109,366'
-salary_max: '142,180'
+salary_min: '126,810'
+salary_max: '170,800'
 org: 'Login.gov'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-
 job_announcement_number: 'tbd'
-pd_job_title: 'Innovation Specialist'
+pd_job_title: 'IT Specialist (APPSW)'
 num_vacancies: '1'
-series: '0301'
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLSfLRSJVurp-PdHauF2ZjSDSe6f5j9sS80_kl1dvmked06lVnw/viewform
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
+series: '2210'
+apply_url: tbd
+ohrm_contact_email: 'tbd'
+ohrm_contact_name: 'tbd'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -52,15 +51,14 @@ The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ 
 
 Please note the maximum salary available for the GS pay system is **$170,800**
 
-The base salary range does not include any adjustment for locality. Your locality is most likely going to be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+Salary to be determined upon selection, depending on duty location.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) 
 
 ## Role Summary:
 
@@ -171,12 +169,18 @@ Excepted Service: Not to exceed 24 months (2 years); may be extended for an addi
   
 ## Job Summary
   
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
+This Notice is issued under direct-hire authority to recruit new talent to occupations for which there is a severe shortage of candidates. We have a severe shortage of qualified applicants for our Information Technology  Specialist positions. To help us fill these jobs, we have been granted “Direct Hire Authority” or DHA for IT Specialist by Executive Order 13833. This means that when we have a vacant job, we can hire any qualified candidate, either from this notice or from any source. The benefit of applying to this notice is that your application may be shared with a hiring manager if they request resumes from this notice.
 
-As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
+Initial appointments are made lasting longer than 1 year, but not to exceed 4 years. GSA, may extend an appointment up to 4 additional years.  No individual hired under this DHA can serve in excess of 8 years with GSA, and cannot be transferred to positions that are not IT positions.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
+**Key facts about this DHA notice:**
 
+- TTS is seeking to fill multiple TERM appointments at the GS15 level.
+- Positions may be located in Washington, DC; San Francisco, CA; Chicago, IL;  New York, NY or Full-time Telework.
+- Salary to be determined upon selection, depending on duty location.  
+- Full Time telework is negotiable after the selection (i.e., official worksite/duty location is the residence of the selectee).
+- Current civil service employees will receive new appointments if selected under this Direct Hire Authority.
+- Current GSA employees on competitive service appointments will not be considered.
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
@@ -207,53 +211,23 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
-## Duties
-
-Typical duties for the fellow include but are not limited to:
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
-
-{% endif %}
-
-{% if page.state == 'upcoming' %}
-
-## Application Evaluation
-
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
-
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
-
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
-
-{% endif %}  
-
-{% if page.state != 'upcoming' %}
-
 ## Evaluation
 
 We will use a method called Category Rating to assess your application.
 
 **Here’s how it will work:**
 
+BASIC REQUIREMENTS:  Have IT-related experience demonstrating EACH of the four competencies listed below:
+
 You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-- **Maintainable Software Development:** Knowledge and ability to develop software, with emphasis on reliability, automation, testing, measuring, and scaling infrastructure
-- **Modern Infrastructure Practices and Architecture:** Ability to operate complex software at scale in a cloud environment 
-using principles of Site Reliability Engineering and DevOps
-- **Production Operations:** Ability to operate production systems at scale with high availability
-- **Communication:** Ability to communicate effectively with a variety of audiences and stakeholders to establish a shared 
-vision and understanding of a project’s technical implementation, objectives, and goals 
-- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact driven environment
+- **Attention to Detail** - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
 
-If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
+- **Customer Service** - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
 
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+- **Oral Communication** - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
 
-Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+- **Problem Solving** - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate
 
 {% endif %}
 
@@ -263,27 +237,9 @@ All applications will be reviewed by a panel of subject matter experts against a
 order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized Experience is:
+**Specialized experience for this role is defined as experience delivering projects, tools or products as part of an engineering team. This includes experience developing or architecting complex modern web applications or cloud infrastructure using approaches such as test-driven development, continuous integration & deployment, or distributed version control such as github. Candidates should demonstrate experience providing project leadership and experience with agile development methodologies.**
 
-1. Experience being a part of a team to deliver digital products or services. This experience must include **ALL** of the following:
-- Providing technical support or product development for clients
-- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
-- Experience using Site Reliability Engineering or DevOps practices in a production environment
-
-2. Experience providing technical expertise on projects or initiatives to deliver digital products or services. This experience must include **ONE** of the following:
-- Conducting technology evaluations
-- Making architectural decisions
-- Developing new software features by writing code
-- Reducing technical debt
-- Leading incident response
-
-3. Experience deploying, operating, maintaining, or running a cloud infrastructure or platform. This experience must include **TWO** of the following:
-- Using a cloud computing platform
-- Using cloud computing infrastructure
-- Using continuous integration or continuous deployment tools
-- Using infrastructure automation tooling
-- Using infrastructure monitoring tooling
-- Developing and using software in the Ruby language ecosystem
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
