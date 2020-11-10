@@ -1,15 +1,15 @@
 ---
 title: Login.gov - DevOps/Site Reliability Engineer (IT Specialist)
 permalink: /join/devops-engineer/
-state: upcoming
+state: open
 job_post_type: tts
 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 role_name: DevOps/Site Reliability Engineer (IT Specialist)
-opens: 'tbd'
-closes: 'tbd'
+opens: 'November 11, 2020'
+closes: 'January 8, 2021'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '126,810'
@@ -19,13 +19,13 @@ contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: 'tbd'
+job_announcement_number: '21FASC052LUOTR'
 pd_job_title: 'IT Specialist (APPSW)'
 num_vacancies: '1'
 series: '2210'
-apply_url: tbd
-ohrm_contact_email: 'tbd'
-ohrm_contact_name: 'tbd'
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/584187800
+ohrm_contact_email: 'loyola.ukpokodu@gsa.gov'
+ohrm_contact_name: 'Loyola Ukpokodu'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -36,7 +36,10 @@ supervisory_status: 'No'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **We will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+  
+  **Please note, this is a shared application with the 18F Consulting Software Engineer (IT Specialist) role. Candidate will fill out one application to be considered for both opportunities.**
+  
 {% endif %}
 
 {% if page.state != 'upcoming' %}
