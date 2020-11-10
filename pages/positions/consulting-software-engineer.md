@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Consulting Software Engineer (IT Specialist)
-opens:  'tbd'
-closes: 'tbd'
+opens:  'November 11, 2020 at 9:00am EDT'
+closes: 'January 8, 2021 at 11:59pm EDT'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '126,810'
@@ -17,13 +17,13 @@ contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: 'tbd'
+job_announcement_number: '21FASC052LUOTR'
 pd_job_title: 'IT Specialist (APPSW)'
 num_vacancies: '1'
 series: '2210'
-apply_url: tbd
-ohrm_contact_email: 'tbd'
-ohrm_contact_name: 'tbd'
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/584187800
+ohrm_contact_email: 'loyola.ukpokodu@gsa.gov'
+ohrm_contact_name: 'Loyola Ukpokodu'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -38,7 +38,9 @@ supervisory_status: 'No'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **We will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+
+  **Please note, this is a shared application with the 18F Consulting Software Engineer (IT Specialist) role. Candidate will fill out one application to be considered for both opportunities.**
 {% endif %}
 
 **Location:**
