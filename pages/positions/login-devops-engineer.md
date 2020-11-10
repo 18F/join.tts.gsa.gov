@@ -1,15 +1,15 @@
 ---
 title: Login.gov - DevOps/Site Reliability Engineer (IT Specialist)
 permalink: /join/devops-engineer/
-state: open
+state: upcoming
 job_post_type: tts
 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 
 role_name: DevOps/Site Reliability Engineer (IT Specialist)
-opens: 'November 11, 2020'
-closes: 'January 8, 2021 at 11:59 EST'
+opens: 'November 11, 2020 at 9:00am EST'
+closes: 'January 8, 2021 at 11:59pm EST'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '126,810'
