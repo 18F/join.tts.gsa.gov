@@ -1,7 +1,7 @@
 ---
 title: Login.gov - DevOps/Site Reliability Engineer (IT Specialist)
 permalink: /join/devops-engineer/
-state: open
+state: upcoming
 job_post_type: tts
 
 
@@ -9,7 +9,7 @@ job_post_type: tts
 
 role_name: DevOps/Site Reliability Engineer (IT Specialist)
 opens: 'November 11, 2020'
-closes: 'January 8, 2021'
+closes: 'January 8, 2021 at 11:59 EST'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '126,810'
@@ -36,14 +36,13 @@ supervisory_status: 'No'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **We will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
-  
-  **Please note, this is a shared application with the 18F Consulting Software Engineer (IT Specialist) role. Candidate will fill out one application to be considered for both opportunities.**
-  
+  Applications will be open for submission on {{ page.opens | date: '%l:%M%P %Z on %A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **We will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+  
+  **Please note, this is a shared application with the 18F Consulting Software Engineer (IT Specialist) role. Candidate will fill out one application to be considered for both opportunities.**
 {% endif %}
 
 **Location:**
