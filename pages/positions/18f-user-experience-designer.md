@@ -1,8 +1,8 @@
 ---
 title: 18F - User Experience Designer
-# permalink: /join/18f-user-experience-designer/
-# state: upcoming
-# job_post_type: tts
+permalink: /join/18f-user-experience-designer/
+state: closed
+job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 # role_name: 'User Experience Designer'
