@@ -1,33 +1,33 @@
 ---
 title: 18F - User Experience Designer
-permalink: /join/18f-user-experience-designer/
-state: closed
-job_post_type: tts
+# permalink: /join/18f-user-experience-designer/
+# state: upcoming
+# job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-
-role_name: User Experience Designer
-opens: 'Monday, September 23rd'
-closes: 'Friday, September 27th at 8pm EDT'
-location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
-gs_level: '15'
-salary_min: '106,595'
-salary_max: '138,572'
-org: '18F'
-contact_name: 'Liz Scott and Leigh Finkel'
-contact_email: 'jointts@gsa.gov'
+# role_name: 'User Experience Designer'
+# opens: 'TBD'
+# closes: 'TBD'
+# location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+# gs_level: 15
+# salary_min: '126,810' 
+# salary_max: '170,800' 
+# org: '18F' 
+# contact_name: 'Elizabeth Scott'
+# contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
-job_announcement_number: '1900607JCOTR'
-pd_job_title: 'Innovation Specialist'
-num_vacancies: '3'
-series: '0301'
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLSfE6IyAHxsuEHgKLeBOvDipms2Q5plLvw58KBl1amBk3Vu7JQ/viewform
-ohrm_contact_email: 'jacqueline.coleman@gsa.gov'
-ohrm_contact_name: 'Jacqueline Coleman'
-bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15'
-supervisory_status: 'NO'
+
+# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+# pd_job_title: 'Innovation Specialist' 
+# num_vacancies: '1'
+# series: '0301' 
+# apply_url: APPLICATION URL
+# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: '15' 
+# supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -35,7 +35,7 @@ supervisory_status: 'NO'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note, the hiring process for this role will vary slightly from our typical process. Among other changes, applications for this role will require submission of a portfolio and/or work sample along with a resume.  More information will be posted in the Evaluation section of the Job Announcement once it goes live.**
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -46,15 +46,17 @@ supervisory_status: 'NO'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-Please note the maximum salary available for the GS pay system is **$166,500**
-
-The base salary range does not include any adjustment for locality. Your locality will be determined by where you live since most of our positions are remote. If the position isn't remote, then your locality will be determined by the location of the office where the position is based.
+Your salary will be determined upon selection, dependent on your actual duty location.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
+
+Please note the maximum salary available for the GS pay system is **$170,800** 
+
+Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -66,42 +68,54 @@ employees or contractors
 
 User experience designers at 18F drive research activities, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build and test them. They foster best practices in user-centered design within 18F and across the federal government through advocacy and coaching.
 
-UX designers should have deep strength in design research (both generative and evaluative). No one can be equally expert at everything, but in addition to design research, we do expect strong craft skills, confidence, and sophistication in at least one of the following areas: interaction design, service design, and information architecture.
+18F UX designers have deep strength in design research (both generative and evaluative). No one can be equally expert at everything, but in addition to design research, we look for strong craft skills, confidence, and sophistication in at least one of the following areas: interaction design, service design, and information architecture. 
 
-As a UX designer, you’ll work in cross-functional teams of experts in design, product strategy, technical architecture, software engineering, data science, and procurement. Besides building useful and usable digital services, part of your job will be helping teams improve their user-centered design practice, and helping teams without those practices get started.
+As a UX designer, you’ll work in cross-functional teams of experts in design, product strategy, technical architecture, software engineering, data science, and procurement. In addition to building useful and usable digital services, you will be helping teams improve their user-centered design practice, and helping teams without those practices get started. 
 
-If you are committed to improving government services by focusing on the people who need them most, this is the position for you.
+If you are committed to improving government services for all who need them, and to helping the civil servants who deliver those services, this is the position for you. 
 
 ## Key Objectives
 
-### Objective #1: Demonstrate excellence in design research, while grasping the core questions and responsibilities of at least one other UX discipline.
+### Key objective #1: Demonstrate excellence in design research, while grasping the core questions and responsibilities of at least one other UX discipline.
 
 In addition to strong skill in design research, we expect expertise in at least one of the following disciplines:
+
 - **Interaction design:** Define interface logic and behavior, always keeping human behaviors and needs in mind.
 - **Information architecture:** Organize and structure complex information to help diverse audiences easily find what they need.
 - **Service design:** Improve the relationship of the customer or user and the service provider across all of their interactions and communication channels.
 
-- Zoom in and out. Generate innovative, high-level product strategies as well as the practical project steps and considerations to get there. Are visionary in objective, but pragmatic in approach.
-- Support collaborative decision making by telling compelling stories drawn from research that illustrate the pros and cons of various options.
-- Show persistent commitment to thoughtful and ethical user research.
-- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or interpretive dance.
-- Create written materials and visual presentations that are accessible to non-experts but that are legally and technically accurate.
-- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision.
-- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
-- Commit to making what we build fully accessible to the people we serve.
+Successful 18F UX Designers:
 
-### Objective 2: Advance UX practice
+- Zoom in and out. Generate high-level product strategies as well as practical project steps and considerations to get there. Are visionary in objective, but pragmatic in approach.
+- Support collaborative decision making by telling compelling stories drawn from research to build shared understanding
+- Show persistent commitment to thoughtful, inclusive, ethical user research.
+- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches.
+- Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate.  
+- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision. 
+- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
+- Commit to making what we build fully accessible to the people we serve. 
+- Create a work environment that fosters trust, respect, and collaboration.
+
+
+### Key objective #2: Advance UX practice.
+
+Successful 18F UX Designers:
 
 - Clearly communicate user-centered methods and their value to non-designers.
 - Mentor and coach colleagues and partners who are taking on new tasks and roles within design and research.
 - Share knowledge, techniques, tools, patterns, and expert advice with colleagues, partners, and the public.
-- Promote empathy not just for members of the public, but also our partners across the government and our co-workers.
+- Promote empathy not just for members of the public, but also for our partners across the government and our co-workers.
+- Contribute to team-wide resources and training materials, including methods, tutorials, guides, presentations, and design toolkits. 
 
-### Objective #3: Work effectively in the federal government
 
-- Skillfully navigate complex organizational relationships to resolve questions.
+### Key objective #3: Work effectively in the federal government. 
+
+Successful 18F UX Designers:
+
+- Skillfully navigate complex organizational relationships to deepen understanding.  
 - Cooperatively negotiate disagreements and mediate compromises.
 - Build inclusive, respectful partnerships with diverse groups of people.
+- Conduct design activities remotely and in person, depending on contextual factors.
 - Demonstrate genuine interest in the day-to-day activities that keep our government running.
 
 {% if page.state != 'upcoming' %}
@@ -124,7 +138,7 @@ employees or contractors
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
+{{ page.opens | date: '%A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
 
 **Job Title:**
 {{ page.pd_job_title }}
@@ -202,15 +216,16 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 ## Application Evaluation
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. **For this role, all applicants must submit a resume AND a work item or portfolio sample.**
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
 
-The Minimum Qualification determination can only be made using the information that’s directly within your resume or work item/portfolio and directly associated your listed work experience.
+1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
+2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
+  - Examples of stuff that can't be used:
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
 
-Examples of stuff that can’t be used:
-- Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-- Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
-
-The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
+  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
 {% endif %}  
 
@@ -218,50 +233,50 @@ The Qualification process is a bureaucratic requirement that we are stuck with. 
 
 ## Evaluation
 
-**The evaluation process for this job is different from a typical job announcement.**
+We will use a method called Category Rating to assess your application.
 
-The technical qualifications for this position will be evaluated by subject matter experts. Apply only if you meet the qualifications.
+**Here’s how it will work:**
 
-**1. Resume review**
-Subject matter experts will review your resume and work item or portfolio sample to determine your technical qualifications for your chosen role(s) based on the required competencies.
+You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-**2. Qualifying interviews**
-If the subject matter experts determine that your resume and portfolio reflect the required competencies, you will have at least one interview to further assess whether your experience meets the required competencies for your chosen role(s). You may meet with more than one subject matter expert for a determination to be made.
+- **Research Methods:** The knowledge and ability to understand and apply user research tools and methodologies. 
+- **Design Methods:** The ability to design interactive digital products, systems, and services.
+- **Agile or Iterative Development:** The knowledge of design and development approaches that include repeated testing of ideas and revision of those ideas based on testing results, and the ability to carry them out in a professional environment.
+- **Teamwork & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships. 
+- **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in a civic-minded, high-impact environment.
 
-**3. Ranking and preference**
-Preference will be applied to applicants who move forward after the qualifying interviews.
+If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
 
-Category rating
+If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
 
-Qualified candidates will be assigned to one of the following quality categories:
-
-Best Qualified: Candidates in this category possess good skills and experience above the minimum requirements for the announced position.
-
-Well Qualified: Candidates in this category fall in between Best Qualified and Qualified.
-
-Qualified: Candidates in this category meet the minimum experience requirements for the announced position.
-
-Veterans' Preference
-Veteran preference eligibles are listed ahead of non-preference eligibles within each quality category. Based upon your category and score, you may be referred to the selecting official.
+Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
 {% endif %}
 
 ## Qualifications
 
-Subject matter experts will evaluate your resume and your work item or portfolio based on these competencies. You must have at least a year demonstrating accomplishment of the duties and competencies described below.
- 
-**Research Methods:** The knowledge and ability to understand and user research tools and methodologies, including generative methods such as contextual inquiry, field studies, journey mapping, observation and evaluative methods like usability testing. 
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
+order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
+and following our general guidance on creating federal style resume.
 
-**Agile or Iterative Design & Development:** The knowledge of design and development approaches that include repeated testing of ideas and revisions of those ideas based on testing results, and the ability to carry them out in a professional environment. Regardless of challenges, launches products and drives teams to deliver iteratively. Launches minimum viable products without waiting for the perfect implementation or inclusion of every feature.
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-**Design Methods:** The ability to design interactive digital products, systems, and services. Experience creating at least one category of the following:
-- Information architecture tools and techniques: wireframes, sitemaps, flowcharts, user flows, taxonomies, card sorts or treejack testing 
-- Interaction design tools and techniques: wireframes, sitemaps, mockups, prototypes, design systems or patterns, style guides 
-- Service design tools and techniques: service blueprints, value mapping, journey maps, experience prototypes, service quality metrics
+1. Experience conducting user- or human-centered research in the development of digital products or services. This experience must include **at least THREE** of the following:
 
-**Leadership & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
+- Developing user research plans, interview protocols or question guides
+- Conducting User interviews
+- Conducting Contextual inquiry or Observational research
+- Conducting Qualitative research
+- Conducting Participatory design workshops 
 
-**TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic-minded and high-impact environments.
+
+2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following:
+
+- Conducting usability testing
+- Using agile, lean or other iterative product development approaches 
+- Teaching or mentoring non-designers how to use user-centered design methodologies 
+- Managing or leading design efforts within complex organizations or highly regulated environments
+
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
