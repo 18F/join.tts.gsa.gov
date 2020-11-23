@@ -263,7 +263,6 @@ and following our general guidance on creating federal style resume.
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience conducting user- or human-centered research in the development of digital products or services. This experience must include **at least THREE** of the following:
-
 - Developing user research plans, interview protocols or question guides
 - Conducting User interviews
 - Conducting Contextual inquiry or Observational research
@@ -271,7 +270,6 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Conducting Participatory design workshops 
 
 2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following:
-
 - Conducting usability testing
 - Using agile, lean or other iterative product development approaches 
 - Teaching or mentoring non-designers how to use user-centered design methodologies 
