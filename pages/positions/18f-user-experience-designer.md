@@ -1,7 +1,7 @@
 ---
 title: 18F - User Experience Designer
 permalink: /join/18f-user-experience-designer/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -68,7 +68,7 @@ employees or contractors
 
 User experience designers at 18F drive research activities, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build and test them. They foster best practices in user-centered design within 18F and across the federal government through advocacy and coaching.
 
-18F UX designers have deep strength in design research (both generative and evaluative). No one can be equally expert at everything, but in addition to design research, we look for strong craft skills, confidence, and sophistication in at least one of the following areas: interaction design, service design, and information architecture. 
+18F UX designers have deep strength in design research (both generative and evaluative). No one can be equally expert at everything, but in addition to design research, we look for strong craft skills, confidence, and sophistication in at least one of the following areas: interaction design, product design, service design, and information architecture. 
 
 As a UX designer, you’ll work in cross-functional teams of experts in design, product strategy, technical architecture, software engineering, data science, and procurement. In addition to building useful and usable digital services, you will be helping teams improve their user-centered design practice, and helping teams without those practices get started. 
 
@@ -83,6 +83,7 @@ In addition to strong skill in design research, we expect expertise in at least 
 - **Interaction design:** Define interface logic and behavior, always keeping human behaviors and needs in mind.
 - **Information architecture:** Organize and structure complex information to help diverse audiences easily find what they need.
 - **Service design:** Improve the relationship of the customer or user and the service provider across all of their interactions and communication channels.
+- **Product design:** Develop clear and accessible visual systems, while advancing human-centered design practices.
 
 Successful 18F UX Designers:
 
