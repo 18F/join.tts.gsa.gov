@@ -5,29 +5,29 @@ state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-# role_name: 'User Experience Designer'
-# opens: 'TBD'
-# closes: 'TBD'
-# location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-# gs_level: 15
-# salary_min: '126,810' 
-# salary_max: '170,800' 
-# org: '18F' 
-# contact_name: 'Elizabeth Scott'
-# contact_email: 'jointts@gsa.gov'
+role_name: 'User Experience Designer'
+opens: 'TBD'
+closes: 'TBD'
+location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+gs_level: 15
+salary_min: '126,810' 
+salary_max: '170,800' 
+org: '18F' 
+contact_name: 'Elizabeth Scott'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' 
-# num_vacancies: '1'
-# series: '0301' 
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: '15' 
-# supervisory_status: 'NO'
+job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+pd_job_title: 'Innovation Specialist' 
+num_vacancies: '1'
+series: '0301' 
+apply_url: APPLICATION URL
+ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
+ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15' 
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
