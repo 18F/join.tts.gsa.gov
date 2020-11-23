@@ -270,7 +270,6 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Conducting Qualitative research
 - Conducting Participatory design workshops 
 
-
 2. Experience leading user experience design and research to iteratively develop digital products or services within large or complex environments. This experience must include **ALL** of the following:
 
 - Conducting usability testing
