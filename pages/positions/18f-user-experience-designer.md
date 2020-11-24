@@ -6,8 +6,8 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'User Experience Designer'
-opens: 'TBD'
-closes: 'TBD'
+opens: 'Monday, December 7th, 2020'
+closes: 'Monday, December 14th, 2020 at 11:59PM EST'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
 salary_min: '126,810' 
@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+job_announcement_number: '21FASC067SBTOR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
 apply_url: APPLICATION URL
-ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
+ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
 supervisory_status: 'NO'
@@ -129,7 +129,7 @@ Successful 18F UX Designers:
 **Salary Range:**
 Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_max }}
 
-If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
+If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Compensation will include locality which is based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
@@ -234,6 +234,12 @@ The information in this sections outlines the criteria that your application wil
 
 ## Evaluation
 
+If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
+
+If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+
+Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+
 We will use a method called Category Rating to assess your application.
 
 **Here’s how it will work:**
@@ -246,11 +252,6 @@ You will be scored based on a review of your application materials, measuring yo
 - **Teamwork & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships. 
 - **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in a civic-minded, high-impact environment.
 
-If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
-
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
-
-Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
 {% endif %}
 
