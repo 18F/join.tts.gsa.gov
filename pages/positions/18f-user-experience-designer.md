@@ -1,7 +1,7 @@
 ---
 title: 18F - User Experience Designer
 permalink: /join/18f-user-experience-designer/
-state: upcoming
+state: open
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -22,7 +22,7 @@ job_announcement_number: '21FASC067SBTOR'
 pd_job_title: 'Innovation Specialist' 
 num_vacancies: '1'
 series: '0301' 
-apply_url: APPLICATION URL
+apply_url: 'https://forms.gle/8F6LxT5jVQSKxF9n7'
 ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
 ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
