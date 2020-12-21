@@ -9,7 +9,7 @@ job_post_type: tts
 
 role_name: DevOps/Site Reliability Engineer (IT Specialist)
 opens: 'November 11, 2020 at 9:00am EST'
-closes: 'January 8, 2021 at 11:59pm EST'
+closes: 'March 1, 2021 at 11:59pm EST'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
 salary_min: '126,810'
