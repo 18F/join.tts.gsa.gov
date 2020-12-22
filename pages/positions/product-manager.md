@@ -2,7 +2,7 @@
 title: 18F - Product Manager (IT Specialist) 
 permalink: /join/product-manager/
 state: open
-job_post_type: tts
+job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager
