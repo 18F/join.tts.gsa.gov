@@ -12,8 +12,8 @@ opens: 'November 11, 2020 at 9:00am EST'
 closes: 'March 1, 2021 at 11:59pm EST'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% remote)'
 gs_level: 15
-salary_min: '126,810'
-salary_max: '170,800'
+salary_min: '128,078'
+salary_max: '172,500'
 org: 'Login.gov'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -51,13 +51,13 @@ supervisory_status: 'No'
 **Salary Range:**
 The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-Please note the maximum salary available for the GS pay system is **$170,800**
+Please note the maximum salary available for the GS pay system is **$172,500**
 
 Salary to be determined upon selection, depending on duty location.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) 
