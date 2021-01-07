@@ -7,7 +7,7 @@ job_post_type: usajobs
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager
 opens: 'Tuesday, June 16, 2020'
-closes: 'Monday, January 11, 2021 at 11:59PM EDT'
+closes: 'Friday, February 5, 2021 at 11:59PM EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
 salary_min: '128,078'
