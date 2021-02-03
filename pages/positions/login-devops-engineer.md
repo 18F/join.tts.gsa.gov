@@ -1,7 +1,7 @@
 ---
 title: Login.gov - DevOps/Site Reliability Engineer (IT Specialist)
 permalink: /join/devops-engineer/
-state: open
+state: closed
 job_post_type: usajobs
 
 
