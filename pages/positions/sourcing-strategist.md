@@ -46,9 +46,9 @@ contact_email: 'jointts@gsa.gov'
 {{ page.location }}
 
 **Salary Range:**
-The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-The base salary range does not include any adjustment for locality. Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
+Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
@@ -227,7 +227,7 @@ Veteran preference eligibles are listed ahead of non-preference eligibles within
 
 ## Qualifications
 
-Subject matter experts will evaluate your resume and your work item or portfolio based on these competencies. You must have at least a year demonstrating accomplishment of the duties and competencies described below.
+Subject matter experts will evaluate your resume based on these competencies. You must have at least a year demonstrating accomplishment of the duties and competencies described below.
 
 **Customer Service & Communication**: The ability to communicate effectively and manage relationships with candidates and internal stakeholders. 
 
