@@ -1,7 +1,7 @@
 ---
 title: TTS Business Operations - Sourcing Strategist
 permalink: /join/sourcing-strategist/
-state: closed
+state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -9,7 +9,7 @@ role_name: Sourcing Strategist
 opens: TBD EDT
 closes: TBD EDT
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
-gs_level: 13
+gs_level: '13'
 salary_min: '92,143' 
 salary_max: '146,120' 
 org: 'TTS Business Operations' 
@@ -199,43 +199,45 @@ The technical qualifications for this position will be evaluated by subject matt
 **1. Resume review**
 Subject matter experts will review your resume and work item or portfolio sample to determine your technical qualifications for your chosen role(s) based on the required competencies.
 
-**2. Qualifying phone interviews**
-
-If the subject matter experts determine that your resume and portfolio reflect the required competencies, you will have at least one phone interview to further assess whether your experience meets the required competencies for your chosen role(s). You may meet with more than one subject matter expert for a
-determination to be made.
-
 **2. Qualifying interviews**
 If the subject matter experts determine that your resume and portfolio reflect the required competencies, you will have at least one interview to further assess whether your experience meets the required competencies for your chosen role(s).
 
-
 You may meet with more than one subject matter expert for a determination to be made.
+
+**3. Ranking and preference**
+
+Preference will be applied to applicants who move forward after the qualifying interviews.
+
+Category rating
+
+Qualified candidates will be assigned to one of the following quality categories:
+
+Best Qualified: Candidates in this category possess good skills and experience above the minimum requirements for the announced position.
+
+Well Qualified: Candidates in this category fall in between Best Qualified and Qualified.
+
+Qualified: Candidates in this category meet the minimum experience requirements for the announced position.
+
+Veterans' Preference
+
+Veteran preference eligibles are listed ahead of non-preference eligibles within each quality category. Based upon your category and score, you may be referred to the selecting official.
+
 
 {% endif %}
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
+Subject matter experts will evaluate your resume and your work item or portfolio based on these competencies. You must have at least a year demonstrating accomplishment of the duties and competencies described below.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+**Customer Service & Communication**: The ability to communicate effectively and manage relationships with candidates and internal stakeholders. 
 
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
-- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
-- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+**Strategic Problem Solving**: The ability to approach complex problems strategically and solve them creatively. The ability to work with limited supervision and limited resources. 
 
-2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL** of the following:
-- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
-- Developing digital applications using a relational or non-relational data layers
-- Developing digital applications using test-driven development and software testing tools
+**Souring Methods for Technical Roles** The ability to source and engage technical talent, including positions in engineering, design and product management.
 
-3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
-- Developing digital applications using Infrastructure-as-a-Service (IaaS)
-- Developing digital applications using Platform-as-a-Service (PaaS)
-- Developing digital applications using containerization technologies
-- Developing digital applications using configuration management tools
-- Developing digital applications using infrastructure automation tooling
+**Teamwork & Collaboration** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
+
+**TTS Core Values Alignment** The ability to work with inclusion, integrity and impact in a large, complex organization or a bureaucratic environment. The ability to be present, transparent, and honest to enable accessible and trustworthy innovation.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
