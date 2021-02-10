@@ -233,11 +233,11 @@ Subject matter experts will evaluate your resume based on these competencies. Yo
 
 **Strategic Problem Solving**: The ability to approach complex problems strategically and solve them creatively. The ability to work with limited supervision and limited resources. 
 
-**Souring Methods for Technical Roles** The ability to source and engage technical talent, including positions in engineering, design and product management.
+**Souring Methods for Technical Roles**: The ability to source and engage technical talent, including positions in engineering, design and product management.
 
-**Teamwork & Collaboration** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
+**Teamwork & Collaboration**: The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
 
-**TTS Core Values Alignment** The ability to work with inclusion, integrity and impact in a large, complex organization or a bureaucratic environment. The ability to be present, transparent, and honest to enable accessible and trustworthy innovation.
+**TTS Core Values Alignment**: The ability to work with inclusion, integrity and impact in a large, complex organization or a bureaucratic environment. The ability to be present, transparent, and honest to enable accessible and trustworthy innovation.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
