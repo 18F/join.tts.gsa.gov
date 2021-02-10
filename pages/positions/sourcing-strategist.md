@@ -1,5 +1,5 @@
 ---
-title: TTS Business Operations - Sourcing Strategist
+title: TTS Talent - Sourcing Strategist
 permalink: /join/sourcing-strategist/
 state: upcoming
 job_post_type: usajobs 
@@ -12,7 +12,7 @@ location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual
 gs_level: '13'
 salary_min: '92,143' 
 salary_max: '146,120' 
-org: 'TTS Business Operations' 
+org: 'TTS Talent' 
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
@@ -65,7 +65,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-As a Sourcing Strategist on the Talent Team, you will be a critical strategic driver in the Technology Transformation Services’ (TTS) ability to meet its business needs, as well as its ability to reflect the diversity of the people we serve. You will build strong pipelines of diverse talent at all levels, from a wide range of disciplines including: design, engineering, product management, business operations and executive leadership. You’ll work closely with hiring managers to implement targeted attraction strategies, and you’ll also ensure that all of the candidates that you engage with have a positive experience. 
+As a Sourcing Strategist on the Talent Team, you will be a critical strategic driver in the Technology Transformation Services’ (TTS) ability to meet its needs, as well as its ability to reflect the diversity of the people we serve. You will build strong pipelines of diverse talent at all levels, from a wide range of disciplines including: design, engineering, product management, business operations and executive leadership. You’ll work closely with hiring managers to implement targeted attraction strategies, and you’ll also ensure that all of the candidates that you engage with have a positive experience. 
 
 Talent team members:
 - Work collaboratively to solve hiring challenges within the organization
