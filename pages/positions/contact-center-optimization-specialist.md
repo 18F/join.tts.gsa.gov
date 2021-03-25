@@ -8,7 +8,7 @@ job_post_type: tts
 role_name: Contact Center Optimization Specialist
 opens: TBD
 closes: TBD
-location: Washington, DC
+location: Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 gs_level: 15
 salary_min: '144,128'
 salary_max: '172,500'
