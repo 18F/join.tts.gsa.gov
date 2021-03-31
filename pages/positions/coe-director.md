@@ -1,30 +1,30 @@
 ---
 title: Centers of Excellence - Director
 permalink: /join/coe-director/
-state: closed
+state: Upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
-opens: 'July 9, 2020'
-closes: 'July 30, 2020 at 11:59PM EDT'
-location: 'Washington, DC'
+opens: TBD
+closes: TBD
+location: Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 gs_level: 'Senior Executive Service'
-salary_min: '131,239' 
-salary_max: '181,500' 
+salary_min: '132,552' 
+salary_max: '183,300' 
 org: 'Centers of Excellence'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '201100124'
+job_announcement_number: TBD
 pd_job_title: 'Director, Centers of Excellence' 
 num_vacancies: '1'
 series: 'ES-2210' 
-apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/573027000'
-ohrm_contact_email: 'Christopher Wright'
-ohrm_contact_name: 'christopher.wright@gsa.gov'
+apply_url: 'TBD'
+ohrm_contact_email: 'TBD'
+ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: 'No' 
 supervisory_status: 'Yes' 
