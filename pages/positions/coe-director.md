@@ -1,8 +1,8 @@
 ---
 title: Centers of Excellence - Director
 permalink: /join/coe-director/
-state: 'Upcoming'
-job_post_type: 'tts'
+state: Upcoming
+job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
