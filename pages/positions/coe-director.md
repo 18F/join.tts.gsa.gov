@@ -6,9 +6,9 @@ job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
-opens: TBD
-closes: TBD
-location: Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
+opens: 'TBD'
+closes: 'TBD'
+location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 'Senior Executive Service'
 salary_min: '132,552' 
 salary_max: '183,300' 
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: TBD
+job_announcement_number: 'TBD'
 pd_job_title: 'Director, Centers of Excellence' 
 num_vacancies: '1'
 series: 'ES-2210' 
