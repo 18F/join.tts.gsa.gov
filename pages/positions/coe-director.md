@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Director
 permalink: /join/coe-director/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
