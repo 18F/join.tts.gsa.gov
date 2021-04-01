@@ -55,23 +55,31 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### {{ page.role_name }} - {{ page.gs_level }}
 
-The Director, Centers of Excellence (CoE) is located in the Federal Acquisition Service (FAS), Technology Transformation Services (TTS), Office of Clients and Markets, Centers of Excellence (CoE) Division and reports to the Assistant Commissioner, Clients and Markets.  The Director, CoE directs all related CoE functions, providing high level support and consultative services to the Assistant Commissioner and managing and overseeing all products, platforms, and services that are provided by the CoE, TTS.  Stakeholders and partners include high level contacts with the private sector and not-for-profit sectors where appropriate.
+The Centers of Excellence (CoE), part of GSA/TTS works directly with federal agencies to identify their needs, make recommendations, and implement modernization solutions. Each of the Centers is staffed with leads who provide authoritative advice, experienced mentorship, and IT transformation services to improve service design and customer interactions across major federal government organizations. Each of the Centers has an area of expertise: cloud adoption, IT infrastructure optimization, customer experience, contact centers, and artificial intelligence/data analytics. 
 
-The CoE are established to implement, improve and expand public access to federal information services. To this end, the CoE work directly with customer agencies to identify their needs, recommend solutions, and identify the best contract vehicle to procure, support, and handle implementation of the solution. Each of the CoE is staffed with information technology (IT) experts who provide authoritative advice, experienced mentorship, and IT transformation services purposed to improve service design and customer interactions across major organizational federal government lines. Each of the CoE has a different mission and objectives, but all are intended to lead centralized, function­-specific talent, and ensure effective support for solution implementation. Currently there are six Centers: cloud adoption, IT infrastructure optimization, customer experience, contact centers, data analytics, and artificial intelligence; however, this number may increase based on market demand and growing IT modernization tools.
+As the Director of the Centers of Excellence, you will serve as an expert in technology transformation and provide leadership, direction, and guidance to ensure the successful implementation of milestones and goals, and fulfill the commitments of the CoE. You will manage and oversee the high- level functions performed by each of the Centers. The Director of the CoE represents GSA on major CoE activities and initiatives regarding federal IT modernization efforts with other agencies. You will provide guidance on how to effectively and efficiently advise, consult, develop, and implement solutions to support these efforts.  
 
-The Director, CoE manages and oversees high level functions performed by the CoE geared toward the implementation and establishment of major federal IT Modernization efforts and the establishment of the framework for the way the government builds, buys, and shares technology ensuring cost-effectiveness and efficiency.  In this capacity serves as an expert, providing leadership, direction, and guidance and ensuring the implementation of major Federal, GSA, FAS, and TTS milestones, goals and commitments.
+## Key Objectives
 
-Represents GSA on major CoE activities and initiatives as related to federal IT Modernization efforts and implements programs to provide guidance on how to effectively and efficiently provide expert advice, consulting, development and support solution implementation within the following areas but not limited to:  cloud adoption, IT infrastructure optimization, customer experience, contact centers, data analytics, artificial intelligence and related functions.
+### Key objective #1: Determines CoE’s strategic direction and vision, including the overall planning, management, execution, and direction of the program.
+- Ensures proper oversight and develops and implements performance measures that link CoE operations to goals and objectives, including overall cost recoverability.
+- Develops innovative approaches and alternative solutions to solve problems associated with technology infrastructure transformation within the federal government.
+- Serves as a top-level advisor and consultant to the Deputy Commissioner of TTS and the GSA Administrator with respect to CoE.
+- Provides advice and consultation on policies, plans, and practices that may result in government-wide impact and growth.
+- Utilizes current business data to forecast resource goals and plan for the supply and demand cycle of hiring to meet internal organization and client objectives.
 
-Supports the Assistant Commissioner, Clients and Markets and develops policies, plans and initiatives to ensure the effective growth and continual development of the CoE program, identifying barriers to achieving the desired change and developing an operational roadmap.  Manages high level expectations, milestones, and strategies to ensure the success and excellence of the CoE. Identifies and executes on opportunities to cross-leverage other TTS and FAS capabilities and services in the CoE’s engagements with executive branch agencies.
+### Key objective #2: Builds and maintains effective internal and external working relationships with federal agencies, management, municipal and state agencies, and high-level officials in the public, not-for-profit and private sectors to address issues of mutual interest. 
+- Serves as the chief ambassador of the CoE program through presentations, speeches, articles for publication. Identifies, reviews and collaborates on blog posts, articles and journals to highlight transformation and business performance across CoE, TTS and GSA.
+- Drive CoE growth/impact  through relationships within federal government and with industry
+- Mature the program using financial and planning tools.
+- Builds strategies for how best to engage with GSA officials and other agencies in order to carry out CoE goals, planning, and acquisition initiatives that have implications for the entire government..
+- Acts as thought leader/subject matter expert on digital innovation and technology transformation within the federal government.
 
-Champions initiatives to support and lead the development of the CoE’s current and future value propositions within the federal government in an increasingly competitive marketplace and provides leadership and support to set the stage for innovative changes that are intended to benefit GSA and its stakeholders and partners.  This includes change management initiatives geared toward refining the operational roadmap to maximize the CoE’s competitive advantage in a sustainable and deliberate manner.
+### Key objective #3: Provides executive leadership and Equal Employment Opportunity responsibility.
+- Leads, mentors and manages CoE’s division directors.
+- Empowers employees to develop through two-way communication, cooperation and teamwork. 
+- Furthers the diversity of CoE via recruitment, hiring, training, giving awards, and active participation with Employee Resource Groups to build an inclusive, equitable and diverse workplace. 
 
-Identifies and directs implementation of the myriad actions required to continually develop and improve the organization and operationalize new innovation initiatives, including not only potential programmatic changes, but also impact, communications, measurement & reporting, executive oversight, and risk management activities.
-
-Develops a sustainable growth plan that provides an overarching view of the CoE today and also serves as a tool with which GSA, FAS, and TTS leadership can manage, measure and communicate progress as the CoE program evolves to respond to the changing needs of client agencies and the ever changing technology landscape.
-
-Leads in a proactive, customer­ responsive manner consistent with the TTS, FAS and GSA’s vision and values. Ensures financial and managerial accountability by acting with prudence when executing fiduciary responsibilities. Demonstrates high integrity and adheres to the highest ethical standards of public service. Uses effective business practices, including balanced measures of results, and values and invests in each employee; emphasizes empowerment and two­ way communication. Takes a leadership role in advocating for and advancing the priorities of TTS, FAS, and GSA. Serves as a role model for leadership by encouraging teamwork and a collaborative approach.
 
 {% if page.state != 'upcoming' %}
 
@@ -173,15 +181,15 @@ Please see the "Required Documents" section below for complete instructions on t
 
 **EXECUTIVE CORE QUALIFICATIONS (ECQs):**
 
-1.  Leading Change - This core qualification involves the ability to bring about strategic change, both within and outside the organization, to meet organizational goals. Inherent to this ECQ is the ability to establish an organizational vision and to implement it in a continuously changing environment.
+1.  **Leading Change** - This core qualification involves the ability to bring about strategic change, both within and outside the organization, to meet organizational goals. Inherent to this ECQ is the ability to establish an organizational vision and to implement it in a continuously changing environment.
 
-2.  Leading People - This core qualification involves the ability to lead people toward meeting the organization's vision, mission, and goals. Inherent to this ECQ is the ability to provide an inclusive workplace that fosters the development of others, facilitates cooperation and teamwork, and supports constructive resolution of conflicts.
+2.  **Leading People** - This core qualification involves the ability to lead people toward meeting the organization's vision, mission, and goals. Inherent to this ECQ is the ability to provide an inclusive workplace that fosters the development of others, facilitates cooperation and teamwork, and supports constructive resolution of conflicts.
 
-3.  Results Driven - This core qualification involves the ability to meet organizational goals and customer expectations. Inherent to this ECQ is the ability to make decisions that produce high-quality results by applying technical knowledge, analyzing problems, and calculating risks.
+3.  **Results Driven** - This core qualification involves the ability to meet organizational goals and customer expectations. Inherent to this ECQ is the ability to make decisions that produce high-quality results by applying technical knowledge, analyzing problems, and calculating risks.
 
-4.  Business Acumen - This core qualification involves the ability to manage human, financial, and information resources strategically.
+4.  **Business Acumen** - This core qualification involves the ability to manage human, financial, and information resources strategically.
 
-5.  Building Coalitions - This core qualification involves the ability to build coalitions internally and with other Federal agencies, State and local governments, nonprofit and private sector organizations, foreign governments, or international organizations to achieve common goals.
+5.  **Building Coalitions** - This core qualification involves the ability to build coalitions internally and with other Federal agencies, State and local governments, nonprofit and private sector organizations, foreign governments, or international organizations to achieve common goals.
 
 For guidance on how to address the ECQ's in the context of your resume, please refer to page 29 of the "Guide to SES Qualifications" at: [http://www.opm.gov/ses/references/GuidetoSESQuals_2012.pdf](http://www.opm.gov/ses/references/GuidetoSESQuals_2012.pdf).
 
