@@ -267,4 +267,4 @@ CURRENT CIVIL SERVICE EMPLOYEE APPLICANTS: You must submit an SF-50 that shows y
 
 ## HOW TO APPLY
 
-If you would like to learn more or if you’d like to be notified when the application is open, please sign up join our mailing list.
+If you would like to learn more or if you’d like to be notified when the application is open, please sign up here: https://join.tts.gsa.gov/newsletter/.
