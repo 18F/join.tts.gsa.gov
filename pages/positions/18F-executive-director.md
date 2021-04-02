@@ -206,7 +206,7 @@ Conceiving/recommending projects/studies to advance the state of the art in the 
 
 You will be evaluated for this job based on how well you meet the qualifications above.
 
-An SES review panel will evaluate your resume based on the quality and extent of your total accomplishments, experience, and education. Applicants determined to be highly qualified may undergo an interview, other assessments and a reference check and may be required to provide a writing sample, work plan or other written product. If selected, you must be certified by an Office of Personnel Management (OPM) Qualifications Review Board (QRB), unless you are a current career SES member, former career SES member with SES career reinstatement eligibility, or have successfully completed an OPM-approved SES Candidate Development Program (SES CDP). You must receive QRB certification before you can be appointed to this position. To preview questions please click here.
+An SES review panel will evaluate your resume based on the quality and extent of your total accomplishments, experience, and education. Applicants determined to be highly qualified may undergo an interview, other assessments and a reference check and may be required to provide a writing sample, work plan or other written product. If selected, you must be certified by an Office of Personnel Management (OPM) Qualifications Review Board (QRB), unless you are a current career SES member, former career SES member with SES career reinstatement eligibility, or have successfully completed an OPM-approved SES Candidate Development Program (SES CDP). You must receive QRB certification before you can be appointed to this position. To preview questions please [click here] (https://jobs.monstergovt.com/gsa/vacancy/previewVacancyQuestions.hms?orgId=1&jnum=102927).
 
 
 ## Qualifications
@@ -267,4 +267,4 @@ CURRENT CIVIL SERVICE EMPLOYEE APPLICANTS: You must submit an SF-50 that shows y
 
 ## HOW TO APPLY
 
-If you would like to learn more or if you’d like to be notified when the application is open, please sign up join our mailing list.
+If you would like to learn more or if you’d like to be notified when the application is open, please sign up [for job alerts] (https://join.tts.gsa.gov/newsletter/).
