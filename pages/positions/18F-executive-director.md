@@ -1,30 +1,30 @@
 ---
 title: 18F - Executive Director
 permalink: /join/executive-director/
-state: closed
+state: upcoming
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Executive Director'
-opens: 'August 21, 2020'
-closes: 'August 28, 2020'
-location: 'Washington DC'
-gs_level: 15
-salary_min: '142,701' 
-salary_max: '170,800' 
+opens: 'TBD'
+closes: 'TBD'
+location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+gs_level: 'Senior Executive Service'
+salary_min: '132,552' 
+salary_max: '183,300' 
 org: '18F'
-contact_name: 'Amanda Schonfeld'
+contact_name: 'Lauren Ferrucci'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '20FASC239SBOTR'
-pd_job_title: 'Supervisory Innovation Specialist' 
+job_announcement_number: 'TBD'
+pd_job_title: 'Director of 18F' 
 num_vacancies: '1'
-series: '0301' 
-apply_url: 'https://forms.gle/ps2FHGVWhWfgHbKA9'
-ohrm_contact_email: 'stephanie.bernstein@gsa.gov'
-ohrm_contact_name: 'Stephanie Bernstein'
+series: 'ES-0340' 
+apply_url: 'TBD'
+ohrm_contact_email: 'TBD'
+ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: 'N/A'
 supervisory_status: 'YES' 
@@ -48,7 +48,7 @@ supervisory_status: 'YES'
 **Salary Range:**
 The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-The salary range does include locality pay for Washington, DC. This position is not remote and is physically based in Washington, DC. 
+The salary range does include locality pay. 
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
@@ -65,38 +65,42 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-The Executive Director of 18F oversees a consulting organization of federal employees whose mission is to improve the lives of the public and public servants by transforming how government uses technology. The work involves advocating for an iterative, human-centered approach to building and buying software in government, and running the cost-recoverable consulting organization as a business.
-18F helps partner agencies improve how they build and buy effective, user-centered software that interfaces between the government and the people and organizations it serves. This position reports to the Assistant Commissioner, Clients and Markets, TTS.
+18F is an office within the General Services Administration (GSA) that partners with federal agencies to build and buy digital services that improve the public’s experience with government services. Composed of a team of 100+ experienced, mid to senior-level cross-functional tech consultants who enable and empower federal, state and local agencies to design, develop, buy, and deploy human-centered technological solutions— meeting users’ expectations and urgent mission needs now, not years from now. 
+
+The Executive Director of 18F oversees this federal employee digital consultancy whose mission is to improve the lives of the public and public servants by transforming how the government uses technology. You will lead and direct the company's operations and give strategic guidance to ensure that the company achieves its mission and objectives.  The work involves not only advocating for an iterative, human-centered approach to building and buying software, but also running the cost-recoverable organization as a business. You will ensure 18F is constantly moving towards fulfilling its short-term and long-term objectives and does not diverge from its strategic guidelines. 
+
+Sometimes this looks like short-term help:
+
+- Developing actionable modernization roadmaps and a plan to prioritize and implement them
+- Building or redesigning websites, products, platforms or tools to better meet the needs of partners and the public
+- Using small and modular contracts to de-risk procurement and better manage vendors
+
 
 ## Key Objectives
 
 ### Objective #1: Determines 18F’s vision, strategic direction, objectives and goals, including the overall planning, management, execution, and direction of the program.
 
-- Ensures proper oversight and develops and implements a system for performance measures that link operations to goals and objectives, including overall cost recoverability.
+- Ensures proper oversight and develops and implements a system for performance measures that links operations to goals and objectives, including overall cost recoverability.
 - Develops innovative approaches and alternative solutions to solve problems associated with digital services delivery within the federal government.
-- Serves as a top level advisor and consultant to the Deputy Commissioner, TTS and the GSA Administrator for the 18F program. 
-- Provides advice and consultation in the development of policies, plans, and practices that may result in government-wide impact.
+- Serves as a top level advisor and consultant to the Deputy Commissioner, TTS and the GSA Administrator with respect to the 18F program. 
+- Provides advice and consultation in the development of policies, plans, and practices that may result in government-wide impact and growth
+- Utilizes current business data to forecast and plan for the supply/demand of hiring and resource goals to meet internal organization and client objectives.
+
 
 ### Objective #2: Builds and maintains effective internal and external working relationships to address issues of mutual interest with federal agencies, top agency management, municipal and state agencies, foreign governments, subject matter experts, industry and other high level officials across public, not-for-profit and private sectors. 
 
-- Markets the 18F program and associated projects to appropriate audience through speeches, presentations, articles for publication, newsletters, as well as, computer based information sources; identifies, reviews and collaborates on articles for trade journals, scholarly journals and periodicals to highlight transformation and business performance across 18F and TTS.
-- Builds a communication and relationship strategy on how best to engage with GSA officials and other agencies and departments in order to carry out 18F strategy, planning and acquisition initiatives that have government-wide implications.
+- Chief ambassador of the 18F program and associated projects to appropriate audiences through speeches, presentations, articles for publication, newsletters; identifies, reviews and collaborates on blog posts, articles for trade journals, scholarly journals and periodicals to highlight transformation and business performance across 18F and TTS.
+- Builds a communication and relationship strategy on how best to engage with GSA officials and other agencies and departments in order to carry out 18F strategy, planning, and acquisition initiatives that have government-wide implications.
 - Collaborates with federal agencies on relevant projects, policies, and initiatives.
+- Acts as thought leader/subject matter expert on digital innovation and technology transformation within the federal government.
+
 
 ### Objective #3: Provides executive leadership and EEO responsibility.
 
-- Leads in a proactive and customer-responsive manner consistent with TTS /GSA vision and values, and effectively communicates program issues to external audiences. 
-- Ensures financial and managerial accountability by acting with prudence when executing fiduciary responsibilities.
-- Demonstrates high integrity and adheres to the highest ethical standards of public service. 
-- Uses effective business practices including balanced measures of results and values; invests in each employee; emphasizes empowerment and two-way communication. 
-- Takes a leadership role in advocating for and advancing the priorities of TTS/GSA. 
-- Serves as a role model for leadership by encouraging teamwork and a collaborative approach. 
-- Timely notifies Agency officials of all significant actions and developments, including but not limited to those related to regulatory matters, legislative matters, budget matters, reports, initiatives, and events and ensures subordinate managers do the same.
-- Directly manages 18F’s Division Directors, providing them with leadership and mentoring. Fosters the development of a world-class workforce and facilitates cooperation and teamwork. 
-- Responsible for furthering diversity within 18F, ensuring equal opportunity in recruitment, selection, training, awards, and assignments. 
-- Provides oversight on policy development, program budgets, brand management, communication plans, and implementation of operating procedures, practices, and management controls. 
-- Ensures that supporting managers recognize the importance of their diversity enhancement responsibilities and apply principles that create an inclusive and diverse workforce. 
-- Provides reasonable accommodations needed to best utilize qualified people with disabilities. Provides leadership and oversight associated with managing programs and resources, conducting analyses, providing advice, making recommendations, developing policies, and issuing guidance related to 18F activities.
+- Manages 18F’s division directors, providing leadership and mentoring. 
+- Fosters the development of employees through empowerment, two-way communication and facilitates cooperation and teamwork. 
+- Furthers diversity within 18F via recruitment, hiring, training, awards, and active participation with Employee Resource Groups, resulting in an inclusive, - equitable and diverse workplace. 
+
 
 {% if page.state != 'upcoming' %}
 
@@ -139,135 +143,105 @@ GS-{{ page.promotion_potential }}
 Occasional travel may be required up to 10%-20% per year
 
 **Security clearance:**
-Public trust. Background investigation required.
+Top Secret
 
 **Work Schedule:**
 Full time
 
 **Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
-  
-## Job Summary
-  
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
-
-As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
-
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Office of 18F.
-
-GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
-You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
-
-  - Health insurance (choose from a wide range of plans)
-  - Life insurance coverage with several options
-  - Sick leave and vacation time, including 10 paid holidays per year
-  - Thrift Savings Plan (similar to a 401(k) plan)
-  - Flexible work schedules and telework
-  - Transit and child care subsidies
-  - Training and development
-  - Flexible spending accounts
-  - Long-term care insurance
-  - Training and development
-
-## Key Requirements
-
-1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
-2. Suitable for federal employment, determined by a background investigation
-3. You may be required to serve a trial period
-4. Direct Deposit of salary check to financial organization required
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+Permanent
 
 ## Employment Requirements
 
-- Serve a one year trial period, if required
-- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job
-- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this
-- Any discrepancies must be resolved as a condition of continued employment
-- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
+**Conditions of Employment**
+- Resume-based hiring method.
+- Resume must not exceed 5 pages, including optional cover letter.
+- All application materials must be received by the closing date.
+- Veterans preference is not applicable to the SES
+- Applicants must be U.S. Citizens
+- Apply online (See 'How to Apply' section.)
 
-## Duties
+**CONDITIONS OF EMPLOYMENT:**
 
-Typical duties for the fellow include but are not limited to:
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
+This position is a critical-sensitive national security position and appointment requires that you undergo a single scope background investigation and that the GSA security office grant you a Top Secret national security clearance. Applicants do not need this level of clearance in order to apply. If you are not a GSA employee, the security office must grant the clearance before you are appointed to this position unless a pre-appointment waiver of this requirement is approved.
+If tentatively selected, you will be required to submit a Declaration for Federal Employment.
+Male applicants born after December 31, 1959 will be required to complete a certification document confirming their selective service status.
+Persons selected for their initial appointment to an SES position must have their executive qualifications approved by the Office of Personnel Management before being appointed to the position.
+If selected, you will be required to serve a one-year probationary period unless you have previously successfully completed a one-year probationary period in the Senior Executive Service.
+Veteran's preference does not apply to positions in the Senior Executive Service.  
+If selected, you must file a Public Financial Disclosure Report (OGE Form 278) upon appointment in accordance with the Ethics in Government Act of 1978.
+This position has been designated under Executive Order 12564 as being subject to random drug screening.  If tentatively selected for this position, you may be required to submit to a urinalysis screen for illegal drugs prior to appointment.  Appointment will be contingent upon your receiving a negative test result.
+
 
 {% endif %}
 
 {% if page.state == 'upcoming' %}
 
-## Application Evaluation
-
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
-
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
-
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
-
-{% endif %}  
-
-{% if page.state != 'upcoming' %}
-
 ## Evaluation
 
-We will use a method called Category Rating to assess your application.
+You will be evaluated for this job based on how well you meet the qualifications above.
 
-**Here’s how it will work:**
-
-You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
-
-- **Executive Leadership:** Ability to effectively lead a large cross-functional team to meet the organization's business objectives. 
-- **Relationship Management:** Ability to develop and manage relationships with potential agency partners, the public, and the internal 18F team. 
-- **Business Operations:** The administration of business practices to create the highest level of efficiency possible within an organization. Converting materials and labor into goods and services as efficiently as possible to meet cost recoverable goals. 
-- **Technical Innovation and Delivery:** Using technology to create a more efficient organization and improve alignment between technology initiatives and business goals.
-- **18F Core Values Alignment:** The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
-
-If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
-
-If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
-
-Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+An SES review panel will evaluate your resume based on the quality and extent of your total accomplishments, experience, and education. Applicants determined to be highly qualified may undergo an interview, other assessments and a reference check and may be required to provide a writing sample, work plan or other written product. If selected, you must be certified by an Office of Personnel Management (OPM) Qualifications Review Board (QRB), unless you are a current career SES member, former career SES member with SES career reinstatement eligibility, or have successfully completed an OPM-approved SES Candidate Development Program (SES CDP). You must receive QRB certification before you can be appointed to this position.
+To preview questions [please click here](https://jobs.monstergovt.com/gsa/vacancy/previewVacancyQuestions.hms?orgId=1&jnum=102927).
 
 {% endif %}
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
+All applicants must meet the Mandatory Technical and Executive Core Qualification requirements listed below to be eligible for consideration. Eligibility will be based on a clear demonstration that the applicant's training and experience are of the scope, quality and level of responsibility sufficient to successfully perform the duties and responsibilities of this executive position.
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+Your resume must show possession of the Executive Core Qualifications (ECQs) listed below but must not address the ECQs through separate narrative responses.
 
+You must submit a supplemental statement that separately addresses the Mandatory Technical Competency (MTC) listed below.  Your resume should also corroborate your possession of the MTC. Your application will not be considered if you fail to submit this supplemental statement.
 
-1. Experience ensuring effective communication of a large organization’s mission, priorities, strategies, and progress to various internal stakeholders, as well as external stakeholders (e.g. clients, the public, the press).  This experience must include **ALL** of the following:
-  -  Serving as spokesperson representing the organization to the community.
-  - Advocating for issues relevant to the organization, its services, and its customers.
-  - Initiating, developing, and maintaining relationships with key stakeholders. 
-  - Experience managing challenging situations, customer negotiations, or influencing and persuading other senior-level managers.
+Please see the "Required Documents" section below for complete instructions on the content and format of your application package.
 
-2. Experience leading a fee-for-service program. This experience must include **ALL** of the following:
-  - Experience managing a team of supervisors who manage the overall team (i.e. multiple levels of management/supervisors) within a consulting or systems integration business
-  - Accountable for achievement of cost recoverability targets
-  - Leading the development of staffing strategies
-  - Demonstrated ability to develop new business opportunities and grow revenues within a targeted client base
-  - Demonstrated ability to create long-term vision and strategies for building program effectiveness 
-  - Demonstrated experience measuring customer satisfaction
+**MANDATORY TECHNICAL COMPETENCY:**
 
-3. Experience navigating highly ambiguous or uncertain situations to deliver results. This experience must include **ALL** of the following:
-  - Leading change management in organizations
-  - Building and leading a business case for plans, funding or resources
-  - Demonstrated experience in leading client-facing consulting (i.e. researching, designing and executing to solve a specific problem for a client) projects or initiatives 
-  - Demonstrated experience collaborating with cross-functional teams (i.e. developers, product managers, designers, clients) to achieve organizational or project objectives
+1. Demonstrated executive-level experience in leading a medium to large digital or technology client, department or organization comprised of senior consultants charged with developing and deploying technology solutions. This experience must include:
 
-4. Experience leading teams that use modern software design and development methodologies, including human-centered design and iterative development (e.g. agile, lean, Kanban, user research, journey mapping, personas, user stories) 
+- Working with senior-level stakeholders to define the strategy, develop a product using modern software development best practices (product ownership, user-centered design, DevSecOps, iterative development methodologies), and deliver on customer and/or stakeholder needs and
 
+- Hiring, leading and supervising technical staff that focus on IT/digital strategy, product management, software development and platforms to design, develop, buy, and deploy user-centered technological solutions
 
-Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
+**EXECUTIVE CORE QUALIFICATIONS (ECQs):**
 
-For each job on your resume, provide:
+1.  **Leading Change** - This core qualification involves the ability to bring about strategic change, both within and outside the organization, to meet organizational goals. Inherent to this ECQ is the ability to establish an organizational vision and to implement it in a continuously changing environment.
 
-- the exact dates you held each job (from month/year to month/year or “present”)
-- number of hours per week you worked (if part time)
+2.  **Leading People** - This core qualification involves the ability to lead people toward meeting the organization's vision, mission, and goals. Inherent to this ECQ is the ability to provide an inclusive workplace that fosters the development of others, facilitates cooperation and teamwork, and supports constructive resolution of conflicts.
+
+3.  **Results Driven** - This core qualification involves the ability to meet organizational goals and customer expectations. Inherent to this ECQ is the ability to make decisions that produce high-quality results by applying technical knowledge, analyzing problems, and calculating risks.
+
+4.  **Business Acumen** - This core qualification involves the ability to manage human, financial, and information resources strategically.
+
+5.  **Building Coalitions** - This core qualification involves the ability to build coalitions internally and with other Federal agencies, State and local governments, nonprofit and private sector organizations, foreign governments, or international organizations to achieve common goals.
+
+For guidance on how to address the ECQ's in the context of your resume, please refer to page 29 of the "Guide to SES Qualifications" at: [http://www.opm.gov/ses/references/GuidetoSESQuals_2012.pdf](http://www.opm.gov/ses/references/GuidetoSESQuals_2012.pdf).
+
+## REQUIRED DOCUMENTS:
+
+Please review the following information to determine which documents you must submit in order to complete your application.
+
+All applicants must submit a resume (not to exceed 5 pages, including optional cover letter) which demonstrates your experience, accomplishments, training, education and awards, indicating possession of the Executive Core Qualifications (ECQs) listed in this announcement. But​, ​your resume must not address the ECQs in separate narrative responses. Your resume should corroborate your possession of the Mandatory Technical Competencies (MTCs) listed in this announcement, which you must address separately in a supplemental statement as described below.
+
+Information beyond the five page resume and the supplemental MTC statement will not be evaluated.  Therefore, please do not submit letters of recommendation, award certificates, diplomas, college transcripts, training certificates (except certificates of completion from an OPM-approved SES Candidate Development Program - SES CDP), or any other documents not specifically requested in the "Required Documents" section. Any awards, training, or education you wish to highlight should simply be listed in your resume. 
+
+In addition, please do not submit:  (1) the Optional Application for Federal Employment (OF-612) in lieu of a resume, or (2) separate narrative responses to address the ECQs.
+
+All applicants must submit a supplemental statement that separately addresses the one MTC listed in this announcement. Your supplemental statement must be restricted to no more than two pages in total for the one MTC listed in this announcement. Information beyond two pages for the MTC will not be evaluated. YOUR APPLICATION WILL NOT BE CONSIDERED IF YOU FAIL TO SUBMIT THIS SUPPLEMENTAL STATEMENT.
+
+SES NON-COMPETITVE APPLICANTS: Proof of SES non-competitive eligibility is required. Proof consists of:
+
+(1) an SF-50 showing your status as a:
+
+(a) current Career SES appointee,
+(b) former Career SES appointee with career SES reinstatement eligibility, or
+(c) current or reinstatement eligible Career SES-equivalent executive who is/was employed in a Federal government agency that has an interchange agreement with the Office of Personnel Management (OPM) allowing for movement between the agency’s SES-equivalent personnel system and the SES. NOTE: This applies only to current or reinstatement eligible Career SES-equivalent executives of the Government Accountability Office, the Transportation Security Administration, or the Office of the Inspector General of the United States Postal Service.
+
+OR
+
+(2) a certificate of completion from an OPM-approved SES Candidate Development Program (SES CDP). NOTE: This applies only if your ECQ's have been approved by an OPM Qualifications Review Board (QRB) through the SES CDP.
+
+These documents may be used to determine your eligibility to be considered under this announcement. Non-Competitive applicants must submit a complete application package as noted above. The agency has the option of considering you non-competitively or including you in the competitive process. YOU WILL NOT RECEIVE NON-COMPETITVE CONSIDERATION IF YOU FAIL TO SUBMIT PROOF OF NON-COMPETITVE ELIGIBILITY.
+
+CURRENT CIVIL SERVICE EMPLOYEE APPLICANTS: You must submit an SF-50 that shows your current position title, series, grade and rate of basic pay as well as Tenure Group. This document may be used to determine your eligibility to be considered under this announcement.
