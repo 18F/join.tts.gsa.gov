@@ -1,5 +1,5 @@
 ---
-title: 18F - Executive Director
+title: 18F - Director
 permalink: /join/executive-director/
 state: upcoming
 job_post_type: tts
@@ -59,7 +59,7 @@ employees or contractors
 
 18F is an office within the General Services Administration (GSA) that partners with federal agencies to build and buy digital services that improve the public’s experience with government services. Composed of a team of 100+ experienced, mid to senior-level cross-functional tech consultants who enable and empower federal, state and local agencies to design, develop, buy, and deploy human-centered technological solutions— meeting users’ expectations and urgent mission needs now, not years from now. 
 
-The Executive Director of 18F oversees this federal employee digital consultancy whose mission is to improve the lives of the public and public servants by transforming how the government uses technology. You will lead and direct the company's operations and give strategic guidance to ensure that the company achieves its mission and objectives.  The work involves not only advocating for an iterative, human-centered approach to building and buying software, but also running the cost-recoverable organization as a business. You will ensure 18F is constantly moving towards fulfilling its short-term and long-term objectives and does not diverge from its strategic guidelines. 
+The Director of 18F oversees this federal employee digital consultancy whose mission is to improve the lives of the public and public servants by transforming how the government uses technology. You will lead and direct the company's operations and give strategic guidance to ensure that the company achieves its mission and objectives.  The work involves not only advocating for an iterative, human-centered approach to building and buying software, but also running the cost-recoverable organization as a business. You will ensure 18F is constantly moving towards fulfilling its short-term and long-term objectives and does not diverge from its strategic guidelines. 
 
 Sometimes this looks like short-term help:
 
