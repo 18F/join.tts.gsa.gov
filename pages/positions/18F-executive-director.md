@@ -50,8 +50,7 @@ The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.
 
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and GSA employees or contractors
 
 ## Role Summary:
 
@@ -107,8 +106,7 @@ Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_m
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) and GSA employees or contractors
 
 **Job announcement number:**
 {{ page.job_announcement_number }}
