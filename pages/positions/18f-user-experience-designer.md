@@ -1,7 +1,7 @@
 ---
 title: 18F - User Experience Designer
 permalink: /join/18f-user-experience-designer/
-state: closed
+state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '21FASC067SBTOR'
+job_announcement_number: 'TBD'
 pd_job_title: 'Information Technology Specialist (SYSANALYSIS)' 
 num_vacancies: '1'
 series: '2210' 
@@ -238,21 +238,6 @@ If you are an Interagency Career Transition Assistance Plan eligible or a GSA Ca
 {% endif %}  
 
 {% if page.state != 'upcoming' %}
-
-## Evaluation
-
-
-We will use a method called Category Rating to assess your application.
-
-**Here’s how it will work:**
-
-You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
-
-- **Research Methods:** The knowledge and ability to understand and apply user research tools and methodologies. 
-- **Design Methods:** The ability to design interactive digital products, systems, and services.
-- **Agile or Iterative Development:** The knowledge of design and development approaches that include repeated testing of ideas and revision of those ideas based on testing results, and the ability to carry them out in a professional environment.
-- **Teamwork & Collaboration:** The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually-beneficial partnerships. 
-- **TTS Core Values Alignment:** The ability to work with integrity, transparency and resiliency in a civic-minded, high-impact environment.
 
 
 {% endif %}
