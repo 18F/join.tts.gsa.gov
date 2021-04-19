@@ -2,16 +2,16 @@
 title: 18F - Product Manager (IT Specialist) 
 permalink: /join/product-manager/
 state: open
-job_post_type: tts
+job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager
 opens: 'Tuesday, June 16, 2020'
-closes: 'Monday, January 11, 2021 at 11:59PM EDT'
+closes: 'Friday, June 11, 2021 at 11:59PM EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '126,810'
-salary_max: '170,800'
+salary_min: '128,078'
+salary_max: '172,500'
 org: '18F'
 contact_name: 'Sylvia Velez-Zuniga'
 contact_email: 'sylvia.velez-zuniga@gsa.gov'
@@ -52,9 +52,9 @@ Salary to be determined upon selection, depending on duty location.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$170,800** 
+Please note the maximum salary available for the GS pay system is **$172,500** 
 
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 

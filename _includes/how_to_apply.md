@@ -17,7 +17,7 @@ In order to apply for this job you must submit an application via the USAJOBS po
 Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at {{ page.contact_email }}.
 
 {% elsif page.job_post_type == 'tts' %}
-Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT. Please fill out all applicable fields.
+Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT. Please fill out all applicable fields.  Please note that the TTS application form includes additional short-answer questions.  We recommend that you take some time to review and prepare for the questions in advance of submitting your application.
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
@@ -71,7 +71,7 @@ To learn more, please consult the following resources:
 
 ## Drug Free Workplace Policy
 
-The General Services Administration and the Technology Transformation Services have an obligation to create a safe and drug-free workplace. All GSA employees are covered by the drug-free workplace program, but only certain positions are subject to application and random drug testing. These positions are called Testing Designated Positions and are for positions such as those that require an active Top Secret security clearance or for you to carry a firearm while on duty. Most TTS jobs are not Testing Designated Positions, but all employees may become subject to drug testing in special situations. You can learn more about GSA's Drug Free Workforce policy, including what positions require testing and when non-required positions may be tested, by reading the [official policy on gsa.gov](https://www.gsa.gov/directives-library/gsa-drugfree-workplace-program-97003-oad-extended). 
+The General Services Administration and the Technology Transformation Services have an obligation to create a safe and drug-free workplace. All GSA employees are covered by the drug-free workplace program, but only certain positions are subject to application and random drug testing. These positions are called Testing Designated Positions and are for positions such as those that require an active Top Secret security clearance or for you to carry a firearm while on duty. Most TTS jobs are not Testing Designated Positions, but all employees may become subject to drug testing in special situations. You can learn more about GSA's Drug Free Workforce policy, including what positions require testing and when non-required positions may be tested, by reading the [official policy on gsa.gov](https://www.gsa.gov/directive/gsa-drug-free-workplace-program). 
 
 ## What To Expect
 

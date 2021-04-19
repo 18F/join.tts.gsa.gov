@@ -39,6 +39,8 @@ upcoming positions. Take a look below, and [join our mailing list]({{ site.baseu
 {% endif %}
 {% endfor %}
 
+* [Presidential Innovation Fellow](https://presidentialinnovationfellows.gov/apply/) (Open now through May 14, 2021 at 11:59pm)
+
 **We are hiring** and will be sharing upcoming jobs and open positions as they are available.
 
 ### Upcoming Positions

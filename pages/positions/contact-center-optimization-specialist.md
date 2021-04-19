@@ -8,10 +8,10 @@ job_post_type: tts
 role_name: Contact Center Optimization Specialist
 opens: TBD
 closes: TBD
-location: Washington, DC
+location: Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY
 gs_level: 15
-salary_min: '142,701'
-salary_max: '170,800'
+salary_min: '144,128'
+salary_max: '172,500'
 org: 'Centers of Excellence'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -48,15 +48,14 @@ supervisory_status: 'NO'
 **Salary Range:**
 The base salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
 
-Please note the maximum salary available for the GS pay system is **$170,800**
+Please note the maximum salary available for the GS pay system is **$172,500**
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2019 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2019/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
 ## Role Summary:
 

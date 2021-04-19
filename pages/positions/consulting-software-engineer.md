@@ -2,16 +2,16 @@
 title: 18F - Consulting Software Engineer (IT Specialist) 
 permalink: /join/consulting-software-engineer/
 state: open
-job_post_type: tts
+job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Consulting Software Engineer (IT Specialist)
 opens:  'November 11, 2020 at 9:00am EDT'
-closes: 'January 8, 2021 at 11:59pm EDT'
+closes: 'May 31, 2021 at 11:59pm EDT'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 15
-salary_min: '126,810'
-salary_max: '170,800'
+salary_min: '128,078'
+salary_max: '172,500'
 org: '18F'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -40,7 +40,6 @@ supervisory_status: 'No'
 {% if page.state != 'upcoming' %}
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **We will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
 
-  **Please note, this is a shared application with the Login.gov DevOps/Site Reliability Engineer (IT Specialist) role. Candidate will fill out one application to be considered for both opportunities.**
 {% endif %}
 
 **Location:**
@@ -53,9 +52,9 @@ Salary to be determined upon selection, depending on duty location.
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a calculator [OPM's 2020 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$170,800** 
+Please note the maximum salary available for the GS pay system is **$172,500** 
 
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 

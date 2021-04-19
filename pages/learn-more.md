@@ -31,9 +31,7 @@ and hiring process will vary slightly based on the type of role for which you ar
 
 **Competitive Service:** Applicants for all competitive service roles must complete the application process at usajobs.gov. Individuals go
 through a competitive hiring process before being selected and
-appointed. This process is open to all applicants. Competitive service
-roles are considered “career roles,” which means they are not limited to
-a specific period of time or term. This hiring process may consist of a
+appointed.  This hiring process may consist of a
 written test, an evaluation of the individual’s education and
 experience, or an evaluation of other attributes necessary for
 successful performance in the position to be filled.
@@ -50,5 +48,4 @@ nationals (residents of American Samoa and Swains Islands) are eligible
 to apply.
 
 For **Excepted Service** roles: All United States citizens and nationals
-(residents of American Samoa and Swains Islands) are eligible to apply,
-and applicants must not be current GSA employees or contractors.
+(residents of American Samoa and Swains Islands) are eligible to apply.
