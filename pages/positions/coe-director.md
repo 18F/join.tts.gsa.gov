@@ -8,7 +8,7 @@ job_post_type: tts
 role_name: Director
 opens: 'TBD'
 closes: 'TBD'
-location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+location: 'Washington, DC'
 gs_level: 'Senior Executive Service'
 salary_min: '132,552' 
 salary_max: '183,300' 
