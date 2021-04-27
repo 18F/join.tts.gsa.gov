@@ -35,7 +35,7 @@ supervisory_status: 'No'
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open for application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration. Unfortunately, we are only able to reach out to those that are selected for interview.****
 {% endif %}
 
 {% if page.state != 'upcoming' %}
