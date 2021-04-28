@@ -42,8 +42,7 @@ supervisory_status: 'NO'
 
 {% if page.state != 'upcoming' %}
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your
-  application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing
-  applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+  application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration. In addition to applying via USAJobs, candidates should also send a copy of their resume to JoinTTS@gsa.gov for consideration.**
 {% endif %}
 
 **Location:**
@@ -224,7 +223,8 @@ Waiver: GSA's senior procurement executive has the discretion to waive any or al
 
 You will be evaluated for this job based on how well you meet the qualifications.
 
-Applications will be evaluated against the basic qualifications. Qualified candidates will be considered in accordance with the Office of Personnel Management Direct Hire Guidelines. Veterans' Preference does not apply to the direct hire recruitment procedures. Certain selections made under this notice will be processed as new appointments to the civil service. Current civil service employees might be given new appointments to the civil service. You may not be considered for the position, if any part of the application is incomplete or missing the required supporting documentation. Falsifying your background, education and/or experience is cause for not hiring you or dismissing you if hired.
+Applications will be evaluated against the basic qualifications. Qualified candidates will be considered in accordance with the Office of Personnel Management Direct Hire Guidelines. Veterans' Preference does not 
+to the direct hire recruitment procedures. Certain selections made under this notice will be processed as new appointments to the civil service. Current civil service employees might be given new appointments to the civil service. You may not be considered for the position, if any part of the application is incomplete or missing the required supporting documentation. Falsifying your background, education and/or experience is cause for not hiring you or dismissing you if hired.
 
 If you are an Interagency Career Transition Assistance Plan eligible or a GSA Career Transition Assistance eligible, you must be considered well qualified to receive priority (ICTAP/CTAP). Well qualified is defined as possession of the majority of competencies required for the position and will be determined, based upon a review of your resume against the competencies required for the position being filled.
 
