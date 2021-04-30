@@ -71,7 +71,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 Contracting Specialists — members of the TTS Office of Acquisition Team — possess two key qualities: excellent judgment and an unflinching belief that federal procurement can be joyful. Applicants for this position must either currently be employed in the 1102 Job Series or be qualified for [placement in this job series](https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/1100/contracting-series-1102/) in compliance with OPM regulations.
 
-Although a technology background isn’t a requirement for this position, it would be very helpful. Lightheartedness and empathy are requirements for this role.
+Although a technology background isn’t a requirement for this position, it would be very helpful. Lightheartedness and empathy are desired for this role.
 
 Contracting Specialists participate in three primary activities within TTS: assisting other agencies with digital-service-related procurements; conducting analyses and evaluations of other agencies’ existing acquisition “stacks” to help identify opportunities to improve results; and working on internal procurements and serving as warranted Contracting Officers (COs) for TTS purchases.
 
