@@ -1,13 +1,13 @@
 ---
 title: 18F - User Experience Designer
 permalink: /join/18f-user-experience-designer/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'User Experience Designer'
-opens: 'TBD'
-closes: 'TBD'
+opens: 'May 5, 2021 at 9:00 am EDT'
+closes: 'May 14, 2021 at 11:59 pm EDT'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
 salary_min: '128,078' 
@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '21FASC255SBDHA'
 pd_job_title: 'Information Technology Specialist (SYSANALYSIS)' 
 num_vacancies: '1'
 series: '2210' 
-apply_url: 'TBD'
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/600207900'
+ohrm_contact_email: 'stephanie.bernstein@gsa.gov'
+ohrm_contact_name: 'Stephanie Bernstein'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
 supervisory_status: 'NO'
@@ -39,7 +39,7 @@ supervisory_status: 'NO'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Unfortunately, we are only able to reach out to candidates who are selected for interview.**
 {% endif %}
 
 **Location:**
@@ -132,7 +132,6 @@ If you are a new federal employee, your starting salary will likely be set at th
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands)
-employees or contractors
 
 **Job announcement number:**
 {{ page.job_announcement_number }}
@@ -204,7 +203,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 2. Suitable for federal employment, determined by a background investigation
 3. You may be required to serve a trial period
 4. Direct Deposit of salary check to financial organization required
-5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+5. Register with Selective Service, if you are required by [https://www.sss.gov/Registration-Info/Who-Registration](https://www.sss.gov/Registration-Info/Who-Registration)
 
 ## Employment Requirements
 
@@ -241,6 +240,24 @@ If you are an Interagency Career Transition Assistance Plan eligible or a GSA Ca
 
 
 {% endif %}
+
+## Evaluation
+
+We will use a method called Category Rating to assess your application.
+
+**Here’s how it will work:**
+
+BASIC REQUIREMENTS:  Have IT-related experience demonstrating EACH of the four competencies listed below:
+
+You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
+
+- **Attention to Detail** - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
+
+- **Customer Service** - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+
+- **Oral Communication** - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
+
+- **Problem Solving** - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate
 
 ## Qualifications
 
