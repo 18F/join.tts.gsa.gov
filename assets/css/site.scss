@@ -21,7 +21,7 @@ h2 {
   margin-top: 3em;
   color: #00567E; }
 
-a:hover, 
+a:hover,
 a:active {
   color: #00567E; }
 
@@ -92,7 +92,7 @@ td {
   max-width: 25rem; }
 
 // Add padding to footer contact links section
-.usa-width-one-half { 
+.usa-width-one-half {
   padding: 1.5rem 0; }
 
 // Add padding to footer twitter icon
@@ -101,4 +101,14 @@ td {
 
 .usa-footer__logo-img {
   max-width: 15rem;
+}
+
+.usa-social-link--linkedin {
+  background-image: url(../img/linkedin.svg), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
+
+.usa-social-link--github {
+  background-image: url(../img/github-dark.svg), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
 }
