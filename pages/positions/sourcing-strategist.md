@@ -190,54 +190,37 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 
 {% if page.state != 'upcoming' %}
 
-## Evaluation
+## Application Evaluation
 
-**The evaluation process for this job is different from a typical job announcement.**
+The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
 
-The technical qualifications for this position will be evaluated by subject matter experts. Apply only if you meet the qualifications.
+1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
+2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
+  - Examples of stuff that can't be used:
+    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
+    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
+    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
 
-**1. Resume review**
-Subject matter experts will review your resume and work item or portfolio sample to determine your technical qualifications for your chosen role(s) based on the required competencies.
+  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
 
-**2. Qualifying interviews**
-If the subject matter experts determine that your resume and portfolio reflect the required competencies, you will have at least one interview to further assess whether your experience meets the required competencies for your chosen role(s).
+{% endif %}  
 
-You may meet with more than one subject matter expert for a determination to be made.
-
-**3. Ranking and preference**
-
-Preference will be applied to applicants who move forward after the qualifying interviews.
-
-Category rating
-
-Qualified candidates will be assigned to one of the following quality categories:
-
-Best Qualified: Candidates in this category possess good skills and experience above the minimum requirements for the announced position.
-
-Well Qualified: Candidates in this category fall in between Best Qualified and Qualified.
-
-Qualified: Candidates in this category meet the minimum experience requirements for the announced position.
-
-Veterans' Preference
-
-Veteran preference eligibles are listed ahead of non-preference eligibles within each quality category. Based upon your category and score, you may be referred to the selecting official.
-
-
-{% endif %}
+{% if page.state != 'upcoming' %}
 
 ## Qualifications
 
-Subject matter experts will evaluate your resume based on these competencies. You must have at least a year demonstrating accomplishment of the duties and competencies described below.
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
+order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
+and following our general guidance on creating federal style resume.
 
-**Customer Service & Communication**: The ability to communicate effectively and manage relationships with candidates and internal stakeholders. 
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience must have been obtained in an information technology environment and is defined as experience: 
 
-**Strategic Problem Solving**: The ability to approach complex problems strategically and solve them creatively. The ability to work with limited supervision and limited resources. 
-
-**Souring Methods for Technical Roles**: The ability to source and engage technical talent, including positions in engineering, design and product management.
-
-**Teamwork & Collaboration**: The ability to work cooperatively with others to accomplish objectives and build inclusive and mutually beneficial partnerships.
-
-**TTS Core Values Alignment**: The ability to work with inclusion, integrity and impact in a large, complex organization or a bureaucratic environment. The ability to be present, transparent, and honest to enable accessible and trustworthy innovation.
+- Creating sourcing strategies for a technology organization’s talent acquisition program 
+- Training and mentoring recruiters on strategic sourcing methods
+- Sourcing candidates for technology positions (software developers, user experience designers, product managers) using advanced Boolean logic search strings and X-Ray search applied to different mediums such as LinkedIn and Twitter
+- Experience developing and implementing sourcing strategies to reach underrepresented candidates in support of organizational DE&I efforts
+- Experience crafting, testing, and iterating on / reformulating compelling candidate outreach messaging 
+- Maintaining sourced candidate data in spreadsheets or a candidate database equivalent. Experience must include reporting out on metrics related to outreach response rates, conversion of passive to active candidate rates, success rate of various candidate sources (i,e. job boards or events) or percentage of sourced candidates that convert to hires
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
