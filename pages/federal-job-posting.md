@@ -90,7 +90,7 @@ GSA employees or GSA contractors are eligible to apply.
 
 **Security clearance:** All government positions require some level of
 background check. Most roles at TTS require a public trust position
-clearance. Learn more in the [Security and Onboarding section](https:/join.tts.gsa.gov/hiring-process/#security-and-onboarding/).
+clearance. Learn more in the [Security and Onboarding section]({% link pages/hiring-process.md %}#security-and-onboarding).
 
 **Work Schedule:** All TTS positions are full time, which equates to 40
 hours per week.
