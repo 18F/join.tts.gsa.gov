@@ -1,11 +1,11 @@
 ---
-title: TTS Talent - Sourcing Strategist
-permalink: /join/sourcing-strategist/
+title: TTS Talent - Talent Acquisition Partner
+permalink: /join/talent-acquisition-partner/
 state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Sourcing Strategist
+role_name: Talent Acquisition Partner
 opens: TBD EDT
 closes: TBD EDT
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
@@ -65,37 +65,36 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-As a Sourcing Strategist on the Talent Team, you will be a critical strategic driver in the Technology Transformation Services’ (TTS) ability to meet its needs, as well as its ability to reflect the diversity of the people we serve. You will build strong pipelines of diverse talent at all levels, from a wide range of disciplines including: design, engineering, product management, business operations and executive leadership. You’ll work closely with hiring managers to implement targeted attraction strategies, and you’ll also ensure that all of the candidates that you engage with have a positive experience. 
+As a Talent Acquisition Partner for the Technology Transformation Service (TTS) Talent Team you will play a key role to source, present and hire mission-driven, forward thinking technology leaders who will influence and affect modernization for the federal government and directly the American people. You’ll 
+be part of a team responsible for full-cycle recruitment for a range of disciplines including: design (UX, product, and content strategy), engineering (back end, full stack, cloud, infrastructure and site reliability), data science/AI, and product management. You’ll partner with hiring managers to drive recruitment strategies, with an emphasis on diversity, equity and inclusion and will ensure that regardless of the hiring outcome, all candidates have a positive experience. 
 
-Talent team members:
-- Work collaboratively to solve hiring challenges within the organization
-- Communicate with hiring managers and candidates with empathy and transparency 
-- Are committed to improving diversity, equity and inclusion within TTS
+As a member of the talent team, you should be comfortable navigating bureaucracy and ambiguous situations.  We are an agile team that deals with shifting priorities, policy changes, and time-sensitive projects, initiatives, and hiring needs which require us to be flexible and comfortable with moving in new directions.  Creative problem solving is at the forefront of our work as we find ways to make traditional recruiting efforts meet the unique needs of our organization, and work within policy constraints to improve our practices and processes.
+
+At TTS, hiring is a community effort and the work of the talent team touches all parts of the organization.  This presents an opportunity for our team members to serve as agents of positive change throughout the organization and build a larger community of practice around hiring.  We are a highly collaborative team that supports the work of each member and engages in consensus-driven decision making.  The talent team recognizes and celebrates the individual strengths and interests of our team members, and constantly seeks opportunities for our team members to grow into subject matter experts. 
 
 ## Key Objectives
 
-### Key objective #1: You'll find highly qualified candidates to meet the hiring needs of technical roles across the organization.
+### Key objective #1: You'll attract highly qualified technical talent to TTS and shepherd them through the hiring process.   
 
-- Work closely with Recruiters and hiring managers to deeply understand requirements of various roles and how they fit into the organization
-- Develop and execute fully comprehensive sourcing plans, analyzing requirements to determine target profile needs and matches
-- Manage sourcing for multiple, complex searches, creating and advising on innovative sourcing strategies
-- Develop inclusive sourcing strategies to target under-represented talent and use innovative sourcing solutions to identify hidden candidate pools
-- Source talent using a variety of tools, including boolean search and maintain a high volume, consistent, and quality pipeline easily shared across talent team
+- Source and engage civic-minded candidates by sharing the story of our people, the work we do, and why it matters
+- Create recruitment strategies to ensure that TTS’s talent pipeline reflects the diversity of the public we serve
+- Act as an ambassador of TTS, representing and delivering our message through information sessions, social media messaging and other forms of passive candidate outreach
+- Create an enjoyable candidate experience: deliver personalized interactions and always ensure that candidates are treated like people, not applications 
 
-### Key objective #2: You’ll engage passive talent in meaningful, authentic ways and will ensure every candidate has a positive experience.
+### Key objective #2: You will develop and institutionalize a comprehensive, equitable, and highly successful recruitment strategy for your discipline. 
 
-- Attract engaged, civic-minded folks and often passive candidates through strategic outreach techniques, communication and social media posts by demonstrating and sharing the story of our people, the work we do, and why it matters 
-- Act as a true ambassador for TTS, representing and delivering our message through one-on-one conversations, on social media channels, written communication and by delivering candidate information sessions
-- Generate high-impact, tailored content for outreach materials, presentations, and communications; find ways to meaningfully connect with candidates
-- Share your passion for the incredible impact that digital solutions, platforms, and products can have on the civic space — and ultimately, on the American public
+- Collaborate with and advise hiring managers on hiring strategies and best practices for matters including creating a pipeline of diverse candidates, implementing equitable screening strategies to reduce (unconscious) bias and navigating the intricacies of Federal hiring authorities. 
+- Maintain a deep knowledge of the technology space by staying curious, following news and trends around emerging technologies
+- Identify gaps and issues with the hiring process by soliciting feedback from both hiring managers and candidates; use this data to develop solutions
+- Work on special projects related to recruiting and the overall hiring experience
+- Advocate for more efficient or equitable improvements to Talent’s processes
+- Diligently maintain our applicant data and find new ways to use that data to inform the decisions we make
 
-### Key objective #3: You’ll develop and build a data-driven approach to creating and improving sourcing processes for the Talent Team.
+### Key objective #3: You will establish trusting relationships with the TTS team and develop a deep understanding of their projects.
 
-- Cultivate deep knowledge of talent, technology and industry trends
-- Diligently maintain sourcing data and track overall effectiveness of sourcing campaigns and relatable metrics
-- Utilize data and metrics to continuously improve your sourcing strategy and approach and to analyze impact
-- Advocate for experimentation and trying new approaches to improve results
-- Teach and mentor Talent Team on sourcing best practices
+- Maintain consistent lines of communication with the Talent team and hiring managers 
+- Establish strong partnerships to build relationships via remote model and genuinely engage with all members of TTS
+- Be the champion of both the candidate and hiring manager experience
 
 
 {% if page.state != 'upcoming' %}
@@ -205,7 +204,6 @@ The information in this sections outlines the criteria that your application wil
 
 {% endif %}  
 
-
 ## Qualifications
 
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
@@ -216,12 +214,11 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 Specialized experience must have been obtained in an information technology environment and is defined as experience: 
 
-- Creating sourcing strategies for a technology organization’s talent acquisition program;
-- Training and mentoring recruiters on strategic sourcing methods;
-- Sourcing candidates for technology positions (software developers, user experience designers, product managers) using advanced Boolean logic search strings and -X-Ray search applied to different mediums such as LinkedIn and Twitter; 
+- Experience developing talent acquisition strategies for filling highly technical positions  (e.g. engineers, product managers, user experience designers) 
+- Sourcing for highly technical candidates (e.g. engineers, product managers, user experience designers) using technical sourcing tools such as Boolean search strings and X-Ray search
 - Experience developing and implementing sourcing strategies to reach underrepresented candidates in support of organizational DE&I efforts;
-- Experience crafting, testing, and iterating on / reformulating compelling candidate outreach messaging:
-- Maintaining sourced candidate data in spreadsheets or a candidate database equivalent. Experience must include reporting out on metrics related to outreach response rates, conversion of passive to active candidate rates, success rate of various candidate sources (i,e. job boards or events) or percentage of sourced candidates that convert to hires
+- Conducting direct recruitment outreach of highly technical positions (e.g. engineers, product managers, user experience designers) via a variety of methods (e.g. networking, email, social media, events, job postings and cold calling); 
+- Able to deliver talent acquisition projects from conception to completion. For example, this may include developing plans and schedules, estimating resource requirements, defining milestones and deliverables, monitoring activities, and evaluating and reporting on accomplishments
 
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
