@@ -8,7 +8,7 @@ job_post_type: usajobs
 role_name: Talent Acquisition Partner
 opens: 'June 14, 2021 at 9:00am EDT'
 closes: 'June 21, 2021 at 11:59pm EDT'
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '13'
 salary_min: '92,143' 
 salary_max: '146,120' 
@@ -27,7 +27,7 @@ ohrm_contact_email: 'Stephanie.Bernstein@gsa.gov'
 ohrm_contact_name: 'Stephanie Bernstein'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '13'
-supervisory_status: 'NO'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
