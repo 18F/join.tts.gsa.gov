@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: https://www.usajobs.gov/GetJob/ViewDetails/603912300
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '21FASC293SBDE'
+pd_job_title: 'Talent Acquisition Specialist' 
+num_vacancies: '1'
+series: '0301' 
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/603912300
+ohrm_contact_email: 'Stephanie Bernstein'
+ohrm_contact_name: 'Stephanie.Bernstein@gsa.gov'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '13' 
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
