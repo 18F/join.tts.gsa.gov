@@ -23,11 +23,11 @@ contact_email: 'jointts@gsa.gov'
 # num_vacancies: 'ENTER NUMBER OF VACANCIES'
 # series: '0301' ENTER SERIES IF DIFFERENT
 # apply_url: https://www.usajobs.gov/GetJob/ViewDetails/604491500
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# ohrm_contact_email: 'Sylvia.Velez-Zuniga@gsa.gov'
+# ohrm_contact_name: 'Sylvia Velez-Zuniga'
 # bargaining_unit: 'Non Bargaining Unit'
 # promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+# supervisory_status:'NO'
 ---
 
 {% if page.state == 'upcoming' %}
