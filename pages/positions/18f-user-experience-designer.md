@@ -1,13 +1,13 @@
 ---
 title: 18F - User Experience Designer (IT Specialist)
 permalink: /join/18f-user-experience-designer/
-state: closed
+state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: 'User Experience Designer (IT Specialist)'
-opens: 'May 5, 2021 at 9:00 am EDT'
-closes: 'May 14, 2021 at 11:59 pm EDT'
+role_name: 'Experience Designer (IT Specialist)'
+opens: 'TBD
+closes: 'TBD'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
 salary_min: '128,078' 
