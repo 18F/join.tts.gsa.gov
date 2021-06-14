@@ -171,14 +171,6 @@ You must submit a supplemental statement that separately addresses the Mandatory
 
 Please see the "Required Documents" section below for complete instructions on the content and format of your application package.
 
-**MANDATORY TECHNICAL COMPETENCY:**
-
-1.  Demonstrated executive level experience in effectively leading a large services organization comprised of a significant number of senior consultants and advisors charged with developing and deploying large scale, mission-enabling IT solutions for multiple customer agencies.  This experience must include:
-
-     - working with senior career executives and/or political leadership, service providers, parent and/or partner organizations, external agency/corporate offices, and other stakeholders to define the strategy, develop offers and approaches that align to the strategy, and deliver on customer and/or stakeholder commitments and
-
-      - hiring, leading and supervising technical staff that focus on IT strategy, program and project management, software development practices, and platforms to implement a modern, efficient and effective technology program.
-
 **EXECUTIVE CORE QUALIFICATIONS (ECQs):**
 
 1.  **Leading Change** - This core qualification involves the ability to bring about strategic change, both within and outside the organization, to meet organizational goals. Inherent to this ECQ is the ability to establish an organizational vision and to implement it in a continuously changing environment.
