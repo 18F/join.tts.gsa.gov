@@ -186,13 +186,6 @@ You must submit a supplemental statement that separately addresses the Mandatory
 
 Please see the "Required Documents" section below for complete instructions on the content and format of your application package.
 
-**MANDATORY TECHNICAL COMPETENCY:**
-
-1. Demonstrated executive-level experience in leading a medium to large digital or technology client, department or organization comprised of senior consultants charged with developing and deploying technology solutions. This experience must include:
-
-- Working with senior-level stakeholders to define the strategy, develop a product using modern software development best practices (product ownership, user-centered design, DevSecOps, iterative development methodologies), and deliver on customer and/or stakeholder needs and
-
-- Hiring, leading and supervising technical staff that focus on IT/digital strategy, product management, software development and platforms to design, develop, buy, and deploy user-centered technological solutions
 
 **EXECUTIVE CORE QUALIFICATIONS (ECQs):**
 
