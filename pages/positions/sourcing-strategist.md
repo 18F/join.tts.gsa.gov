@@ -22,7 +22,7 @@ contact_email: 'jointts@gsa.gov'
 # pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
 # num_vacancies: 'ENTER NUMBER OF VACANCIES'
 # series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/604491500'
+# apply_url: https://www.usajobs.gov/GetJob/ViewDetails/604491500
 # ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
 # ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
 # bargaining_unit: 'Non Bargaining Unit'
