@@ -46,8 +46,8 @@ upcoming positions. Take a look below, and [join our mailing list]({{ site.baseu
 
 We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. You can register for a session using the EventBrite links below.
 
-* TTS Talent Sourcing Specialist and Talent Acquisition Partner info session, [Thursday, June 10th at 1pm PDT/4pm EDT](https://lnkd.in/gHj8WmK)
-* TTS Talent Sourcing Specialist and Talent Acquisition Partner  info session, [Friday, June 11th at 9:30am PDT/12:30pm EDT](https://lnkd.in/gtcnpmq)
+* General Hiring info session, [Tuesday, June 22nd at 9:30am PDT/12:30pm EDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-157984298289)
+
 
 ### Upcoming Positions
 
