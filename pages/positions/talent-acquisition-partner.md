@@ -1,13 +1,13 @@
 ---
 title: TTS Talent - Talent Acquisition Partner
 permalink: /join/talent-acquisition-partner/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Talent Acquisition Partner
-opens: TBD EDT
-closes: TBD EDT
+opens: 'June 14, 2021 at 9:00am EDT'
+closes: 'June 21, 2021 at 11:59pm EDT'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: '13'
 salary_min: '92,143' 
@@ -22,7 +22,7 @@ contact_email: 'jointts@gsa.gov'
 # pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
 # num_vacancies: 'ENTER NUMBER OF VACANCIES'
 # series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
+# apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/603912300'
 # ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
 # ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
 # bargaining_unit: 'Non Bargaining Unit'
