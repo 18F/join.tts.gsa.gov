@@ -8,7 +8,7 @@ job_post_type: usajobs
 role_name: Talent Acquisition Partner
 opens: 'June 14, 2021 at 9:00am EDT'
 closes: 'June 21, 2021 at 11:59pm EDT'
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '13'
 salary_min: '92,143' 
 salary_max: '146,120' 
@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: https://www.usajobs.gov/GetJob/ViewDetails/603912300
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '21FASC293SBDE'
+pd_job_title: 'Innovation Specialist'
+num_vacancies: '2'
+series: '0301'
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/603912300
+ohrm_contact_email: 'Stephanie.Bernstein@gsa.gov'
+ohrm_contact_name: 'Stephanie Bernstein'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '13'
+supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}

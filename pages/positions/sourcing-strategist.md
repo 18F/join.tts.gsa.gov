@@ -8,7 +8,7 @@ job_post_type: usajobs
 role_name: Sourcing Strategist
 opens: 'June 14, 2021 at 9:00am EDT'
 closes: 'June 21, 2021 at 11:59pm EDT'
-location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
+location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY;'
 gs_level: '13'
 salary_min: '92,143' 
 salary_max: '146,120' 
@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: https://www.usajobs.gov/GetJob/ViewDetails/604491500
-# ohrm_contact_email: 'Sylvia.Velez-Zuniga@gsa.gov'
-# ohrm_contact_name: 'Sylvia Velez-Zuniga'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status:'NO'
+job_announcement_number: '21FASC273SVGDE'
+pd_job_title: 'Innovation Specialist' 
+num_vacancies: '1'
+series: '0301' 
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/604491500
+ohrm_contact_email: 'Sylvia.Velez-Zuniga@gsa.gov'
+ohrm_contact_name: 'Sylvia Velez-Zuniga'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '13'
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
