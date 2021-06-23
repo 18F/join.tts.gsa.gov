@@ -1,7 +1,7 @@
 ---
 title: TTS Talent - Sourcing Strategist
 permalink: /join/sourcing-strategist/
-state: open
+state: closed
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
