@@ -3,6 +3,16 @@ title: 18F - Director
 permalink: /join/executive-director/
 state: upcoming
 job_post_type: tts
+info_sessions:
+  - link: https://www.eventbrite.com/e/tts-info-session-18f-director-tickets-160977821999
+    date: Wednesday, July 7
+    time: 6am PDT / 9am EDT
+  - link: https://www.eventbrite.com/e/tts-info-session-18f-director-tickets-160989813867
+    date: Monday, July 12
+    time: 9am PDT / 12pm EDT
+  - link: https://www.eventbrite.com/e/tts-info-session-18f-director-tickets-160990229109
+    date: Wednesday, July 14
+    time: 2pm PDT / 5pm EDT
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Director'
