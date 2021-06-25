@@ -55,6 +55,11 @@ We hold periodic info sessions to offer potential candidates an opportunity to l
 {% if pg.state == 'upcoming' %}
 {% unless pg.path contains 'template'  %}
 * [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }})
+{% if pg.info_sessions %}
+{% for session in pg.info_sessions %}
+    * {{ pg.title }} info session, [{{ session.date }}, at {{ session.time }}]({{ session.link }})
+{% endfor %}
+{% endif %}
 {% endunless %}
 {% endif %}
 {% endfor %}
