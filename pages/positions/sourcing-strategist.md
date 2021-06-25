@@ -27,7 +27,7 @@ ohrm_contact_email: 'Sylvia.Velez-Zuniga@gsa.gov'
 ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '13'
-supervisory_status: 'No'
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
