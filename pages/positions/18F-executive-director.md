@@ -188,11 +188,11 @@ To preview questions [please click here](https://jobs.monstergovt.com/gsa/vacanc
 
 ## Qualifications
 
-All applicants must meet the Mandatory Technical and Executive Core Qualification requirements listed below to be eligible for consideration. Eligibility will be based on a clear demonstration that the applicant's training and experience are of the scope, quality and level of responsibility sufficient to successfully perform the duties and responsibilities of this executive position.
+All applicants must meet the Mandatory Technical Competency (MTC) and Executive Core Qualification requirements listed below to be eligible for consideration. Eligibility will be based on a clear demonstration that the applicant's training and experience are of the scope, quality and level of responsibility sufficient to successfully perform the duties and responsibilities of this executive position.
 
 Your resume must show possession of the Executive Core Qualifications (ECQs) listed below but must not address the ECQs through separate narrative responses.
 
-You must submit a supplemental statement that separately addresses the Mandatory Technical Competency (MTC) listed below.  Your resume should also corroborate your possession of the MTC. Your application will not be considered if you fail to submit this supplemental statement.
+You must submit a supplemental statement that separately addresses the Mandatory Technical Competency (MTC) listed below.  Your resume should also corroborate your possession of the MTC. Your application will not be considered if you fail to submit this supplemental statement. Please note, the MTC can't be shared in advance of the job announcement going live. All candidates will be able to read the MTC on the official job announcement. 
 
 Please see the "Required Documents" section below for complete instructions on the content and format of your application package.
 
