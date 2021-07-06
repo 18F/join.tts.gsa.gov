@@ -192,7 +192,7 @@ All applicants must meet the Mandatory Technical Competency (MTC) and Executive 
 
 Your resume must show possession of the Executive Core Qualifications (ECQs) listed below but must not address the ECQs through separate narrative responses.
 
-You must submit a supplemental statement that separately addresses the Mandatory Technical Competency (MTC) listed below.  Your resume should also corroborate your possession of the MTC. Your application will not be considered if you fail to submit this supplemental statement. Please note, the MTC can't be shared in advance of the job announcement going live. All candidates will be able to read the MTC on the official job announcement. 
+You must submit a supplemental statement that separately addresses the Mandatory Technical Competency (MTC).  Your resume should also corroborate your possession of the MTC. Your application will not be considered if you fail to submit this supplemental statement. Please note, the MTC can't be shared in advance of the job announcement going live. All candidates will be able to read the MTC on the official job announcement. 
 
 Please see the "Required Documents" section below for complete instructions on the content and format of your application package.
 
@@ -215,7 +215,7 @@ For guidance on how to address the ECQ's in the context of your resume, please r
 
 Please review the following information to determine which documents you must submit in order to complete your application.
 
-All applicants must submit a resume (not to exceed 5 pages, including optional cover letter) which demonstrates your experience, accomplishments, training, education and awards, indicating possession of the Executive Core Qualifications (ECQs) listed in this announcement. But​, ​your resume must not address the ECQs in separate narrative responses. Your resume should corroborate your possession of the Mandatory Technical Competencies (MTCs) listed in this announcement, which you must address separately in a supplemental statement as described below.
+All applicants must submit a resume (not to exceed 5 pages, including optional cover letter) which demonstrates your experience, accomplishments, training, education and awards, indicating possession of the Executive Core Qualifications (ECQs) listed in this announcement. But​, ​your resume must not address the ECQs in separate narrative responses. Your resume should corroborate your possession of the Mandatory Technical Competencies (MTCs) listed in the open job announcement, which you must address separately in a supplemental statement as described below.
 
 Information beyond the five page resume and the supplemental MTC statement will not be evaluated.  Therefore, please do not submit letters of recommendation, award certificates, diplomas, college transcripts, training certificates (except certificates of completion from an OPM-approved SES Candidate Development Program - SES CDP), or any other documents not specifically requested in the "Required Documents" section. Any awards, training, or education you wish to highlight should simply be listed in your resume. 
 
