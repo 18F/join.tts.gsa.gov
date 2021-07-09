@@ -16,8 +16,8 @@ info_sessions:
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: 'Director'
-opens: 'TBD'
-closes: 'TBD'
+opens: 'July 19, 2021 at 9:00am EDT'
+closes: 'August 2, 2021 at 11:59pm EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: 'Senior Executive Service'
 salary_min: '132,552' 
