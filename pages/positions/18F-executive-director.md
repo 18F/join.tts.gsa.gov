@@ -223,7 +223,7 @@ In addition, please do not submit:  (1) the Optional Application for Federal Emp
 
 All applicants must submit a supplemental statement that separately addresses the one MTC listed in this announcement. Your supplemental statement must be restricted to no more than two pages in total for the one MTC listed in this announcement. Information beyond two pages for the MTC will not be evaluated. YOUR APPLICATION WILL NOT BE CONSIDERED IF YOU FAIL TO SUBMIT THIS SUPPLEMENTAL STATEMENT.
 
-SES NON-COMPETITVE APPLICANTS: Proof of SES non-competitive eligibility is required. Proof consists of:
+SES NON-COMPETITIVE APPLICANTS: Proof of SES non-competitive eligibility is required. Proof consists of:
 
 (1) an SF-50 showing your status as a:
 
