@@ -46,7 +46,7 @@ upcoming positions. Take a look below, and [join our mailing list]({{ site.baseu
 
 We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. You can register for a session using the EventBrite links below.
 
-* General Hiring info session, [Thursday, July 22nd at 9:30am PDT/12:30pm EDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-160991077647)
+* General Hiring info session, [Thursday, August 26 at 9:30am PDT/12:30pm EDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-165014612147)
 
 
 ### Upcoming Positions
