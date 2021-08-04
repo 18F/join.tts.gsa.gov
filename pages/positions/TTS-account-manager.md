@@ -10,8 +10,10 @@ role_name: Account manager / Project coordinator
 closes: XXX
 location: We have office locations in Washington DC,  San Francisco, Chicago, and New York. We also offer virtual opportunities.
 gs_level: 15
-salary_min: GS-15 Step 1 - $128,078
-salary_max: GS-15 Step 10 - $172,500
+min_step: Step 1
+max_step: Step 10
+salary_min: $128,078
+salary_max: $172,500
 org: 'Technology Transformation Services (TTS)'
 # contact_name: 'TTS Talent Team'
 # contact_email: 'jointts@gsa.gov'
@@ -48,6 +50,19 @@ org: 'Technology Transformation Services (TTS)'
 {% endif %}
 ## Opportunity overview
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). TTS applies modern methodologies and technologies to improve the public’s experience with government. We help agencies make their services more accessible, efficient, and effective.
+
+Account managers / Project coordinators:
+
+ - Focus on delivering customer or partner success. 
+ - Create and cultivate strong partnerships with TTS government partners. 
+ - Own significant parts of the engagement or business development / sales cycle.
+ - Drive adoption of TTS services.
+ - Oversee and advise on project delivery.
+
+# TTS teams hiring for this role
+Several teams within TTS are hiring for this role. The links below provide more specific descriptions of these opportunities. **Candidates will submit one application to be considered for all open Account manager / Project coordinator roles within TTS.**
+
+<!-- INSERT loop of all performance descriptions once created -->
 
 <!-- **Location:**
 {{ page.location }}
@@ -124,21 +139,35 @@ This role may be perfect for you if you have the technical skills to tackle engi
 {{ page.location }}
 
 **Salary Range:**
-The salary range for this position is:{{ page.gs_level }} - {{ page.salary_min }} to {{ page.salary_max }}
+The salary range for this position is: GS-{{ page.gs_level }} {{ page.min_step}} - {{ page.salary_min }} to GS-{{ page.gs_level }} {{ page.max_step}} - {{ page.salary_max }}
 
-Salary will be determined upon selection, depending on duty location. For specific details on locality pay, visit ['OPM’s Salaries & Wages page']() or ['OPM’s 2021 General Schedule (GS) salary calculator']().
+Salary will be determined upon selection, depending on duty location. For specific details on locality pay, visit [OPM’s Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or [OPM’s 2021 General Schedule (GS) salary calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
 The current maximum salary available for the GS pay system is **{{ page.salary_max }}**. However, you may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
  
-Find more information in the compensation and benefits section on our site.
+Find more information in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
 <!-- If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/). -->
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands).
 
-**Job announcement number:**
+**Travel requirement:**
+Occasional travel may be required up to 10%-20% per year
+
+**Security clearance:**
+Public trust. Background investigation required.
+
+**Work Schedule:**
+Full time
+
+**Appointment type:**
+Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date. 
+
+**Employee benefits:**
+[Learn more about the benefits we offer](https://join.tts.gsa.gov/compensation-and-benefits/).
+
+<!-- **Job announcement number:**
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
@@ -157,21 +186,9 @@ GS-{{ page.promotion_potential }}
 {{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
 
 **Supervisory status:**
-{{ page.supervisory_status }}
+{{ page.supervisory_status }} -->
 
-**Travel requirement:**
-Occasional travel may be required up to 10%-20% per year
-
-**Security clearance:**
-Public trust. Background investigation required.
-
-**Work Schedule:**
-Full time
-
-**Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
-  
-## Job Summary
+<!-- ## Job Summary
   
 This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
 
@@ -255,17 +272,16 @@ If your resume does not support your possession of the competencies listed above
 
 Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
 
-{% endif %}
+{% endif %} -->
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
+To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. **Specialized experience for this role is defined as:**
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+ - Managing client or partner relationships.
+ - Driving growth for a program, product, platform, or service, including managing projects to accomplish sales targets or organizational business objectives. 
 
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
+<!-- 1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a cross-functional team. This experience must include **ONE** of the following:
 - Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
 - Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
 - Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
@@ -280,9 +296,11 @@ To qualify for this role, you must have one year of specialized experience equiv
 - Developing digital applications using Platform-as-a-Service (PaaS)
 - Developing digital applications using containerization technologies
 - Developing digital applications using configuration management tools
-- Developing digital applications using infrastructure automation tooling
+- Developing digital applications using infrastructure automation tooling -->
 
-Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
+Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our guidance on creating a federal style resume.
+
+Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
 
 For each job on your resume, provide:
 
