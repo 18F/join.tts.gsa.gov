@@ -3,10 +3,11 @@ title: Technology Transformation Services (TTS) - Account manager / Project coor
 permalink: /join/account-manager/
 state: open
 job_post_type: tts
+layout: job_apply_short
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Account manager / Project coordinator
-# opens: MONTH DAY, YEAR, TIME EDT
+opens: XXX
 closes: XXX
 location: We have office locations in Washington DC,  San Francisco, Chicago, and New York. We also offer virtual opportunities.
 gs_level: 15
@@ -20,10 +21,10 @@ org: 'Technology Transformation Services (TTS)'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+job_announcement_number: XXXX
+pd_job_title: IT Specialist (SYSANALYSIS)
 # num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
+series: 2210-15
 # apply_url: APPLICATION URL
 # ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
 # ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
@@ -59,7 +60,7 @@ Account managers / Project coordinators:
  - Drive adoption of TTS services.
  - Oversee and advise on project delivery.
 
-# TTS teams hiring for this role
+## TTS teams hiring for this role
 Several teams within TTS are hiring for this role. The links below provide more specific descriptions of these opportunities. **Candidates will submit one application to be considered for all open Account manager / Project coordinator roles within TTS.**
 
 <!-- INSERT loop of all performance descriptions once created -->

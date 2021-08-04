@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+<div class="usa-width-two-thirds">
+  {% if page.state == "closed" %}
+  <div class="usa-alert usa-alert-warning">
+    <div class="usa-alert-body">
+      <h3 class="usa-alert-heading">This job posting has closed.</h3>
+      <p class="usa-alert-text">Please see
+        <a href="{{site.baseurl}}/#open-positions">our other open positions</a>.</p>
+    </div>
+  </div>
+  {% elsif page.state == 'upcoming' %}
+  <div class="usa-alert usa-alert-info">
+    <div class="usa-alert-body">
+      <h3 class="usa-alert-heading">Upcoming role</h3>
+      <p class="usa-alert-text">This role is not yet open for application. {% include upcoming_statement.html %}</p>
+    </div>
+  </div>
+  {% elsif page.state == 'open' %}
+  <div class="usa-alert usa-alert-info">
+    <div class="usa-alert-body">
+      <h3 class="usa-alert-heading">Apply now!</h3>
+      <p class="usa-alert-text">This role is open for applications until {{ page.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }} EDT.</p>
+    </div>
+  </div>
+  {% endif %}
+
+  {{ content }}
+
+  {% capture apply %}{% include how_to_apply_short.md %}{% endcapture %}
+  {{ apply | markdownify }}
+
+</div>
