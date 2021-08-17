@@ -5,9 +5,9 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # job_post_type: ENTER TYPE HERE (tts or usajobs)
 # related_performance_profiles:
 #  - name: NAME OF PERFORMANCE PROFILE
-#    permalink: /join/ENTER PERFORMANCE PROFILE PAGENAME HERE
+#    link: /join/ENTER PERFORMANCE PROFILE PAGENAME HERE
 #  - name: (repeat as necessary)
-#    permalink: (repeat as necessary)
+#    link: (repeat as necessary)
 # info_sessions:
 #  - text: TEXT FOR INFO SESSION LINK
 #    link: EVENTBRITE LINK
@@ -39,7 +39,19 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
 # supervisory_status: 'YES' or 'NO'
 ---
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. *Several units within {{ page.org }} are hiring for this role.* This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. *When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.*
+{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
+  {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
+  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+  {% endif %}
+  
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
+  learn more about the application process. 
+{% endif %}
+
+{% if page.state != 'upcoming' %}
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
+{% endif %}
 
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})

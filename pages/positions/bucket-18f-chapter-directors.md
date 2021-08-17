@@ -5,11 +5,11 @@ state: upcoming
 job_post_type: usajobs
 related_performance_profiles:
   - name: '18F Design Director'
-    permalink: /join/wtf-goes-here-i-hate-jekyll
+    link: /join/wtf-goes-here-i-hate-jekyll
   - name: '18F Product Director'
-    permalink: /join/wtf-goes-here-i-hate-jekyll
+    link: /join/performance-profiles/18f-product-director/
   - name: '18F Account Management Director'
-    permalink: /join/wtf-goes-here-i-hate-jekyll
+    link: /join/wtf-goes-here-i-hate-jekyll
 info_sessions:
   - text: Info session 1
     link: eventbrite
@@ -41,7 +41,19 @@ contact_email: 'jointts@gsa.gov'
 # promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
 # supervisory_status: 'YES' or 'NO'
 ---
+{% if page.state == 'upcoming' %}
+{{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
+  {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
+  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+  {% endif %}
+  
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
+  learn more about the application process. 
+{% endif %}
+
+{% if page.state != 'upcoming' %}
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
+{% endif %}
 
 ## Attend an information session
 Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.
@@ -71,7 +83,7 @@ Chapter Directors:
 **There are several {{ page.org }} teams hiring for this role.** The links below provide more specific descriptions of these opportunities. Candidates will submit one application and will indicate which position(s) they want to be considered for. 
 
 {% for profile in page.related_performance_profiles %}
-  - [{{profile.name}}]({{profile.permalink}})
+  - [{{profile.name}}]({{profile.link}})
 {% endfor %}
 
 Once applications are reviewed, hiring teams will identify candidates that they are interested in interviewing. We will then follow up with candidates to discuss their interest in the role(s). Candidates may interview for roles with multiple teams.
@@ -137,3 +149,18 @@ For each job on your resume, provide:
 
 ## How to apply
 We will be accepting applications through the Public Notice on USAJOBS.
+
+{% if page.job_announcement_number %}
+**Job announcement number:**
+{{ page.job_announcement_number }}
+{% endif %}
+
+{% if page.series %}
+**Series and grade:**
+{{ page.series }} - {{ page.gs_level }}
+{% endif %}
+
+{% if page.opens %}
+**Opening and closing period for this job application**
+{{ page.opens }} to {{ page.closes }}
+{% endif %}
