@@ -29,12 +29,14 @@ upcoming positions. Take a look below, and [join our mailing list]({{ site.baseu
 
 {% for pg in sortedpages %}
 {% if pg.state == 'open' %}
-{% unless pg.path contains 'template'  %}
+{% unless pg.path contains 'template' %}
+{% unless pg.path contains 'performance-profiles' %}
 * [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }}) (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
 {% endunless %}
 {% elsif pg.state == 'usajobs' %}
 {% unless pg.path contains 'template'  %}
 * [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }}) (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
+{% endunless %}
 {% endunless %}
 {% endif %}
 {% endfor %}
@@ -53,13 +55,15 @@ We hold periodic info sessions to offer potential candidates an opportunity to l
 
 {% for pg in sortedpages %}
 {% if pg.state == 'upcoming' %}
-{% unless pg.path contains 'template'  %}
+{% unless pg.path contains 'template' %}
+{% unless pg.path contains 'performance-profiles' %}
 * [{{ pg.title }}]({{ site.baseurl }}{{ pg.permalink }})
 {% if pg.info_sessions %}
 {% for session in pg.info_sessions %}
     * {{ pg.title }} info session, [{{ session.date }}, at {{ session.time }}]({{ session.link }})
 {% endfor %}
 {% endif %}
+{% endunless %}
 {% endunless %}
 {% endif %}
 {% endfor %}
