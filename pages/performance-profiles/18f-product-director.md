@@ -19,28 +19,16 @@ info_sessions:
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter director
-# opens: MONTH DAY, YEAR, TIME EDT
-# closes: MONTH DAY, YEAR, TIME EDT
-# location: ENTER LOCATIONS - 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: '15'
-# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
-# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
 org: 18F
-# contact_name: 'TTS Talent Team'
-# contact_email: 'jointts@gsa.gov'
 ---
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
-  {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
-  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
-  {% endif %}
-  
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
-  learn more about the application process. 
+{{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles. If you'd like to be
+  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). More details are available on [the main {{ page.related_position.name }} posting]({{ page.related_position.link }}).
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other 18F chapter director positions.]({{ related_position.link }})
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{ page.related_position.link }})
 {% endif %}
 
 
