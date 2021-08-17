@@ -13,8 +13,12 @@ related_performance_profiles:
 info_sessions:
   - text: Info session 1
     link: eventbrite
+    date: xx
+    time: xx
   - text: Info session 2
     link: eventbrite
+    date: xx
+    time: xx
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter Director

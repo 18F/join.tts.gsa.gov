@@ -11,8 +11,12 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # info_sessions:
 #  - text: TEXT FOR INFO SESSION LINK
 #    link: EVENTBRITE LINK
+#    date: ENTER DATE
+#    time: ENTER TIME
 #  - text: (repeat as necessary)
 #    link: (repeat as necessary)
+#    date: (repeat as necessary)
+#    time: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 # role_name: ENTER THE NAME OF THE ROLE HERE (Without Org)
