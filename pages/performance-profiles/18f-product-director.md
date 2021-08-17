@@ -8,9 +8,9 @@ related_position:
   - link: /join/bucket-18f-chapter-directors
 related_performance_profiles:
   - name: '18F Design Director'
-    link: /join/wtf-goes-here-i-hate-jekyll
+    link: /join/performance-profiles/18f-design-director/
   - name: '18F Account Management Director'
-    link: /join/wtf-goes-here-i-hate-jekyll
+    link: /join/performance-profiles/18f-account-management-director/
 info_sessions:
   - text: Info session 1
     link: eventbrite
@@ -30,7 +30,6 @@ org: 18F
 {% if page.state != 'upcoming' %}
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{ page.related_position.link }})
 {% endif %}
-
 
 ## Attend an information session
 Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.

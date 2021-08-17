@@ -5,11 +5,11 @@ state: upcoming
 job_post_type: usajobs
 related_performance_profiles:
   - name: '18F Design Director'
-    link: /join/wtf-goes-here-i-hate-jekyll
+    link: /join/performance-profiles/18f-design-director/
   - name: '18F Product Director'
     link: /join/performance-profiles/18f-product-director/
   - name: '18F Account Management Director'
-    link: /join/wtf-goes-here-i-hate-jekyll
+    link: /join/performance-profiles/18f-account-management-director/
 info_sessions:
   - text: Info session 1
     link: eventbrite
