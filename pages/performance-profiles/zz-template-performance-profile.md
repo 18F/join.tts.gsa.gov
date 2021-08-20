@@ -3,9 +3,8 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # permalink: /join/performance-profiles/ENTER ROLE TITLE HERE/
 # state: ENTER STATE HERE (open, closed, upcoming)
 # job_post_type: ENTER TYPE HERE (tts or usajobs)
-# related_position:
-# - name: ENTER NAME OF OVERARCHING POSITION HERE
-#   link: /join/ENTER POSITION LINK HERE
+# parent_position_name: ENTER NAME OF OVERARCHING POSITION HERE
+# parent_position_link: /join/ENTER POSITION LINK HERE
 # related_performance_profiles:
 #  - name: NAME OF PERFORMANCE PROFILE
 #    link: /join/ENTER PERFORMANCE PROFILE PAGENAME HERE
@@ -24,11 +23,11 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles. If you'd like to be
-  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). More details are available on [the main {{ page.related_position.name }} posting]({{ page.related_position.link }}).
+  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). More details are available on [the main {{ page.parent_position_name }} posting]({{ page.parent_position_link }}).
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{ page.related_position.link }})
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{ page.parent_position_link }})
 {% endif %}
 
 ## Attend an information session

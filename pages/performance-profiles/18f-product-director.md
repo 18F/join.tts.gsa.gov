@@ -3,9 +3,8 @@ title: 18F Product director
 permalink: /join/performance-profiles/18f-product-director/
 state: upcoming
 job_post_type: usajobs
-related_position:
-  - name: 18F Chapter director
-  - link: /join/bucket-18f-chapter-directors
+parent_position_name: 18F Chapter director
+parent_position_link: /join/bucket-18f-chapter-directors
 related_performance_profiles:
   - name: '18F Design Director'
     link: /join/performance-profiles/18f-design-director/
@@ -24,11 +23,11 @@ org: 18F
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles. If you'd like to be
-  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). More details are available on [the main {{ page.related_position.name }} posting]({{ page.related_position.link }}).
+  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). More details are available on [the main {{ page.parent_position_name }} posting]({{ page.parent_position_link }}).
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{ page.related_position.link }})
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{ page.parent_position_link }})
 {% endif %}
 
 ## Attend an information session

@@ -1,5 +1,5 @@
 ---
-title: 18F Chapter Director 
+title: 18F Chapter Directors 
 permalink: /join/bucket-18f-chapter-directors/
 state: upcoming
 job_post_type: usajobs
@@ -56,7 +56,7 @@ contact_email: 'jointts@gsa.gov'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
 
 ## Attend an information session
@@ -71,16 +71,16 @@ Attend an information session to learn more about these roles, working at {{ pag
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS), Office of 18F. 18F helps other government agencies build, buy, and share technology products. 
 18F envisions a country whose government consistently offers digital services that instill pride and trust, meet user needs, are secure, and are delivered quickly and at reasonable cost.
 
-18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. Through our work together, we also aim to strengthen government technology practices in ways that last beyond our formal partnerships. We effect change by practicing user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open.
+18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. Through our work together, we aim to strengthen government technology practices in ways that last beyond our formal partnerships. We effect change by practicing user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open.
 
-The 18F Chapter Directors XXX. This is a great opportunity for you if you genuinely care about people and creating great outcomes for agencies in support of delivering value to our partners, stakeholders, and the American public. 
+The 18F Chapter Directors set the vision in their discipline to support improving government services for all who need them, and to help the civil servants who deliver those services.
 
 Chapter Directors:
-- Focus on delivering customer or partner success. 
-- Create and cultivate strong partnerships with TTS government partners. 
-- Own significant parts of the engagement or business development / sales cycle.
-- Drive adoption of TTS services.
-- Oversee and advise on project delivery. 
+- Support growth of their teams’ ability to deliver partner success
+- Help deliver partner success 
+- Create and cultivate strong partnerships with TTS government partners
+- Own significant parts of the engagement or business development / sales cycle
+- Oversee and advise on project delivery
 
 ## {{ page.org }} teams hiring for this role
 
