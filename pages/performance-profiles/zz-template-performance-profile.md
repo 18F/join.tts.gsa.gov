@@ -23,11 +23,11 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles. If you'd like to be
-  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). More details are available on [the main {{ page.parent_position_name }} posting]({{ page.parent_position_link }}).
+  notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter). More details are available on [the main {{ page.parent_position_name }} posting]({{site.baseurl}}{{ page.parent_position_link }}).
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{ page.parent_position_link }})
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{site.baseurl}}{{ page.parent_position_link }})
 {% endif %}
 
 ## Attend an information session
@@ -57,7 +57,7 @@ ENTER ROLE SUMMARY HERE
 
 The links below provide descriptions specific to each {{ page.org }} team. When the role is posted and open for application on USAJobs, you can indicate which team(s) you’re interested in.
 {% for profile in page.related_performance_profiles %}
-  - [{{profile.name}}]({{profile.permalink}})
+  - [{{profile.name}}]{{site.baseurl}}({{profile.link}})
 {% endfor %}
 
 ## Preparing to apply

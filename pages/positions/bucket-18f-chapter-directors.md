@@ -87,7 +87,7 @@ Chapter Directors:
 **There are several {{ page.org }} teams hiring for this role.** The links below provide more specific descriptions of these opportunities. Candidates will submit one application and will indicate which position(s) they want to be considered for. 
 
 {% for profile in page.related_performance_profiles %}
-  - [{{profile.name}}]({{profile.link}})
+  - [{{profile.name}}]{{site.baseurl}}({{profile.link}})
 {% endfor %}
 
 Once applications are reviewed, hiring teams will identify candidates that they are interested in interviewing. We will then follow up with candidates to discuss their interest in the role(s). Candidates may interview for roles with multiple teams.
