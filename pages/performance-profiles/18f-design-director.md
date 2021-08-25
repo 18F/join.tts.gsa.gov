@@ -25,10 +25,10 @@ org: 18F
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{site.baseurl}}{{ page.parent_position_link}})
 {% endif %}
 
+{% if page.info_sessions %}
 ## Attend an information session
 Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.
 
-{% if page.info_sessions %}
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
@@ -87,8 +87,8 @@ The links below provide descriptions specific to each {{ page.org }} team. When 
 
 This Join TTS site has information about [the application process](https://join.tts.gsa.gov/hiring-process/) and [how to prepare a government-style resume](https://join.tts.gsa.gov/resume/).
 
-### Attend an information session
 {% if page.info_sessions %}
+### Attend an information session
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
