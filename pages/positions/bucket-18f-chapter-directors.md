@@ -10,15 +10,6 @@ related_performance_profiles:
     link: /join/performance-profiles/18f-product-director/
   - name: '18F Account Management Director'
     link: /join/performance-profiles/18f-account-management-director/
-info_sessions:
-  - text: Info session 1
-    link: eventbrite
-    date: xx
-    time: xx
-  - text: Info session 2
-    link: eventbrite
-    date: xx
-    time: xx
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter Director
@@ -61,11 +52,11 @@ contact_email: 'jointts@gsa.gov'
 
 ## Attend an information session
 Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.
-
+{% if page.info_sessions %}
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
-
+{% endif %}
 ## Opportunity overview
 
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS), Office of 18F. 18F helps other government agencies build, buy, and share technology products. 
@@ -73,7 +64,7 @@ These opportunities are located in the General Services Administration (GSA), Fe
 
 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. Through our work together, we aim to strengthen government technology practices in ways that last beyond our formal partnerships. We effect change by practicing user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open.
 
-The 18F Chapter Directors set the vision in their discipline to support improving government services for all who need them, and to help the civil servants who deliver those services.
+18F Chapter Directors set the vision in their discipline to support improving government services for all who need them, and to help the civil servants who deliver those services.
 
 Chapter Directors:
 - Support growth of their teams’ ability to deliver partner success

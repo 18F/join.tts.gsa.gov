@@ -10,11 +10,6 @@ related_performance_profiles:
     link: /join/performance-profiles/18f-product-director/
   - name: '18F Account Management Director'
     link: /join/performance-profiles/18f-account-management-director/
-info_sessions:
-  - text: Info session 1
-    link: eventbrite
-  - text: Info session 2
-    link: eventbrite
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter director
@@ -33,9 +28,11 @@ org: 18F
 ## Attend an information session
 Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.
 
+{% if page.info_sessions %}
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
+{% endif %}
 
 ## Role summary
 
@@ -91,7 +88,8 @@ The links below provide descriptions specific to each {{ page.org }} team. When 
 This Join TTS site has information about [the application process](https://join.tts.gsa.gov/hiring-process/) and [how to prepare a government-style resume](https://join.tts.gsa.gov/resume/).
 
 ### Attend an information session
-
+{% if page.info_sessions %}
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
+{% endif %}
