@@ -31,11 +31,15 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% endif %}
 
 ## Attend an information session
-Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.
-
+Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. 
+{% if page.info_sessions %}
+Register for a session using the Eventbrite links below.
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
+{% else %}
+These sessions are not yet scheduled. We'll post dates and registration links here soon.
+{% endif %}
 
 ## Role summary
 

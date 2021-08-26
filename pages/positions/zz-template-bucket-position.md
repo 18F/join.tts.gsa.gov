@@ -56,10 +56,11 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% if page.state != 'upcoming' %}
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
-
+{% if page.info_sessions %}
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
+{% endif %}
 
 ## Opportunity overview
 

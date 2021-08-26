@@ -13,12 +13,12 @@ related_performance_profiles:
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter Director
-opens: TBD
-closes: TBD
+opens: tbd
+closes: tbd
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
-salary_min: XXX,XXX
-salary_max: XXX,XXX
+salary_min: 128,078
+salary_max: 172,500
 org: 18F
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -40,9 +40,10 @@ contact_email: 'jointts@gsa.gov'
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
   {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
   notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+  {% else %} 
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. 
   {% endif %}
-  
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
+  Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process. 
 {% endif %}
 
@@ -50,13 +51,17 @@ contact_email: 'jointts@gsa.gov'
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
 
-{% if page.info_sessions %}
 ## Attend an information session
-Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.
+Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. 
+{% if page.info_sessions %}
+Register for a session using the Eventbrite links below.
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
+{% else %}
+These sessions are not yet scheduled. We'll post dates and registration links here soon.
 {% endif %}
+
 ## Opportunity overview
 
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS), Office of 18F. 18F helps other government agencies build, buy, and share technology products. 
@@ -75,7 +80,7 @@ Chapter Directors:
 
 ## {{ page.org }} teams hiring for this role
 
-**There are several {{ page.org }} teams hiring for this role.** The links below provide more specific descriptions of these opportunities. Candidates will submit one application and will indicate which position(s) they want to be considered for. 
+**There are several {{ page.org }} teams hiring for this role.** The links below provide more specific descriptions of these opportunities. 
 
 {% for profile in page.related_performance_profiles %}
   - [{{profile.name}}]({{site.baseurl}}{{profile.link}})
@@ -142,9 +147,6 @@ For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
 
-## How to apply
-We will be accepting applications through the Public Notice on USAJOBS.
-
 {% if page.job_announcement_number %}
 **Job announcement number:**
 {{ page.job_announcement_number }}
@@ -155,7 +157,12 @@ We will be accepting applications through the Public Notice on USAJOBS.
 {{ page.series }} - {{ page.gs_level }}
 {% endif %}
 
-{% if page.opens %}
+{% if page.opens == 'tbd' %}
+**Opening and closing period for this job application**
+
+The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
+notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
+{% else %}
 **Opening and closing period for this job application**
 {{ page.opens }} to {{ page.closes }}
 {% endif %}

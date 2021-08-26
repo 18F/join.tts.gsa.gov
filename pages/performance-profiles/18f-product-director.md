@@ -25,13 +25,15 @@ org: 18F
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]{{site.baseurl}}({{ page.parent_position_link }})
 {% endif %}
 
-{% if page.info_sessions %}
 ## Attend an information session
-Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. Register for a session using the Eventbrite links below.
-
+Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. 
+{% if page.info_sessions %}
+Register for a session using the Eventbrite links below.
 {% for session in page.info_sessions %}
 - [{{session.text}}]({{session.link}})
 {% endfor %}
+{% else %}
+These sessions are not yet scheduled. We'll post dates and registration links here soon.
 {% endif %}
 
 ## Role summary
