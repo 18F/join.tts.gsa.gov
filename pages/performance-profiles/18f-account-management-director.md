@@ -88,7 +88,7 @@ You’ll support a team of Account Managers, who are:
 
 The links below provide descriptions specific to each {{ page.org }} team. When the role is posted and open for application on USAJobs, you can indicate which team(s) you’re interested in.
 {% for profile in page.related_performance_profiles %}
-  - [{{profile.name}}]{{site.baseurl}}({{profile.link}})
+  - [{{profile.name}}]({{site.baseurl}}{{profile.link}})
 {% endfor %}
 
 ## Preparing to apply
