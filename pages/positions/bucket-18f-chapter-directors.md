@@ -17,8 +17,8 @@ opens: tbd
 closes: tbd
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
-salary_min: 128,078
-salary_max: 172,500
+salary_min: '128,078'
+salary_max: '172,500'
 org: 18F
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
