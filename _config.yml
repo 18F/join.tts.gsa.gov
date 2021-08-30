@@ -61,6 +61,11 @@ defaults:
       type: pages
     values:
       layout: job
+  - scope:
+      path: pages/performance-profiles
+      type: pages
+    values:
+      layout: job
 
 styles:
   - /assets/css/site.css
