@@ -3,6 +3,15 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # permalink: /join/ENTER ROLE TITLE HERE/
 # state: ENTER STATE HERE (open, closed, upcoming)
 # job_post_type: ENTER TYPE HERE (tts or usajobs)
+# info_sessions:
+#  - text: TEXT FOR INFO SESSION LINK
+#    link: EVENTBRITE LINK
+#    date: ENTER DATE
+#    time: ENTER TIME
+#  - text: (repeat as necessary)
+#    link: (repeat as necessary)
+#    date: (repeat as necessary)
+#    time: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 # role_name: ENTER THE NAME OF THE ROLE HERE (Without Org)
@@ -44,6 +53,12 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your
   application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing
   applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+{% endif %}
+
+{% if page.info_sessions %}
+{% for session in page.info_sessions %}
+- {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
+{% endfor %}
 {% endif %}
 
 **Location:**
