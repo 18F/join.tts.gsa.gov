@@ -58,7 +58,7 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% endif %}
 {% if page.info_sessions %}
 {% for session in page.info_sessions %}
-- [{{session.text}}]({{session.link}})
+- {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
 {% endfor %}
 {% endif %}
 
