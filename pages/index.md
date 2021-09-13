@@ -44,15 +44,23 @@ upcoming positions. Take a look below, and [join our mailing list]({{ site.baseu
 
 **We are hiring** and will be sharing upcoming jobs and open positions as they are available.
 
-#### Learn more about our open roles
+#### Learn more about our upcoming and open roles
 
 We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. You can register for a session using the EventBrite links below.
+##### General Hiring info session
 
-* General Hiring info session, [Thursday, September 23 at 12:30 pm EDT/9:30 am PDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-169179268747)
-* Centers of Excellence Director info session, [Tuesday, September 14th at 12:00 pm EDT/9:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168755222413)
-* Centers of Excellence Director info session, [Monday, September 20th at 5:00 pm EDT/2:00 pm PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762668685)
-* Centers of Excellence Director info session, [Thursday, September 23rd at 9:00 am EDT/6:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762919435)
+* [Thursday, September 23 at 12:30 pm EDT / 9:30 am PDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-169179268747)
 
+##### Centers of Excellence Director info sessions
+
+* [Tuesday, September 14th at 12:00 pm EDT / 9:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168755222413)
+* [Monday, September 20th at 5:00 pm EDT / 2:00 pm PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762668685)
+* [Thursday, September 23rd at 9:00 am EDT / 6:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762919435)
+
+##### 18F Chapter Directors info sessions
+
+* [Friday, September 17th at 2:00 pm EDT / 11:00 am PDT](https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477045432)
+* [Tuesday, September 21st at 5:00 pm EDT / 2:00 pm PDT](https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477922054)
 
 ### Upcoming Positions
 

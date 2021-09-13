@@ -1,5 +1,5 @@
 ---
-title: 18F Chapter Directors 
+title: 18F Chapter Directors
 permalink: /join/bucket-18f-chapter-directors/
 state: upcoming
 job_post_type: usajobs
@@ -10,6 +10,11 @@ related_performance_profiles:
     link: /join/performance-profiles/18f-product-director/
   - name: '18F Account Management Director'
     link: /join/performance-profiles/18f-account-management-director/
+info_sessions:
+  - text: 'Friday, September 17th at 2:00 pm EDT / 11:00 am PDT'
+    link: 'https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477045432'
+  - text: 'Tuesday, September 21st at 5:00 pm EDT / 2:00 pm PDT'
+    link: 'https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477922054'
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter Director
@@ -40,11 +45,11 @@ contact_email: 'jointts@gsa.gov'
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
   {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
   notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
-  {% else %} 
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. 
+  {% else %}
+  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}.
   {% endif %}
   Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
-  learn more about the application process. 
+  learn more about the application process.
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -52,7 +57,7 @@ contact_email: 'jointts@gsa.gov'
 {% endif %}
 
 ## Attend an information session
-Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. 
+Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process.
 {% if page.info_sessions %}
 Register for a session using the Eventbrite links below.
 {% for session in page.info_sessions %}
@@ -64,7 +69,7 @@ These sessions are not yet scheduled. We'll post dates and registration links he
 
 ## Opportunity overview
 
-These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS), Office of 18F. 18F helps other government agencies build, buy, and share technology products. 
+These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS), Office of 18F. 18F helps other government agencies build, buy, and share technology products.
 18F envisions a country whose government consistently offers digital services that instill pride and trust, meet user needs, are secure, and are delivered quickly and at reasonable cost.
 
 18F develops partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. Through our work together, we aim to strengthen government technology practices in ways that last beyond our formal partnerships. We effect change by practicing user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open.
@@ -73,14 +78,14 @@ These opportunities are located in the General Services Administration (GSA), Fe
 
 Chapter Directors:
 - Support growth of their teams’ ability to deliver partner success
-- Help deliver partner success 
+- Help deliver partner success
 - Create and cultivate strong partnerships with TTS government partners
 - Own significant parts of the engagement or business development / sales cycle
 - Oversee and advise on project delivery
 
 ## {{ page.org }} teams hiring for this role
 
-**There are several {{ page.org }} teams hiring for this role.** The links below provide more specific descriptions of these opportunities. 
+**There are several {{ page.org }} teams hiring for this role.** The links below provide more specific descriptions of these opportunities.
 
 {% for profile in page.related_performance_profiles %}
   - [{{profile.name}}]({{site.baseurl}}{{profile.link}})
@@ -103,7 +108,7 @@ You can find more information about this in the [compensation and benefits secti
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a
 salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$172,500** 
+Please note the maximum salary available for the GS pay system is **$172,500**
 
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
 
