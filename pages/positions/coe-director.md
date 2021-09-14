@@ -45,7 +45,6 @@ supervisory_status: 'Yes'
 ## Attend an information session
 Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. 
 Register for a session using the Eventbrite links below.
-- [Tuesday, September 14th at 12:00 pm EDT/9:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168755222413)
 - [Monday, September 20th at 5:00 pm EDT/2:00 pm PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762668685)
 - [Thursday, September 23rd at 9:00 am EDT/6:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762919435)
 
