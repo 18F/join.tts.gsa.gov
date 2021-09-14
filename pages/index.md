@@ -53,7 +53,6 @@ We hold periodic info sessions to offer potential candidates an opportunity to l
 
 ##### Centers of Excellence Director info sessions
 
-* [Tuesday, September 14th at 12:00 pm EDT / 9:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168755222413)
 * [Monday, September 20th at 5:00 pm EDT / 2:00 pm PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762668685)
 * [Thursday, September 23rd at 9:00 am EDT / 6:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762919435)
 
