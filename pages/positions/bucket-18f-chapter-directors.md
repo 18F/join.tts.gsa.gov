@@ -142,7 +142,12 @@ Permanent hire. This is not a term limited opportunity. Applicants who are selec
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience for this role will be listed here as soon as it is available.
+To qualify for this role, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).  Specialized experience is defined as:
+
+- Experience managing individuals
+- Experience leading a team that provides or supports delivery of modern IT systems, software systems, or digital services
+- Experience supporting the overall planning, management, and direction of a program or of projects
+- Experience building alignment with stakeholders 
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
