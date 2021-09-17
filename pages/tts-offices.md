@@ -11,6 +11,8 @@ subnav:
     href: "#presidential-innovation-fellows"  
   - text: Office of Solutions
     href: "#office-of-solutions"
+  - text: U.S. Digital Corps
+    href: "#us-digital-corps"
   - text: Office of Acquisition
     href: "#office-of-acquisition"
   - text: TTS Front Office
@@ -116,6 +118,16 @@ Data.gov is one of Solutions’s many shared services for all of government.
 With Data.gov, the public can come to one place to find data sets from
 all over government and use them for research, business operations, and
 journalism.
+
+### U.S Digital Corps
+*Fellowship program for early-career technologists to launch impactful careers in public service and create a more effective, equitable government.*
+
+The U.S. Digital Corps is a two‑year fellowship for early‑career technologists where you will work every day to make a difference in critical impact areas including coronavirus response, economic recovery, cybersecurity, and racial equity.
+
+The U.S Digital Corps Fellows are mission-driven junior technologists from undergraduate and graduate programs as well as alternative training pathways such as apprenticeships, bootcamps, and certificate programs, with a variety of technology skill sets, including software engineering, data science, product management, design, and cybersecurity.
+
+More information about the program is available at [digitalcorps.gsa.gov](https://digitalcorps.gsa.gov/).
+
 
 ### Office of Acquisition
 
