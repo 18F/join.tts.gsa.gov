@@ -18,8 +18,8 @@ info_sessions:
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter Director
-opens: tbd
-closes: tbd
+opens: 'September 22, 2021 at 9:00 am EDT'
+closes: 'October 6, 2021 at 11:59 pm EDT'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
 salary_min: '128,078'
