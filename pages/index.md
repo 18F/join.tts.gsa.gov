@@ -53,12 +53,10 @@ We hold periodic info sessions to offer potential candidates an opportunity to l
 
 ##### Centers of Excellence Director info sessions
 
-* [Monday, September 20th at 5:00 pm EDT / 2:00 pm PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762668685)
 * [Thursday, September 23rd at 9:00 am EDT / 6:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762919435)
 
 ##### 18F Chapter Directors info sessions
 
-* [Friday, September 17th at 2:00 pm EDT / 11:00 am PDT](https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477045432)
 * [Tuesday, September 21st at 5:00 pm EDT / 2:00 pm PDT](https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477922054)
 
 ### Upcoming Positions
