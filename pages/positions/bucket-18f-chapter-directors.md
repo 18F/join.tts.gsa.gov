@@ -11,8 +11,6 @@ related_performance_profiles:
   - name: '18F Account Management Director'
     link: /join/performance-profiles/18f-account-management-director/
 info_sessions:
-  - text: 'Friday, September 17th at 2:00 pm EDT / 11:00 am PDT'
-    link: 'https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477045432'
   - text: 'Tuesday, September 21st at 5:00 pm EDT / 2:00 pm PDT'
     link: 'https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477922054'
 
