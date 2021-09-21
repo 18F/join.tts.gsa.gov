@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: TBD
+job_announcement_number: 21110019
 pd_job_title: 'Director, Centers of Excellence' 
 num_vacancies: '1'
 series: 'ES-2210' 
 apply_url: 'TBD'
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+ohrm_contact_email: 'christopher.wright@gsa.gov'
+ohrm_contact_name: 'Chris Wright'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: 'No' 
 supervisory_status: 'Yes' 
@@ -45,7 +45,6 @@ supervisory_status: 'Yes'
 ## Attend an information session
 Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. 
 Register for a session using the Eventbrite links below.
-- [Monday, September 20th at 5:00 pm EDT/2:00 pm PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762668685)
 - [Thursday, September 23rd at 9:00 am EDT/6:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762919435)
 
 **Location:**
