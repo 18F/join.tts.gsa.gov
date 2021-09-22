@@ -42,7 +42,7 @@ supervisory_status: 'YES'
   {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
   notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% else %}
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}.
+  Applications will be open for submission on {{ page.opens }}.
   {% endif %}
   Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process.

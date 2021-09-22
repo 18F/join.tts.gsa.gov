@@ -6,7 +6,7 @@
 We're sorry, this job has closed.
 {% else %}
 {% if page.job_post_type == 'usajobs' %}
-Submit a complete online application prior to {{ page.closes }} EDT. Please fill out all applicable fields.
+Submit a complete online application prior to {{ page.closes }}. Please fill out all applicable fields.
 
 In order to apply for this job you must submit an application via the USAJOBS posting.
 
@@ -17,7 +17,7 @@ In order to apply for this job you must submit an application via the USAJOBS po
 Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at {{ page.contact_email }}.
 
 {% elsif page.job_post_type == 'tts' %}
-Submit a complete online application prior to {{ page.closes }} EDT. Please fill out all applicable fields.  Please note that the TTS application form includes additional short-answer questions.  We recommend that you take some time to review and prepare for the questions in advance of submitting your application.
+Submit a complete online application prior to {{ page.closes }}. Please fill out all applicable fields.  Please note that the TTS application form includes additional short-answer questions.  We recommend that you take some time to review and prepare for the questions in advance of submitting your application.
 
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
