@@ -1,7 +1,7 @@
 ---
 title: 18F - Design director
 permalink: /join/performance-profiles/18f-design-director/
-state: upcoming
+state: open
 job_post_type: usajobs
 parent_position_name: 18F Chapter director
 parent_position_link: /join/bucket-18f-chapter-directors
@@ -10,11 +10,7 @@ related_performance_profiles:
     link: /join/performance-profiles/18f-product-director/
   - name: '18F Account Management Director'
     link: /join/performance-profiles/18f-account-management-director/
-info_sessions:
-  - text: 'Friday, September 17th at 2:00 pm EDT / 11:00 am PDT'
-    link: 'https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477045432'
-  - text: 'Tuesday, September 21st at 5:00 pm EDT / 2:00 pm PDT'
-    link: 'https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477922054'
+
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter director
@@ -30,16 +26,6 @@ org: 18F
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{site.baseurl}}{{ page.parent_position_link}})
 {% endif %}
 
-## Attend an information session
-Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process.
-{% if page.info_sessions %}
-Register for a session using the Eventbrite links below.
-{% for session in page.info_sessions %}
-- [{{session.text}}]({{session.link}})
-{% endfor %}
-{% else %}
-These sessions are not yet scheduled. We'll post dates and registration links here soon.
-{% endif %}
 
 ## Role summary
 
