@@ -27,14 +27,14 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS OPEN: These fields are required for open
 
 job_announcement_number: '21FASC429SVGOTR'
-pd_job_title: 'Supervisory IT Specialist' (ENTER TITLE IF DIFFERENT)
+pd_job_title: 'Supervisory IT Specialist' 
 num_vacancies: '3'
-series: '2210' ENTER SERIES IF DIFFERENT
+series: '2210' 
 apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/614743700'
 ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
 ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15' (13, 14, 15, etc.)
+promotion_potential: '15' 
 supervisory_status: 'YES'
 ---
 {% if page.state == 'upcoming' %}
