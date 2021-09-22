@@ -10,7 +10,10 @@ related_performance_profiles:
     link: /join/performance-profiles/18f-product-director/
   - name: '18F Design Director'
     link: /join/performance-profiles/18f-design-director/
-
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/614743700
+contact_name: TTS Talent Team
+contact_email: jointts@gsa.gov
+closes: Wednesday, October 6, 2021 at 11:59 pm
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter director
 gs_level: '15'
