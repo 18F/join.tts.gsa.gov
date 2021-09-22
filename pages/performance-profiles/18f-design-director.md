@@ -16,6 +16,9 @@ related_performance_profiles:
 role_name: Chapter director
 gs_level: '15'
 org: 18F
+apply_url: https://www.usajobs.gov/GetJob/ViewDetails/614743700
+contact_name: TTS Talent Team
+contact_email: jointts@gsa.gov
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles. If you'd like to be

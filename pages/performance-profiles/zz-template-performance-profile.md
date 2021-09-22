@@ -15,7 +15,9 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 #    link: EVENTBRITE LINK
 #  - text: (repeat as necessary)
 #    link: (repeat as necessary)
-
+# apply_url: USAJOBS URL
+# contact_name: TTS Talent Team
+# contact_email: jointts@gsa.gov
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 # role_name: ENTER THE NAME OF THE ROLE HERE (Without Org)
 # gs_level: ENTER GS LEVEL (13, 14, 15, etc)
