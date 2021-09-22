@@ -1,7 +1,7 @@
 ---
 title: 18F Chapter Directors
 permalink: /join/bucket-18f-chapter-directors/
-state: upcoming
+state: open
 job_post_type: usajobs
 related_performance_profiles:
   - name: '18F Design Director'
@@ -10,9 +10,7 @@ related_performance_profiles:
     link: /join/performance-profiles/18f-product-director/
   - name: '18F Account Management Director'
     link: /join/performance-profiles/18f-account-management-director/
-info_sessions:
-  - text: 'Tuesday, September 21st at 5:00 pm EDT / 2:00 pm PDT'
-    link: 'https://www.eventbrite.com/e/18f-chapter-director-account-management-info-session-tickets-170477922054'
+
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Chapter Director
@@ -28,16 +26,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '21FASC429SVGOTR'
+pd_job_title: 'Supervisory IT Specialist' (ENTER TITLE IF DIFFERENT)
+num_vacancies: '3'
+series: '2210' ENTER SERIES IF DIFFERENT
+apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/614743700'
+ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
+ohrm_contact_name: 'Sylvia Velez-Zuniga'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15' (13, 14, 15, etc.)
+supervisory_status: 'YES'
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
@@ -51,19 +49,9 @@ contact_email: 'jointts@gsa.gov'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. 
 {% endif %}
 
-## Attend an information session
-Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process.
-{% if page.info_sessions %}
-Register for a session using the Eventbrite links below.
-{% for session in page.info_sessions %}
-- [{{session.text}}]({{session.link}})
-{% endfor %}
-{% else %}
-These sessions are not yet scheduled. We'll post dates and registration links here soon.
-{% endif %}
 
 ## Opportunity overview
 
