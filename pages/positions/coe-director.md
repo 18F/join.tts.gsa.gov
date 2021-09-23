@@ -42,11 +42,6 @@ supervisory_status: 'Yes'
   {{ page.org }} is hiring for {{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
-## Attend an information session
-Attend an information session to learn more about these roles, working at {{ page.org }}, and our application process. 
-Register for a session using the Eventbrite links below.
-- [Thursday, September 23rd at 9:00 am EDT/6:00 am PDT](https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-tickets-168762919435)
-
 **Location:**
 {{ page.location }}
 
