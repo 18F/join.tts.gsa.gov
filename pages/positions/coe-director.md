@@ -1,8 +1,8 @@
 ---
 title: Centers of Excellence - Director
 permalink: /join/coe-director/
-state: upcoming
-job_post_type: tts
+state: open
+job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
@@ -22,7 +22,7 @@ job_announcement_number: 21110019
 pd_job_title: 'Director, Centers of Excellence' 
 num_vacancies: '1'
 series: 'ES-2210' 
-apply_url: 'TBD'
+apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/615286200'
 ohrm_contact_email: 'christopher.wright@gsa.gov'
 ohrm_contact_name: 'Chris Wright'
 bargaining_unit: 'Non Bargaining Unit'
