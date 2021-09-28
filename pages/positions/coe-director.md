@@ -91,7 +91,7 @@ As the Director of the Centers of Excellence, you will serve as an expert in tec
 **Salary Range:**
 Base salary ${{ page.salary_min }} to ${{ page.salary_max }}
 
-NOTICE REGARDING SALARY: Current SES members whose salary equals or exceeds the maximum advertised salary for this vacancy ($181,500), will not lose pay if appointed to this position.
+NOTICE REGARDING SALARY: Current SES members whose salary equals or exceeds the maximum advertised salary for this vacancy ($183,300), will not lose pay if appointed to this position.
 
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) 
@@ -112,7 +112,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 {{ page.promotion_potential }}
 
 **Number of vacancies:**
-{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
+{{ page.num_vacancies }} 
 
 **Supervisory status:**
 {{ page.supervisory_status }}
