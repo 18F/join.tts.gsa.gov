@@ -73,8 +73,6 @@ guidance every step of the way? Learn more about our [hiring process](https://jo
 If you have any questions about the process or positions, please contact
 our Talent Team at [joinTTS@gsa.gov](mailto:joinTTS@gsa.gov).
 
-If you would like to provide anonymous feedback on your experience with the website, application, interview or hiring process, please go to our [TTS Experience Submission](https://forms.gle/5WenZvv9UmYSYd1v5)
-
 ### About Technology Transformation Services
 
 Technology Transformation Services (TTS) applies modern methodologies
