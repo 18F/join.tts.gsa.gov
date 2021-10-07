@@ -1,5 +1,5 @@
 ---
-title: Technology Transformation Service Engineer
+title: Technology Transformation Services Engineer
 permalink: /join/tts-engineer/
 state: upcoming
 job_post_type: usajobs
@@ -197,6 +197,7 @@ Public trust. Background investigation required.
 Full time.
 
 **Appointment type:**
+This is a term limited appointment with the ability to extend for a total of eight years.
 
 
 **Employee benefits:**
