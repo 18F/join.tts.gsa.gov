@@ -49,7 +49,7 @@ contact_email: 'jointts@gsa.gov'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** Product Managers/Project Managers are crucial to TTS significantly improving our products, platforms, and services. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. This page contains a high-level summary of the role. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
 {% if page.info_sessions %}
 {% for session in page.info_sessions %}
@@ -164,21 +164,18 @@ The General Schedule (GS) is the predominant pay scale for federal employees. Th
 
 There are several {{ page.org }} teams hiring for this role. **Candidates should look at the specialized experience for the GS15 and GS14 roles and submit application(s) to the position they feel are most suited for.** Unfortunately, we are only able to reach out to those that are selected for interview.
 
-Teams hiring for engineers:
+Teams hiring for product or project managers:
 - [18F](https://18f.gsa.gov/)
 - [Login.gov](https://login.gov/)
 - [Cloud.gov](https://cloud.gov/)
-- [Data.gov](https://www.data.gov/)
-- Forms.gov
+- [Centers of Excellence](https://coe.gsa.gov/)
+- [Digital.gov](https://digital.gov/)
 - American Rescue Plan program management office
 
 Positions these teams are hiring for:
-- Consulting software engineer
-- Software developer or software engineer (frontend and backend)
-- Full-stack engineer
-- DevOps engineer or Site Reliability Engineer
-- Security and compliance engineer
-- Data engineer
+- Product Manager
+- Engagement Director
+- Project Coordinator
 
 Once applications are reviewed, hiring teams will identify candidates that they are interested in interviewing. We will then follow up with candidates to discuss their interest in the role(s). Candidates may interview for roles with multiple teams.
 
