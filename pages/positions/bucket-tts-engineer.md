@@ -19,8 +19,8 @@ opens: tbd
 # closes: MONTH DAY, YEAR, TIME EDT
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 14-15
-salary_min: $93,907
-salary_max: $172,500
+salary_min: 'GS14 Step 1 - $108,885 to GS 14 Step 10 $172,500'
+salary_max: 'GS-15 Step 1 - $128,078 to GS-15 Step 10 $172,500'
 org: TTS
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -171,7 +171,9 @@ Once applications are reviewed, hiring teams will identify candidates that they 
 {{ page.location }}
 
 **Salary Range:**
-The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is:
+- GS14 Step 1 - $108,885 to GS 14 Step 10 $172,500
+- GS-15 Step 1 - $128,078 to GS-15 Step 10 $172,500 
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
@@ -215,6 +217,7 @@ This is a term limited appointment with the ability to extend for a total of eig
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
+We will update the qualifications required for this position soon. 
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
