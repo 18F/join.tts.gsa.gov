@@ -7,7 +7,7 @@ job_post_type: usajobs
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
 opens: 'September 27, 2021 at 9:00 am EDT'
-closes: 'October 11, 2021 at 11:59 pm EDT'
+closes: 'October 12, 2021 at 11:59 pm EDT'
 location: 'Washington, DC'
 gs_level: 'Senior Executive Service'
 salary_min: '132,552' 
