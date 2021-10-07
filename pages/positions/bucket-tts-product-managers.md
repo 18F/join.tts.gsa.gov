@@ -188,7 +188,9 @@ Once applications are reviewed, hiring teams will identify candidates that they 
 {{ page.location }}
 
 **Salary Range:**
-The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
+The salary range for this position is:
+- GS14 Step 1 - $108,885 to GS 14 Step 10 $172,500
+- GS-15 Step 1 - $128,078 to GS-15 Step 10 $172,500 
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
