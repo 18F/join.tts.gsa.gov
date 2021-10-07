@@ -1,7 +1,7 @@
 ---
 title: 18F Chapter Directors
 permalink: /join/bucket-18f-chapter-directors/
-state: open
+state: closed
 job_post_type: usajobs
 related_performance_profiles:
   - name: '18F Design Director'
