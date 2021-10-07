@@ -145,11 +145,23 @@ The General Schedule (GS) is the predominant pay scale for federal employees. Th
 
 ## {{ page.org }} teams hiring for this role
 
-**There are several {{ page.org }} teams hiring for this role.** The links below provide more specific descriptions of these opportunities. Candidates will submit one application and will indicate which position(s) they want to be considered for. 
+There are several {{ page.org }} teams hiring for this role. **Candidates should look at the specialized experience for the GS15 and GS14 roles and submit application(s) to the position they feel are most suited for.** Unfortunately, we are only able to reach out to those that are selected for interview.
 
-{% for profile in page.related_performance_profiles %}
-  - [{{profile.name}}]({{profile.permalink}})
-{% endfor %}
+Teams hiring for engineers:
+- [18F](https://18f.gsa.gov/)
+- [Login.gov](https://login.gov/)
+- [Cloud.gov](https://cloud.gov/)
+- [Data.gov](https://www.data.gov/)
+- Forms.gov
+- American Rescue Plan program management office
+
+Positions these teams are hiring for:
+- Consulting software engineer
+- Software developer or software engineer (frontend and backend)
+- Full-stack engineer
+- DevOps engineer or Site Reliability Engineer
+- Security and compliance engineer
+- Data engineer
 
 Once applications are reviewed, hiring teams will identify candidates that they are interested in interviewing. We will then follow up with candidates to discuss their interest in the role(s). Candidates may interview for roles with multiple teams.
 
@@ -185,7 +197,7 @@ Public trust. Background investigation required.
 Full time.
 
 **Appointment type:**
-Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date.
+
 
 **Employee benefits:**
 [Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
@@ -202,7 +214,6 @@ Permanent hire. This is not a term limited opportunity. Applicants who are selec
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience for this role will be listed here as soon as it is available.
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
