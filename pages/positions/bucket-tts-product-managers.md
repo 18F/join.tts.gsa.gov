@@ -171,6 +171,7 @@ Teams hiring for product or project managers:
 - [Centers of Excellence](https://coe.gsa.gov/)
 - [Digital.gov](https://digital.gov/)
 - American Rescue Plan program management office
+- Additional TTS teams will be updated and added soon
 
 Positions these teams are hiring for:
 - Product Manager
