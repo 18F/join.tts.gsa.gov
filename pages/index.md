@@ -52,7 +52,7 @@ We hold periodic info sessions to offer potential candidates an opportunity to l
 * [Thursday, October 21 at 12:30 pm EDT / 9:30 am PDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-178242908337)
 
 ### Upcoming Positions
-No upcoming positions at this time. Check out our open roles or sign up for job alerts for future upcoming roles!
+{% comment %} No upcoming positions at this time. Check out our open roles or sign up for job alerts for future upcoming roles! {% endcomment %}
 
 {% for pg in sortedpages %}
 {% if pg.state == 'upcoming' %}
