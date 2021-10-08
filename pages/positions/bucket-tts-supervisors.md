@@ -121,8 +121,6 @@ Teams hiring for supervisors:
 - [TTS Tech Portfolio](https://handbook.tts.gsa.gov/office-of-solutions/tech-portfolio/)
 - American Rescue Plan program management office
 
-Once applications are reviewed, hiring teams will identify candidates that they are interested in interviewing. We will then follow up with candidates to discuss their interest in the role(s). Candidates may interview for roles with multiple teams.
-
 ## Basic information
 
 **Location:**
