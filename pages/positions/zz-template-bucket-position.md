@@ -49,8 +49,10 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
   notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
+  {% unless page.opens == 'tbd' %}
   Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process. 
+  {% endunless %} 
 {% endif %}
 
 {% if page.state != 'upcoming' %}

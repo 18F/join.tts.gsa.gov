@@ -43,9 +43,10 @@ contact_email: 'jointts@gsa.gov'
   {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
   notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
-  
+  {% unless page.opens == 'tbd' %}
   Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process. 
+  {% endunless %}
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -187,8 +188,8 @@ Once applications are reviewed, hiring teams will identify candidates that they 
 
 **Salary Range:**
 The salary range for this position is:
-- GS14 Step 1 - $108,885 to GS 14 Step 10 $172,500
-- GS-15 Step 1 - $128,078 to GS-15 Step 10 $172,500 
+- GS-14, Step 1 - $108,885 to GS-14, Step 10 - $172,500
+- GS-15, Step 1 - $128,078 to GS-15 Step 10 - $172,500 
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
@@ -241,6 +242,3 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-
-## How to apply
-We will be accepting applications through the Public Notice on USAJOBS.
