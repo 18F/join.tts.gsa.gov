@@ -4,11 +4,11 @@ permalink: /join/tts-engineer/
 state: upcoming
 job_post_type: usajobs
 info_sessions:
- - text: TTS Engineering info session 
+ - text: TTS Engineering 
    link: https://www.eventbrite.com/e/tts-info-session-software-engineer-tickets-188738531027
    date: October 26th
    time: 9:30 a.m. PST / 12:30 p.m. EST
- - text: TTS Engineering info session
+ - text: TTS Engineering
    link: https://www.eventbrite.com/e/tts-info-session-software-engineer-tickets-188741660387
    date: October 28th
    time: 2 p.m. PST / 5 p.m. EST
