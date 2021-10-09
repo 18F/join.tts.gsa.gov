@@ -3,15 +3,15 @@ title: Technology Transformation Services Product Manager/Project Manager
 permalink: /join/tts-product-project-manager/
 state: upcoming
 job_post_type: usajobs
-# info_sessions:
-#  - text: TEXT FOR INFO SESSION LINK
-#    link: EVENTBRITE LINK
-#    date: ENTER DATE
-#    time: ENTER TIME
-#  - text: (repeat as necessary)
-#    link: (repeat as necessary)
-#    date: (repeat as necessary)
-#    time: (repeat as necessary)
+info_sessions:
+ - text: TTS Product/Project Manager info session
+   link: https://www.eventbrite.com/e/tts-info-session-productproject-manager-tickets-188715040767
+   date: October 25th
+   time: 9:30 a.m. PST / 12:30 p.m. EST
+ - text: TTS Product/Project Manager info session
+   link: https://www.eventbrite.com/e/tts-info-session-productproject-manager-tickets-188736244187
+   date: October 27th
+   time: 2 p.m. PST / 5 p.m. EST
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager/Project Manager

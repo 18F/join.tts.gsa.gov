@@ -3,15 +3,15 @@ title: Technology Transformation Services Engineer
 permalink: /join/tts-engineer/
 state: upcoming
 job_post_type: usajobs
-# info_sessions:
-#  - text: TEXT FOR INFO SESSION LINK
-#    link: EVENTBRITE LINK
-#    date: ENTER DATE
-#    time: ENTER TIME
-#  - text: (repeat as necessary)
-#    link: (repeat as necessary)
-#    date: (repeat as necessary)
-#    time: (repeat as necessary)
+info_sessions:
+ - text: TTS Engineering info session 
+   link: https://www.eventbrite.com/e/tts-info-session-software-engineer-tickets-188738531027
+   date: October 26th
+   time: 9:30 a.m. PST / 12:30 p.m. EST
+ - text: TTS Engineering info session
+   link: https://www.eventbrite.com/e/tts-info-session-software-engineer-tickets-188741660387
+   date: October 28th
+   time: 2 p.m. PST / 5 p.m. EST
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Engineer
