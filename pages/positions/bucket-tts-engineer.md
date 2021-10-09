@@ -54,6 +54,8 @@ contact_email: 'jointts@gsa.gov'
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** Engineers are crucial to TTS significantly improving our products, platforms, and services. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. This page contains a high-level summary of the role. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
 {% if page.info_sessions %}
+## Attend an information session
+Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
 {% for session in page.info_sessions %}
 - {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
 {% endfor %}
