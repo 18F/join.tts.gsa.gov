@@ -112,6 +112,7 @@ TTS is looking for talented supervisors to help our programs deliver better digi
 There are several {{ page.org }} teams hiring for this role. Once applications are reviewed, hiring teams will identify candidates that they are interested in interviewing. We will then follow up with candidates to discuss their interest in the role(s). Candidates may interview for roles with multiple teams. Unfortunately, we are only able to reach out to those that are selected for an interview.
 
 Teams hiring for supervisors:
+- [Cloud.gov](https://cloud.gov/)
 - [18F](https://18f.gsa.gov/)
 - [Centers of Excellence](https://coe.gsa.gov/)
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/)
