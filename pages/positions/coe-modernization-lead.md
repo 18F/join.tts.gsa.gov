@@ -203,15 +203,14 @@ The General Schedule (GS) is the predominant pay scale for federal employees. Th
   </tbody>
 </table>
 
-## Basic Information
-
+## Basic information
 **Location:**
 {{ page.location }}
 
 **Salary Range:**
-The salary range for this position is: 
+The salary range for this position is:
 - GS-14, Step 1 - $108,885 to GS-14, Step 10 - $172,500
-- GS-15, Step 1 - $128,078 to GS-15, Step 10 - $172,500
+- GS-15, Step 1 - $128,078 to GS-15 Step 10 - $172,500 
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
@@ -222,31 +221,10 @@ salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://w
 
 Please note the maximum salary available for the GS pay system is **$172,500** 
 
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
+Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands).
-
-**Job announcement number:**
-{{ page.job_announcement_number }}
-
-**Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
-
-**Job Title:**
-{{ page.pd_job_title }}
-
-**Series & Grade:**
-{{ page.series }} - {{ page.gs_level }}
-
-**Promotion Potential:**
-GS-{{ page.promotion_potential }}
-
-**Number of vacancies:**
-{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
-
-**Supervisory status:**
-{{ page.supervisory_status }}
+All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
 **Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
@@ -254,15 +232,15 @@ Occasional travel may be required up to 10%-20% per year
 **Security clearance:**
 Public trust. Background investigation required.
 
-**Work Schedule:**
-Full time
+**Work schedule:**
+Full time.
 
-**Appointment Type:**
-This is a term limited appointment with the ability to extend for a total of eight years. 
+**Appointment type:**
+This is a term limited appointment with the ability to extend for a total of eight years.
 
-  
-**Employee benefits**
-[Learn more about the benefits we offer](http://www.gsa.gov/portal/category/26702).
+
+**Employee benefits:**
+[Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
   - Health insurance (choose from a wide range of plans)
   - Life insurance coverage with several options
   - Sick leave and vacation time, including 10 paid holidays per year
@@ -273,17 +251,15 @@ This is a term limited appointment with the ability to extend for a total of eig
   - Flexible spending accounts
   - Long-term care insurance
   - Training and development
+  - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
 We will update the qualifications required for this position soon. 
 
-Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our guidance on creating a federal style resume.
+Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
 Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
 
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-How to apply
-We will be accepting applications through the Public Notice on USAJOBS. If you would like to learn more or if you’d like to be notified when the application is open, please join our mailing list.
-
