@@ -1,19 +1,21 @@
 sidenav-breakpoint: desktop
 
 primary:
-  - text: Home
+  - text: Open and upcoming jobs
     href: /
-  - text: Hiring process
-    href: /hiring-process/
-  - text: Reading a federal job posting
-    href: /federal-job-posting/
-  - text: Resume Prep
-    href: /resume/
-  - text: Compensation and benefits
-    href: /compensation-and-benefits/
-  - text: Our Offices
-    href: /tts-offices/
   - text: How we hire
-    href: /learn-more/
-  - text: Get job alerts
+    links:
+    - text: Hiring process
+      href: /hiring-process/
+    - text: Reading a federal job posting
+      href: /federal-job-posting/
+    - text: Preparing your resume
+      href: /resume/
+    - text: Compensation and benefits
+      href: /compensation-and-benefits/
+  - text: Our offices
+    href: /tts-offices/
+
+secondary:
+  - text: Sign up for job alerts
     href: /newsletter/

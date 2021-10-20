@@ -1,6 +1,7 @@
 ---
 title: Join Us
 permalink: /
+layout: home
 
 subnav:
   - text: Open positions
