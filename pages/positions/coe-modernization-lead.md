@@ -43,10 +43,11 @@ contact_email: 'jointts@gsa.gov'
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. 
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be
   notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
-  {% else %}
+  {% endif %}
+  {% unless page.opens == 'tbd' %}
   Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process. 
-  {% endif %}
+  {% endunless %}
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -163,9 +164,6 @@ Client Services:  Provides comprehensive program and project management services
 - Manages engagement financials, including CoE spend plan development and EAC variance tracking and mitigation.  
 - Serves as COR for Industry Partner (IP) contracts and performs all attendant functions, including but not limited to administration of GSA and client onboarding, awareness of IP spend planning and status, tracking of IP deliverables, and coordination with the client, CoE Acquisition team and appropriate GSA Acquisition Region for kickoff, modifications and closeout.  
 
-
-{% if page.state != 'upcoming' %}
-
 ## Basic Information
 
 **Location:**
@@ -247,3 +245,6 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
+How to apply
+We will be accepting applications through the Public Notice on USAJOBS. If you would like to learn more or if you’d like to be notified when the application is open, please join our mailing list.
+

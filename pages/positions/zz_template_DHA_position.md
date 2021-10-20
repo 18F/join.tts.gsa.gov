@@ -43,10 +43,11 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be
   notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
-  {% else %}
+  {% endif %}
+  {% unless page.opens == 'tbd' %}
   Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process. 
-  {% endif %}
+  {% endunless %}
 {% endif %}
 
 {% if page.state != 'upcoming' %}
