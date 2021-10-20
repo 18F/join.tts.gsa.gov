@@ -1,5 +1,5 @@
 ---
-title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
+title: Centers of Excellence - Modernization Lead
 permalink: /join/coe-modernization-lead/
 state: upcoming
 job_post_type: usajobs
@@ -40,7 +40,7 @@ contact_email: 'jointts@gsa.gov'
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. 
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.role_name }}. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. 
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be
   notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
@@ -57,6 +57,8 @@ contact_email: 'jointts@gsa.gov'
 {% endif %}
 
 {% if page.info_sessions %}
+# Attend an information session
+Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
 {% for session in page.info_sessions %}
 - {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
 {% endfor %}
@@ -104,10 +106,9 @@ Your expertise will help ensure the success of our government partners as they m
 ### Key objective #3: Lead in your focus area(s)
 While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Area that contribute to the collective cross-functional capabilities of the CoE team.
 
-**Center of Excellence Focus Areas**
-Data & Analytics: Lead a customized Data and Analytics strategy service that enables optimal access to a partner agency data.
-Drive agency-wide and multi-agency IT modernization initiatives in the areas of data management, analytics, and data visualization.
-Advise senior executives on data management best practices, maturing organizational analytics portfolios, and on new developments and advanced techniques in data science.
+#### Center of Excellence Focus Areas
+
+**Data & Analytics: Lead a customized Data and Analytics strategy service that enables optimal access to a partner agency data. Drive agency-wide and multi-agency IT modernization initiatives in the areas of data management, analytics, and data visualization. Advise senior executives on data management best practices, maturing organizational analytics portfolios, and on new developments and advanced techniques in data science.**
 - Lead and develop pilots, prototypes, and minimum viable products to demonstrate analytic products and solutions for customers. 
 - Serve as a data and analytics subject matter expert through consulting with customers to determine requirements, explore solutions, and deliver high business impact solutions in an iterative, agile process.
 - Artificial Intelligence: incorporate machine learning, neural networks, intelligent process design and Robotic Process Automation (RPA) to develop AI solutions that address unique business challenges agency-wide.
@@ -116,7 +117,7 @@ Advise senior executives on data management best practices, maturing organizatio
 - Lead and develop pilots, prototypes, and minimum viable products to demonstrate AI products and solutions for customers
 - Serve as an AI subject matter expert through regular customer consultancy to determine requirements, explore solutions and deliver high business impact AI solutions in an iterative, agile process.
 
-Cloud Adoption & Infrastructure Optimization: Facilitates successful adoption of cloud services and other modern technologies by analyzing partner agencies' existing infrastructure and designing the right modernization path. 
+**Cloud Adoption & Infrastructure Optimization: Facilitates successful adoption of cloud services and other modern technologies by analyzing partner agencies' existing infrastructure and designing the right modernization path.**
 - Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with migration activities.
 - Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or co-location facility.
 - Assist agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
@@ -126,7 +127,7 @@ Cloud Adoption & Infrastructure Optimization: Facilitates successful adoption of
 - Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications.
 - Incorporate knowledge management and customer relationship management system best practices to improve the agent experience and the agency’s overall customer experience.
 
-Customer Experience: lead the effort to help partner agencies develop a deep understanding of their customers and their customers’ needs.
+**Customer Experience: lead the effort to help partner agencies develop a deep understanding of their customers and their customers’ needs.**
 - Lead cross-functional teams that define problems and provide solutions for all phases of the customer experience lifecycle. 
 - Navigate complex organizational relationships to bring stakeholders together around common goals and priorities.
 - Design, conduct and perform usability testing, and other forms of research with customers. Lead design workshops, contextual inquiry, diary studies, and stakeholder interviews.
@@ -137,7 +138,7 @@ Customer Experience: lead the effort to help partner agencies develop a deep und
 - Create compelling case studies that detail how customer needs have been addressed.
 - Analyze customer experience approaches (e.g. strategies, roadmaps, playbooks) that represent best practices in the federal government.
 
-Innovation Adoption: Lead a cross-functional practice combining change management, learning & development, internal communications and other disciplines designed to increase individual, team, and organizational behavior shifts. 
+**Innovation Adoption: Lead a cross-functional practice combining change management, learning & development, internal communications and other disciplines designed to increase individual, team, and organizational behavior shifts.**
 - Manage innovation adoption work for partner agencies, including change leadership & management; process, program, and performance improvement; and modernization impacts on the workforce. 
 - Develop and promote innovation adoption practices, through partner work, support of a community of practice, learning & development, and reference materials. 
 - Help CoE ensure that our  modernization projects are successful and sustainable. 
@@ -147,7 +148,7 @@ Innovation Adoption: Lead a cross-functional practice combining change managemen
 - Organizational Performance Management & Improvement, from the organization to teams to individuals, help set clear, shared goals and can demonstrate progress and results through data and evidence
 - Technology Management, from product management to Agile workstyles, help us position our partners for more modern digital operations
 
-Innovation & Intrapreneurship, from design thinking to  lean start up practices, help us position partners to deliver better products and services
+**Innovation & Intrapreneurship, from design thinking to  lean start up practices, help us position partners to deliver better products and services.**
 - Organizational Development, from role definition organizational network analysis, help our partners understand how best to organize and grow their capacity for modern work
 - Acquisitions: Accelerate IT modernization across Government in order to improve the public experience and increase operational efficiency using modern best practices of procuring  teams and tools effectively achieve the mission of the CoE and our Agency Partners. 
 - Develops acquisition strategies to enhance Centers of Excellence Program operations. 
@@ -156,7 +157,7 @@ Innovation & Intrapreneurship, from design thinking to  lean start up practices,
 - Oversees the development and execution of Interagency Agreements with customer agencies for Centers of Excellence   
 - Serves as a senior expert procurement analyst responsible for developing, implementing, and recommending contracting strategies, procedures, and guidance.
 
-Client Services:  Provides comprehensive program and project management services to multiple, concurrent CoE engagements using diverse project management tools and industry best practices.  
+**Client Services:  Provides comprehensive program and project management services to multiple, concurrent CoE engagements using diverse project management tools and industry best practices.**
 - Collaborates with the CoE agreements team and clients to administer the IAA for each assigned engagement, including initial development, modifications,and closeout 
 - Prepares high quality project artifacts to support kickoff, regular status updates, client executive and CoE leadership briefings, and agreed-upon deliverables
 - Develops and maintains detailed project plans and schedules in a fast-paced, dynamic environment 
