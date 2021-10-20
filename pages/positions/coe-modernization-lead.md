@@ -164,6 +164,44 @@ Client Services:  Provides comprehensive program and project management services
 - Manages engagement financials, including CoE spend plan development and EAC variance tracking and mitigation.  
 - Serves as COR for Industry Partner (IP) contracts and performs all attendant functions, including but not limited to administration of GSA and client onboarding, awareness of IP spend planning and status, tracking of IP deliverables, and coordination with the client, CoE Acquisition team and appropriate GSA Acquisition Region for kickoff, modifications and closeout.  
 
+### Differences between GS14 and GS15 grade levels
+The General Schedule (GS) is the predominant pay scale for federal employees. The system consists of 15 grades, from GS-1, the lowest level, to GS-15, the highest level. There are also 10 steps within each grade.
+
+<table class="usa-table">
+  <thead>
+    <tr>
+      <th>Grade GS-14</th>
+      <th>Grade GS-15</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The employee independently plans, develops, and executes important programs with minimal supervision and review.</td>
+      <td>The employee independently plans, develops and executes large scale programs that lead to new ways of working and/or innovative approaches.</td>
+    </tr>
+    <tr>
+      <td>Performs assignments  of exceptional breadth and intensity of effort often bringing the employee face-to-face with undefined factors and conditions which must be resolved in order to define the nature and scope of the work.</td>
+      <td>Performs work under general administrative direction, with very wide latitude for the exercise of independent judgment, work of outstanding difficulty and responsibility along special technical or administrative lines which has demonstrated leadership and exceptional attainments.</td>
+    </tr>
+      <tr>
+      <td>May serve as a leader and mentor for more junior members on a team.</td>
+      <td>Leads cross functional teams and develops guidelines for future use. Interfaces regularly with high-level stakeholders.</td>
+    </tr>
+    <tr>
+      <td>The employee is required to continuously exercise broad latitude to determine the intent of applicable guidance; to develop guidance for the specific area of work; and formulate interpretations that may take the form of policy statements and guidelines.  </td>
+      <td>Work consists of broad functions and processes such as: planning and leading efforts to address issues in areas where precedents do not exist; and establishing new concepts and approaches. Assignments are characterized by: exceptional breadth and intensity of effort; and often involving several activities being pursued concurrently or sequentially with the support of others within or outside the agency.</td>
+    </tr>
+    <tr>
+      <td>Supervision and review of work is extremely minimal. Performs work with wide latitude for the exercise of independent judgment, work of exceptional difficulty and responsibility along special technical or administrative lines which has demonstrated leadership and unusual attainments.</td>
+      <td>The employee decides what needs to be done by conducting extensive investigation and analysis of largely undefined factors and conditions to determine the nature and scope of problems and to devise solutions. The employee makes continuing efforts to develop new concepts, theories, or programs, or to solve problems that have previously resisted solutions.</td>
+    </tr>
+      <tr>
+      <td></td>
+      <td>The supervisor provides administrative and policy direction in terms of broadly defined missions or functions.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Basic Information
 
 **Location:**
