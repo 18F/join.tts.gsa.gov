@@ -23,6 +23,10 @@ $theme-color-accent-cool-lighter: #e1f3f8;
   max-width: 64rem; // to match site width
 }
 
+.job-posting .usa-prose > p {
+  max-width: 100ex; // default is 64ex and too narrow
+}
+
 // OLD SHIT
 // Set typographic styles
 // h1,
