@@ -2,6 +2,10 @@
 title: TTS offices
 permalink: tts-offices/
 
+sidenav:
+  - text: Our offices
+    href: tts-offices/
+
 subnav:
   - text: Centers of Excellence
     href: "#centers-of-excellence"

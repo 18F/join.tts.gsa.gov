@@ -2,6 +2,16 @@
 title: Understanding compensation and benefits
 permalink: compensation-and-benefits/
 
+sidenav:
+  - text: Hiring process
+    href: /hiring-process/
+  - text: Reading a federal job posting
+    href: /federal-job-posting/
+  - text: Preparing your resume
+    href: /resume/
+  - text: Compensation and benefits
+    href: /compensation-and-benefits/
+
 subnav:
   - text: Government pay grades
     href: "#government-pay-grades"

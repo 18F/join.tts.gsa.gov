@@ -2,6 +2,15 @@
 title: Reading a federal job posting
 permalink: federal-job-posting/
 
+sidenav:
+  - text: Hiring process
+    href: /hiring-process/
+  - text: Reading a federal job posting
+    href: /federal-job-posting/
+  - text: Preparing your resume
+    href: /resume/
+  - text: Compensation and benefits
+    href: /compensation-and-benefits/
 ---
 
 Understanding every section of a federal job posting can help you

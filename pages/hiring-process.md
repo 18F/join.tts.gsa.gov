@@ -2,6 +2,15 @@
 title: Navigating the hiring process
 permalink: hiring-process/
 
+sidenav:
+  - text: Hiring process
+    href: /hiring-process/
+  - text: Reading a federal job posting
+    href: /federal-job-posting/
+  - text: Preparing your resume
+    href: /resume/
+  - text: Compensation and benefits
+    href: /compensation-and-benefits//
 subnav:
   - text: Application
     href: "#application"
@@ -10,7 +19,7 @@ subnav:
   - text: Security and onboarding
     href: "#security-and-onboarding"
 ---
-
+{{ sidenav }}
 Don’t let the federal hiring process seem daunting. We demystify it
 below, so you know what to expect. Here's a look at the average time of each stage from application to your first day at TTS.
 

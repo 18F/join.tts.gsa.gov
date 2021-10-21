@@ -2,6 +2,16 @@
 title: Preparing your resume
 permalink: resume/
 
+sidenav:
+  - text: Hiring process
+    href: /hiring-process/
+  - text: Reading a federal job posting
+    href: /federal-job-posting/
+  - text: Preparing your resume
+    href: /resume/
+  - text: Compensation and benefits
+    href: /compensation-and-benefits/
+    
 subnav:
   - text: General recommendations
     href: "#general-recommendations"
