@@ -6,7 +6,7 @@ theme: uswds-jekyll
 plugins:
   - jekyll-redirect-from
 
-site_width: wide
+# site_width: wide
 
 # GitHub information
 # This is used for adding an edit this page link to the footer

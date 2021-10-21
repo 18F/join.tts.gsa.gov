@@ -1,7 +1,27 @@
 ---
 ---
 $theme-color-base-dark: #565c65;
+$theme-color-primary-darker: #162e51;
+$theme-color-accent-cool-lighter: #e1f3f8;
 
+/* Header */
+.usa-header--extended .usa-logo {
+  max-width: none;
+}
+
+/* Hero */
+.usa-hero {
+  background-image: none;
+  background-color: $theme-color-primary-darker;
+}
+
+.usa-hero__heading--alt,
+.usa-hero__heading--highlight {
+  color: $theme-color-accent-cool-lighter;
+}
+.usa-header--extended .usa-navbar {
+  max-width: 64rem; // to match site width
+}
 
 // OLD SHIT
 // Set typographic styles
@@ -106,12 +126,12 @@ $theme-color-base-dark: #565c65;
 //   max-width: 15rem;
 // }
 
-// .usa-social-link--linkedin {
-//   background-image: url(../img/linkedin.svg), linear-gradient(transparent, transparent);
-//   background-repeat: no-repeat;
-// }
+.usa-social-link--linkedin {
+  background-image: url(../img/linkedin.svg), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
 
-// .usa-social-link--github {
-//   background-image: url(../img/github-dark.svg), linear-gradient(transparent, transparent);
-//   background-repeat: no-repeat;
-// }
+.usa-social-link--github {
+  background-image: url(../img/github-dark.svg), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
