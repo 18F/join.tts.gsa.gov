@@ -121,7 +121,8 @@ While the entire team will have and continually enhance core expertise in techno
 - Analyze applications, systems, evaluate alternatives and design and document solutions, and potential problems with migration activities.
 - Work with a Data Center Optimization team to migrate infrastructure and systems into a new data center, hosting, or co-location facility.
 - Assist agency partners through the change management process of cloud adoption with the specific ability to work through human capital planning challenges.
-- Contact Center: Help federal agencies develop and execute contact center and customer experience modernization strategies incorporating leading technology and best practices to ensure solutions can meet their current and future needs in an efficient, sustainable, agile, and adaptable manner.
+
+**Contact Center: Help federal agencies develop and execute contact center and customer experience modernization strategies incorporating leading technology and best practices to ensure solutions can meet their current and future needs in an efficient, sustainable, agile, and adaptable manner.**
 - Architect an enterprise-level customer experience technology solution using user story definition, holistic journey mapping, and data modeling, while also incorporating standard operating procedures and best-practice methodologies.
 - Collect and analyze current contact center operations, data, and reports to develop future-state recommendations for optimization and transformation.
 - Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications.
