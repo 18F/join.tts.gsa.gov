@@ -19,3 +19,4 @@ primary:
 secondary:
   - text: Sign up for job alerts
     href: /newsletter/
+    class: "usa-button-secondary"

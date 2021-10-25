@@ -139,3 +139,46 @@ $theme-color-accent-cool-lighter: #e1f3f8;
   background-image: url(../img/github-dark.svg), linear-gradient(transparent, transparent);
   background-repeat: no-repeat;
 }
+
+
+// distinguish dropdown nav from underlapping hero area using same background color
+.usa-nav__submenu {
+  box-shadow: #212121 1px 4px 8px 0px;
+}
+
+// make Newsletter link in header look like a button instead
+.usa-nav__secondary .usa-button-secondary {
+  background-color: #ffffff;
+  box-shadow: inset 0 0 0 2px #0071bc;
+  color: #0071bc !important;
+
+  -webkit-font-smoothing: antialiased;
+  -webkit-appearance: none;
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  display: inline-block;
+  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  padding: .75rem 1.25rem;
+  text-align: center;
+  text-decoration: none !important;
+  &:hover {
+    box-shadow: inset 0 0 0 2px #205493;
+    color: #205493 !important;
+  }
+  &:active {
+    box-shadow: inset 0 0 0 2px #112e51;
+    color: #112e51 !important;
+  }
+  &:focus {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 0 2px #0071bc;
+    color: #0071bc !important;
+  }
+  @media screen and (min-width: 481px) {
+    width: auto;
+  }
+}
