@@ -1,0 +1,34 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% assign title_safe = page.title | strip_html %}
+{% if page.title %}
+<title>{{ title_safe }} | {{ site.title }}</title>
+<meta content="{{ title_safe }}" property="og:title">
+<meta content="article" property="og:type">
+<meta name="twitter:title" content="{{ title_safe }}">
+{% else %}
+<title>{{ site.title }}</title>
+<meta content="{{ site.title }}" property="og:title">
+<meta content="website" property="og:type">
+<meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+<meta content="{{ site.title }}" property="og:site_name">
+
+{% assign description = page.description | default: site.description %}
+{% if description %}
+<meta content="{{ description }}" name="description">
+<meta content="{{ site.description }}" property="og:description">
+<meta name="twitter:description" content="{{ description }}">
+{% endif %}
+
+<meta content="{{ site.url }}{{ page.url }}" property="og:url">
+<meta content="{{ site.url }}/assets/img/og-social-share.png" property="og:image">
+<meta name="twitter:image" content="{{ site.url }}/assets/img/og-social-share.png">
+<meta name="twitter:image:alt" content="An illustration of a person looking at the classified ads in a newspaper. The words 'Join Us!' are circled on the page. The words 'We’re Hiring' and the 18F logo are also visible in the background.">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@gsa_tts">
+
+{% include favicon.html %}
