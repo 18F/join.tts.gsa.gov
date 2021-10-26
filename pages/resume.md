@@ -11,7 +11,8 @@ sidenav:
     href: /resume/
   - text: Compensation and benefits
     href: /compensation-and-benefits/
-    
+  - text: Bucket hiring
+    href: /bucket-hiring/
 subnav:
   - text: General recommendations
     href: "#general-recommendations"

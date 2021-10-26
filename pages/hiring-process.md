@@ -10,7 +10,10 @@ sidenav:
   - text: Preparing your resume
     href: /resume/
   - text: Compensation and benefits
-    href: /compensation-and-benefits//
+    href: /compensation-and-benefits/
+  - text: Bucket hiring
+    href: /bucket-hiring/
+
 subnav:
   - text: Application
     href: "#application"

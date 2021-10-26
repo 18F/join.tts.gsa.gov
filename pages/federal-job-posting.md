@@ -11,6 +11,8 @@ sidenav:
     href: /resume/
   - text: Compensation and benefits
     href: /compensation-and-benefits/
+  - text: Bucket hiring
+    href: /bucket-hiring/
 ---
 
 Understanding every section of a federal job posting can help you
