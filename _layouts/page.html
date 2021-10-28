@@ -1,0 +1,34 @@
+---
+layout: default
+main:
+  class: usa-layout-docs usa-layout-docs__main desktop:grid-col-9 usa-prose
+---
+
+
+{% if page.title %}
+<section class="usa-hero padding-y-6">
+    <div class="grid-container">
+        <h1 class="usa-hero__heading usa-hero__heading--white margin-top-2 font-heading-2xl line-height-heading-4">
+            {{ page.title }}
+        </h1>
+    </div>
+  </section>
+{% endif %}
+
+<div class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap flex-align-start">
+      {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+      {% if sidenav %}
+        <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+          {% include sidenav.html links=sidenav %}
+        </div>
+      {% endif %}
+
+      <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %} usa-prose-first-child-intro" id="main-content">
+
+        {{ content }}
+      </main>
+    </div>
+  </div>
+</div>

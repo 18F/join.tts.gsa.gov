@@ -7,11 +7,11 @@ info_sessions:
  - text: TTS Product/Project Manager
    link: https://www.eventbrite.com/e/tts-info-session-productproject-manager-tickets-188715040767
    date: October 25th
-   time: 9:30 a.m. PST / 12:30 p.m. EST
+   time: 9:30 am PDT / 12:30 pm EDT
  - text: TTS Product/Project Manager
    link: https://www.eventbrite.com/e/tts-info-session-productproject-manager-tickets-188736244187
    date: October 27th
-   time: 2 p.m. PST / 5 p.m. EST
+   time: 2 pm PDT / 5 pm EDT
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager/Project Manager
@@ -52,14 +52,29 @@ contact_email: 'jointts@gsa.gov'
 {% if page.state != 'upcoming' %}
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** Product Managers/Project Managers are crucial to TTS significantly improving our products, platforms, and services. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. This page contains a high-level summary of the role. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
+
+<div class="grid-row grid-gap padding-top-4">
+
+<div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
 {% if page.info_sessions %}
-## Attend an information session
+  <div class="usa-summary-box">
+    <div class="usa-summary-box__body">
+      <h3 class="usa-summary-box__heading">
+        Attend an information session
+      </h3>
+      <div class="usa-summary-box__text" markdown="1">
 Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
 
 {% for session in page.info_sessions %}
 - {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
 {% endfor %}
+</div>
+</div>
+</div>
 {% endif %}
+</div>
+
+<div class="desktop:grid-col-8 usa-prose" markdown="1">
 
 ## Opportunity overview
 
@@ -245,3 +260,5 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
+</div>
+</div>

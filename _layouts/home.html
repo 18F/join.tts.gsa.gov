@@ -4,9 +4,9 @@ layout: default
 {% assign sortedpages = site.pages | sort: 'title' %}
 <section class="usa-hero padding-y-6">
   <div class="grid-container">
-      <h2 class="usa-hero__heading--alt font-heading-l font-family-sans margin-top-0 tablet:margin-bottom-0">
+      <h1 class="usa-hero__heading--alt font-heading-l font-family-sans margin-top-0 tablet:margin-bottom-0">
         Do you want an opportunity to make a difference?
-      </h2>
+      </h1>
       <h2 class="usa-hero__heading margin-top-2 font-heading-2xl line-height-heading-4">
         Help us <span class="usa-hero__heading--highlight">design and deliver a digital government</span> with and for the American public
       </h2>
@@ -24,14 +24,14 @@ layout: default
           The Technology Transformation Services (TTS) mission is to design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA).
           </p>
           <p>
-          We are accepting applications for the positions listed below. We also post upcoming positions. <Link to="/newsletter">Join our mailing list</Link> to be notified when we post new jobs.
+          We are accepting applications for the positions listed below. We also post upcoming positions. <a href="{{ site.baseurl }}/newsletter">Join our mailing list</a> to be notified when we post new jobs.
           </p>
         </div>
       </div>
     </div>
     <div class="grid-row grid-gap">
       <div class="desktop:grid-col-8 usa-prose">
-        <h2>Open positions</h2>
+        <h2 id="open-positions">Open positions</h2>
         <p>We are hiring and will be sharing upcoming jobs and open positions as they are available.</p>
         <ul>
         {% for pg in sortedpages %}
@@ -78,7 +78,7 @@ layout: default
           our Talent Team at <a href="mailto:joinTTS@gsa.gov">joinTTS@gsa.gov</a>.
         </p>
       </div>
-      <div class="desktop:grid-col-4">
+      <div class="desktop:grid-col-4 margin-top-4 desktop:margin-top-0">
         <div class="usa-summary-box">
           <div class="usa-summary-box__body">
             <h3 class="usa-summary-box__heading">
@@ -87,9 +87,16 @@ layout: default
             <div class="usa-summary-box__text">
               <p>We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. Register for a session below.</p>
               <ul>
-                <li>
-                  <p><a href="/join/coe-director/">General Hiring Info Session</a> Thursday, October 21 at 12:30 pm EDT / 9:30 am PDT</p>
-                </li>
+                <!-- Uncomment and update url to general session when available <li>
+                  <p><a target="_blank" href="https://www.eventbrite.com/o/technology-transformation-services-tts-32345787587">General Hiring Info Session</a><br /> Thursday, October 21 at 9:30 am PDT / 12:30 pm EDT </p>
+                </li> -->
+                {% for pg in sortedpages %}
+                  {% if pg.info_sessions.size > 0 %}
+                    {% for session in pg.info_sessions %}
+                      <li><p><a target="_blank" href="{{ session.link }}">{{ session.text }} Hiring Info Session</a><br />{{ session.date }} at {{ session.time }}</p></li>
+                    {% endfor %}
+                  {% endif %}
+                {% endfor %}
               </ul>
             </div>
           </div>
@@ -107,19 +114,20 @@ layout: default
             Technology Transformation Services (TTS) applies modern methodologies and technologies to improve the public’s experience with government. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions.
           </p>
           <p>
-            TTS is comprised of four business units and front office, operations, and acquisition teams.
+            TTS is comprised of four business units and front office, operations, and acquisition teams. Learn more about the <a href="{{ site.baseurl }}/tts-offices">offices that make up TTS</a>.
           </p>
         </div>
         <div class="desktop:grid-col-4 usa-prose">
           <h4>Our offices</h4>
           <ul>
-            <li><a href="https://join.tts.gsa.gov/tts-offices/#centers-of-excellence"><strong>Centers of Excellence</strong></a></li>
-            <li><a href="https://join.tts.gsa.gov/tts-offices/#18F"><strong>18F</strong></a></li>
-            <li><a href="https://join.tts.gsa.gov/tts-offices/#office-of-solutions"><strong>Office of Solutions</strong></a></li>
-            <li><a href="https://join.tts.gsa.gov/tts-offices/#presidential-innovation-fellows"><strong>Presidential Innovation Fellows</strong></a></li>
-            <li><a href="https://join.tts.gsa.gov/tts-offices/#tts-front-office"><strong>TTS Front Office</strong></a></li>
-            <li><a href="https://join.tts.gsa.gov/tts-offices/#office-of-operations"><strong>Office of Operations</strong></a></li>
-            <li><a href="https://join.tts.gsa.gov/tts-offices/#office-of-acquisition"><strong>Office of Acquisition</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#centers-of-excellence"><strong>Centers of Excellence</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#18f"><strong>18F</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#office-of-solutions"><strong>Office of Solutions</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#presidential-innovation-fellows"><strong>Presidential Innovation Fellows</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#us-digital-corps"><strong>US Digital Corps</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#tts-front-office"><strong>TTS Front Office</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#office-of-operations"><strong>Office of Operations</strong></a></li>
+            <li><a href="{{ site.baseurl }}/tts-offices/#office-of-acquisition"><strong>Office of Acquisition</strong></a></li>
           </ul>
         </div>
       </div>

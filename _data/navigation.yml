@@ -13,9 +13,12 @@ primary:
       href: /resume/
     - text: Compensation and benefits
       href: /compensation-and-benefits/
+    - text: About the Direct Hire Authority
+      href: /about-the-dha/
   - text: Our offices
     href: /tts-offices/
 
 secondary:
   - text: Sign up for job alerts
     href: /newsletter/
+    class: "usa-button-secondary"

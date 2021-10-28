@@ -10,7 +10,10 @@ sidenav:
   - text: Preparing your resume
     href: /resume/
   - text: Compensation and benefits
-    href: /compensation-and-benefits//
+    href: /compensation-and-benefits/
+  - text: About the Direct Hire Authority
+    href: /about-the-dha/
+
 subnav:
   - text: Application
     href: "#application"
@@ -32,7 +35,7 @@ below, so you know what to expect. Here's a look at the average time of each sta
 | [Offer and security](#security-and-onboarding) | 30 to 60 |
 | **Total from application to start** | **80 to 110** |
 
-### Application
+## Application
 
 When you apply for a role at TTS, you’ll need to submit a
 [government-style
@@ -45,7 +48,7 @@ the same time.
 Preference](https://www.fedshirevets.gov/job-seekers/veterans-preference/)
 is applied for candidates who have claimed their veteran status.
 
-### Interviews
+## Interviews
 
 It typically takes two-three weeks from the initial phone screen to the
 formal interview. The process usually begins with a 30-minute
@@ -62,7 +65,7 @@ knowledge that you bring with you to TTS.
 
 If TTS identifies you as a strong candidate after we complete the interviews, a TTS recruiter will reach out to you with next steps.
 
-### Security and Onboarding
+## Security and Onboarding
 
 The hiring process continues in partnership with GSA’s (our parent
 agency) Human Resources team. They’re responsible for extending
@@ -75,7 +78,7 @@ tentative and official final offers. The process is as follows:
 -   Once your e-QIP has been initially cleared, you will receive an interim security clearance, and a GSA HR specialist will call you with a final offer.
 -   At this stage, GSA HR and the TTS Talent team will work with you to identify and set a start date.
 
-#### Security Clearance Documents
+### Security Clearance Documents
 
 All government positions require some level of background check. Most
 roles at TTS require a public trust position clearance, which is more
