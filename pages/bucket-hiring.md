@@ -1,6 +1,6 @@
 ---
-title: Bucket hiring
-permalink: bucket-hiring/
+title: About the Direct Hire Authority
+permalink: /about-the-dha/
 
 sidenav:
   - text: Hiring process
@@ -11,8 +11,8 @@ sidenav:
     href: /resume/
   - text: Compensation and benefits
     href: /compensation-and-benefits/
-  - text: Bucket hiring
-    href: /bucket-hiring/
+  - text: About the Direct Hire Authority
+    href: /about-the-dha/
 
 subnav:
   - text: How the DHA works

@@ -11,8 +11,8 @@ sidenav:
     href: /resume/
   - text: Compensation and benefits
     href: /compensation-and-benefits/
-  - text: Bucket hiring
-    href: /bucket-hiring/
+  - text: About the Direct Hire Authority
+    href: /about-the-dha/
 ---
 
 Understanding every section of a federal job posting can help you
