@@ -88,8 +88,15 @@ layout: default
               <p>We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. Register for a session below.</p>
               <ul>
                 <li>
-                  <p><a href="{{ site.baseurl }}/join/coe-director/">General Hiring Info Session</a> Thursday, October 21 at 12:30 pm EDT / 9:30 am PDT</p>
+                  <p><a href="{{ site.baseurl }}/join/coe-director/">General Hiring Info Session</a><br /> Thursday, October 21 at 12:30 pm EDT / 9:30 am PDT</p>
                 </li>
+                {% for pg in sortedpages %}
+                  {% if pg.info_sessions.size > 0 %}
+                    {% for session in pg.info_sessions %}
+                      <li><p><a href="{{ site.baseurl }}{{ pg.permalink }}">{{ session.text }} Hiring Info Session</a><br />{{ session.date }} at {{ session.time }}</p></li>
+                    {% endfor %}
+                  {% endif %}
+                {% endfor %}
               </ul>
             </div>
           </div>
