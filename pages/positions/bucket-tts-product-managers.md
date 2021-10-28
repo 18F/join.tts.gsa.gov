@@ -7,11 +7,11 @@ info_sessions:
  - text: TTS Product/Project Manager
    link: https://www.eventbrite.com/e/tts-info-session-productproject-manager-tickets-188715040767
    date: October 25th
-   time: 9:30 a.m. PST / 12:30 p.m. EST
+   time: 9:30 am PDT / 12:30 pm EDT
  - text: TTS Product/Project Manager
    link: https://www.eventbrite.com/e/tts-info-session-productproject-manager-tickets-188736244187
    date: October 27th
-   time: 2 p.m. PST / 5 p.m. EST
+   time: 2 pm PDT / 5 pm EDT
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Product Manager/Project Manager
