@@ -15,8 +15,6 @@ sidenav:
     href: /bucket-hiring/
 
 subnav:
-  - text: What a Direct Hire Authority (DHA) means for TTS Hiring
-    href: "#bucket-hiring"
   - text: How the DHA works
     href: "#how-the-dha-works"
   - text: Resources
