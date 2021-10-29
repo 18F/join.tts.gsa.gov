@@ -1,38 +1,33 @@
 ---
-title: Technology Transformation Services Engineer
+title: Technology Transformation Services Engineer (IT Specialist)
 permalink: /join/tts-engineer/
 state: upcoming
 job_post_type: usajobs
-info_sessions:
- - text: TTS Engineering
-   link: https://www.eventbrite.com/e/tts-info-session-software-engineer-tickets-188741660387
-   date: October 28th
-   time: 2 p.m. PST / 5 p.m. EST
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Engineer
-opens: tbd
-# closes: MONTH DAY, YEAR, TIME EDT
+role_name: Engineer (IT Specialist)
+opens: 'October 29, 2021 at 9:00 am EDT'
+closes: 'November 15, 2021 at 11:59 pm EDT'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 14-15
-salary_min: 'GS14 Step 1 - $108,885 to GS 14 Step 10 $172,500'
-salary_max: 'GS-15 Step 1 - $128,078 to GS-15 Step 10 $172,500'
+salary_min: $108,885
+salary_max: $172,500
 org: TTS
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '22FASC053LUOTR'
+pd_job_title: 'IT Specialist (APPSW)'
+num_vacancies: '1'
+series: '2210'
+apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/619493000'
+ohrm_contact_email: 'Loyola.Ukpokodu@gsa.gov'
+ohrm_contact_name: 'Loyola Ukpokodu'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15' (13, 14, 15, etc.)
+supervisory_status:'NO'
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} {{ page.role_name }} roles.
@@ -218,7 +213,24 @@ This is a term limited appointment with the ability to extend for a total of eig
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-We will update the qualifications required for this position soon. 
+
+BASIC REQUIREMENTS:  Have IT-related experience demonstrating EACH of the four competencies listed below:
+
+-Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
+
+-Customer Service - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+
+-Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
+
+-Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate; AND
+
+**GS-14 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-13 level in the Federal service. Specialized experience:** 
+
+Experience developing modern web applications, backend services, or cloud infrastructure using approaches that may include test-driven development, continuous integration & deployment, or distributed version control such as github. Candidates should demonstrate experience providing guidance on technical projects and working in an iterative or agile environment.
+
+**GS-15 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience:** 
+
+Experience for this role is defined as engineering experience delivering projects, tools, services, or products as part of a team. This must include experience developing or architecting complex modern web applications, backend services, or cloud infrastructure using approaches or tools such as test-driven development, continuous integration & deployment, modern version control systems such as github or gitlab, or dependency management tools. Candidates must demonstrate experience providing technical project leadership, experience interfacing with high level stakeholders,  and experience with iterative or agile development methodologies.
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
