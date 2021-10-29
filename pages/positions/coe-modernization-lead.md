@@ -1,42 +1,33 @@
 ---
-title: Centers of Excellence - Modernization Lead
+title: Centers of Excellence - Modernization Lead (IT Specialist)
 permalink: /join/coe-modernization-lead/
-state: upcoming
+state: open
 job_post_type: usajobs
-info_sessions:
- - text: CoE Modernization Lead
-   link: https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-coe-modernization-lead-tickets-194787072377
-   date: Monday, November 1st
-   time: 9:30 a.m. PST / 12:30 p.m. EST
- - text: CoE Modernization Lead
-   link: https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-coe-modernization-lead-tickets-194790592907
-   date: Wednesday, November 3rd
-   time: 2 p.m. PST / 5 p.m. EST
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Modernization Lead
-opens: tbd
-# closes: tbd
+role_name: Modernization Lead (IT Specialist)
+opens: 'October 29, 2021 at 9:00 am EDT'
+closes: 'November 15, 2021 at 11:59 pm EDT'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 14-15
-# salary_min: 'ENTER SALARY MIN' (XXX,XXX)
-# salary_max: 'ENTER SALARY MAX' (XXX,XXX)
+salary_min: $108,885
+salary_max: $172,500
 org: Centers of Excellence
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '22FASC046SVGOTR'
+pd_job_title: 'IT Specialist (SYSANALYSIS)'
+num_vacancies: '1'
+series: '2210'
+apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/619455500'
+ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
+ohrm_contact_name: 'Sylvia Velez-Zuniga'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -255,7 +246,31 @@ This is a term limited appointment with the ability to extend for a total of eig
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-We will update the qualifications required for this position soon. 
+
+BASIC REQUIREMENTS:  Have IT-related experience demonstrating EACH of the four competencies listed below:
+
+- Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
+
+- Customer Service - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+
+- Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
+
+- Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate; AND
+
+**GS-14 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-13 level in the Federal service. Specialized experience is:**
+
+- Experience  collaborating on vision, direction, roadmap or supporting the identification of user needs for a project, product, platform, or service.
+- Experience with iterative or agile methodologies.
+- Experience working on cross-functional teams.
+- Experience incorporating input from senior stakeholders. 
+
+**GS-15 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience is:**
+
+- Experience leading vision, direction, roadmap or leading the identification of user needs for a project, product, platform, or service.
+- Experience providing project or product leadership.
+- Experience with iterative or agile methodologies. 
+- Experience leading cross-functional teams. 
+- Experience collaborating with senior or executive stakeholders.
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
