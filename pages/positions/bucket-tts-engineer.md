@@ -1,7 +1,7 @@
 ---
 title: Technology Transformation Services Engineer (IT Specialist)
 permalink: /join/tts-engineer/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -26,8 +26,8 @@ apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/619493000'
 ohrm_contact_email: 'Loyola.Ukpokodu@gsa.gov'
 ohrm_contact_name: 'Loyola Ukpokodu'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15' (13, 14, 15, etc.)
-supervisory_status:'NO'
+promotion_potential: '15'
+supervisory_status: 'NO'
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} {{ page.role_name }} roles.
@@ -216,13 +216,13 @@ This is a term limited appointment with the ability to extend for a total of eig
 
 BASIC REQUIREMENTS:  Have IT-related experience demonstrating EACH of the four competencies listed below:
 
--Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
+- Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
 
--Customer Service - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+- Customer Service - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
 
--Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
+- Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
 
--Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate; AND
+- Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate; AND
 
 **GS-14 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-13 level in the Federal service. Specialized experience:** 
 

@@ -1,7 +1,7 @@
 ---
 title: Technology Transformation Services Product Manager/Project Manager (IT Specialist)
 permalink: /join/tts-product-project-manager/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -26,7 +26,7 @@ apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/619455500'
 ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
 ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15' (13, 14, 15, etc.)
+promotion_potential: '15'
 supervisory_status: 'NO'
 ---
 {% if page.state == 'upcoming' %}
