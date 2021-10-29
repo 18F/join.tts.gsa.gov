@@ -1,7 +1,7 @@
 ---
 title: Technology Transformation Services Product Manager/Project Manager (IT Specialist)
 permalink: /join/tts-product-project-manager/
-state: open
+state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
