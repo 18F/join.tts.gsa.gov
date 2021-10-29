@@ -3,6 +3,15 @@ title: Centers of Excellence - Modernization Lead (IT Specialist)
 permalink: /join/coe-modernization-lead/
 state: open
 job_post_type: usajobs
+info_sessions:
+ - text: CoE Modernization Lead
+   link: https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-coe-modernization-lead-tickets-194787072377
+   date: Monday, November 1st
+   time: 9:30 a.m. PST / 12:30 p.m. EST
+ - text: CoE Modernization Lead
+   link: https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-coe-modernization-lead-tickets-194790592907
+   date: Wednesday, November 3rd
+   time: 2 p.m. PST / 5 p.m. EST
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Modernization Lead (IT Specialist)
