@@ -52,6 +52,10 @@ We hold periodic info sessions to offer potential candidates an opportunity to l
 * [Thursday, November 18 at 12:30 pm EDT / 9:30 am PDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-196679462567)
 * [Thursday, December 16 at 12:30 pm EDT / 9:30 am PDT](https://www.eventbrite.com/e/tts-talent-info-session-tickets-196682842677)
 
+##### U.S. Digital Corps info session
+
+* [Thursday, November 4 at 3:30 pm EDT / 12:30 am PDT](https://www.eventbrite.com/e/us-digital-corps-application-info-session-tickets-200982172087)
+
 ### Upcoming Positions
 {% comment %} No upcoming positions at this time. Check out our open roles or sign up for job alerts for future upcoming roles! {% endcomment %}
 
