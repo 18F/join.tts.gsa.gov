@@ -1,42 +1,33 @@
 ---
 title: Technology Transformation Services Supervisor 
 permalink: /join/tts-supervisor/
-state: upcoming
+state: open
 job_post_type: usajobs
-# info_sessions:
-#  - text: TEXT FOR INFO SESSION LINK
-#    link: EVENTBRITE LINK
-#    date: ENTER DATE
-#    time: ENTER TIME
-#  - text: (repeat as necessary)
-#    link: (repeat as necessary)
-#    date: (repeat as necessary)
-#    time: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Supervisor
-opens: tbd
-# closes: MONTH DAY, YEAR, TIME EDT
+role_name: Supervisor (Supervisory IT Specialist)
+opens: 'November 2, 2021 at 9:00 am EDT'
+closes: 'November 8, 2021 at 11:59 pm EDT'
 location: 'Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)'
 gs_level: 15
-# salary_min: $93,907
-# salary_max: $172,500
+salary_min: $128,078
+salary_max: $172,500
 org: TTS
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: '22FASC056SBOTR'
+pd_job_title: 'Supervisory IT Specialist (SYSANALYSIS)'
+num_vacancies: '1'
+series: '2210'
+apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/620091400'
+ohrm_contact_email: 'Stephanie.bernstein@gsa.gov'
+ohrm_contact_name: 'Stephanie Bernstein'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: '15'
+supervisory_status: 'YES'
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} {{ page.role_name }} roles.
@@ -171,7 +162,23 @@ Permanent hire. This is not a term limited opportunity. Applicants who are selec
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-We will update the qualifications required for this position soon. To qualify for this role, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).
+
+BASIC REQUIREMENTS:  Have IT-related experience demonstrating EACH of the four competencies listed below:
+
+Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
+
+Customer Service - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+
+Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
+
+Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate; AND
+
+**SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience:**
+
+-Experience leading a team that provides or supports delivery of modern IT product(s), platform(s), or service(s).
+-Experience with agile or iterative development methodologies.
+-Experience supporting the overall planning, management, and direction of a program or of projects.
+-Experience building alignment with stakeholders.
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
