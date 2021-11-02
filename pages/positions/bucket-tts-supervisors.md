@@ -175,10 +175,10 @@ Problem Solving - This skill is generally demonstrated by assignments where the 
 
 **SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience:**
 
--Experience leading a team that provides or supports delivery of modern IT product(s), platform(s), or service(s).
--Experience with agile or iterative development methodologies.
--Experience supporting the overall planning, management, and direction of a program or of projects.
--Experience building alignment with stakeholders.
+- Experience leading a team that provides or supports delivery of modern IT product(s), platform(s), or service(s).
+- Experience with agile or iterative development methodologies.
+- Experience supporting the overall planning, management, and direction of a program or of projects.
+- Experience building alignment with stakeholders.
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
