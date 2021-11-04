@@ -44,9 +44,10 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be
   notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
-  
+  {% unless page.opens == 'tbd' %}
   Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process. 
+  {% endunless %}
 {% endif %}
 
 {% if page.state != 'upcoming' %}
@@ -56,6 +57,9 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% endif %}
 
 {% if page.info_sessions %}
+## Attend an information session
+Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
+
 {% for session in page.info_sessions %}
 - {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
 {% endfor %}
