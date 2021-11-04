@@ -19,10 +19,10 @@ colors:
 #
 # # Header colors
   header:
-    header-bg: 'gray-cool-70'
-    header-title: 'white'
-    header-link: 'white'
-    header-link-hover: 'white'
+    header-bg: 'white'
+    header-title: 'gray-cool-60'
+    header-link: 'gray-cool-60'
+    header-link-hover: 'gray-cool-80'
 #
 # # Alt section colors
 #   alt-section:
@@ -33,14 +33,14 @@ colors:
 #     link-hover-color: 'orange'
 #
 # # Hero colors
-#   hero:
-#     hero-bg: 'white'
-#     hero-header: 'DarkSlateGray'
-#     hero-header-alt: 'DarkSlateGray'
-#     hero-text: 'Gray'
-#     hero-link: 'DodgerBlue'
-#     hero-button-bg: 'DodgerBlue'
-#     hero-button-text: 'white'
+  hero:
+    hero-bg: 'primary-darker'
+    hero-header: 'accent-cool-lighter'
+    hero-header-alt: 'accent-cool-lighter'
+    hero-text: 'white'
+    hero-link: 'white'
+    hero-button-bg: 'primary-darker'
+    hero-button-text: 'white'
 #
 # # Top navigation colors
 #   top-navigation:

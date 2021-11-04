@@ -2,6 +2,17 @@
 title: Preparing your resume
 permalink: resume/
 
+sidenav:
+  - text: Hiring process
+    href: /hiring-process/
+  - text: Reading a federal job posting
+    href: /federal-job-posting/
+  - text: Preparing your resume
+    href: /resume/
+  - text: Compensation and benefits
+    href: /compensation-and-benefits/
+  - text: About the Direct Hire Authority
+    href: /about-the-dha/
 subnav:
   - text: General recommendations
     href: "#general-recommendations"
@@ -25,7 +36,7 @@ you accomplished.
 
 This is an [example](https://handbook.18f.gov/resume/) of what your resume might look like for a position with TTS.
 
-### General Recommendations
+## General Recommendations
 
 -   When you’re preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
 -   Don’t get hung up on trying to match specific formatting; do make sure you’ve included the information relevant to each section.
@@ -35,7 +46,7 @@ This is an [example](https://handbook.18f.gov/resume/) of what your resume might
 -   We don’t use automated screening tools, so your application will be evaluated by people who have varying levels of familiarity with your professional experience. It’s better to be explicit and not assume the reader has expert domain knowledge or context.
 -   Quantify as applicable.
 
-### Key Information for Each Position
+## Key Information for Each Position
 
 This is the information that you should include for each position on your resume.
 
@@ -51,9 +62,9 @@ This is the information that you should include for each position on your resume
 -   List of relevant skills, tools, technologies used
 -   Specific duties, responsibilities, accomplishments of the position
 
-#### Detailed Description of Sections
+### Detailed Description of Sections
 
-##### Brief description of the organization and brief description of the product/project/team you worked on or supported (if applicable)
+#### Brief description of the organization and brief description of the product/project/team you worked on or supported (if applicable)
 
 This should provide a context for your work and accomplishments which helps us understand how they’re applicable to our work and the role for which you’re applying. Include the following information:
 
@@ -61,7 +72,7 @@ This should provide a context for your work and accomplishments which helps us u
 -   Impact/performance metrics and scope: users, clients, datasets, uptime, cycle time, etc.
 -   Team size/composition
 
-##### Relevant skills, tools, technologies used
+#### Relevant skills, tools, technologies used
 
 Describing the skills, methodologies, techniques, and tools you used in a position is important, but they can't simply be a list. If the skills, tools and technologies is just a list, it will not be able to be used to help you meet the minimum qualifications required for the role. You need to provide the context of how and why those skills were used in that position.
 
@@ -73,7 +84,7 @@ Here is an example of the **CORRECT** way to do it:
 
 > Developed new features and provided technical support solutions utilizing the Ruby on Rails framework, Postgres/PostGIS SQL, JSON and Redis while maintaining and deploying to Heroku, Amazon Web Services (AWS) cloud technologies including Relational Database Services (RDS) and Elastic Search environments
 
-### Example Resume Excerpt
+## Example Resume Excerpt
 
 This is an example of what you resume might look like for a position with TTS:
 
@@ -101,7 +112,7 @@ This is an example of what you resume might look like for a position with TTS:
 > -   *Automated testing of codebase using Rspec and CircleCi for continuous integration*
 > -   *Guided team members on data infrastructure to implement front end solutions and peer review code commits for potential refactorization to ensure quality*
 
-### Other Sections to Include, as Applicable
+## Other Sections to Include, as Applicable
 
 -   Volunteer work (include the organization’s name, years of participation, and a one-line description of your role)
 -   Relevant awards (include awarding organization, title of award, year received, and any relevant details, such as chosen as *award winner out of 300 contenders*)

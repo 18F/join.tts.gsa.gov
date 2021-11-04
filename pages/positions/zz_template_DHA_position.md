@@ -56,14 +56,25 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
   applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
 {% endif %}
 
+<div class="grid-row grid-gap padding-top-4">
+<div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
 {% if page.info_sessions %}
-## Attend an information session
+<div class="usa-summary-box">
+<div class="usa-summary-box__body">
+<h3 class="usa-summary-box__heading">
+Attend an information session
+</h3>
+<div class="usa-summary-box__text" markdown="1">
 Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
 
 {% for session in page.info_sessions %}
-- {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
+- [{{session.text}} Info Session]({{session.link}}), {{session.date}} at {{session.time}}
 {% endfor %}
+</div>
+</div>
+</div>
 {% endif %}
+</div>
 
 **Location:**
 {{ page.location }}
@@ -344,3 +355,6 @@ After the closing date/deadline:
 3. **SELECTION/TENTATIVE JOB OFFER:** If a selection is made, a Tentative Offer is extended to the selectee and suitability and/or security background investigation is conducted.
 4. **FINAL JOB OFFER:** A final job offer is made (typically within 40 days after the closing date/deadline for applications).
 5. **FINAL COMMUNICATION TO APPLICANTS:** Once the position is filled, we will notify all applicants of their final status. You may check your status by logging into USAJOBS. Go to My USAJOBS and then to Applications.
+
+</div>
+</div>

@@ -2,6 +2,10 @@
 title: TTS offices
 permalink: tts-offices/
 
+sidenav:
+  - text: Our offices
+    href: tts-offices/
+
 subnav:
   - text: Centers of Excellence
     href: "#centers-of-excellence"
@@ -28,7 +32,7 @@ described below, and you can learn more by selecting the associated
 link. If you have questions about a role, please reach out to our Talent
 Team at [JoinTTS@gsa.gov](email:jointts@gsa.gov), and a recruiter will reach out to you.
 
-### Centers of Excellence
+## Centers of Excellence
 *Whole-agency modernization to improve customer experiences and reduce legacy IT spending.*
 
 The IT Modernization Centers of Excellence (CoE) help agencies
@@ -46,16 +50,18 @@ staff cover six main areas:
 
 The CoE is good for candidates looking for large, long-term projects
 where your team will be embedded at an agency with the potential for
-transformative change.
+transformative change. [Consider joining the CoE](https://coe.gsa.gov/connect/contact-us.html#joinus).
 
-**Case study:** [Accelerating cloud adoption at USDA](https://coe.gsa.gov/coe/cloud-adoption.html)
+> ### Case study: [Accelerating cloud adoption at USDA](https://coe.gsa.gov/coe/cloud-adoption.html)
+>
+> As part of a larger technology modernization program, the Cloud Adoption
+> Center of Excellence helped the USDA generate more than $2 million in
+> cost avoidance while assessing and prioritizing applications to move to
+> the cloud.
 
-As part of a larger technology modernization program, the Cloud Adoption
-Center of Excellence helped the USDA generate more than $2 million in
-cost avoidance while assessing and prioritizing applications to move to
-the cloud.
+----
 
-### 18F
+## 18F
 *Project-specific partnerships to define strategies and build solutions, from discovery through acquisition.*
 
 18F partners with agencies to help them build and buy digital services
@@ -67,14 +73,15 @@ new digital skills during projects so they can take over continued
 development. [Consider joining the 18F
 team](https://18f.gsa.gov/join).
 
-**Case study:** [Making Federal Election Commission campaign data easy
-to use](https://18f.gsa.gov/what-we-deliver/fec-gov/)
+> ### Case study: [Making Federal Election Commission campaign data easy to use](https://18f.gsa.gov/what-we-deliver/fec-gov/)
+>
+> 18F helped the FEC overhaul their data, website, legal opinions, and
+> become a digital-first agency. From the product owner: “We didn’t know
+> where to start, but in the end, we got so much more than a website.
 
-18F helped the FEC overhaul their data, website, legal opinions, and
-become a digital-first agency. From the product owner: “We didn’t know
-where to start, but in the end, we got so much more than a website.
+----
 
-### Presidential Innovation Fellows
+## Presidential Innovation Fellows
 *Fellowship program where leaders serve a “tour of duty” as entrepreneurs alongside top agency changemakers.*
 
 The Presidential Innovation Fellows (PIF) program is made up of mid- to
@@ -89,15 +96,16 @@ Washington, D.C., with fellowships typically starting in late summer or
 early fall. On a case-by-case basis, some PIFs may be provided opportunities on projects outside the D.C. area.  [Apply to become a Presidential Innovation
 Fellow](https://presidentialinnovationfellows.gov/).
 
-**Case study:** [Increasing Americans' access
-to their own health information](https://presidentialinnovationfellows.gov/projects/blue-button-initiative.html)
+> ### Case study: [Increasing Americans' access to their own health information](https://presidentialinnovationfellows.gov/projects/blue-button-initiative.html)
+> 
+> A team of PIFs worked with agencies across government to expand the Blue
+> Button Initiatives by building APIs that allow more people to access
+> their health information and make more informed decisions about their
+> health.
 
-A team of PIFs worked with agencies across government to expand the Blue
-Button Initiatives by building APIs that allow more people to access
-their health information and make more informed decisions about their
-health.
+----
 
-### Office of Solutions
+## Office of Solutions
 *Portfolio of shared services that help agencies make information accessible, drive innovation, and avoid costs.*
 
 The Office of Solutions works with agencies to improve
@@ -111,15 +119,16 @@ experience specialists, engineers, data scientists, and user experience
 designers who work on established products and services for the public
 and federal agencies. [Find out more about the Office of Solutions (formerly Office of Products and Programs)](https://handbook.18f.gov/office-of-products-and-programs/).
 
-**Case study:** [Data.gov provides a central source for government
-data](https://www.data.gov)
+> ### Case study: [Data.gov provides a central source for government data](https://www.data.gov)
+> 
+> Data.gov is one of Solutions’s many shared services for all of government.
+> With Data.gov, the public can come to one place to find data sets from
+> all over government and use them for research, business operations, and
+> journalism.
 
-Data.gov is one of Solutions’s many shared services for all of government.
-With Data.gov, the public can come to one place to find data sets from
-all over government and use them for research, business operations, and
-journalism.
+----
 
-### U.S Digital Corps
+## U.S Digital Corps
 *Fellowship program for early-career technologists to launch impactful careers in public service and create a more effective, equitable government.*
 
 The U.S. Digital Corps is a two‑year fellowship for early‑career technologists where you will work every day to make a difference in critical impact areas including coronavirus response, economic recovery, cybersecurity, and racial equity.
@@ -129,7 +138,9 @@ The U.S Digital Corps Fellows are mission-driven junior technologists from under
 More information about the program is available at [digitalcorps.gsa.gov](https://digitalcorps.gsa.gov/).
 
 
-### Office of Acquisition
+----
+
+## Office of Acquisition
 
 The Office of Acquisition (OA) offers acquisition services and buys
 digital products and services for our own organization, TTS. Our
@@ -142,7 +153,9 @@ these principles. In the spirit of innovation, we also experiment with
 new, collaborative ways of doing procurement while adhering to the
 various regulations and policies governing our work.
 
-### TTS Front Office
+----
+
+## TTS Front Office
 
 The TTS Front Office is made up of the TTS Director and FAS Deputy
 Commissioner, the TTS Chief of Staff, and their advisors and
@@ -152,7 +165,8 @@ in order to further the TTS mission. The TTS Front Office is responsible
 for any major organizational decisions and speaks on behalf of TTS to
 GSA leadership.
 
-### Office of Operations
+----
+## Office of Operations
 
 The Office of Operations keeps TTS running smoothly and ensures the team
 has the tools needed to focus on the TTS mission. The Office of

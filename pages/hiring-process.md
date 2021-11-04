@@ -2,6 +2,18 @@
 title: Navigating the hiring process
 permalink: hiring-process/
 
+sidenav:
+  - text: Hiring process
+    href: /hiring-process/
+  - text: Reading a federal job posting
+    href: /federal-job-posting/
+  - text: Preparing your resume
+    href: /resume/
+  - text: Compensation and benefits
+    href: /compensation-and-benefits/
+  - text: About the Direct Hire Authority
+    href: /about-the-dha/
+
 subnav:
   - text: Application
     href: "#application"
@@ -10,7 +22,7 @@ subnav:
   - text: Security and onboarding
     href: "#security-and-onboarding"
 ---
-
+{{ sidenav }}
 Don’t let the federal hiring process seem daunting. We demystify it
 below, so you know what to expect. Here's a look at the average time of each stage from application to your first day at TTS.
 
@@ -23,7 +35,7 @@ below, so you know what to expect. Here's a look at the average time of each sta
 | [Offer and security](#security-and-onboarding) | 30 to 60 |
 | **Total from application to start** | **80 to 110** |
 
-### Application
+## Application
 
 When you apply for a role at TTS, you’ll need to submit a
 [government-style
@@ -36,7 +48,7 @@ the same time.
 Preference](https://www.fedshirevets.gov/job-seekers/veterans-preference/)
 is applied for candidates who have claimed their veteran status.
 
-### Interviews
+## Interviews
 
 It typically takes two-three weeks from the initial phone screen to the
 formal interview. The process usually begins with a 30-minute
@@ -53,7 +65,7 @@ knowledge that you bring with you to TTS.
 
 If TTS identifies you as a strong candidate after we complete the interviews, a TTS recruiter will reach out to you with next steps.
 
-### Security and Onboarding
+## Security and Onboarding
 
 The hiring process continues in partnership with GSA’s (our parent
 agency) Human Resources team. They’re responsible for extending
@@ -66,7 +78,7 @@ tentative and official final offers. The process is as follows:
 -   Once your e-QIP has been initially cleared, you will receive an interim security clearance, and a GSA HR specialist will call you with a final offer.
 -   At this stage, GSA HR and the TTS Talent team will work with you to identify and set a start date.
 
-#### Security Clearance Documents
+### Security Clearance Documents
 
 All government positions require some level of background check. Most
 roles at TTS require a public trust position clearance, which is more
@@ -74,3 +86,42 @@ thorough than most private-sector background checks but not as intensive
 as a higher government security clearance. The clearance process adds
 some time and forms to the hiring process, but the GSA Human Resources
 team will guide you through it.
+
+## More about how we hire
+### TTS is an Equal Opportunity Employer
+
+We’re building a team that reflects our country. We don’t
+discriminate based on race, color, religion, sex, gender identity or
+expression, national origin, political affiliation, sexual orientation,
+marital status, disability, genetic information, age, membership in an
+employee organization, retaliation, parental status, military service,
+or other non-merit factors.
+
+### Hiring Authorities
+
+There are two primary types of [hiring
+authorities](https://www.usajobs.gov/Help/working-in-government/service/)
+used by TTS: Competitive Service and Excepted Service. The application
+and hiring process will vary slightly based on the type of role for which you are
+ applying.
+
+**Competitive Service:** Applicants for all competitive service roles must complete the application process at usajobs.gov. Individuals go
+through a competitive hiring process before being selected and
+appointed.  This hiring process may consist of a
+written test, an evaluation of the individual’s education and
+experience, or an evaluation of other attributes necessary for
+successful performance in the position to be filled.
+
+**Excepted Service:** These roles are “not to exceed” (NTE) positions,
+which means they are two-year terms and can be extended once for a total
+of four years of service. These roles are not always posted on
+usajobs.gov. Instead, candidates can apply via our online application.
+
+### Eligibility
+
+For **Competitive Service** roles: All United States citizens and
+nationals (residents of American Samoa and Swains Islands) are eligible
+to apply.
+
+For **Excepted Service** roles: All United States citizens and nationals
+(residents of American Samoa and Swains Islands) are eligible to apply.

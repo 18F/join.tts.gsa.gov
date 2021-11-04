@@ -1,9 +1,18 @@
-# Set header title differently from the site's title (as defined in _config.yml).
-# Uncomment the following line to use the header title.
-# title: Header title
+# For all header options, see https://github.com/18F/uswds-jekyll/blob/main/_data/header.yml
 
+# Show or hide the official USA banner at the top of the site.
+# Comment out to the following line to hide.
 usa_banner: true
+
+# Defines the type of header.
+# Header types can be 'basic', 'basic-mega', 'extended' or 'extended-mega'.
+# https://designsystem.digital.gov/components/headers/
 type: extended
 
+# this is a key into _data/navigation.yml
 primary:
   links: primary
+
+# this is a key into _data/navigation.yml
+secondary:
+  links: secondary
