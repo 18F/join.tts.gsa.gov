@@ -50,7 +50,7 @@ staff cover six main areas:
 
 The CoE is good for candidates looking for large, long-term projects
 where your team will be embedded at an agency with the potential for
-transformative change.
+transformative change. [Consider joining the CoE](https://coe.gsa.gov/connect/contact-us.html#joinus).
 
 > ### Case study: [Accelerating cloud adoption at USDA](https://coe.gsa.gov/coe/cloud-adoption.html)
 >
