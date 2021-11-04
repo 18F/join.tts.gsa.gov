@@ -1,11 +1,19 @@
 ---
 layout: default
 ---
-<section class="usa-section job-posting">
+<div class="grid-container">
+  <div class="grid-row grid-gap">
+    <div class="desktop:grid-col-12 margin-top-4">
+      <a href="/">
+        <img src="{{ site.baseurl }}/assets/uswds/img/angle-left-solid.svg" class="margin-right-1" height="11"/>Back to all jobs</a>
+    </div>
+  </div>
+</div>
+<section class="usa-section job-posting padding-top-4">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="desktop:grid-col-12 usa-prose margin-bottom-3">
-      <h1>{{ page.title }}</h1>
+        <h1>{{ page.title }}</h1>
       {% if page.state == "closed" %}
       <div class="usa-alert usa-alert-warning">
         <div class="usa-alert-body">
