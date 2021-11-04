@@ -250,3 +250,15 @@ $theme-color-accent-cool-lighter: #e1f3f8;
     background-color: #02bfe7; 
   }
 }
+
+.back-breadcrumb {
+  &:before {
+    display: inline-block;
+    vertical-align: baseline;
+    height: .8rem;
+    width: .8rem;
+    content: '';
+    background: url('/assets/uswds/img/angle-left-solid.svg') no-repeat center left transparent;
+    background-size: contain;
+  }
+}
