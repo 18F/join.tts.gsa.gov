@@ -57,7 +57,7 @@ supervisory_status: 'YES'
 Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
 
 {% for session in page.info_sessions %}
-- {{session.text}} info session, [{{session.date}} at {{session.time}}]({{session.link}})
+- [{{session.text}} Info Session]({{session.link}}), {{session.date}} at {{session.time}}
 {% endfor %}
 </div>
 </div>

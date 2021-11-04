@@ -39,13 +39,13 @@ layout: default
         {% unless pg.path contains 'template' %}
         {% unless pg.path contains 'performance-profiles' %}
         <li>
-        <a href="{{ site.baseurl }}{{ pg.permalink }}">{{ pg.title }}</a> (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
+        <a href="{{ site.baseurl }}{{ pg.permalink }}">{{ pg.title }}</a> (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }} Eastern)
         </li>
         {% endunless %}
         {% elsif pg.state == 'usajobs' %}
         {% unless pg.path contains 'template'  %}
         <li>
-        <a href="{{ site.baseurl }}{{ pg.permalink }}">{{ pg.title }}</a> (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }})
+        <a href="{{ site.baseurl }}{{ pg.permalink }}">{{ pg.title }}</a> (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }} Eastern)
         </li>
         {% endunless %}
         {% endunless %}
@@ -54,8 +54,8 @@ layout: default
         </ul>
 
         <h2> Upcoming positions</h2>
-        {% comment %} <p>No upcoming positions at this time. Check out our open roles or sign up for job alerts for future upcoming roles!</p> {% endcomment %}
-        <ul>
+        <p>No upcoming positions at this time. Check out our open roles or <a href="{{ site.baseurl }}/newsletter">sign up for job alerts</a> for future upcoming roles!</p>
+        <!-- uncommment when there are positions available <ul>
         {% for pg in sortedpages %}
         {% if pg.state == 'upcoming' %}
         {% unless pg.path contains 'template' %}
@@ -67,7 +67,7 @@ layout: default
         {% endunless %}
         {% endif %}
         {% endfor %}
-        </ul>
+        </ul> -->
         <h2>Application process</h2>
         <p>
         We have an amazing recruitment team who will usher you from application to interview to onboarding with TTS.
@@ -87,9 +87,12 @@ layout: default
             <div class="usa-summary-box__text">
               <p>We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. Register for a session below.</p>
               <ul>
-                <!-- Uncomment and update url to general session when available <li>
-                  <p><a target="_blank" href="https://www.eventbrite.com/o/technology-transformation-services-tts-32345787587">General Hiring Info Session</a><br /> Thursday, October 21 at 9:30 am PDT / 12:30 pm EDT </p>
-                </li> -->
+                <li>
+                  <p><a target="_blank" href="https://www.eventbrite.com/e/tts-talent-info-session-tickets-196679462567">General Hiring Info Session</a><br /> Thursday, November 18 at 12:30 pm EST / 9:30 am PST </p>
+                </li>
+                <li>
+                  <p><a target="_blank" href="https://www.eventbrite.com/e/tts-talent-info-session-tickets-196682842677">General Hiring Info Session</a><br /> Thursday, December 16 at 12:30 pm EST / 9:30 am PST </p>
+                </li>
                 {% for pg in sortedpages %}
                   {% if pg.info_sessions.size > 0 %}
                     {% for session in pg.info_sessions %}
