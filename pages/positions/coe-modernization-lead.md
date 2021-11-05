@@ -28,14 +28,7 @@ ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'NO'
-
-info_sessions: 
-  - text: "CoE Modernization Lead"
-    date: "Wednesday, November 3rd"
-    time: "2 p.m. PST / 5 p.m. EST"
-    link: "https://www.eventbrite.com/e/tts-info-session-centers-of-excellence-coe-modernization-lead-tickets-194790592907"
 ---
-
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} {{ page.role_name }}. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. 
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be
