@@ -1,7 +1,7 @@
 ---
 title: Centers of Excellence - Modernization Lead (IT Specialist)
 permalink: /join/coe-modernization-lead/
-state: open
+state: closed
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
