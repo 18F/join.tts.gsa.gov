@@ -23,7 +23,7 @@ posting and what information to look for when crafting your application.
   <div class="usa-alert-body">
     <h2 class="usa-alert-heading">Looking for information to customize your resume?</h2>
     <p class="usa-alert-text" markdown="1">
-      Be sure to carefully read the [Role Summary](#role-summary), [Evaluations](#evaluations), and [Qualifications](#qualifications) sections.
+      Be sure to carefully read the [Role Summary](#role-summary) and [Qualifications](#qualifications) sections.
     </p>
   </div>
 </aside>
