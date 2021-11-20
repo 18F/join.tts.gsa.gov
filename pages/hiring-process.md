@@ -142,7 +142,7 @@ Some examples:
 
 If TTS identifies you as a strong candidate after we complete the interviews, a
 TTS recruiter will reach out to you with next steps. The hiring process
-continues in partnership with GSA’s (our parent magency) Human Resources team.
+continues in partnership with GSA’s (our parent agency) Human Resources team.
 They’re responsible for extending tentative and official final offers. The
 process is as follows:
 
@@ -192,8 +192,8 @@ for which you are applying.
 
 **Direct Hire Authority:** DHA is a special appointing authority and we use this
 authority to fill the majority of roles at TTS. Applications for these roles are
-completed on [USAJOBS.gov]. DHA positions can be either term-limited or
-full-time career positions. See [About the Direct Hire
+completed on [USAJOBS.gov](https://usajobs.gov). DHA positions can be either
+term-limited or full-time career positions. See [About the Direct Hire
 Authority]({{ site.baseurl }}/about-the-dha/) for more details.
 
 **Competitive Service:** Applicants for all competitive service roles must
