@@ -5,18 +5,22 @@ primary:
     href: /
   - text: How we hire
     links:
-    - text: Hiring process
-      href: /hiring-process/
-    - text: Reading a federal job posting
-      href: /federal-job-posting/
-    - text: Preparing your resume
-      href: /resume/
-    - text: Compensation and benefits
-      href: /compensation-and-benefits/
-    - text: About the Direct Hire Authority
-      href: /about-the-dha/
-  - text: Our offices
-    href: /tts-offices/
+      - text: Hiring process
+        href: /hiring-process/
+      - text: Reading a federal job posting
+        href: /federal-job-posting/
+      - text: Preparing your resume
+        href: /resume/
+      - text: Compensation and benefits
+        href: /compensation-and-benefits/
+      - text: About the Direct Hire Authority
+        href: /about-the-dha/
+  - text: About TTS
+    links:
+      - text: Our offices
+        href: /tts-offices/
+      - text: Working at TTS
+        href: /working-at-tts/
 
 secondary:
   - text: Sign up for job alerts
