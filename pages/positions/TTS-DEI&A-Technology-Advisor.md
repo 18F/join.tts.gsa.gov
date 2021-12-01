@@ -66,48 +66,32 @@ employees or contractors
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-18F is looking for talented software developers who will help our partner agencies deliver better digital services to the public. As a Consulting Engineer at 18F, you will be a builder, contributor, and catalyst. Working with folks across the organization, you will solve large, complex problems while promoting user-centered, open, and transparent culture. The role involves diverse responsibilities — you might be writing code one day, meeting with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. [18F is an open-source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
+TTS improves the public’s experience with the government by helping federal agencies build, buy and share technology that allows them to be more accessible, efficient, and effective. Our goal is a world of easy-to-use, effective, and secure digital government products and services for the American people. You’ll make a difference by bringing your leadership and creativity to a talented and passionate community while creating impactful initiatives that will directly affect the American public.
 
-This role may be perfect for you if you have the technical skills to tackle engineering problems, the social skills to face human-factors problems, and the judgment to differentiate between the two. Our ideal candidate will be equally excited about sticky technical issues and intricate human ones. Impact in this role can’t be measure on a GitHub contribution graph; ideal candidates should be equally comfortable solving technical problems by writing code, explaining technical design architecture to technical and less technical folks alike, and leading organizational strategy and change.
+The TTS Diversity, Equity, Inclusion & Accessibility (DEIA) Technology Advisor will work collaboratively with GSA stakeholders and federal partners to ensure that DEIA best practices are incorporated into products, programs and services. They will establish and maintain Federal partnerships and foster organizational cultures which effectively reflect Federal DEIA priorities and commitments. The focus will be on:
 
-18F’s core languages are Ruby, Python, JavaScript, and Go. You should have strong, demonstrable experience with at least one of these languages and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
+## TTS Technology Product/Design Expertise (40%)
 
-## Key Objectives
+- Promotes inclusive and participatory design strategies with stakeholders and partners, providing training, research, and toolkits to delivery teams. 
+- Defines and drives equity and accessibility best practices and requirements in TTS work across external agencies and business units. 
+- Defines DEIA metrics to evaluate TTS programs and to support various business units in assessment.  Socializes, measures, and regularly reports on progress, taking a data-driven approach.  
+- Plans and leads external DEIA efforts to address issues in areas where precedents do not exist; and establishes new approaches to ensure that DEIA priorities and commitments are met. 
+- Works with external agency leadership to promote Federal, GSA, TTS and related special emphasis programs. Collaborates with TTS affinity groups to evangelize community needs.
 
-### Key objective #1: You’ll contribute high-quality, well-tested, maintainable code across an entire project lifecycle, using best practices for modern software development.
 
-- Practice and enthusiastically share engineering methodologies and tools throughout all stages of the project lifecycle
-- Influence project planning and design using usability research, analytics, and other metrics
-- Participate in code review, architecture discussions, and feature prioritization
-- Take pride of ownership in all projects you touch; leave code better than you found it
-- Contribute to documentation, tests, style fixes, accessibility, performance, security, and more
-- Deliver code that’s easy to deploy, update, and monitor by ensuring that the necessary tooling is present early in the project development cycle or by introducing tooling into an existing project, as needed
+### GSA Enterprise DEIA-Related Initiatives and Presidential Priorities (40%)
 
-### Key objective #2: You’ll positively contribute to the culture and knowledge of the engineering team, practicing and enthusiastically sharing agile methodologies throughout all stages of the project lifecycle.
+- Collaborates with GSA’s Senior Advisor for Equity and supports GSA enterprise-wide DEIA-related initiatives and administration priorities, including Executive Orders.
+- Serves as a connecting force to advance overall GSA priorities and commitments. Identifies DEIA successes in TTS projects, shares results with other GSA offices, and encourages agency-wide adoption. Brings best practices from other GSA offices to TTS.
+- Makes recommendations and provides input into GSA reports, as requested. 
 
-- Work within a distributed, multidisciplinary agile team by participating in constructive discussions, openly sharing knowledge, and demonstrating value for technical and non-technical contributions
-- Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences
-- Provide visibility into each project’s progress, communicate blockers and challenges, and ask for help when you need it
-- Demonstrate a strong understanding of the elements of agile methodology (scrum, kanban, and so on)
-- Practice human-centered design, user testing, feature prioritization, DevOps, and other relevant concepts
 
-### Key objective #3: You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
+### TTS Program Support (20%)
 
-- Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
-- Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
-- Meet the needs of internal and external customers
-- Make well-informed, effective, and timely decisions
-- Identify and analyze problems in a constructive manner
-- Explain technical issues and concepts clearly to both technical and non-technical audiences
-
-### Key objective #4: You’ll lead change, both within and outside the organization, to meet organizational goals. You’ll help establish an organizational vision and implement it in a continuously changing environment.
-
-- Develop new insights into situations and question conventional approaches
-- Develop, implement, and drive technical strategy in engineering-specific and organization-wide contexts
-- Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views
-- Adapt to change and quickly integrate new information
-- Formulate and execute consistently against objectives and priorities
-- Take a long-term view and build a shared vision with people across TTS, GSA, and across the US Government
+- Works with the Office of Human Resources Management (OHRM) to support TTS’s and GSA’s creation of a DEIA strategic plan to identify, socialize, measure and regularly report on programmatic goals and milestones.
+- Supports accessibility initiatives that foster environments where everyone can thrive, including employees along the full range of neurodiversity, in collaboration with the GSA Senior Advisor, OHRM and various stakeholders and partners. 
+- Partners with TTS People Operations and Talent teams to conduct external DEIA audits, measures, and to improve Federal DEIA practices, programs and commitments. 
+- Partners with TTS senior leadership, Front Office, and the TTS Outreach team to draft, review and edit TTS DEI&A focused communications, emails, presentations, and the TTS Handbook.
 
 {% if page.state != 'upcoming' %}
 
@@ -156,14 +140,10 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+Career/Perm
   
 ## Job Summary
   
-This is a Schedule A position under 5 CFR 213.3102(r) to hire unique technical skills to develop innovative digital tools and services in the Excepted Services, US Digital Service 18F Fellowship Program. The 18F office is charged with developing innovative digital tools and services and uses lean startup and agile development principles to collaborate with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
-
-As an Innovation Specialist, the team member serves the government and makes an impact on a massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposal, and provide technical, policy, and programmatic guidance to government.
-
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
@@ -198,8 +178,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 
 ## Duties
 
-Typical duties for the fellow include but are not limited to:
-Conceiving/recommending projects/studies to advance the state of the art in the specialty area; applying forward­ thinking design and development principles to product or services development, delivery and program management, such as lean startup, user­centered design, and agile development; Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions; Assessing the state of digital services provided by the Federal Government, and working to align strategies and practice; conferring with key government/private officials and top experts in the field, representing the agency at technical symposia and/or conferences; Developing authoritative papers/reports; developing and leading adoption of government­wide standards for digital services, leading to their adoption across citizen and business­facing government services; Demonstrating thought leadership and contributing best practices in a variety of technologies and principles; Contributing to a talent strategy that includes recruiting innovators and entrepreneurs to participate in solving complex and esoteric challenges.
 
 {% endif %}
 
@@ -250,12 +228,11 @@ and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
-1. Experience building out DEIA strategy and implementation in large, complex organizations
-2. Experience in the technology industry and DEIA in delivery of technology solutions
-3. Experience with human-centered, iterative, and data-driven approaches to program design, delivery, and problem solving
-4. Direct experience with both senior executives and grassroots employee communities like employee resource groups, affinity groups, and/or communities of practice
-5. Experience in public policy and policy writing
-
+1. Experience building and implementing a diversity, equity, inclusion, or accessibility strategy in a large, complex organization
+2. Experience in the delivery of technology solutions
+3. Experience with human-centered, iterative, or data-driven approaches to program design, delivery, or problem solving
+4. Direct experience with both senior executives or grassroots employee communities like employee resource groups, affinity groups, and/or communities of practice
+5. Experience creating executive-level communications that reflect current DEIA best practices
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
