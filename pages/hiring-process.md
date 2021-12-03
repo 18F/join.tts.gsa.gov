@@ -113,9 +113,7 @@ to make this experience as transparent - and enjoyable - as possible!
 
 We typically use Google Meet for all of our screens - if you are not comfortable
 or familiar with using Google Meet let your recruiter know and they will be
-happy to set up a test chat with you prior to your interviews! Some candidates
-have found
-[these tips helpful for interviewing remotely](https://www.youtube.com/watch?v=rQwanxQmFnc).
+happy to set up a test chat with you prior to your interviews! 
 
 In case there are technical issues with a video call, you will also be provided
 with a dial-in number you can call by phone.
