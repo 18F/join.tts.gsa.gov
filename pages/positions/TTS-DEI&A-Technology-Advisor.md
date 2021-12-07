@@ -79,14 +79,14 @@ The TTS Diversity, Equity, Inclusion & Accessibility (DEIA) Technology Advisor w
 - Works with external agency leadership to promote Federal, GSA, TTS and related special emphasis programs. Collaborates with TTS affinity groups to evangelize community needs.
 
 
-### GSA Enterprise DEIA-Related Initiatives and Presidential Priorities (40%)
+## GSA Enterprise DEIA-Related Initiatives and Presidential Priorities (40%)
 
 - Collaborates with GSA’s Senior Advisor for Equity and supports GSA enterprise-wide DEIA-related initiatives and administration priorities, including Executive Orders.
 - Serves as a connecting force to advance overall GSA priorities and commitments. Identifies DEIA successes in TTS projects, shares results with other GSA offices, and encourages agency-wide adoption. Brings best practices from other GSA offices to TTS.
 - Makes recommendations and provides input into GSA reports, as requested. 
 
 
-### TTS Program Support (20%)
+## TTS Program Support (20%)
 
 - Works with the Office of Human Resources Management (OHRM) to support TTS’s and GSA’s creation of a DEIA strategic plan to identify, socialize, measure and regularly report on programmatic goals and milestones.
 - Supports accessibility initiatives that foster environments where everyone can thrive, including employees along the full range of neurodiversity, in collaboration with the GSA Senior Advisor, OHRM and various stakeholders and partners. 
