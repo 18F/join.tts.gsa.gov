@@ -222,10 +222,6 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
-
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
 
 1. Experience building and implementing a diversity, equity, inclusion, or accessibility strategy in a large, complex organization
