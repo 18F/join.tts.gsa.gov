@@ -1,7 +1,7 @@
 ---
 title: TTS - Diversity, Equity, Inclusion & Accessibility Technology Advisor
 permalink: /join/DEIA-Technology-Advisor/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -9,7 +9,7 @@ role_name: DEI&A Technology Advisor
 opens: TBD
 closes: TBD
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
-gs_level: 'GS-15'
+gs_level: '15'
 salary_min: '142,701'
 salary_max: '170,800'
 org: 'Technology Transformation Services'
@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-num_vacancies: 'ENTER NUMBER OF VACANCIES'
-series: '0301' ENTER SERIES IF DIFFERENT
-apply_url: APPLICATION URL
-ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-supervisory_status: 'YES' or 'NO'
+# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+# num_vacancies: 'ENTER NUMBER OF VACANCIES'
+# series: '0301' ENTER SERIES IF DIFFERENT
+# apply_url: APPLICATION URL
+# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
+# supervisory_status: 'YES' or 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -176,22 +176,25 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
-## Application Evaluation
+## Evaluation
 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
+We will use a method called Category Rating to assess your application.
 
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
+**Here’s how it will work:**
 
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
+You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
 
-{% endif %}  
+- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
+- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
 
-{% if page.state != 'upcoming' %}
+If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
+
+If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+
+Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+
+{% endif %}
 
 ## Qualifications
 
