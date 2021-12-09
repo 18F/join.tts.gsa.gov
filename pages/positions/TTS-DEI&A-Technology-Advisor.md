@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-num_vacancies: 'ENTER NUMBER OF VACANCIES'
-series: '0301' ENTER SERIES IF DIFFERENT
-apply_url: APPLICATION URL
-ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-supervisory_status: 'YES' or 'NO'
+# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
+# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
+# num_vacancies: 'ENTER NUMBER OF VACANCIES'
+# series: '0301' ENTER SERIES IF DIFFERENT
+# apply_url: APPLICATION URL
+# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
+# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
+# supervisory_status: 'YES' or 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -175,23 +175,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
-
-## Application Evaluation
-
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
-
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
-
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
-
-{% endif %}  
-
-{% if page.state != 'upcoming' %}
+{% endif %}
 
 ## Qualifications
 
