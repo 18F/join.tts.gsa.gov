@@ -54,8 +54,8 @@ layout: default
         </ul>
 
         <h2> Upcoming positions</h2>
-        <p>No upcoming positions at this time. Check out our open roles or <a href="{{ site.baseurl }}/newsletter">sign up for job alerts</a> for future upcoming roles!</p>
-        <!-- uncommment when there are positions available <ul>
+        {% comment %} <p>No upcoming positions at this time. Check out our open roles or <a href="{{ site.baseurl }}/newsletter">sign up for job alerts</a> for future upcoming roles!</p> {% endcomment %}
+         <ul>
         {% for pg in sortedpages %}
         {% if pg.state == 'upcoming' %}
         {% unless pg.path contains 'template' %}
@@ -67,7 +67,7 @@ layout: default
         {% endunless %}
         {% endif %}
         {% endfor %}
-        </ul> -->
+        </ul>
         <h2>Application process</h2>
         <p>
         We have an amazing recruitment team who will usher you from application to interview to onboarding with TTS.
