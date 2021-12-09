@@ -9,7 +9,7 @@ role_name: DEI&A Technology Advisor
 opens: TBD
 closes: TBD
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
-gs_level: 'GS-15'
+gs_level: '15'
 salary_min: '142,701'
 salary_max: '170,800'
 org: 'Technology Transformation Services'
