@@ -1,7 +1,7 @@
 ---
 title: TTS - Diversity, Equity, Inclusion & Accessibility Technology Advisor
 permalink: /join/DEIA-Technology-Advisor/
-state: upcoming
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -176,6 +176,13 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
+## Duties
+
+
+{% endif %}
+
+{% if page.state == 'upcoming' %}
+
 ## Application Evaluation
 
 The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
@@ -192,6 +199,26 @@ The information in this sections outlines the criteria that your application wil
 {% endif %}  
 
 {% if page.state != 'upcoming' %}
+
+## Evaluation
+
+We will use a method called Category Rating to assess your application.
+
+**Here’s how it will work:**
+
+You will be scored based on a review of your application materials, measuring your possession of each of the following competencies
+
+- **Communication:** Communicate effectively with a variety of audiences, particularly in consulting scenarios, to establish a shared vision and understanding of a project’s technical implementation, objectives and goals
+- **Technical Strategy:** Advising on technical strategy, agile development, software tools, and technical architecture
+- **TTS Core Values Alignment:** Working with integrity, transparency and resiliency in civic minded or high impact environment
+
+If found to be eligible and at least minimally qualified for the position, your score will be used to place you in a category (Best Qualified, Well Qualified, or Qualified).
+
+If your resume does not support your possession of the competencies listed above, we may lower your score, which could place you in a lower category.
+
+Within each category, veterans will receive selection priority over non-veterans if supported by appropriate documentation.
+
+{% endif %}
 
 ## Qualifications
 
