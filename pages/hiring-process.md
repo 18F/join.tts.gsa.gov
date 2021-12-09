@@ -113,7 +113,7 @@ to make this experience as transparent - and enjoyable - as possible!
 
 We typically use Google Meet for all of our screens - if you are not comfortable
 or familiar with using Google Meet let your recruiter know and they will be
-happy to set up a test chat with you prior to your interviews! 
+happy to set up a test chat with you prior to your interviews! You can also test your sound and video prior to your interview using [these instructions](https://support.google.com/meet/answer/10409699?hl=en).
 
 In case there are technical issues with a video call, you will also be provided
 with a dial-in number you can call by phone.
