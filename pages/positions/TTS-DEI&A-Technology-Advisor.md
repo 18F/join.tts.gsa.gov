@@ -176,8 +176,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
-{% endif %}
-
 ## Evaluation
 
 We will use a method called Category Rating to assess your application.
