@@ -94,11 +94,8 @@ addition to the skills and knowledge that you bring with you to TTS. Some
 positions will have a technical interview (such as a coding exercise interview)
 as a second round before moving candidates forward to the final round of
 interviews. Our final round of interviews will always include a TTS Core Values
-interview. You can see our
-[Core Values Interview Guide here](https://docs.google.com/document/d/1TtKFtxvYzrI2P334KN2H5NkYyR6a9BvfcG7j21PCnDY/edit#).
-If you are interviewing for a supervisory position, you will also be invited to
-a TTS Supervisor Interview, and you can see that
-[interview guide here](https://docs.google.com/document/d/1Tv7DADjwKW09PMheoy3TKFugJzd65wl8qWqIb9N59iI/edit#).
+interview, and if you are interviewing for a supervisory position, you will also be invited to
+a TTS Supervisor interview.
 
 We share copies of all of our interview guides with candidates in advance of
 your interviews. Sharing questions in advance helps our team provide you a
