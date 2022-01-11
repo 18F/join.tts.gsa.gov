@@ -119,7 +119,7 @@ We realize video chats aren’t an option for everyone, so we are also happy to
 work with a candidate’s individual needs to ensure they have a good interviewing
 experience and can use their preferred method of communication.
 
-### Accomodations
+### Accommodations
 
 We want to interview you at your best, and we’re more than happy to provide
 reasonable accommodations to support that! Let us know if there are
