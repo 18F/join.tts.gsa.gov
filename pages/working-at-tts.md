@@ -48,7 +48,7 @@ marginalized. This includes affinity groups for and by:
 - Asian, Pacific Islander, and Native Hawaiian employees
 - LGBTQQIAAP employees (anyone who identifies as lesbian, gay, bisexual,
   transgender, queer, questioning, intersex, asexual, or pansexual)
-- ewish employees
+- Jewish employees
 - People with disabilities
 - Women
 - Veterans
