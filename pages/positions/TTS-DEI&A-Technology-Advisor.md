@@ -10,8 +10,8 @@ opens: TBD
 closes: TBD
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
-salary_min: '142,701'
-salary_max: '170,800'
+salary_min: '148,484'
+salary_max: '176,300'
 org: 'Technology Transformation Services'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -52,7 +52,7 @@ Your salary, including base and locality, will be determined upon selection, dep
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
 
 Please note the maximum salary available for the GS pay system is **$172,500** 
 
