@@ -198,7 +198,7 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## Qualifications
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized experience is:
+To qualify for this role, you must have one year of specialized experience. Specialized experience is:
 
 1. Experience building and implementing a diversity, equity, inclusion, or accessibility strategy in a large, complex organization
 2. Experience in the delivery of technology solutions
