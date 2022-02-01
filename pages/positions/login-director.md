@@ -88,9 +88,9 @@ Your salary, including base and locality, will be determined upon selection, dep
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a
-salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
+salary calculator [OPM's 2022 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$172,500** 
+Please note the maximum salary available for the GS pay system is **$176,300** 
 
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
@@ -303,37 +303,9 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
-
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. Specialized
-experience is:
-
-1. Experience as a consultant or internal developer managing client, partner, or account relationships to deliver on large or complex projects as part of a
-cross-functional team. This experience must include **ONE** of the following:
-- Delivering projects with complex requirements, multiple stakeholders with disparate views or high levels of bureaucracy
-- Delivering public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-- Delivering tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
-
-2. Experience developing full-stack web applications using test-driven development, delivering measurable results for clients. This experience must include **ALL**
-of the following:
-- Developing digital applications using **ONE** of the following server-side languages: Python, Ruby, Go or Node.js
-- Developing digital applications using a relational or non-relational data layers
-- Developing digital applications using test-driven development and software testing tools
-
-3. Experience deploying or operating digital applications on cloud technologies. This experience must include **ONE** of the following:
-- Developing digital applications using Infrastructure-as-a-Service (IaaS)
-- Developing digital applications using Platform-as-a-Service (PaaS)
-- Developing digital applications using containerization technologies
-- Developing digital applications using configuration management tools
-- Developing digital applications using infrastructure automation tooling
-
-Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in
-disqualification.
+The minimum qualifications for this position will be updated before the public notice goes live. Please check back. Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
 For each job on your resume, provide:
-
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
 
