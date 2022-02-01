@@ -1,8 +1,8 @@
 ---
 title: login.gov - Director
-# permalink: /join/login-director /
-# state: closed
-# job_post_type: usajobs
+permalink: /join/login-director/
+state: upcoming
+job_post_type: usajobs
 # info_sessions:
 #  - text: TEXT FOR INFO SESSION LINK
 #    link: EVENTBRITE LINK
@@ -14,16 +14,16 @@ title: login.gov - Director
 #    time: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-# role_name: Director
-# opens: TBD
-# closes: TBD
-# location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
-# gs_level: '15'
-# salary_min: '131,178'
-# salary_max: '176,300'
-# org: Login.gov
-# contact_name: 'TTS Talent Team'
-# contact_email: 'jointts@gsa.gov'
+role_name: Director
+opens: TBD
+closes: TBD
+location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+gs_level: '15'
+salary_min: '131,178'
+salary_max: '176,300'
+org: Login.gov
+contact_name: 'TTS Talent Team'
+contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
@@ -57,14 +57,15 @@ title: login.gov - Director
 {% endif %}
 
 <div class="grid-row grid-gap padding-top-4">
+
 <div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
 {% if page.info_sessions %}
-<div class="usa-summary-box">
-<div class="usa-summary-box__body">
-<h3 class="usa-summary-box__heading">
-Attend an information session
-</h3>
-<div class="usa-summary-box__text" markdown="1">
+  <div class="usa-summary-box">
+    <div class="usa-summary-box__body">
+      <h3 class="usa-summary-box__heading">
+        Attend an information session
+      </h3>
+      <div class="usa-summary-box__text" markdown="1">
 Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
 
 {% for session in page.info_sessions %}
@@ -75,7 +76,7 @@ Attend an information session to learn more about these roles, working at TTS, a
 </div>
 {% endif %}
 </div>
-
+<div class="desktop:grid-col-8 usa-prose" markdown="1">
 **Location:**
 {{ page.location }}
 
