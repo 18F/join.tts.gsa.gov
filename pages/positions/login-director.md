@@ -1,5 +1,5 @@
 ---
-title: login.gov - Director
+title: Login.gov - Director
 permalink: /join/login-director/
 state: upcoming
 job_post_type: usajobs
