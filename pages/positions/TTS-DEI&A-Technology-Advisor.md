@@ -41,7 +41,7 @@ contact_email: 'jointts@gsa.gov'
 - [April 14 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-296922732887)
 {% endif %}
   
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
+Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
 {% if page.state != 'upcoming' %}
