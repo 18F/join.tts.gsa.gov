@@ -32,11 +32,13 @@ contact_email: 'jointts@gsa.gov'
 
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
-  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter) or register for one of our information sessions:
-
-[April 7 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295338444237)
-[April 11 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295445223617)
+  {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
 {% endif %}
+
+ ## Register for one of our information sessions to learn more about this role:
+
+- [April 7 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295338444237)
+- [April 11 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295445223617)
   
   Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
