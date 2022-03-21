@@ -15,8 +15,8 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
-opens:  3/21/2022
-closes: 4/4/2022 11:59 pm EDT
+opens:  '3/21/2022'
+closes: '4/4/2022 11:59 PM EDT'
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
 salary_min: '131,178'
