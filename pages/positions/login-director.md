@@ -35,7 +35,7 @@ apply_url: 'https://www.usajobs.gov/job/643330100'
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
 ohrm_contact_name: 'John Chiu'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'GS-15' (13, 14, 15, etc.)
+promotion_potential: '15' 
 supervisory_status: 'YES'
 ---
 
