@@ -16,7 +16,7 @@ job_post_type: usajobs
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Director
 opens:  3/21/2022
-closes: 4/4/2022
+closes: 4/4/2022 12am EST
 location: 'Virtual (100% Remote), Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
 salary_min: '131,178'
@@ -31,7 +31,7 @@ contact_email: 'jointts@gsa.gov'
 # pd_job_title: 'Supervisory Information Technology Specialist'
 # num_vacancies: '1'
 # series: '2210'
-# apply_url: https://www.usajobs.gov/job/643330100
+# apply_url: 'https://www.usajobs.gov/job/643330100'
 # ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
 # ohrm_contact_name: 'John Chiu'
 # bargaining_unit: 'Non Bargaining Unit'
