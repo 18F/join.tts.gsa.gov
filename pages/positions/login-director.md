@@ -197,7 +197,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Excepted Service: Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+Competitive Service
   
 ## Job Summary
   
@@ -303,7 +303,16 @@ Within each category, veterans will receive selection priority over non-veterans
 
 ## Qualifications
 
-The minimum qualifications for this position will be updated before the public notice goes live. Please check back. Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
+**SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience is defined as:**
+
+- Experience managing customer-focused teams.
+- Experience scaling and growing a technical program or product.
+- Experience leading a team that provides or supports modern IT systems, software systems, or platforms.
+- Experience supporting the overall planning, management, and direction of a technical program or product.
+- Experience building alignment with executive stakeholders.
+- Experience working on products with security and compliance consideration.
+
+
 
 For each job on your resume, provide:
 - the exact dates you held each job (from month/year to month/year or “present”)
