@@ -27,16 +27,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: '22FASC250JCOTR'
-# pd_job_title: 'Supervisory Information Technology Specialist'
-# num_vacancies: '1'
-# series: '2210'
-# apply_url: 'https://www.usajobs.gov/job/643330100'
-# ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-# ohrm_contact_name: 'John Chiu'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'GS-15' (13, 14, 15, etc.)
-# supervisory_status: 'YES'
+job_announcement_number: '22FASC250JCOTR'
+pd_job_title: 'Supervisory Information Technology Specialist'
+num_vacancies: '1'
+series: '2210'
+apply_url: 'https://www.usajobs.gov/job/643330100'
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'John Chiu'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: 'GS-15' (13, 14, 15, etc.)
+supervisory_status: 'YES'
 ---
 
 {% if page.state == 'upcoming' %}
