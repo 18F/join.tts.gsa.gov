@@ -1,7 +1,7 @@
 ---
 title: Login.gov - Director
 permalink: /join/login-director/
-state: upcoming
+state: open
 job_post_type: usajobs
 # info_sessions:
 #  - text: TEXT FOR INFO SESSION LINK
@@ -27,16 +27,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
+# job_announcement_number: '22FASC250JCOTR'
+# pd_job_title: 'Supervisory Information Technology Specialist'
+# num_vacancies: '1'
+# series: '2210'
+# apply_url: https://www.usajobs.gov/job/643330100
+# ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+# ohrm_contact_name: 'John Chiu'
 # bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+# promotion_potential: 'GS-15' (13, 14, 15, etc.)
+# supervisory_status: 'YES'
 ---
 
 {% if page.state == 'upcoming' %}
