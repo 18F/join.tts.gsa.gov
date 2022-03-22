@@ -23,9 +23,9 @@ pd_job_title: 'Office of Acquisition (OA) Oversight Branch Chief'
 num_vacancies: '1'
 series: '1102'
 apply_url: https://www.usajobs.gov/Job/634065500
-ohrm_contact_email: 'jointts@gsa.gov'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
+ohrm_contact_email: 'nrc@gsa.gov'
+ohrm_contact_name: 'nrc@gsa.gov'
+bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'YES'
 ---
