@@ -1,5 +1,5 @@
 ---
-title: OA Oversight Branch Chief
+title: Office of Acquisition Oversight Branch Chief
 permalink: /join/oa-oversight-branch-chief/
 state: open
 job_post_type: tts
@@ -57,8 +57,7 @@ Please note the maximum salary available for the GS pay system is **$176,300**
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who may apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
 
 ## Basic information
@@ -96,33 +95,17 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Career/Perm
+Competitive Service
   
 ## Submission requirements
-Candidates interested should submit applications via the GSA Direct Hiring Announcement (DHA) **no later than 3/28/2022** to ensure consideration for the available position described below. 
 
-- **DHA Announcement:** [https://www.usajobs.gov/job/634065500#](https://www.usajobs.gov/job/634065500#)
-- **Office:** TTS Office of Acquisition; Oversight Branch
-- **Supervisory:** {{ page.supervisory_status }}
-- **Work schedule & location:** {{ page.location }}
- 
-Following your application submission, please send an email to jointts@gsa.gov with the following information:
- 
-- Briefly describe your interest in joining TTS OA
-- Tell us the date you submitted your application 
-- Attach Resume
-
-## Selection process
-
-Reviewing resume and panel interview consisting of OA leadership, potentially OA team members, and/or GSA key stakeholders.
-
-## Opportunity summary & requirements
+### Role summary
 
 The Office of Acquisition (OA) is passionate about TTS’ mission to design and deliver a digital government with and for the American public. We embody and embrace the values of TTS, which are Inclusion, Integrity, and Impact and seek to further TTS’ vision of providing a trusted modern government experience for all. You’ll make a difference by bringing your leadership and creativity to a talented and passionate community while creating impactful initiatives that will directly affect the American public by way of innovative acquisition.
 
 The Oversight Branch Chief has leadership/supervisory responsibilities for the Oversight Branch and leads the branch in determining best acquisition practices, lessons learned, and aids the procurement analysts in developing internal controls for OA. This role is part of the OA management team and assists the director in establishing and maintaining a robust acquisition team. The overall goal for this role is to improve the quality of OA’s work.
 
-### Key Objective 1: Lead an innovative group of Procurement Analysts
+#### Key Objective 1: Lead an innovative group of Procurement Analysts
 
 - Manages and supervises staff team.
 - Responsible for all supervisory functions including but not limited to: hiring, training and development, performance plans and evaluations, recognition, promotions, counseling and discipline, leave approval, time cards, end of month reporting, travel or other status-change decisions,etc.
@@ -133,7 +116,7 @@ The Oversight Branch Chief has leadership/supervisory responsibilities for the O
 - Provides an opportunity for subordinates to express ideas, opinions, suggestions, and concerns as well as fosters a participatory work environment. 
 - Establishes short and long term training goals with employees for their IDP that will help the individual grow professionally, work towards new certifications (or keep certifications in a valid standing) and develop skills that will bring value to TTS.
 
-### Key Objective 2: Provides acquisition expertise
+#### Key Objective 2: Provides acquisition expertise
 
 - Provides expert advice on procurement matters including contract documentation, policy questions, legislation issues, and congressional inquiries impacting contracting matters. 
 - Leads audits of high dollar value, complex, long range, and/or sensitive procurements, ensuring accuracy and compliance and translating lessons learned into policy recommendations.
