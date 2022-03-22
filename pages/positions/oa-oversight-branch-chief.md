@@ -99,6 +99,19 @@ Competitive Service
   
 ## Submission requirements
 
+Candidates interested should submit applications via the GSA Direct Hiring Announcement (DHA) **no later than 3/29/2022** to ensure consideration for the available position described below.
+
+- **DHA Announcement:** [https://www.usajobs.gov/job/634065500#](https://www.usajobs.gov/job/634065500#)
+- **Office:** TTS Office of Acquisition; Oversight Branch
+- **Supervisory:** Yes
+- **Work Schedule & Location:** Full time, Virtual (Location Negotiable After Selection, US)
+ 
+Following your application submission, please send an email to  jointts@gsa.gov  with the following information:
+ 
+- Briefly describe your interest in joining TTS OA
+- Tell us the date you submitted your application 
+- Attach Resume
+
 ### Role summary
 
 The Office of Acquisition (OA) is passionate about TTS’ mission to design and deliver a digital government with and for the American public. We embody and embrace the values of TTS, which are Inclusion, Integrity, and Impact and seek to further TTS’ vision of providing a trusted modern government experience for all. You’ll make a difference by bringing your leadership and creativity to a talented and passionate community while creating impactful initiatives that will directly affect the American public by way of innovative acquisition.
