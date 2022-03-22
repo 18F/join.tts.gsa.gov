@@ -106,7 +106,7 @@ Candidates interested should submit applications via the GSA Direct Hiring Annou
 - **Supervisory:** Yes
 - **Work Schedule & Location:** Full time, Virtual (Location Negotiable After Selection, US)
  
-Following your application submission, please send an email to  jointts@gsa.gov  with the following information:
+Following your application submission, please send an email to jointts@gsa.gov with the following information:
  
 - Briefly describe your interest in joining TTS OA
 - Tell us the date you submitted your application 
