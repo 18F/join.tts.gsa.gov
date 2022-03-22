@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Office of Acquisition (OA) Oversight Branch Chief
 opens: TBD
-closes: TBD
+closes: 'March 29, 2022 at 11:59pm EDT'
 location: 'Full time, Virtual (Location Negotiable After Selection, US)'
 gs_level: '15'
 salary_min: '131,178'
