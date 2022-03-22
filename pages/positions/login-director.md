@@ -255,7 +255,7 @@ their adoption across citizen and business­facing government services; Demonstr
 {% endif %}
 
 {% if page.state == 'upcoming' %}
-## Application E
+## Application 
 The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position.
 There are two very important things to note about this step in the process:
 
