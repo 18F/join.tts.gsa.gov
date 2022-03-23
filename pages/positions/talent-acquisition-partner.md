@@ -1,17 +1,17 @@
 ---
 title: TTS Talent - Talent Acquisition Partner
 permalink: /join/talent-acquisition-partner/
-state: closed
+state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Talent Acquisition Partner
-opens: 'June 14, 2021 at 9:00am EDT'
-closes: 'June 21, 2021 at 11:59pm EDT'
+opens: 'TBD'
+closes: 'TBD'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '13'
-salary_min: '92,143' 
-salary_max: '146,120' 
+salary_min: '94,373' 
+salary_max: '150,703' 
 org: 'TTS Talent' 
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -52,9 +52,9 @@ Your salary, including base and locality, will be determined upon selection, dep
 
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2021 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
+For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2022 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$172,500** 
+Please note the maximum salary available for the GS pay system is **$176,300** 
 
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
