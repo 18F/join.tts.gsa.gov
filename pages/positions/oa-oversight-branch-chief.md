@@ -99,17 +99,16 @@ Competitive Service
   
 ## Submission requirements
 
-Candidates interested should submit applications via the GSA Direct Hiring Announcement (DHA) **no later than 3/29/2022** to ensure consideration for the available position described below.
+Candidates interested should submit applications via the GSA Direct Hiring Announcement (DHA) and an expression of interest email to jointts@gsa.gov (see instructions below) no later than 4/1/2022.  **Please note, both application and interest email shall be received in order to be considered.**
 
 - **DHA Announcement:** [https://www.usajobs.gov/job/634065500#](https://www.usajobs.gov/job/634065500#)
 - **Office:** TTS Office of Acquisition; Oversight Branch
 - **Supervisory:** Yes
 - **Work Schedule & Location:** Full time, Virtual (Location Negotiable After Selection, US)
  
-Following your application submission, please send an email to jointts@gsa.gov with the following information:
- 
+**Expression of interest email shall be sent to jointts@gsa.gov with the following information:**
 - Briefly describe your interest in joining TTS OA
-- Tell us the date you submitted your application 
+- Tell us the date you submitted your application
 - Attach Resume
 
 ### Role summary
