@@ -7,7 +7,7 @@ job_post_type: tts
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Office of Acquisition (OA) Oversight Branch Chief
 opens: 'March 22, 2022'
-closes: 'March 29, 2022 at 11:59pm EDT'
+closes: 'April 1, 2022 at 11:59pm EDT'
 location: 'Full time, Virtual (Location Negotiable After Selection, US)'
 gs_level: '15'
 salary_min: '131,178'
@@ -99,14 +99,14 @@ Competitive Service
   
 ## Submission requirements
 
-Candidates interested should submit applications via the GSA Direct Hiring Announcement (DHA) and an expression of interest email to jointts@gsa.gov (see instructions below) no later than 4/1/2022.  **Please note, both application and interest email shall be received in order to be considered.**
+Candidates interested should submit applications via the GSA Direct Hiring Announcement (DHA) and an expression of interest email to jointts@gsa.gov (see instructions below) no later than 4/1/2022.  **Please note, both application and interest email must be received in order to be considered.**
 
 - **DHA Announcement:** [https://www.usajobs.gov/job/634065500#](https://www.usajobs.gov/job/634065500#)
 - **Office:** TTS Office of Acquisition; Oversight Branch
 - **Supervisory:** Yes
 - **Work Schedule & Location:** Full time, Virtual (Location Negotiable After Selection, US)
  
-**Expression of interest email shall be sent to jointts@gsa.gov with the following information:**
+**Expression of interest email must be sent to jointts@gsa.gov with the following information:**
 - Briefly describe your interest in joining TTS OA
 - Tell us the date you submitted your application
 - Attach Resume
