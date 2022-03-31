@@ -68,16 +68,16 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% if page.state != 'upcoming' %}
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
-
 <div class="grid-row grid-gap padding-top-4">
+
 <div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
 {% if page.info_sessions %}
-<div class="usa-summary-box">
-<div class="usa-summary-box__body">
-<h3 class="usa-summary-box__heading">
-Attend an information session
-</h3>
-<div class="usa-summary-box__text" markdown="1">
+  <div class="usa-summary-box">
+    <div class="usa-summary-box__body">
+      <h3 class="usa-summary-box__heading">
+        Attend an information session
+      </h3>
+      <div class="usa-summary-box__text" markdown="1">
 Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
 
 {% for session in page.info_sessions %}
@@ -88,6 +88,8 @@ Attend an information session to learn more about these roles, working at TTS, a
 </div>
 {% endif %}
 </div>
+
+<div class="desktop:grid-col-8 usa-prose" markdown="1">
 
 ## Opportunity overview
 
