@@ -3,6 +3,19 @@ title: TTS - Diversity, Equity, Inclusion & Accessibility Technology Advisor
 permalink: /join/DEIA-Technology-Advisor/
 state: upcoming
 job_post_type: tts
+info_sessions:
+ - text: TTS DEI&A Technology Advisor info sessions
+   link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295338444237
+   date: April 7
+   time: 12pm EDT
+ - text: TTS DEI&A Technology Advisor info sessions
+   link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295445223617
+   date: April 11
+   time: 12pm EDT
+ - text: TTS DEI&A Technology Advisor info sessions
+   link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-296922732887
+   date: April 14
+   time: 12pm EDT
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: DEI&A Technology Advisor
@@ -33,12 +46,6 @@ contact_email: 'jointts@gsa.gov'
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
   {% if page.opens == 'TBD' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter) or register for one of our information sessions:
-
-- [April 7 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295338444237)
-
-- [April 11 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295445223617)
-
-- [April 14 at 12pm EST](https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-296922732887)
 {% endif %}
   
 Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
