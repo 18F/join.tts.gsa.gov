@@ -3,6 +3,15 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # permalink: /join/ENTER ROLE TITLE HERE/
 # state: ENTER STATE HERE (open, closed, upcoming)
 # job_post_type: ENTER TYPE HERE (tts or usajobs)
+# info_sessions: 
+#   - text: 'SESSION 1 TITLE'
+#     date: 'WEEKDAY, MONTH, DAY'
+#     time: '2pm PST / 5pm EST'
+#     link: 'https://www.eventbrite.com/LINK/HERE'
+#   - text: 'SESSION 2 TITLE'
+#     date: 'WEEKDAY, MONTH, DAY'
+#     time: '2pm PST / 5pm EST'
+#     link: 'https://www.eventbrite.com/LINK/HERE'
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 # role_name: ENTER THE NAME OF THE ROLE HERE (Without Org)
@@ -41,7 +50,28 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% if page.state != 'upcoming' %}
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
+<div class="grid-row grid-gap padding-top-4">
 
+<div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
+{% if page.info_sessions %}
+  <div class="usa-summary-box">
+    <div class="usa-summary-box__body">
+      <h3 class="usa-summary-box__heading">
+        Attend an information session
+      </h3>
+      <div class="usa-summary-box__text" markdown="1">
+Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
+
+{% for session in page.info_sessions %}
+- [{{session.text}} Info Session]({{session.link}}), {{session.date}} at {{session.time}}
+{% endfor %}
+</div>
+</div>
+</div>
+{% endif %}
+</div>
+
+<div class="desktop:grid-col-8 usa-prose" markdown="1">
 **Location:**
 {{ page.location }}
 
