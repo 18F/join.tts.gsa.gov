@@ -44,29 +44,6 @@ supervisory_status: 'NO'
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** Product Managers/Project Managers are crucial to TTS significantly improving our products, platforms, and services. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. This page contains a high-level summary of the role. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
 
-<div class="grid-row grid-gap padding-top-4">
-
-<div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
-{% if page.info_sessions %}
-  <div class="usa-summary-box">
-    <div class="usa-summary-box__body">
-      <h3 class="usa-summary-box__heading">
-        Attend an information session
-      </h3>
-      <div class="usa-summary-box__text" markdown="1">
-Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
-
-{% for session in page.info_sessions %}
-- [{{session.text}} Info Session]({{session.link}}), {{session.date}} at {{session.time}}
-{% endfor %}
-</div>
-</div>
-</div>
-{% endif %}
-</div>
-
-<div class="desktop:grid-col-8 usa-prose" markdown="1">
-
 ## Opportunity overview
 
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions.
@@ -276,5 +253,3 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-</div>
-</div>

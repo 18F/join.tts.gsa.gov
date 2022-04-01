@@ -3,19 +3,6 @@ title: TTS - Diversity, Equity, Inclusion & Accessibility Technology Advisor
 permalink: /join/DEIA-Technology-Advisor/
 state: upcoming
 job_post_type: tts
-info_sessions:
- - text: TTS DEI&A Technology Advisor
-   link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295338444237
-   date: April 7
-   time: 12pm EDT
- - text: TTS DEI&A Technology Advisor
-   link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295445223617
-   date: April 11
-   time: 12pm EDT
- - text: TTS DEI&A Technology Advisor
-   link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-296922732887
-   date: April 14
-   time: 12pm EDT
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: DEI&A Technology Advisor
@@ -55,28 +42,7 @@ Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
-<div class="grid-row grid-gap padding-top-4">
 
-<div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
-{% if page.info_sessions %}
-  <div class="usa-summary-box">
-    <div class="usa-summary-box__body">
-      <h3 class="usa-summary-box__heading">
-        Attend an information session
-      </h3>
-      <div class="usa-summary-box__text" markdown="1">
-Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
-
-{% for session in page.info_sessions %}
-- [{{session.text}} Info Session]({{session.link}}), {{session.date}} at {{session.time}}
-{% endfor %}
-</div>
-</div>
-</div>
-{% endif %}
-</div>
-
-<div class="desktop:grid-col-8 usa-prose" markdown="1">
 **Location:**
 {{ page.location }}
 
@@ -247,5 +213,3 @@ For each job on your resume, provide:
 
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
-</div>
-</div>

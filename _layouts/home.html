@@ -2,6 +2,7 @@
 layout: default
 ---
 {% assign sortedpages = site.pages | sort: 'title' %}
+{% assign sortedinfosessions = site.data.info_sessions | sort: 'date' %}
 <section class="usa-hero padding-y-6">
   <div class="grid-container">
       <h1 class="usa-hero__heading--alt font-heading-l font-family-sans margin-top-0 tablet:margin-bottom-0">
@@ -87,12 +88,8 @@ layout: default
             <div class="usa-summary-box__text">
               <p>We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. Register for a session below.</p>
               <ul>
-                {% for pg in sortedpages %}
-                  {% if pg.info_sessions.size > 0 %}
-                    {% for session in pg.info_sessions %}
-                      <li><p><a target="_blank" href="{{ session.link }}">{{ session.text }} Hiring Info Session</a><br />{{ session.date }} at {{ session.time }}</p></li>
-                    {% endfor %}
-                  {% endif %}
+                {% for session in sortedinfosessions %}
+                    <li><p><a target="_blank" href="{{ session.link }}">{{session.role}} Hiring Info Session</a><br />{{session.date | date: "%A, %B %d,"}} at {{ session.time }}</p></li>
                 {% endfor %}
               </ul>
             </div>
