@@ -46,28 +46,6 @@ supervisory_status: 'NO'
   applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
 {% endif %}
 
-<div class="grid-row grid-gap padding-top-4">
-
-<div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
-{% if page.info_sessions %}
-  <div class="usa-summary-box">
-    <div class="usa-summary-box__body">
-      <h3 class="usa-summary-box__heading">
-        Attend an information session
-      </h3>
-      <div class="usa-summary-box__text" markdown="1">
-Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
-
-{% for session in page.info_sessions %}
-- [{{session.text}} Info Session]({{session.link}}), {{session.date}} at {{session.time}}
-{% endfor %}
-</div>
-</div>
-</div>
-{% endif %}
-</div>
-
-<div class="desktop:grid-col-8 usa-prose" markdown="1">
 ## Role Summary:
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
@@ -292,5 +270,3 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-</div>
-</div>

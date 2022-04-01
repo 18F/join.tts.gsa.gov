@@ -1,0 +1,39 @@
+# How to use this file:
+# Update the YAML below with the info sessions you would like to display on the site. Use the following format:
+# role: The name of the role, as written in the `role_name` frontmatter attribute of the job. For general sessions, use "General."
+# link: The eventbrite link.
+# date: YYYY-MM-DD format. This will get parsed automatically to show day of the week and month name.
+# time: Time in 00:00 ET / 00:00 PT format. 
+
+- role: DEI&A Technology Advisor
+  link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295338444237
+  date: 2022-04-07
+  time: 12pm EDT
+- role: DEI&A Technology Advisor
+  link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-295445223617
+  date: 2022-04-11
+  time: 12pm EDT
+- role: DEI&A Technology Advisor
+  link: https://www.eventbrite.com/e/diversity-equity-inclusion-accessibility-technology-advisor-session-tickets-296922732887
+  date: 2022-04-14
+  time: 12pm EDT
+- role: General
+  link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302958044667
+  date: 2022-04-28
+  time: 12:30-1:30 ET (9:30-10:30 PT) 
+- role: General
+  link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302969167937
+  date: 2022-05-19
+  time: 12:30-1:30 ET (9:30-10:30 PT)
+- role: General
+  link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302971645347
+  date: 2022-06-16
+  time: 12:30-1:30 ET (9:30-10:30 PT)
+- role: General
+  link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302975737587
+  date: 2022-07-14
+  time: 12:30-1:30 ET (9:30-10:30 PT)
+- role: General
+  link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302977492837
+  date: 2022-08-18
+  time: 2:30-1:30 ET (9:30-10:30 PT) 

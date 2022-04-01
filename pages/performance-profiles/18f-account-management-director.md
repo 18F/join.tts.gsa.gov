@@ -90,10 +90,3 @@ The links below provide descriptions specific to each {{ page.org }} team. When 
 ## Preparing to apply
 
 This Join TTS site has information about [the application process](https://join.tts.gsa.gov/hiring-process/) and [how to prepare a government-style resume](https://join.tts.gsa.gov/resume/).
-
-{% if page.info_sessions %}
-### Attend an information session
-{% for session in page.info_sessions %}
-- [{{session.text}}]({{session.link}})
-{% endfor %}
-{% endif %}

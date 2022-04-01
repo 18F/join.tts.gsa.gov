@@ -8,15 +8,6 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 #    link: /join/ENTER PERFORMANCE PROFILE PAGENAME HERE
 #  - name: (repeat as necessary)
 #    link: (repeat as necessary)
-# info_sessions:
-#  - text: TEXT FOR INFO SESSION LINK
-#    link: EVENTBRITE LINK
-#    date: ENTER DATE
-#    time: ENTER TIME
-#  - text: (repeat as necessary)
-#    link: (repeat as necessary)
-#    date: (repeat as necessary)
-#    time: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 # role_name: ENTER THE NAME OF THE ROLE HERE (Without Org)
@@ -42,16 +33,6 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 # bargaining_unit: 'Non Bargaining Unit'
 # promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
 # supervisory_status: 'YES' or 'NO'
-
-# info_sessions: 
-#   - text: 'SESSION 1 TITLE'
-#     date: 'WEEKDAY, MONTH, DAY'
-#     time: '2pm PST / 5pm EST'
-#     link: 'https://www.eventbrite.com/LINK/HERE'
-#   - text: 'SESSION 2 TITLE'
-#     date: 'WEEKDAY, MONTH, DAY'
-#     time: '2pm PST / 5pm EST'
-#     link: 'https://www.eventbrite.com/LINK/HERE'
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
@@ -68,28 +49,6 @@ title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
 {% if page.state != 'upcoming' %}
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
-<div class="grid-row grid-gap padding-top-4">
-
-<div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
-{% if page.info_sessions %}
-  <div class="usa-summary-box">
-    <div class="usa-summary-box__body">
-      <h3 class="usa-summary-box__heading">
-        Attend an information session
-      </h3>
-      <div class="usa-summary-box__text" markdown="1">
-Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
-
-{% for session in page.info_sessions %}
-- [{{session.text}} Info Session]({{session.link}}), {{session.date}} at {{session.time}}
-{% endfor %}
-</div>
-</div>
-</div>
-{% endif %}
-</div>
-
-<div class="desktop:grid-col-8 usa-prose" markdown="1">
 
 ## Opportunity overview
 
@@ -166,6 +125,3 @@ For each job on your resume, provide:
 
 ## How to apply
 We will be accepting applications through the Public Notice on USAJOBS.
-
-</div>
-</div>
