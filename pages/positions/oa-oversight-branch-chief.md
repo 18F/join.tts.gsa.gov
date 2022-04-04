@@ -1,7 +1,7 @@
 ---
 title: Office of Acquisition Oversight Branch Chief
 permalink: /join/oa-oversight-branch-chief/
-state: open
+state: closed
 job_post_type: tts
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
