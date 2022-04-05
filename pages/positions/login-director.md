@@ -1,7 +1,7 @@
 ---
 title: Login.gov - Director
 permalink: /join/login-director/
-state: open
+state: closed
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
