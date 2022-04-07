@@ -71,7 +71,7 @@ TTS improves the public’s experience with the government by helping federal ag
 
 The TTS Diversity, Equity, Inclusion & Accessibility (DEIA) Technology Advisor will work collaboratively with GSA stakeholders and federal partners to ensure that DEIA best practices are incorporated into products, programs and services. They will establish and maintain Federal partnerships and foster organizational cultures which effectively reflect Federal DEIA priorities and commitments. The focus will be on:
 
-## TTS Technology Product/Design Expertise (40%)
+## Key objective #1: Provide TTS Technology Product/Design Expertise 
 
 - Promotes inclusive and participatory design strategies with stakeholders and partners, providing training, research, and toolkits to delivery teams. 
 - Defines and drives equity and accessibility best practices and requirements in TTS work across external agencies and business units. 
@@ -80,14 +80,14 @@ The TTS Diversity, Equity, Inclusion & Accessibility (DEIA) Technology Advisor w
 - Works with external agency leadership to promote Federal, GSA, TTS and related special emphasis programs. Collaborates with TTS affinity groups to evangelize community needs.
 
 
-## GSA Enterprise DEIA-Related Initiatives and Presidential Priorities (40%)
+## Key objective #2: Participate in GSA Enterprise DEIA-Related Initiatives and Presidential Priorities 
 
 - Collaborates with GSA’s Senior Advisor for Equity and supports GSA enterprise-wide DEIA-related initiatives and administration priorities, including Executive Orders.
 - Serves as a connecting force to advance overall GSA priorities and commitments. Identifies DEIA successes in TTS projects, shares results with other GSA offices, and encourages agency-wide adoption. Brings best practices from other GSA offices to TTS.
 - Makes recommendations and provides input into GSA reports, as requested. 
 
 
-## TTS Program Support (20%)
+## Key objective #3: Provide TTS Program Support 
 
 - Works with the Office of Human Resources Management (OHRM) to support TTS’s and GSA’s creation of a DEIA strategic plan to identify, socialize, measure and regularly report on programmatic goals and milestones.
 - Supports accessibility initiatives that foster environments where everyone can thrive, including employees along the full range of neurodiversity, in collaboration with the GSA Senior Advisor, OHRM and various stakeholders and partners. 
