@@ -1,5 +1,5 @@
 ---
-title: US Digital Corps Cohort Lead
+title: US Digital Corps - Cohort Lead
 permalink: /join/usdc-cohort-lead/
 state: upcoming
 job_post_type: usajobs 
