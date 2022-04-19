@@ -1,11 +1,11 @@
 ---
-title: U.S. Digital Corps - Cohort Lead (Supervisor)
-permalink: /join/usdc-cohort-lead/
+title: U.S. Digital Corps - Fellow Experience Supervisor
+permalink: /join/usdc-fellow-experience-supervisor/
 state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: U.S. Digital Corps Cohort Lead (Supervisor)
+role_name: U.S. Digital Corps Fellow Experience Supervisor
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
@@ -65,11 +65,11 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-The [U.S. Digital Corps (USDC)](http://digitalcorps.gsa.gov/) is a new two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was [launched](https://www.gsa.gov/about-/newsroom/news-releases/biden-administration-launches-us-digital-corps-to-recruit-the-next-generation-of-technology-talent-to-federal-service-08302021) in August 2021 by GSA in partnership with the White House, CISA, and OPM and will place its first cohort of Fellows in June 2022.
+The [U.S. Digital Corps (USDC)](http://digitalcorps.gsa.gov/) is a new two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was [launched](https://www.gsa.gov/about-/newsroom/news-releases/biden-administration-launches-us-digital-corps-to-recruit-the-next-generation-of-technology-talent-to-federal-service-08302021) in August 2021 by GSA in partnership with the White House, CISA, and OPM and will place its first of Fellows in June 2022.
 
 Key area of focus: Fellow Management, Support & Development
 
-A U.S. Digital Corps Cohort Lead (Supervisor) directly manages and supports a cohort of approximately 15 early-career technology Fellows as well as designs and delivers their learning & development throughout the two year cohort experience. Cohort Leads will support the learning and development of Fellows in complement to the project specific support offered by the Fellow’s placement agency and team. 
+A U.S. Digital Corps Fellow Experience Supervisor directly manages and supports a cohort of approximately 15 early-career technology Fellows as well as designs and delivers their learning & development throughout the two year cohort experience. Fellow Experience Supervisors will support the learning and development of Fellows in complement to the project specific support offered by the Fellow’s placement agency and team. 
 
 In addition to the knowledge, skills, and abilities named below, candidates must demonstrate experience and proficiency in learning and development within one or more of the following technical disciplines: Software engineering, Cybersecurity, Design, Product Management, and Data Science & Analytics. 
 
