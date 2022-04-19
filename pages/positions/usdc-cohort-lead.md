@@ -12,7 +12,7 @@ location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL
 gs_level: '14'
 salary_min: '111,521' 
 salary_max: '176,300' 
-org: 'US Digital Corp' 
+org: 'U.S. Digital Corp' 
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
