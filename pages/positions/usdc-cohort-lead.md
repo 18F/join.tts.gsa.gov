@@ -1,11 +1,11 @@
 ---
-title: U.S. Digital Corps - Cohort Lead
+title: U.S. Digital Corps - Cohort Lead (Supervisor)
 permalink: /join/usdc-cohort-lead/
 state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: U.S. Digital Corps Cohort Lead
+role_name: U.S. Digital Corps Cohort Lead (Supervisor)
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
