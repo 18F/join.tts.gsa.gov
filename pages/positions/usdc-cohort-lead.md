@@ -1,11 +1,11 @@
 ---
-title: US Digital Corps - Cohort Lead
+title: U.S. Digital Corps - Cohort Lead
 permalink: /join/usdc-cohort-lead/
 state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: US Digital Corps Cohort Lead
+role_name: U.S. Digital Corps Cohort Lead
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
@@ -65,7 +65,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-The [U.S. Digital Corps (USDC)](http://digitalcorps.gsa.gov/) is a new two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was [launched](https://www.gsa.gov/about-us/newsroom/news-releases/biden-administration-launches-us-digital-corps-to-recruit-the-next-generation-of-technology-talent-to-federal-service-08302021) in August 2021 by GSA in partnership with the White House, CISA, and OPM and will place its first cohort of Fellows in June 2022.
+The [U.S. Digital Corps (USDC)](http://digitalcorps.gsa.gov/) is a new two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was [launched](https://www.gsa.gov/about-/newsroom/news-releases/biden-administration-launches-us-digital-corps-to-recruit-the-next-generation-of-technology-talent-to-federal-service-08302021) in August 2021 by GSA in partnership with the White House, CISA, and OPM and will place its first cohort of Fellows in June 2022.
 
 Key area of focus: Fellow Management, Support & Development
 
