@@ -1,11 +1,11 @@
 ---
-title: US Digital Corps - Director
+title: U.S. Digital Corps - Director
 permalink: /join/usdc-director/
 state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: US Digital Corps Director
+role_name: U.S. Digital Corps Director
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
