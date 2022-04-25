@@ -18,7 +18,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: '22FASC311JCOTR'
+# job_announcement_number: 22FASC311JCOTR
 # pd_job_title: 'IT Program Manager'
 # num_vacancies: '1'
 # series: '2210' 
