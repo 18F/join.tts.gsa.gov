@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '22FASC311JCOTR'
-pd_job_title: 'IT Program Manager'
-num_vacancies: '1'
-series: '2210' 
-apply_url: 'https://www.usajobs.gov/job/650583600'
-ohrm_contact_email: 'john.chiu@gsa.gov'
-ohrm_contact_name: 'John Chiu
-bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: '15'
-supervisory_status: 'NO'
+# job_announcement_number: '22FASC311JCOTR'
+# pd_job_title: 'IT Program Manager'
+# num_vacancies: '1'
+# series: '2210' 
+# apply_url: 'https://www.usajobs.gov/job/650583600'
+# ohrm_contact_email: 'john.chiu@gsa.gov'
+# ohrm_contact_name: 'John Chiu
+# bargaining_unit: 'Non Bargaining Unit'
+# promotion_potential: '15'
+# supervisory_status: 'NO'
 ---
 
 {% if page.state == 'upcoming' %}
