@@ -14,7 +14,7 @@ role_name: Designer
 opens: May 2, 2022
 # closes: MONTH DAY, YEAR, TIME EDT
 location: "Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)"
-gs_level: "3, 14, 15"
+gs_level: "13, 14, 15"
 salary_min: "Salary minimum"
 salary_max: "Salary maximum"
 org: TTS
@@ -249,6 +249,3 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-
-## How to apply
-We will be accepting applications through the Public Notice on USAJOBS.
