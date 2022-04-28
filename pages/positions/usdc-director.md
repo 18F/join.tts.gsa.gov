@@ -26,7 +26,7 @@ apply_url: https://www.usajobs.gov/job/651026200
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
 ohrm_contact_name: 'John Chiu, Jr.'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'No'
+promotion_potential: '15'
 supervisory_status: 'Yes'
 ---
 
