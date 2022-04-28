@@ -145,12 +145,11 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Competetive TERM: Not to exceed 4 years.
+Competetive Permanent
   
 ## Job Summary
   
-This position is located within the General
-Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -208,9 +207,7 @@ The information in this sections outlines the criteria that your application wil
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
+In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. 
 
