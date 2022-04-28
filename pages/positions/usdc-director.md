@@ -6,8 +6,8 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: U.S. Digital Corps Director
-opens: 'TBD'
-closes: 'TBD'
+opens: 'May 2, 2022 at 9:00am EDT'
+closes: 'May 9, 2022 at 11:59 pm EDT'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
 salary_min: '131,178' 
