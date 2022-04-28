@@ -1,12 +1,12 @@
 ---
 title: U.S. Digital Corps - Director
 permalink: /join/usdc-director/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: U.S. Digital Corps Director
-opens: 'May 2, 2022 at 9:00am EDT'
+opens: 'May 2, 2022 at 9:00 am EDT'
 closes: 'May 9, 2022 at 11:59 pm EDT'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
-pd_job_title: 'TBD'
+job_announcement_number: '22FASC310JCOTR'
+pd_job_title: ' Supervisory Information Technology Specialist (SYSANALYSIS)'
 num_vacancies: '1'
-series: '1102'
-apply_url: TBD
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+series: '2210'
+apply_url: https://www.usajobs.gov/job/651026200
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'John Chiu, Jr.'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'TBD'
-supervisory_status: 'No'
+promotion_potential: 'No'
+supervisory_status: 'Yes'
 ---
 
 {% if page.state == 'upcoming' %}
