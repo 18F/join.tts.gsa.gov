@@ -60,8 +60,7 @@ Please note the maximum salary available for the GS pay system is **$176,300**
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands).
 
 ## Role Summary:
 
@@ -69,9 +68,9 @@ employees or contractors
 
 TTS improves the public’s experience with the government by helping federal agencies build, buy and share technology that allows them to be more accessible, efficient, and effective. Our goal is a world of easy-to-use, effective, and secure digital government products and services for the American people. You’ll make a difference by bringing your leadership and creativity to a talented and passionate community while creating impactful initiatives that will directly affect the American public.
 
-The TTS Diversity, Equity, Inclusion & Accessibility (DEIA) Technology Advisor will work collaboratively with GSA stakeholders and federal partners to ensure that DEIA best practices are incorporated into products, programs and services. They will establish and maintain Federal partnerships and foster organizational cultures which effectively reflect Federal DEIA priorities and commitments. The focus will be on:
+The TTS Diversity, Equity, Inclusion & Accessibility (DEIA) Technology Advisor will work collaboratively with GSA stakeholders and federal partners to ensure that DEIA best practices are incorporated into products, programs and services. They will establish and maintain Federal partnerships and foster organizational cultures which effectively reflect Federal DEIA priorities and commitments. Key objectives:
 
-## TTS Technology Product/Design Expertise (40%)
+## Key objective #1: TTS Technology Product/Design Expertise (40%)
 
 - Promotes inclusive and participatory design strategies with stakeholders and partners, providing training, research, and toolkits to delivery teams. 
 - Defines and drives equity and accessibility best practices and requirements in TTS work across external agencies and business units. 
@@ -80,14 +79,14 @@ The TTS Diversity, Equity, Inclusion & Accessibility (DEIA) Technology Advisor w
 - Works with external agency leadership to promote Federal, GSA, TTS and related special emphasis programs. Collaborates with TTS affinity groups to evangelize community needs.
 
 
-## GSA Enterprise DEIA-Related Initiatives and Presidential Priorities (40%)
+## Key objective #2: GSA Enterprise DEIA-Related Initiatives and Presidential Priorities (40%)
 
 - Collaborates with GSA’s Senior Advisor for Equity and supports GSA enterprise-wide DEIA-related initiatives and administration priorities, including Executive Orders.
 - Serves as a connecting force to advance overall GSA priorities and commitments. Identifies DEIA successes in TTS projects, shares results with other GSA offices, and encourages agency-wide adoption. Brings best practices from other GSA offices to TTS.
 - Makes recommendations and provides input into GSA reports, as requested. 
 
 
-## TTS Program Support (20%)
+## Key objective #3: TTS Program Support (20%)
 
 - Works with the Office of Human Resources Management (OHRM) to support TTS’s and GSA’s creation of a DEIA strategic plan to identify, socialize, measure and regularly report on programmatic goals and milestones.
 - Supports accessibility initiatives that foster environments where everyone can thrive, including employees along the full range of neurodiversity, in collaboration with the GSA Senior Advisor, OHRM and various stakeholders and partners. 
@@ -107,8 +106,7 @@ Base salary GS-{{ page.gs_level }} - ${{ page.salary_min }} to ${{ page.salary_m
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
 **Job announcement number:**
 {{ page.job_announcement_number }}
