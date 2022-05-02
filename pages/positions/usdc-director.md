@@ -1,12 +1,12 @@
 ---
 title: U.S. Digital Corps - Director
 permalink: /join/usdc-director/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: U.S. Digital Corps Director
-opens: 'May 2, 2022 at 9:00am EDT'
+opens: 'May 2, 2022 at 9:00 am EDT'
 closes: 'May 9, 2022 at 11:59 pm EDT'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
-pd_job_title: 'TBD'
+job_announcement_number: '22FASC310JCOTR'
+pd_job_title: ' Supervisory Information Technology Specialist (SYSANALYSIS)'
 num_vacancies: '1'
-series: '1102'
-apply_url: TBD
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+series: '2210'
+apply_url: https://www.usajobs.gov/job/651026200
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'John Chiu, Jr.'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'TBD'
-supervisory_status: 'No'
+promotion_potential: '15'
+supervisory_status: 'Yes'
 ---
 
 {% if page.state == 'upcoming' %}
@@ -145,12 +145,11 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Competetive TERM: Not to exceed 4 years.
+Competetive Permanent
   
 ## Job Summary
   
-This position is located within the General
-Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
 
 GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
@@ -208,9 +207,7 @@ The information in this sections outlines the criteria that your application wil
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
-and following our general guidance on creating federal style resume.
+In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. 
 
