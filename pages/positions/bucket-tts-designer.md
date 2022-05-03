@@ -160,33 +160,6 @@ In addition to strong skill in experience design, we expect expertise in at leas
 - Participate in design activities and work effectively with cross-disciplinary teammates
 - Demonstrate genuine interest in the day-to-day activities that keep our government running
 
-## Qualifications
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
-
-To qualify, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).  Specialized experience is defined as follows:
-
-**GS15 qualifications:**
-- Experience leading and collaborating on design, content strategy, or service design projects, initiatives or activities.
-- Experience with content strategy or design methodologies. For example: information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience with creation, design, delivery, or iteration of digital products, platforms, systems, or services. 
-- Experience with iterative or agile methodologies
-- Experience facilitating content strategy or design sessions, or workshops.
-- Experience training, coaching, or mentoring on user centered design, content strategy, content design, or service design methodologies.
-
-**GS14 qualifications:**
-- Experience collaborating on design, content strategy, or service design projects, initiatives or activities.
-- Experience with content strategy or design methodologies. For example:  information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience applying best practices in the design, development and delivery of digital products, platforms, or services. 
-- Experience with iterative or agile methodologies
-- Experience participating in content strategy or design sessions and workshops with teams.
-
-**GS13 qualifications:**
-- Experience collaborating on design, content strategy, or service design projects, initiatives or activities.
-- Experience using design methodologies such as information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience in designing and/or developing digital products, platforms, or services.
-- Experience with iterative or agile methodologies.
-- Experience participating in content strategy or design sessions or workshops
-
 ## Basic information
 
 **Location:**
@@ -239,7 +212,6 @@ Permanent hire. This is not a term limited opportunity. Applicants who are selec
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-14 in the federal service. Specialized experience for this role will be listed here as soon as it is available.
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
@@ -248,3 +220,29 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
+
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
+
+To qualify, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).  Specialized experience is defined as follows:
+
+**GS15 qualifications:**
+- Experience leading and collaborating on design, content strategy, or service design projects, initiatives or activities.
+- Experience with content strategy or design methodologies. For example: information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
+- Experience with creation, design, delivery, or iteration of digital products, platforms, systems, or services. 
+- Experience with iterative or agile methodologies
+- Experience facilitating content strategy or design sessions, or workshops.
+- Experience training, coaching, or mentoring on user centered design, content strategy, content design, or service design methodologies.
+
+**GS14 qualifications:**
+- Experience collaborating on design, content strategy, or service design projects, initiatives or activities.
+- Experience with content strategy or design methodologies. For example:  information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
+- Experience applying best practices in the design, development and delivery of digital products, platforms, or services. 
+- Experience with iterative or agile methodologies
+- Experience participating in content strategy or design sessions and workshops with teams.
+
+**GS13 qualifications:**
+- Experience collaborating on design, content strategy, or service design projects, initiatives or activities.
+- Experience using design methodologies such as information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
+- Experience in designing and/or developing digital products, platforms, or services.
+- Experience with iterative or agile methodologies.
+- Experience participating in content strategy or design sessions or workshops
