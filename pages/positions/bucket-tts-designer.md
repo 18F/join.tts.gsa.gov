@@ -11,7 +11,7 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Designer
-opens: May 2, 2022
+opens: 'tbd'
 # closes: MONTH DAY, YEAR, TIME EDT
 location: "Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)"
 gs_level: "13, 14, 15"
@@ -69,7 +69,6 @@ Types of designers we are currently hiring for:
 - UX Design
 - Content Strategy
 - Product Design
-- Service Design
 
 Teams we are currently hiring for:
 - [18F](https://18f.gsa.gov/)
