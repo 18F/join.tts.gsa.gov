@@ -61,10 +61,11 @@ layout: default
         {% if pg.state == 'upcoming' %}
         {% unless pg.path contains 'template' %}
         {% unless pg.path contains 'performance-profiles' %}
-           - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/)
         <li>
           <a href="{{ site.baseurl }}{{ pg.permalink }}">{{ pg.title }}</a>
         </li>
+           -[Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/apply/)
+
         {% endunless %}
         {% endunless %}
         {% endif %}
