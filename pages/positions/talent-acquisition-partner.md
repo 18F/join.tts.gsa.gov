@@ -6,7 +6,7 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Talent Acquisition Partner
-opens: 'May 9, 2022'
+opens: 'May 9, 2022 at 11:59pm'
 closes: 'May 16, 2022'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '13'
