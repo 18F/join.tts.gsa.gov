@@ -226,23 +226,27 @@ All applications will be reviewed by a panel of subject matter experts against a
 To qualify, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).  Specialized experience is defined as follows:
 
 **GS15 qualifications:**
-- Experience leading and collaborating on design, content strategy, or service design projects, initiatives or activities.
+- Experience leading and collaborating on design, content strategy, or service design projects and initiatives.
+- Experience managing and working on cross-functional teams in an agile or iterative environment 
 - Experience with content strategy or design methodologies. For example: information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience with creation, design, delivery, or iteration of digital products, platforms, systems, or services. 
-- Experience with iterative or agile methodologies
-- Experience facilitating content strategy or design sessions, or workshops.
-- Experience training, coaching, or mentoring on user centered design, content strategy, content design, or service design methodologies.
+- Experience with the creation, design, or delivery of digital products, platforms, systems, or services. 
+- Experience facilitating content strategy, design sessions, or workshops.
+- Experience leading a team of designers and training them on user centered design, content strategy, content design, or service design methodologies.
+
 
 **GS14 qualifications:**
-- Experience collaborating on design, content strategy, or service design projects, initiatives or activities.
+- Experience leading and completing a design initiative, engagement, project, or strategy. 
+- Experience working on or leading a cross-functional team in an agile or iterative environment
+- Experience collaborating on design, content strategy, or service design projects and initiatives. 
 - Experience with content strategy or design methodologies. For example:  information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience applying best practices in the design, development and delivery of digital products, platforms, or services. 
-- Experience with iterative or agile methodologies
-- Experience participating in content strategy or design sessions and workshops with teams.
+- Experience participating in the design, development, and delivery of digital products, platforms, or services. 
+- Experience participating in content strategy or design sessions or workshops
+
 
 **GS13 qualifications:**
-- Experience collaborating on design, content strategy, or service design projects, initiatives or activities.
+- Experience collaborating on design, content strategy, or service design projects and initiatives.
 - Experience using design methodologies such as information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
 - Experience in designing and/or developing digital products, platforms, or services.
 - Experience with iterative or agile methodologies.
-- Experience participating in content strategy or design sessions or workshops
+- Experience participating in content strategy or design sessions or workshops.
+
