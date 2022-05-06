@@ -143,7 +143,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Competetive Permanent
+Competitive Permanent
   
 ## Job Summary
   
