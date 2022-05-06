@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '21FASC293SBDE'
-pd_job_title: 'Innovation Specialist'
-num_vacancies: '2'
+job_announcement_number: '22FASC291JCDE'
+pd_job_title: 'Talent Acquisition Specialist'
+num_vacancies: '1'
 series: '0301'
-apply_url: https://www.usajobs.gov/GetJob/ViewDetails/603912300
-ohrm_contact_email: 'Stephanie.Bernstein@gsa.gov'
-ohrm_contact_name: 'Stephanie Bernstein'
+apply_url: https://www.usajobs.gov/job/650780500
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'John Chiu, Jr.'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '13'
 supervisory_status: 'No'
