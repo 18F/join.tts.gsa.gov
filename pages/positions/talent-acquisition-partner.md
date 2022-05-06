@@ -6,8 +6,8 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Talent Acquisition Partner
-opens: 'May 9, 2022 at 11:59pm'
-closes: 'May 16, 2022'
+opens: 'May 9, 2022 at 9:00 am ED'
+closes: 'May 16, 2022 at 11:59 pm ED'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '13'
 salary_min: '94,373' 
@@ -143,7 +143,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Competetive TERM: Not to exceed 4 years.
+Competetive Permanent
   
 ## Job Summary
   
