@@ -236,7 +236,7 @@ To qualify, you must have one (1) year of specialized experience at the next low
 
 **GS14 qualifications:**
 - Experience leading and completing a design initiative, engagement, project, or strategy. 
-- Experience working on or leading a cross-functional team in an agile or iterative environment
+- Experience working on and leading a cross-functional team in an agile or iterative environment
 - Experience collaborating on design, content strategy, or service design projects and initiatives. 
 - Experience with content strategy or design methodologies. For example:  information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
 - Experience participating in the design, development, and delivery of digital products, platforms, or services. 
