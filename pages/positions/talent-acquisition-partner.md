@@ -1,13 +1,13 @@
 ---
 title: TTS Talent - Talent Acquisition Partner
 permalink: /join/talent-acquisition-partner/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Talent Acquisition Partner
-opens: 'TBD'
-closes: 'TBD'
+opens: 'May 9, 2022 at 9:00 am EDT'
+closes: 'May 16, 2022 at 11:59 pm EDT'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '13'
 salary_min: '94,373' 
@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '21FASC293SBDE'
-pd_job_title: 'Innovation Specialist'
-num_vacancies: '2'
+job_announcement_number: '22FASC291JCDE'
+pd_job_title: 'Talent Acquisition Specialist'
+num_vacancies: '1'
 series: '0301'
-apply_url: https://www.usajobs.gov/GetJob/ViewDetails/603912300
-ohrm_contact_email: 'Stephanie.Bernstein@gsa.gov'
-ohrm_contact_name: 'Stephanie Bernstein'
+apply_url: https://www.usajobs.gov/job/650780500
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'John Chiu, Jr.'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '13'
 supervisory_status: 'No'
@@ -143,7 +143,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Competetive TERM: Not to exceed 4 years.
+Competitive Permanent
   
 ## Job Summary
   
