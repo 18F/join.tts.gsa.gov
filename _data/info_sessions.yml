@@ -5,14 +5,6 @@
 # date: YYYY-MM-DD format. This will get parsed automatically to show day of the week and month name.
 # time: Time in 00:00 ET / 00:00 PT format. 
 
-- role: Talent Acquisition Partner
-  link: https://www.eventbrite.com/e/tts-talent-acquisition-partner-information-session-tickets-322651367927
-  date: 2022-05-05
-  time: 3:00-4:00pm ET (12:00-1:00pm PT) 
-- role: Talent Acquisition Partner
-  link: https://www.eventbrite.com/e/tts-talent-acquisition-partner-information-session-tickets-322640846457
-  date: 2022-05-06
-  time: 12:00-1:00pm ET (9:00-10:00am PT) 
 - role: General
   link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302969167937
   date: 2022-05-19
