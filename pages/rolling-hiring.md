@@ -25,8 +25,8 @@ subnav:
     href: "#time-to-hire"
   - text: Length of role
     href: "#length-of-role"
-  - text: Grade level and calculating pay
-    href: "#grade-level-and-calculating-pay"
+  - text: Grade levels and calculating pay
+    href: "#grade-levels-and-calculating-pay"
   - text: Benefits
     href: "#benefits"
   - text: More about working at TTS
@@ -62,7 +62,7 @@ Please let your recruiter know if this estimate conflicts with your required tim
 ## Length of role
 Government hiring is different from industry hiring. This role is a DHA (Direct Hire Authority) term appointment in the 2210 technical job series, with an initial term of 3 years and which can be extended up to 8 years in duration based on solid performance in the role and organizational need.
 
-## Grade levels and calculating pay
+## Grade level and calculating pay
 This position is subject to the GS pay scale so if you haven't already, please be sure to check out the pay for your locality using [OPM’s pay calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/). GSA’s max salary has increased to $176,300. You cannot be offered more than this under any circumstance.
 Understanding the relationship between GS grade level, location, and compensation is important to understanding how salaries work at TTS.
 Each GS grade level contains a series of 10 steps. New employees are usually hired at Step 1 of a GS grade. However, in special circumstances, agencies may authorize a higher step rate for a newly-appointed federal employee based on a [special need of the agency or superior qualifications of the prospective employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
