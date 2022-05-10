@@ -13,7 +13,7 @@ job_post_type: usajobs
 role_name: Designer
 opens: 'tbd'
 # closes: MONTH DAY, YEAR, TIME EDT
-location: "Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)"
+location: "Virtual (100% Remote)"
 gs_level: "13, 14, 15"
 salary_min: "94,373"
 salary_max: "176,300"
