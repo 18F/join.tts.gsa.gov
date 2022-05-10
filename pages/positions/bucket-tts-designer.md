@@ -91,7 +91,7 @@ In addition to strong skill in experience design, we expect expertise in at leas
 - Support collaborative decision making by telling compelling stories drawn from research to build shared understanding
 - Show persistent commitment to thoughtful, inclusive, ethical user research
 - Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches
-- Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate.  
+- Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate 
 - Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision
 - Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule
 - Commit to making what we build fully accessible to the people we serve
@@ -189,13 +189,13 @@ All United States citizens and nationals (residents of American Samoa and Swains
 Occasional travel may be required up to 10%-20% per year
 
 **Security clearance:**
-Public trust. Background investigation required.
+Public trust. Background investigation required
 
 **Work schedule:**
-Full time.
+Full time
 
 **Appointment type:**
-Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date.
+Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date
 
 **Employee benefits:**
 [Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
