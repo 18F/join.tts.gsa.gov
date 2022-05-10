@@ -1,7 +1,7 @@
 ---
 title: TTS - Designer
 permalink: /join/tts-designer/
-state: closed
+state: open
 job_post_type: usajobs
 # related_performance_profiles:
 #  - name: NAME OF PERFORMANCE PROFILE
