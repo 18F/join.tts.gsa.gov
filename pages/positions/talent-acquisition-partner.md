@@ -8,7 +8,7 @@ job_post_type: usajobs
 role_name: Talent Acquisition Partner
 opens: 'May 9, 2022 at 9:00 am EDT'
 closes: 'May 16, 2022 at 11:59 pm EDT'
-location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+location: 'Virtual (100% Remote)
 gs_level: '13'
 salary_min: '94,373' 
 salary_max: '150,703' 
