@@ -1,7 +1,7 @@
 ---
 title: TTS - Diversity, Equity, Inclusion & Accessibility Technology Advisor
 permalink: /join/DEIA-Technology-Advisor/
-state: open
+state: closed
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
