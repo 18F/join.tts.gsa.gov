@@ -13,6 +13,8 @@ sidenav:
     href: /compensation-and-benefits/
   - text: About the Direct Hire Authority
     href: /about-the-dha/
+  - text: Rolling hiring
+    href: /rolling-hiring/
 ---
 
 Understanding every section of a federal job posting can help you prepare the
