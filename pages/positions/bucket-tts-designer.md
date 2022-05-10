@@ -168,8 +168,8 @@ In addition to strong skill in experience design, we expect expertise in at leas
 **Salary Range:**
 The salary ranges for this position are:
 - GS-13 Step 1 ${{ page.salary_min }} to GS-13 Step 10 ${{ page.salary_max }}
-- GS-14 Step 1 $ to GS-14 Step 10 $
-- GS-15 Step 1 $ to GS-15 Step 10 $
+- GS-14 Step 1 $111,521 to GS-14 Step 10 $176,300
+- GS-15 Step 1 $148,484 to GS-15 Step 10 $176,300
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
