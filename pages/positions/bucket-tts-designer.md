@@ -1,7 +1,7 @@
 ---
 title: TTS - Designer
 permalink: /join/tts-designer/
-state: upcoming
+state: closed
 job_post_type: usajobs
 # related_performance_profiles:
 #  - name: NAME OF PERFORMANCE PROFILE
@@ -15,8 +15,8 @@ opens: 'tbd'
 # closes: MONTH DAY, YEAR, TIME EDT
 location: "Washington, DC; San Francisco, CA; Chicago, IL; New York, NY; Virtual (100% Remote)"
 gs_level: "13, 14, 15"
-salary_min: "Salary minimum"
-salary_max: "Salary maximum"
+salary_min: "94,373"
+salary_max: "176,300"
 org: TTS
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -80,42 +80,42 @@ Teams we are currently hiring for:
 
 In addition to strong skill in experience design, we expect expertise in at least one of the following disciplines:
 
-- Interaction design: Define interface logic and behavior, always keeping human behaviors and needs in mind.
-- Information architecture: Organize and structure complex information to help diverse audiences easily find what they need.
-- Service design: Improve the relationship of the customer or user and the service provider across all of their interactions and communication channels.
-- Product design: Develop clear and accessible visual systems, while advancing human-centered design practices. 
-- Content strategy & design: Deliver high-quality, user-centered content and lead projects from a content perspective. 
+- Interaction design: Define interface logic and behavior, always keeping human behaviors and needs in mind
+- Information architecture: Organize and structure complex information to help diverse audiences easily find what they need
+- Service design: Improve the relationship of the customer or user and the service provider across all of their interactions and communication channels
+- Product design: Develop clear and accessible visual systems, while advancing human-centered design practices
+- Content strategy & design: Deliver high-quality, user-centered content and lead projects from a content perspective 
 
 **GS15 objectives for successful TTS Designers:**
-- Zoom in and out. Generate high-level product strategies as well as practical project steps and considerations to get there. 
+- Zoom in and out. Generate high-level product strategies as well as practical project steps and considerations to get there 
 - Support collaborative decision making by telling compelling stories drawn from research to build shared understanding
-- Show persistent commitment to thoughtful, inclusive, ethical user research.
-- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches.
+- Show persistent commitment to thoughtful, inclusive, ethical user research
+- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches
 - Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate.  
-- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision. 
-- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
-- Commit to making what we build fully accessible to the people we serve. 
-- Create a work environment that fosters trust, respect, and collaboration.
+- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision
+- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule
+- Commit to making what we build fully accessible to the people we serve
+- Create a work environment that fosters trust, respect, and collaboration
 
 **GS14 objectives for successful TTS Designers:**
 - Support collaborative decision-making by telling compelling stories drawn from research to build shared understanding
-- Show persistent commitment to thoughtful, inclusive, ethical user research.
-- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches.
-- Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate.  
-- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision. 
-- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
-- Commit to making what we build fully accessible to the people we serve. 
-- Create a work environment that fosters trust, respect, and collaboration.
+- Show persistent commitment to thoughtful, inclusive, ethical user research
+- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches
+- Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate  
+- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision
+- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule
+- Commit to making what we build fully accessible to the people we serve
+- Create a work environment that fosters trust, respect, and collaboration
 
 **GS13 objectives for successful TTS Designers:**
 - Support collaborative decision-making by telling compelling stories drawn from research to build shared understanding
-- Show persistent commitment to thoughtful, inclusive, ethical user research.
-- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches.
-- Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate.  
-- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision. 
-- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule.
-- Commit to making what we build fully accessible to the people we serve. 
-- Create a work environment that fosters trust, respect, and collaboration.
+- Show persistent commitment to thoughtful, inclusive, ethical user research
+- Deliver whatever’s needed to guide development — this could include wireframes, sitemaps, flowcharts, storyboards, user stories, or other innovative approaches
+- Create written materials and visual presentations that are accessible to non-experts as well as being legally and technically accurate 
+- Incorporate UX into agile development sprints, coordinating with visual and content designers, developers, and product managers to achieve a strategic vision
+- Use modern interaction design patterns and best practices, understanding that there are exceptions to every rule
+- Commit to making what we build fully accessible to the people we serve
+- Create a work environment that fosters trust, respect, and collaboration
 
 ### 2. Advance design practices
 
@@ -168,8 +168,8 @@ In addition to strong skill in experience design, we expect expertise in at leas
 **Salary Range:**
 The salary ranges for this position are:
 - GS-13 Step 1 ${{ page.salary_min }} to GS-13 Step 10 ${{ page.salary_max }}
-- GS-14 Step 1 $ to GS-14 Step 10 $
-- GS-15 Step 1 $ to GS-15 Step 10 $
+- GS-14 Step 1 $111,521 to GS-14 Step 10 $176,300
+- GS-15 Step 1 $148,484 to GS-15 Step 10 $176,300
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
@@ -226,27 +226,26 @@ All applications will be reviewed by a panel of subject matter experts against a
 To qualify, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).  Specialized experience is defined as follows:
 
 **GS15 qualifications:**
-- Experience leading and collaborating on design, content strategy, or service design projects and initiatives.
+- Experience leading and collaborating on design, content strategy, or service design projects and initiatives
 - Experience managing and working on cross-functional teams in an agile or iterative environment 
-- Experience with content strategy or design methodologies. For example: information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience with the creation, design, or delivery of digital products, platforms, systems, or services. 
-- Experience facilitating content strategy, design sessions, or workshops.
-- Experience leading a team of designers and training them on user centered design, content strategy, content design, or service design methodologies.
+- Experience with content strategy or design methodologies. For example: information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design
+- Experience with the creation, design, or delivery of digital products, platforms, systems, or services
+- Experience facilitating content strategy, design sessions, or workshops
+- Experience leading a team of designers and training them on user centered design, content strategy, content design, or service design methodologies
 
 
 **GS14 qualifications:**
-- Experience leading and completing a design initiative, engagement, project, or strategy. 
+- Experience leading and completing a design, content strategy, or service design initiative, engagement, project, or strategy
 - Experience working on and leading a cross-functional team in an agile or iterative environment
-- Experience collaborating on design, content strategy, or service design projects and initiatives. 
-- Experience with content strategy or design methodologies. For example:  information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience participating in the design, development, and delivery of digital products, platforms, or services. 
+- Experience with content strategy or design methodologies. For example:  information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design
+- Experience participating in the design, development, and delivery of digital products, platforms, or services 
 - Experience participating in content strategy or design sessions or workshops
 
 
 **GS13 qualifications:**
-- Experience collaborating on design, content strategy, or service design projects and initiatives.
-- Experience using design methodologies such as information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design.
-- Experience in designing and/or developing digital products, platforms, or services.
-- Experience with iterative or agile methodologies.
-- Experience participating in content strategy or design sessions or workshops.
+- Experience collaborating on design, content strategy, or service design projects and initiatives
+- Experience using design methodologies such as information architecture, UX writing, editorial design, usability research, user interviews, contextual inquiries, observational research, participatory workshops or product design
+- Experience in designing and/or developing digital products, platforms, or services
+- Experience with iterative or agile methodologies
+- Experience participating in content strategy or design sessions or workshops
 
