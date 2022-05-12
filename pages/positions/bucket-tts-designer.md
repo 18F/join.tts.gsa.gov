@@ -62,11 +62,6 @@ As a Designer, you’ll work in cross-functional teams made up of experts in des
 
 If you are committed to improving government services for all who need them this is the position for you.
 
-Please note TTS evaluates grade levels based on the following criteria:
-- GS13s participate
-- GS14s lead AND participate
-- GS15s mentor/teach others how to lead, and also lead AND participate
-
 Types of designers we are currently hiring for:
 - UX Design
 - Content Strategy
