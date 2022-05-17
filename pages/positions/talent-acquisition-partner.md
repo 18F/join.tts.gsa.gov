@@ -1,7 +1,7 @@
 ---
 title: TTS Talent - Talent Acquisition Partner
 permalink: /join/talent-acquisition-partner/
-state: open
+state: closed
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
