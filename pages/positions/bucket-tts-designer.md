@@ -64,6 +64,7 @@ If you are committed to improving government services for all who need them this
 
 Types of designers we are currently hiring for:
 - UX Design
+- Service Design
 - Content Strategy
 - Product Design
 
