@@ -62,11 +62,6 @@ As a Designer, you’ll work in cross-functional teams made up of experts in des
 
 If you are committed to improving government services for all who need them this is the position for you.
 
-Please note TTS evaluates grade levels based on the following criteria:
-- GS13s participate
-- GS14s lead AND participate
-- GS15s mentor/teach others how to lead, and also lead AND participate
-
 Types of designers we are currently hiring for:
 - UX Design
 - Content Strategy
@@ -76,6 +71,7 @@ Teams we are currently hiring for:
 - [18F](https://18f.gsa.gov/)
 - [USAGov](https://www.usa.gov/)
 - [Centers of Excellence](https://coe.gsa.gov/)
+- [Login.gov](https://login.gov/)
 
 ## Key objectives
 ### 1. Demonstrate excellence in design, while grasping the core questions and responsibilities of at least one design discipline.
@@ -180,15 +176,15 @@ You can find more information about this in the [compensation and benefits secti
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a
 salary calculator [OPM's 2022 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$**
+Please note the maximum salary available for the GS pay system is **$176,300**
 
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands)
+All United States citizens and nationals (residents of American Samoa and Swains Islands).
 
 **Travel requirement:**
-Occasional travel may be required up to 10%-20% per year
+Occasional travel may be required up to 10%-20% per year.
 
 **Security clearance:**
 Public trust. Background investigation required.
@@ -197,7 +193,7 @@ Public trust. Background investigation required.
 Full time.
 
 **Appointment type:**
-Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date.
+This is a term limited appointment with the ability to extend for a total of eight years.
 
 **Employee benefits:**
 [Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
