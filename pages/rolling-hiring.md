@@ -60,7 +60,7 @@ It’s important to note that once we have made a hiring decision, it can often 
 Please let your recruiter know if this estimate conflicts with your required timeline for securing a new role.
 
 ## Length of role
-Government hiring is different from industry hiring. This role is a DHA (Direct Hire Authority) term appointment in the 2210 technical job series, with an initial term of 3 years and which can be extended up to 8 years in duration based on solid performance in the role and organizational need.
+Government hiring is different from industry hiring. This role is a DHA (Direct Hire Authority) term appointment in the 2210 technical job series, with an initial term of 3 years which can be extended up to 8 years in duration based on solid performance in the role and organizational need.
 
 ## Grade levels and calculating pay
 This position is subject to the GS pay scale so if you haven't already, please be sure to check out the pay for your locality using [OPM’s pay calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/). GSA’s max salary has increased to $176,300. You cannot be offered more than this under any circumstance.
