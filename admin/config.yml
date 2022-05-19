@@ -1,0 +1,153 @@
+backend:
+  name: github
+  repo: 18f/join.tts.gsa.gov
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  branch: main
+  
+media_folder: "assets/img"
+  
+publish_mode: editorial_workflow
+
+collections:
+  - name: pages
+    label: Pages
+    folder: "pages"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {
+        label: "Page title",
+        name: "title",
+        widget: "string"
+      }
+      - {
+        label: "Page body",
+        name: "body",
+        widget: "markdown"
+      }
+  - name: "events"
+    label: "Events"
+    files: 
+       - label: "Info sessions"
+         name: info_sessions
+         file: "_data/info_sessions.yml"
+         editor:
+           preview: false
+         fields:
+            - label: "Info sessions"
+              name: "items"
+              widget: "list"
+              fields:
+                - {
+                  label: "Role name",
+                  name: "role",
+                  widget: "string",
+                  hint: "The name of the role, as written in the `role_name` frontmatter attribute of the job. For general sessions, use 'General.'"
+                }
+                - {
+                  label: "Eventbrite link",
+                  name: "link",
+                  widget: "string"
+                }
+                - {
+                  label: "Date",
+                  name: "date",
+                  widget: "string",
+                  hint: "YYYY-MM-DD format. This will get parsed automatically to show day of the week and month name."
+                }
+                - {
+                  label: "Time",
+                  name: "time",
+                  widget: "string",
+                  hint: "Time in 00:00 ET / 00:00 PT format."
+                }
+  - name: positions
+    label: Positions
+    folder: "pages/positions"
+    slug: "{{ role_name }}"
+    summary: " {{org}} - {{role_name}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {
+        label: "Organization",
+        name: "org",
+        widget: "string"
+      }
+      - {
+          label: "Role title",
+          name: "role_name",
+          widget: "string"
+        }
+      - {
+          label: "Role status",
+          name: "state",
+          widget: "select",
+          options: ["upcoming", "open", "closed"]
+        }
+      - {
+        label: "Date role opens for applications",
+        name: "opens",
+        widget: "string",
+        default: "tbd",
+        hint: "If the opening date is not yet known, enter 'tbd'"
+      }
+      - {
+        label: "Date role closes to applications",
+        name: "closes",
+        widget: "string",
+        default: "tbd",
+        hint: "If the closing date is not yet known, enter 'tbd'"
+      }
+      - {
+        label: "Locations",
+        name: "locations",
+        widget: "select",
+        options: ["Washington, DC", "San Francisco, CA", "Chicago, IL", "New York, NY", "Virtual (100% Remote)"],
+        multiple: true,
+        hint: "Select as many locations as applicable."
+      }
+      - {
+        label: "TTS contact name",
+        name: "contact_name",
+        widget: "string",
+        default: "TTS Talent"
+      }
+      - {
+        label: "TTS contact email",
+        name: "contact_email",
+        widget: "string",
+        default: "jointts@gsa.gov"
+      }
+      - {
+        label: "OHRM contact name",
+        name: "ohrm_contact_name",
+        widget: "string"
+      }
+      - {
+        label: "OHRM contact email",
+        name: "ohrm_contact_email",
+        widget: "string"
+      }
+      - {
+          label: "Job post type",
+          name: "job_post_type",
+          widget: "select",
+          options: ["tts", "usajobs"],
+          default: ["usajobs"]
+        }
+      - {
+        label: "Page permalink",
+        name: "permalink",
+        widget: "string",
+        hint: "Must start with /join/ and include the org and role name. Example: /join/tts-designer"
+      }
+      - {
+        label: "Position description",
+        name: "body",
+        widget: "markdown"
+      }
