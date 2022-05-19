@@ -2,7 +2,7 @@
 layout: default
 ---
 {% assign sortedpages = site.pages | sort: 'title' %}
-{% assign sortedinfosessions = site.data.info_sessions | sort: 'date' %}
+{% assign sortedinfosessions = site.data.info_sessions.items | sort: 'date' %}
 <section class="usa-hero padding-y-6">
   <div class="grid-container">
       <h1 class="usa-hero__heading--alt font-heading-l font-family-sans margin-top-0 tablet:margin-bottom-0">

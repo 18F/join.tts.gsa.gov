@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign sortedinfosessions = site.data.info_sessions | where: "role", page.role_name | sort: 'date' %}
+{% assign sortedinfosessions = site.data.info_sessions.items | where: "role", page.role_name | sort: 'date' %}
 <div class="grid-container">
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-12 margin-top-4">
