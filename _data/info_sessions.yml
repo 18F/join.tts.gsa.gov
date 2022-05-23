@@ -5,14 +5,11 @@
 # date: YYYY-MM-DD format. This will get parsed automatically to show day of the week and month name.
 # time: Time in 00:00 ET / 00:00 PT format. 
 
-- role: "Paths to Public Service: Civic Tech and Innovation(PIF)"
-  link: https://www.eventbrite.com/e/paths-to-public-service-civic-tech-and-innovation-52022-tickets-338367796187
-  date: 2022-05-20
-  time: 1:00-2:00pm ET (10:00-11:00am PT)
-- role: Presidential Innovation Fellows (PIF)
-  link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-52022-tickets-339044660707
-  date: 2022-05-20
-  time: 2:00-2:45pm ET (11:00-11:45am PT)
+
+- role: U.S. Digital Corps Fellow Experience Supervisor
+  link: https://www.eventbrite.com/e/us-digital-corps-fellow-experience-supervisor-info-session-tickets-339231359127
+  date: 2022-05-23
+  time: 11:00am-12:00pm ET (8:00-9:00am PT)
 - role: "Paths to Public Service: Civic Tech and Innovation(PIF)"
   link: https://www.eventbrite.com/e/paths-to-public-service-civic-tech-and-innovation-52622-tickets-338983026357
   date: 2022-05-26
@@ -21,10 +18,6 @@
   link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-52622-tickets-339048532287
   date: 2022-05-26
   time: 2:00-2:45pm ET (11:00-11:45am PT)
-- role: U.S. Digital Corps Fellow Experience Supervisor
-  link: https://www.eventbrite.com/e/us-digital-corps-fellow-experience-supervisor-info-session-tickets-339231359127
-  date: 2022-05-23
-  time: 11:00am-12:00pm ET (8:00-9:00am PT)
 - role: General
   link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302971645347
   date: 2022-06-16
