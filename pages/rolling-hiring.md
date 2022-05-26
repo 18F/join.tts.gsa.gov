@@ -52,8 +52,11 @@ The interview process is up to 3 rounds and is as follows. The total process wil
 We typically use Google Meet for our video interviews — if you are not comfortable or familiar with using Google Meet let your recruiter know and they will be happy to set up a test chat with you prior to your interviews! If you have specific scheduling accommodation needs (such as closed captioning requirements, time of day availability, etc.) please let us know.
 In case there are technical issues with a video call, you will also be provided with a dial-in number you can call by phone.
 We realize video chats aren’t an option for everyone, so we are also happy to work with a candidate’s individual needs to ensure they have a good interviewing experience and can use their preferred method of communication.
+
 Interviews can take up to several weeks as we try to work with everyone’s schedule. We encourage our hiring teams to make selections as quickly as possible, but it can sometimes take a week or two before we are able to share the team’s decision after your final interview.
 We want you to be able to present your best self! To help, we will provide Interview questions ahead of the interviews via email.  
+
+Please note, we will request references if you are selected to move forward in the process.
 
 ## Time to hire
 It’s important to note that once we have made a hiring decision, it can often take 2 - 2.5 months to move through the onboarding process and confirm your final start date. This part of the process includes some background checks for security clearance needs, sorting out IT gear,badging, direct deposit, and negotiating your start date. We have a member of the Talent Team fully dedicated to ensuring that this part of the process moves as smoothly as possible.
