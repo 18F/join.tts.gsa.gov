@@ -17,7 +17,7 @@ location: 'Virtual (100% Remote)'
 gs_level: '13, 14, 15'
 salary_min: '94,373'
 salary_max: '176,300'
-org: TTS
+org: 'TTS'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
