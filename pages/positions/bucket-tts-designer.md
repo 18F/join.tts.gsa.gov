@@ -10,30 +10,31 @@ job_post_type: usajobs
 #    link: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Designer
-opens: 'tbd'
-# closes: MONTH DAY, YEAR, TIME EDT
-location: "Virtual (100% Remote)"
-gs_level: "13, 14, 15"
-salary_min: "94,373"
-salary_max: "176,300"
-org: TTS
+role_name: TTS Designer
+opens: 'TBD'
+closes: 'TBD'
+location: 'Virtual (100% Remote)'
+gs_level: '13, 14, 15'
+salary_min: '94,373'
+salary_max: '176,300'
+org: 'TTS'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-# job_announcement_number: 'ENTER JOB ANNOUNCEMENT NUMBER'
-# pd_job_title: 'Innovation Specialist' (ENTER TITLE IF DIFFERENT)
-# num_vacancies: 'ENTER NUMBER OF VACANCIES'
-# series: '0301' ENTER SERIES IF DIFFERENT
-# apply_url: APPLICATION URL
-# ohrm_contact_email: 'ENTER OHRM CONTACT EMAIL'
-# ohrm_contact_name: 'ENTER OHRM CONTACT NAME'
-# bargaining_unit: 'Non Bargaining Unit'
-# promotion_potential: 'ENTER THE GS LEVEL' (13, 14, 15, etc.)
-# supervisory_status: 'YES' or 'NO'
+job_announcement_number: 'TBD'
+pd_job_title: 'TBD'
+num_vacancies: '100'
+series: '1102'
+apply_url: TBD
+ohrm_contact_email: 'TBD'
+ohrm_contact_name: 'TBD'
+bargaining_unit: 'Non Bargaining Unit'
+promotion_potential: 'TBD'
+supervisory_status: 'No'
 ---
+
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
   {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
