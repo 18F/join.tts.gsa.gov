@@ -10,7 +10,7 @@ job_post_type: usajobs
 #    link: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Designer
+role_name: TTS Designer
 opens: 'tbd'
 # closes: MONTH DAY, YEAR, TIME EDT
 location: "Virtual (100% Remote)"
