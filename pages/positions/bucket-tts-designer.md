@@ -11,8 +11,8 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: TTS Designer
-opens: 'tbd'
-# closes: MONTH DAY, YEAR, TIME EDT
+opens: 'TBD'
+closes: 'TBD'
 location: "Virtual (100% Remote)"
 gs_level: "13, 14, 15"
 salary_min: "94,373"
