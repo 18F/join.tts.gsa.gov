@@ -26,7 +26,7 @@ apply_url: https://www.usajobs.gov/job/657627400
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
 ohrm_contact_name: 'John Chiu, Jr.'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'No'
+promotion_potential: '14'
 supervisory_status: 'Yes'
 ---
 
@@ -152,7 +152,7 @@ Public trust. Background investigation required.
 Full time
 
 **Appointment Type:**
-Competetive TERM: Not to exceed 4 years.
+Competitive PERM
   
 ## Job Summary
   
