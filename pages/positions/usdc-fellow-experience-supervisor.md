@@ -1,13 +1,13 @@
 ---
 title: U.S. Digital Corps - Fellow Experience Supervisor
 permalink: /join/usdc-fellow-experience-supervisor/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: U.S. Digital Corps Fellow Experience Supervisor
-opens: 'TBD'
-closes: 'TBD'
+opens: 'June 3, 2022 at 9:00 am EDT'
+closes: 'June 10, 2022 at 11:59 pm EDT'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '14'
 salary_min: '111,521' 
@@ -18,16 +18,16 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
-pd_job_title: 'TBD'
-num_vacancies: '2'
-series: '1102'
-apply_url: TBD
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+job_announcement_number: '22FASC361JCOTR'
+pd_job_title: 'Supervisory IT Specialist'
+num_vacancies: '3'
+series: '2210'
+apply_url: https://www.usajobs.gov/job/657627400
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'John Chiu, Jr.'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'TBD'
-supervisory_status: 'No'
+promotion_potential: 'No'
+supervisory_status: 'Yes'
 ---
 
 {% if page.state == 'upcoming' %}
