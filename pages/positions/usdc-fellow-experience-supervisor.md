@@ -215,13 +215,12 @@ The information in this sections outlines the criteria that your application wil
 
 ## Qualifications
 
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In
-order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
+In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume
 and following our general guidance on creating federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. 
 
-Specialized experience must have been obtained in an information technology environment and is defined as experience: 
+Specialized experience is defined as experience: 
 
 - Experience managing staff that provide or support delivery of modern IT product(s), platform(s), or service(s).
 - Experience leading  the overall planning, management, and direction of a program or of projects.
