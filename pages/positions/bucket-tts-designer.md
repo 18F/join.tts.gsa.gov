@@ -69,7 +69,7 @@ Types of designers we are currently hiring for:
 - Content Strategy
 - Product Design
 
-Teams we are currently hiring for:
+Some of the teams we are currently hiring for (not a complete list):
 - [18F](https://18f.gsa.gov/)
 - [USAGov](https://www.usa.gov/)
 - [Centers of Excellence](https://coe.gsa.gov/)
