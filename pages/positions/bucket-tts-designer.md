@@ -11,8 +11,8 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: TTS Designer
-opens: 'TBD'
-closes: 'TBD'
+opens: 'June 14, 2022 at 9:00 am EDT' 
+closes: 'June 13, 2023 at 11:59 pm EDT'
 location: 'Virtual (100% Remote)'
 gs_level: '13, 14, 15'
 salary_min: '94,373'
@@ -23,15 +23,15 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
-pd_job_title: 'TBD'
+job_announcement_number: '22FASC350LUOTR'
+pd_job_title: 'IT Specialist (SYSANALYSIS)'
 num_vacancies: '100'
-series: '1102'
-apply_url: TBD
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+series: '2210'
+apply_url: 'https://www.usajobs.gov/job/65833220'
+ohrm_contact_email: 'Loyola.Ukpokodu@gsa.gov'
+ohrm_contact_name: 'Loyola Ukpokodu'
 bargaining_unit: 'Non Bargaining Unit'
-promotion_potential: 'TBD'
+promotion_potential: '15'
 supervisory_status: 'No'
 ---
 
