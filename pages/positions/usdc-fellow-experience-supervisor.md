@@ -1,7 +1,7 @@
 ---
 title: U.S. Digital Corps - Fellow Experience Supervisor
 permalink: /join/usdc-fellow-experience-supervisor/
-state: open
+state: closed 
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
