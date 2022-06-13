@@ -42,10 +42,6 @@ supervisory_status: 'No'
   {% endunless %}
 {% endif %}
 
-{% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
-{% endif %}
-
 ## Opportunity overview
 
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions.
