@@ -3,11 +3,6 @@ title: TTS - Designer
 permalink: /join/tts-designer/
 state: upcoming
 job_post_type: usajobs
-# related_performance_profiles:
-#  - name: NAME OF PERFORMANCE PROFILE
-#    link: /join/ENTER PERFORMANCE PROFILE PAGENAME HERE
-#  - name: (repeat as necessary)
-#    link: (repeat as necessary)
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: TTS Designer
@@ -50,6 +45,10 @@ supervisory_status: 'No'
 {% if page.state != 'upcoming' %}
 {{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role..** This page contains a high-level summary of the role and links to more specific descriptions for each {{ page.title }}. **When the position becomes live for applications, you will have the opportunity to select which role(s) you’re interested in applying for.**
 {% endif %}
+
+## Opportunity overview
+
+These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions.
 
 We will be interviewing and hiring for this role on an ongoing basis and to help navigate the process, we’ve created a [guide](https://join.tts.gsa.gov/rolling-hiring/) to help explain what to expect after submitting your resume.
 
