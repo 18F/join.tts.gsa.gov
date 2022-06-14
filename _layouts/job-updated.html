@@ -1,0 +1,71 @@
+---
+layout: default
+---
+{% assign sortedinfosessions = site.data.info_sessions | where: "role", page.role_name | sort: 'date' %}
+<div class="grid-container">
+  <div class="grid-row grid-gap">
+    <div class="desktop:grid-col-12 margin-top-4">
+      <a href="/" class="back-breadcrumb">Back to all jobs</a>
+    </div>
+  </div>
+</div>
+<section class="usa-section job-posting padding-top-4">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="desktop:grid-col-12 usa-prose margin-bottom-3">
+        <h1>{{ page.title }}</h1>
+      {% if page.state == "closed" %}
+      <div class="usa-alert usa-alert-warning">
+        <div class="usa-alert-body">
+          <h3 class="usa-alert-heading">This job posting has closed.</h3>
+          <p class="usa-alert-text">Please see
+            <a href="{{site.baseurl}}/#open-positions">our other open positions</a>.</p>
+        </div>
+      </div>
+      {% elsif page.state == 'upcoming' %}
+      <div class="usa-alert usa-alert-info">
+        <div class="usa-alert-body">
+          <h3 class="usa-alert-heading">Upcoming role</h3>
+          <p class="usa-alert-text">This role is not yet open for application. {% include upcoming_statement.html %}</p>
+        </div>
+      </div>
+      {% elsif page.state == 'open' %}
+      <div class="usa-alert usa-alert-info">
+        <div class="usa-alert-body">
+          <h3 class="usa-alert-heading">Apply now!</h3>
+          <p class="usa-alert-text">This role is open for applications until {{ page.closes }}.</p>
+        </div>
+      </div>
+      {% endif %}
+      <div class="grid-row grid-gap padding-top-4">
+
+        <div class="desktop:grid-col-4 desktop:margin-top-0" style="order:1">
+        {% if sortedinfosessions.size > 0 %}
+          <div class="usa-summary-box">
+            <div class="usa-summary-box__body">
+              <h3 class="usa-summary-box__heading">
+                Attend an information session
+              </h3>
+              <div class="usa-summary-box__text" markdown="1">
+                Attend an information session to learn more about these roles, working at TTS, and our application process. Register for a session using the Eventbrite links below.
+                <ul>
+                {% for session in sortedinfosessions %}
+                <li><a href="{{session.link}}">{{page.role_name}} Info Session</a>, {{session.date | date: "%A, %B %d,"}} at {{session.time}}</li>
+                {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+        </div>
+
+        <div class="desktop:grid-col-8 usa-prose" markdown="1">
+            {{ content }}
+        </div>
+      </div>
+      
+      {{ apply | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
