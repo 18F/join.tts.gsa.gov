@@ -40,7 +40,7 @@ layout: default
         {% unless pg.path contains 'template' %}
         {% unless pg.path contains 'performance-profiles' %}
         <li>
-        <a href="{{ site.baseurl }}{{ pg.permalink }}">{{ pg.title }}</a> (Open now through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }} Eastern)
+        <a href="{{ site.baseurl }}{{ pg.permalink }}">{{ pg.title }}</a> (Open {% if pg.weeks_open %}for {% if pg.weeks < 52 %}{{ pg.weeks }}{% else %} one year or until all selections have been made{% endif %},{% endif %} through {{ pg.closes | date: '%A, %B %e, %Y at %l:%M%P %Z' }} Eastern)
         </li>
         {% endunless %}
         {% elsif pg.state == 'usajobs' %}
