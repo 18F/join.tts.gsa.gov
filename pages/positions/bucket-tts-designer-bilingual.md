@@ -52,6 +52,10 @@ We will be interviewing and hiring for this role on an ongoing basis and to help
 
 ## Role summary
 
+These roles focus on helping the Spanish speaking community have better access to federal government programs and offerings. Expert level proficiency in the Spanish language is required. Part of the interview will be given in Spanish, as well as a written assessment.
+
+## Role summary
+
 Designers at TTS work across design contexts. They drive research activities, derive insights, generate concepts, communicate those concepts clearly, and work with cross functional teams to build and test them. They model best practices in user-centered design within TTS and across the federal government through advocacy and coaching.
 
 Our Designers have deep experience in user research (generative, foundational and evaluative). In addition to research, we look for strong craft skills, confidence, and sophistication in at least one of the following areas: interaction design, product design, service design, content design and/or information architecture.
@@ -62,15 +66,11 @@ If you are committed to improving government services for all who need them this
 
 Types of designers we are currently hiring for:
 - UX Design
-- Service Design
 - Content Strategy
-- Product Design
 
-Some of the teams we are currently hiring for (not a complete list):
-- [18F](https://18f.gsa.gov/)
+Some of the teams we are currently hiring for (this list may change in the future):
 - [USAGov](https://www.usa.gov/)
-- [Centers of Excellence](https://coe.gsa.gov/)
-- [Login.gov](https://login.gov/)
+
 
 ## Key objectives
 ### 1. Demonstrate excellence in design, while grasping the core questions and responsibilities of at least one design discipline.
