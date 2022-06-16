@@ -68,8 +68,7 @@ Types of designers we are currently hiring for:
 - Content Strategy
 
 Some of the teams we are currently hiring for (this list may change in the future):
-- [USAGov](https://www.usa.gov/)
-- [USAGov en español](https://www.usa.gov/espanol/)
+- [USAGov](https://www.usa.gov/) and [USAGov en español](https://www.usa.gov/espanol/)
 
 
 ## Key objectives
