@@ -46,7 +46,7 @@ We’re excited to be moving forward with your interviews! Below is more informa
 ## Interview process and timeline
 The interview process is up to 3 rounds and is as follows. The total process will be up to 3 hours in duration (spread across multiple dates). This process can take place over several weeks.
 1. *Phone Screen Interview (60 minutes)* — Phone Interview with a member of the interviewing team to discuss your background
-*Note: For Bilingual roles there will be a language proficiency assessment
+ *Note: For Bilingual roles there will be a language proficiency assessment
 2. *Technical Interview (60 minutes)* - This is a behavioral style interview which will deeper dive into your technical expertise
 3. *Core Values Interview (60 minutes)* - This is a behavioral style interview to evaluate alignment with [TTS core values](https://handbook.tts.gsa.gov/about-us/tts-history/) of inclusion, integrity, and impact.
 
