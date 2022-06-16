@@ -50,7 +50,7 @@ These opportunities are located in the General Services Administration (GSA), Fe
 
 We will be interviewing and hiring for this role on an ongoing basis and to help navigate the process, we’ve created a [guide](https://join.tts.gsa.gov/rolling-hiring/) to help explain what to expect after submitting your resume.
 
-## Role summary
+## Language Requirements
 
 These roles focus on helping the Spanish speaking community have better access to federal government programs and offerings. Expert level proficiency in the Spanish language is required. Part of the interview will be given in Spanish, as well as a written assessment.
 
