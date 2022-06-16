@@ -49,6 +49,8 @@ The interview process is up to 3 rounds and is as follows. The total process wil
 2. *Technical Interview (60 minutes)* - This is a behavioral style interview which will deeper dive into your technical expertise
 3. *Core Values Interview (60 minutes)* - This is a behavioral style interview to evaluate alignment with [TTS core values](https://handbook.tts.gsa.gov/about-us/tts-history/) of inclusion, integrity, and impact.
 
+Note: For bilingual roles, there will be a language proficiency assessment
+
 We typically use Google Meet for our video interviews — if you are not comfortable or familiar with using Google Meet let your recruiter know and they will be happy to set up a test chat with you prior to your interviews! If you have specific scheduling accommodation needs (such as closed captioning requirements, time of day availability, etc.) please let us know.
 In case there are technical issues with a video call, you will also be provided with a dial-in number you can call by phone.
 We realize video chats aren’t an option for everyone, so we are also happy to work with a candidate’s individual needs to ensure they have a good interviewing experience and can use their preferred method of communication.
