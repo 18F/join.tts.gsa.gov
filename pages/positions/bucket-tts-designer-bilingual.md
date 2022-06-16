@@ -1,14 +1,14 @@
 ---
 layout: job-updated
 title: TTS Bilingual Spanish Designer
-permalink: /join/tts-designer/
-state: open
+permalink: /join/tts-bilingualdesigner/
+state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: TTS Bilingual Designer
-opens: 'June 14, 2022 at 9:00 am EDT' 
-closes: 'June 13, 2023 at 11:59 pm EDT'
+role_name: TTS Bilingual Spanish Designer
+opens: 'TBD' 
+closes: 'TBD'
 weeks_open: 52
 location: 'Virtual (100% Remote)'
 gs_level: '13, 14, 15'
@@ -20,7 +20,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '22FASC350LUOTR'
+job_announcement_number: 'TBD'
 pd_job_title: 'IT Specialist (SYSANALYSIS)'
 num_vacancies: '100'
 series: '2210'
