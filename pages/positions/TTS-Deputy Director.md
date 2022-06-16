@@ -1,13 +1,13 @@
 ---
 title: TTS Deputy Director
 permalink: /join/tts-deputy-director/
-state: closed
+state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Deputy Director
-opens: 'September 27, 2021 at 9:00 am EDT'
-closes: 'October 12, 2021 at 11:59 pm EDT'
+opens: 'TBD'
+closes: 'TBD'
 location: 'Remote'
 gs_level: 'Senior Executive Service'
 salary_min: '132,552' 
@@ -19,10 +19,10 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS OPEN: These fields are required for open
 
 job_announcement_number: 
-pd_job_title: 'Director, Centers of Excellence' 
+pd_job_title: 'Deputy Director, TTS' 
 num_vacancies: '1'
-series: 'ES-2210' 
-apply_url: 'https://www.usajobs.gov/GetJob/ViewDetails/615286200'
+series: 'ES-0340' 
+apply_url: 'tbd'
 ohrm_contact_email: 'christopher.wright@gsa.gov'
 ohrm_contact_name: 'Chris Wright'
 bargaining_unit: 'Non Bargaining Unit'
