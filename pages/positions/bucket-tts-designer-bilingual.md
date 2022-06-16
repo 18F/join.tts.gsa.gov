@@ -39,7 +39,7 @@ supervisory_status: 'No'
   {% endif %}
 
   {% unless page.opens == 'tbd' %}
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}.
+  Applications will be open for submission shortly.
   {% endunless %}
 {% endif %}
 
