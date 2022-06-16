@@ -69,6 +69,7 @@ Types of designers we are currently hiring for:
 
 Some of the teams we are currently hiring for (this list may change in the future):
 - [USAGov](https://www.usa.gov/)
+- [USAGov en español](https://www.usa.gov/espanol/)
 
 
 ## Key objectives
