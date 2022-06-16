@@ -1,12 +1,12 @@
 ---
 layout: job-updated
-title: TTS - Designer
+title: TTS Bilingual Spanish Designer
 permalink: /join/tts-designer/
 state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: TTS Designer
+role_name: TTS Bilingual Designer
 opens: 'June 14, 2022 at 9:00 am EDT' 
 closes: 'June 13, 2023 at 11:59 pm EDT'
 weeks_open: 52
