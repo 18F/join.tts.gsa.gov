@@ -7,7 +7,7 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: TTS Bilingual Spanish Designer
-opens: 'TBD' 
+opens: 'an upcoming date' 
 closes: 'TBD'
 weeks_open: 52
 location: 'Virtual (100% Remote)'
