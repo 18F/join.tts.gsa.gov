@@ -207,7 +207,7 @@ This is a term limited appointment with the ability to extend for a total of eig
   - Training and development
   - Direct Deposit of salary check to financial organization required.
 
-## Qualifications (in addition to the languages skills requirement listed above)
+## Qualifications (in addition to the language skills requirement listed above)
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
