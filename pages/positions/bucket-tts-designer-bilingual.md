@@ -246,5 +246,4 @@ To qualify, you must have one (1) year of specialized experience at the next low
 - Experience with iterative or agile methodologies
 - Experience participating in content strategy or design sessions or workshops
 
-**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
 
