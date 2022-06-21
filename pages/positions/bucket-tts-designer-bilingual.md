@@ -6,7 +6,7 @@ state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: TTS Bilingual Spanish Designer
+role_name: TTS Bilingual (Spanish/English) Designer
 opens: 'an upcoming date' 
 closes: 'TBD'
 weeks_open: 52
