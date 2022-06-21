@@ -1,6 +1,6 @@
 ---
 layout: job-updated
-title: TTS Bilingual Spanish Designer
+title: TTS Bilingual (Spanish/English) Designer
 permalink: /join/tts-bilingualdesigner/
 state: upcoming
 job_post_type: usajobs
