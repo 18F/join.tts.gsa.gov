@@ -68,8 +68,8 @@ Types of designers we are currently hiring for:
 - Content Strategy
 
 Some of the teams we are currently hiring for (this list may change in the future):
-- [USAGov](https://www.usa.gov/) and [USAGov en español](https://www.usa.gov/espanol/)
-- [Vote.gov](https://vote.gov/)
+- [USAGov](https://www.usa.gov/) and [USAGov en español](https://www.usa.gov/espanol/): A team supporting a large web presence, including the government’s “front door” that routes the public to government agency resources.
+- [Vote.gov](https://vote.gov/): A team supporting the official voter registration website of the US federal government.
 
 
 ## Key objectives
