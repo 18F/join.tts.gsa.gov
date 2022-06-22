@@ -67,10 +67,11 @@ Types of designers we are currently hiring for:
 - Product Design
 
 Some of the teams we are currently hiring for (not a complete list):
-- [18F](https://18f.gsa.gov/)
-- [USAGov](https://www.usa.gov/)
-- [Centers of Excellence](https://coe.gsa.gov/)
-- [Login.gov](https://login.gov/)
+Please note, while a candidate's preference on teams may be taken into consideration, a final hiring decision on which team a candidate will join depends on the candidate's skillsets as well as current needs of each team. 
+- [18F](https://18f.gsa.gov/): Cross-discipline teams that work on projects supporting agencies across the federal government.
+- [USAGov](https://www.usa.gov/): A team supporting a large web presence, including the government’s “front door” that routes the public to government agency resources.
+- [Centers of Excellence](https://coe.gsa.gov/): Teams embedded in federal agencies, focusing on IT modernization.
+- [Login.gov](https://login.gov/): Teams supporting a product that manages identity for interactions with the federal government.
 
 ## Key objectives
 ### 1. Demonstrate excellence in design, while grasping the core questions and responsibilities of at least one design discipline.
