@@ -5,6 +5,14 @@
 # date: YYYY-MM-DD format. This will get parsed automatically to show day of the week and month name.
 # time: Time in 00:00 ET / 00:00 PT format. 
 
+- role: PIF Application Information Session 
+  link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-63022-tickets-372911457207
+  date: 2022-06-30
+  time: 12:00-1:00pm ET (9:00-10:00am PT)
+- role: PIF Application Information Session 
+  link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-7722-tickets-372923322697
+  date: 2022-07-07
+  time: 12:00-1:00pm ET (9:00-10:00am PT)
 - role: General
   link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-302975737587
   date: 2022-07-14
