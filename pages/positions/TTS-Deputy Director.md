@@ -7,7 +7,7 @@ job_post_type: usajobs
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Deputy Director
 opens: 'August 15, 2022 at 9:00 am EDT'
-closes: 'September 15, 2022 at 11:59 pm EDT'
+closes: 'September 12, 2022 at 11:59 pm EDT'
 location: 'Remote'
 gs_level: 'Senior Executive Service'
 salary_min: '135,468' 
