@@ -193,7 +193,10 @@ Public trust. Background investigation required.
 Full time.
 
 **Appointment type:**
-This is a term limited appointment with the ability to extend for a total of eight years.
+This is a term limited appointment with the ability to extend for a total of eight years. 
+
+**Job Family (Series):**
+2210 IT 
 
 **Employee benefits:**
 [Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
