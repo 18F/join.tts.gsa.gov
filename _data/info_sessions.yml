@@ -5,10 +5,6 @@
 # date: YYYY-MM-DD format. This will get parsed automatically to show day of the week and month name.
 # time: Time in 00:00 ET / 00:00 PT format. 
 
-- role: Deputy Director
-  link: https://www.eventbrite.com/e/tts-deputy-director-ses-hiring-information-session-tickets-395240162967
-  date: 2022-08-25
-  time: 1:00-2:00pm ET (10:00-11:00am PT)
 - role: General
   link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-387720732147
   date: 2022-09-15 
