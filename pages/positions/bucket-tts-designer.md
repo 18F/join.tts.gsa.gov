@@ -2,7 +2,7 @@
 layout: job-updated
 title: TTS - Designer
 permalink: /join/tts-designer/
-state: closed
+state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
