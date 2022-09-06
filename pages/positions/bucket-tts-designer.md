@@ -39,7 +39,7 @@ supervisory_status: 'No'
   {% endif %}
 
   {% unless page.opens == 'tbd' %}
-  Applications will be open for submission on {{ page.opens | date: '%A, %B %e, %Y' }}. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
+  Applications will be open for submission shortly. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process.
   {% endunless %}
 {% endif %}
