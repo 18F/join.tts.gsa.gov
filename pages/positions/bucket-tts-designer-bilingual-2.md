@@ -1,12 +1,12 @@
 ---
 layout: job-updated
-title: TTS Bilingual (Spanish/English) Designer
+title: TTS Bilingual (Spanish/English) Designer GS13
 permalink: /join/tts-bilingualdesigner/
 state: closed
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: TTS Bilingual (Spanish/English) Designer
+role_name: TTS Bilingual (Spanish/English) Designer GS13
 opens: 'an upcoming date' 
 closes: 'TBD'
 weeks_open: 52
