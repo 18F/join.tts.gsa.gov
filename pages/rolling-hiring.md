@@ -71,7 +71,7 @@ Government hiring is different from industry hiring. This role is a DHA (Direct 
 This position is subject to the GS pay scale so if you haven't already, please be sure to check out the pay for your locality using [OPM’s pay calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/). GSA’s max salary has increased to $176,300. You cannot be offered more than this under any circumstance.
 Understanding the relationship between GS grade level, location, and compensation is important to understanding how salaries work at TTS.
 Each GS grade level contains a series of 10 steps. New employees are usually hired at Step 1 of a GS grade. However, in special circumstances, agencies may authorize a higher step rate for a newly-appointed federal employee based on a [special need of the agency or superior qualifications of the prospective employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
-This job posting includes roles at the GS13, GS14, and GS15 level. Your approved GS level will depend on qualification from an HR specialist if you are selected at the end of the interview process.
+Role needs throughout the year may include roles at the GS13, GS14, and GS15 level. Your approved GS level will depend on qualification from an HR specialist if you are selected at the end of the interview process.
 If you have questions or concerns about the salary for this role, please let your recruiter know so you can have a more in-depth conversation.
 
 ## Benefits
