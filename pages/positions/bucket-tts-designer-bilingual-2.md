@@ -1,7 +1,7 @@
 ---
 layout: job-updated
 title: TTS Bilingual (Spanish/English) Designer GS13
-permalink: /join/tts-bilingualdesigner/
+permalink: /join/tts-bilingualdesigner2/
 state: closed
 job_post_type: usajobs
 
