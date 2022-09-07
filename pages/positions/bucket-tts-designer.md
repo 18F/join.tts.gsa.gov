@@ -33,7 +33,7 @@ supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles.
+{{ page.org }} will soon be accepting applications for Designer GS14 and GS15 roles.
   {% if page.opens == 'tbd' %} The target date for when these positions will be officially open to application has not yet been determined. If you'd like to be
   notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
