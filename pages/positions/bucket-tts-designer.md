@@ -201,13 +201,6 @@ For each job on your resume, provide:
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 **BASIC REQUIREMENTS**  
-Applicants applying for the GS-14 grade level must meet the following requirements: Have IT-related experience demonstrating EACH of the four
-competencies AND one year of specialized experience equivalent to the GS-13 level in the Federal service as described below:
-- Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
-- Customer Service - This skill is generally demonstrated by assignments where the applicant confers with users to evaluate the effectiveness of, or identify the need for, computer programs or management systems.
-- Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
-- Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource
-constraints.
 
 Applicants applying for the GS-15 grade level must meet the following requirements: Have IT-related experience demonstrating EACH of the four
 competencies AND one year of specialized experience equivalent to the GS-14 level in the Federal service as described below:
@@ -217,6 +210,15 @@ maintain knowledge in field of expertise (for example, reads trade journals, par
 - Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a
 representative for the organization on technical or professional issues.
 - Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological,economic, political, social, educational, or employment trends or events) and applies the information as appropriate.
+
+Applicants applying for the GS-14 grade level must meet the following requirements: Have IT-related experience demonstrating EACH of the four
+competencies AND one year of specialized experience equivalent to the GS-13 level in the Federal service as described below:
+- Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
+- Customer Service - This skill is generally demonstrated by assignments where the applicant confers with users to evaluate the effectiveness of, or identify the need for, computer programs or management systems.
+- Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
+- Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource
+constraints.
+
 
 AND
 
