@@ -55,7 +55,7 @@ We typically use Google Meet for our video interviews — if you are not comfort
 In case there are technical issues with a video call, you will also be provided with a dial-in number you can call by phone.
 We realize video chats aren’t an option for everyone, so we are also happy to work with a candidate’s individual needs to ensure they have a good interviewing experience and can use their preferred method of communication.
 
-Interviews can take up to several weeks as we try to work with everyone’s schedule. We encourage our hiring teams to make selections as quickly as possible, but it can sometimes take a week or two before we are able to share the team’s decision after your final interview.
+Interviews can take up to several weeks as we try to work with everyone’s schedule. We encourage our hiring teams to make selections as quickly as possible, but it can sometimes take several weeks before we are able to share the team’s decision after your final interview.
 We want you to be able to present your best self! To help, we will provide Interview questions ahead of the interviews via email.  
 
 Please note, we will request references if you are selected to move forward in the process.
