@@ -5,7 +5,7 @@ state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Deputy Director
+role_name: TTS Deputy Director
 opens: 'August 15, 2022 at 9:00 am EDT'
 closes: 'September 26, 2022 at 11:59 pm EDT'
 location: 'Remote'
