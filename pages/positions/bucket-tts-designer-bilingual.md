@@ -51,7 +51,7 @@ We will be interviewing and hiring for this role on an ongoing basis and to help
 
 ## Language Skills Requirement
 
-These roles focus on helping the Spanish speaking community have better access to federal government programs and offerings.  Native level proficiency in the Spanish language is required as well as experience designing content, products and/or services.  Experience working with and for the Spanish-speaking population in the U.S. in a design related capacity is highly preferred. Part of the interview will be conducted in Spanish. There will also be a written assessment.
+These roles focus on helping the Spanish speaking community have better access to federal government programs and offerings.  Native level proficiency in the Spanish language is required as well as experience designing content, products and/or services.  Experience working with and for the Spanish-speaking population in the U.S. in a design related capacity is highly preferred. Part of the interviews will be conducted in Spanish. There will also be a written assessment.
 
 ## Role summary
 
