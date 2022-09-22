@@ -2,13 +2,13 @@
 layout: job-updated
 title: TTS - Designer GS14 and GS15
 permalink: /join/tts-designer/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: TTS Designer GS14 and GS15
 opens: 'TBD' 
-closes: 'June 13, 2023 at 11:59 pm EDT'
+closes: 'September 21, 2023 at 11:59 pm EDT'
 weeks_open: 52
 location: 'Virtual (100% Remote)'
 gs_level: '14, 15'
@@ -48,7 +48,7 @@ supervisory_status: 'No'
 
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions.
 
-We will be interviewing and hiring for this role on an ongoing basis and to help navigate the process, we’ve created a [guide](https://join.tts.gsa.gov/rolling-hiring/) to help explain what to expect after submitting your resume.
+We will be interviewing and hiring for this role on an ongoing basis and to help navigate the process, we’ve created a [guide](https://join.tts.gsa.gov/rolling-hiring/) to help explain what to expect after submitting your resume. If you'd like to refer to the USAjobs posting, please see the [post](https://www.usajobs.gov/job/678911800) on USAjobs. 
 
 ## Role summary
 
