@@ -8,7 +8,7 @@ job_post_type: usajobs
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: TTS Designer GS14 and GS15
 opens: 'TBD' 
-closes: 'June 13, 2023 at 11:59 pm EDT'
+closes: 'September 21, 2023 at 11:59 pm EDT'
 weeks_open: 52
 location: 'Virtual (100% Remote)'
 gs_level: '14, 15'
