@@ -46,10 +46,11 @@ We’re excited to be moving forward with your interviews! Below is more informa
 ## Interview process and timeline
 The interview process is up to 3 rounds and is as follows. The total process will be up to 3 hours in duration (spread across multiple dates). This process can take place over several weeks.
 1. *Phone Screen Interview (60 minutes)* — Phone Interview with a member of the interviewing team to discuss your background
- *Note: For Bilingual roles there will be a written language proficiency assessment, and the phone screen and interviews will be partly in Spanish
-2. *Technical Interview (60 minutes)* - This is a behavioral style interview which will deeper dive into your technical expertise
-3. *Core Values Interview (60 minutes)* - This is a behavioral style interview to evaluate alignment with [TTS core values](https://handbook.tts.gsa.gov/about-us/tts-history/) of inclusion, integrity, and impact
-4. A final call with the proposed destination team and candidate may occur at the end of the interview process. It is an open ended conversation and a chance for the candidate and proposed destination team to get to know each other to see if there is mutual interest and skillset fit
+ *Note: For Bilingual roles the phone screen and interviews will be partly in Spanish
+2. For Bilingual roles, there will be a written assessment in Spanish 
+3. *Technical Interview (60 minutes)* - This is a behavioral style interview which will deeper dive into your technical expertise
+4. *Core Values Interview (60 minutes)* - This is a behavioral style interview to evaluate alignment with [TTS core values](https://handbook.tts.gsa.gov/about-us/tts-history/) of inclusion, integrity, and impact
+5. A final call with the proposed destination team and candidate may occur at the end of the interview process. It is an open ended conversation and a chance for the candidate and proposed destination team to get to know each other to see if there is mutual interest and skillset fit
 
 We typically use Google Meet for our video interviews — if you are not comfortable or familiar with using Google Meet let your recruiter know and they will be happy to set up a test chat with you prior to your interviews! If you have specific scheduling accommodation needs (such as closed captioning requirements, time of day availability, etc.) please let us know.
 In case there are technical issues with a video call, you will also be provided with a dial-in number you can call by phone.
