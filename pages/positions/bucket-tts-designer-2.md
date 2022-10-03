@@ -68,10 +68,8 @@ Types of designers we are currently hiring for:
 
 Some of the teams we are currently hiring for (not a complete list):
 Please note, while a candidate's preference on teams may be taken into consideration, a final hiring decision on which team a candidate will join depends on the candidate's skillsets as well as current needs of each team. 
-- [18F](https://18f.gsa.gov/): Cross-discipline teams that work on projects supporting agencies across the federal government.
 - [USAGov](https://www.usa.gov/): A team supporting a large web presence, including the government’s “front door” that routes the public to government agency resources.
-- [Centers of Excellence](https://coe.gsa.gov/): Cross-discipline teams work with agency partners and industry to accelerate enterprise-wide IT & data modernization with emphasis on improving the customer and employee experience.
-- [Login.gov](https://login.gov/): Teams supporting a product that manages identity for interactions with the federal government.
+- [Vote.gov](https://vote.gov/): A team supporting a trusted source for voting information.
 
 ## Key objectives
 ### 1. Demonstrate excellence in design, while grasping the core questions and responsibilities of at least one design discipline.
@@ -177,10 +175,11 @@ All applications will be reviewed by a panel of subject matter experts against a
 
 **BASIC REQUIREMENTS**  
 - Have IT-related experience demonstrating EACH of the four competencies listed below:
-- Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
-- Customer Service - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
-- Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
-- Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate; 
+- Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
+- Customer Service - This skill is generally demonstrated by assignments where the applicant confers with users to evaluate the effectiveness of, or identify the need for, computer programs or management systems.
+- Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
+- Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource
+constraints;
 
 AND
 
