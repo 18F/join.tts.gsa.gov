@@ -160,7 +160,6 @@ This is a term limited appointment with the ability to extend for a total of eig
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-### In addition to the language skills requirement listed above
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
@@ -173,6 +172,8 @@ For each job on your resume, provide:
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 **BASIC REQUIREMENTS**  
+### In addition to the language skills requirement listed above
+
 - Have IT-related experience demonstrating EACH of the four competencies listed below:
 - Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
 - Customer Service - This skill is generally demonstrated by assignments where the applicant confers with users to evaluate the effectiveness of, or identify the need for, computer programs or management systems.
