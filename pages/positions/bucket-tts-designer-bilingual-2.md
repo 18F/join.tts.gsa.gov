@@ -2,7 +2,7 @@
 layout: job-updated
 title: TTS Bilingual (Spanish/English) Designer GS13
 permalink: /join/tts-bilingualdesignergs13/
-state: closed
+state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -26,7 +26,7 @@ num_vacancies: '100'
 series: '2210'
 apply_url: 'https://docs.google.com/forms/d/e/1FAIpQLScwzijeP-591NKESpaBG_R4c5Iyw2zDf600yWVXx67xy5vaMw/viewform'
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'Loyola Ukpokodu'
+ohrm_contact_name: 'Sylvia Velez Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '13'
 supervisory_status: 'No'
@@ -160,7 +160,7 @@ This is a term limited appointment with the ability to extend for a total of eig
   - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
-
+### In addition to the language skills requirement listed above
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
 Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
@@ -172,7 +172,6 @@ For each job on your resume, provide:
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 **BASIC REQUIREMENTS**  
-### In addition to the language skills requirement listed above
 
 - Have IT-related experience demonstrating EACH of the four competencies listed below:
 - Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
