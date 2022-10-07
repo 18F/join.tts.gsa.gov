@@ -2,7 +2,7 @@
 layout: job-updated
 title: TTS - Designer GS13
 permalink: /join/tts-designer13/
-state: closed
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -48,7 +48,7 @@ supervisory_status: 'No'
 
 These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions.
 
-We will be interviewing and hiring for this role on an ongoing basis and to help navigate the process, we’ve created a [guide](https://join.tts.gsa.gov/rolling-hiring/) to help explain what to expect after submitting your resume. If you'd like to refer to the USAjobs posting, please see the [post](https://www.usajobs.gov/job/682027600) on USAjobs. 
+We will be interviewing and hiring for this role on an ongoing basis and to help navigate the process, we’ve created a [guide](https://join.tts.gsa.gov/rolling-hiring/) to help explain what to expect after submitting your resume. If you'd like to refer to the USAjobs posting, please see the [post](https://www.usajobs.gov/job/682026100) on USAjobs. 
 
 ## Role summary
 
