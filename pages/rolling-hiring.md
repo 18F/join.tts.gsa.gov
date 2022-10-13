@@ -48,7 +48,7 @@ The interview process is up to 3 rounds and is as follows. The total process wil
 1. *Phone Screen Interview (60 minutes)* — Phone Interview with a member of the interviewing team to discuss your background
  *Note: For Spanish/English Bilingual roles the phone screen and interviews will be partly in Spanish
 2. For Bilingual roles, there will be a written assessment in Spanish (Candidates will skip this step for non-bilingual opportunities)
-3. *Technical Interview (60 minutes)* - This is a behavioral style interview which will deeper dive into your technical expertise
+3. *Technical Interview (60 minutes)* - This is a behavioral style interview which will deeper dive into your technical expertise. Part of this interview may include going over a work sample provided by the candidate 
 4. *Core Values Interview (60 minutes)* - This is a behavioral style interview to evaluate alignment with [TTS core values](https://handbook.tts.gsa.gov/about-us/tts-history/) of inclusion, integrity, and impact
 5. A final call with the proposed destination team and candidate may occur at the end of the interview process. It is an open ended conversation and a chance for the candidate and proposed destination team to get to know each other to see if there is mutual interest and skillset fit
 
