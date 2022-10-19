@@ -6,6 +6,6 @@ gem 'uswds-jekyll', '~> 5.4'
 gem 'mini_racer' # for autoprefixer
 
 group :development do
-  gem 'html-proofer', '>= 3.18.0'
+  gem 'html-proofer', '>= 3.19.2'
   gem 'rake'
 end
