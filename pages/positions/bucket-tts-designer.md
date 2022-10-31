@@ -68,10 +68,10 @@ Types of designers we are currently hiring for:
 
 Some of the teams we are currently hiring for (not a complete list):
 Please note, while a candidate's preference on teams may be taken into consideration, a final hiring decision on which team a candidate will join depends on the candidate's skillsets as well as current needs of each team. 
-- [Login.gov](https://login.gov/): Teams supporting a product that manages identity for interactions with the federal government.
-- [e-Rulemaking](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/erulemaking#:~:text=The%20eRulemaking%20program%20is%20a,actions%20for%20multiple%20Federal%20agencies/): Teams supporting a product that manages identity for interactions with the federal government.
-- [Integrated Award Environment](https://www.gsa.gov/about-us/organization/federal-acquisition-service/office-of-systems-management/integrated-award-environment-iae): Teams supporting a product that manages identity for interactions with the federal government.
-- [Federal Audit Clearinghouse](https://facweb.census.gov/uploadpdf.aspx/): Teams supporting a product that manages identity for interactions with the federal government.
+- [Login.gov](https://login.gov/)
+- [e-Rulemaking](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/erulemaking#:~:text=The%20eRulemaking%20program%20is%20a,actions%20for%20multiple%20Federal%20agencies/)
+- [Integrated Award Environment](https://www.gsa.gov/about-us/organization/federal-acquisition-service/office-of-systems-management/integrated-award-environment-iae)
+- [Federal Audit Clearinghouse](https://facweb.census.gov/uploadpdf.aspx/)
 
 ## Key objectives
 ### 1. Demonstrate excellence in design, while grasping the core questions and responsibilities of at least one design discipline.
