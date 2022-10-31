@@ -66,11 +66,6 @@ Types of designers we are currently hiring for:
 - Content Strategy
 - Product Design
 
-Some of the teams we are currently hiring for (not a complete list):
-Please note, while a candidate's preference on teams may be taken into consideration, a final hiring decision on which team a candidate will join depends on the candidate's skillsets as well as current needs of each team. 
-- [Federal Audit Clearinghouse](https://facweb.census.gov/uploadpdf.aspx): A team supporting The Federal Audit Clearinghouse (FAC) which operates on behalf of the office of Management and Budget (OMB). 
-- [USAGov](https://www.usa.gov/): A team supporting a large web presence, including the government’s “front door” that routes the public to government agency resources.
-
 ## Key objectives
 ### 1. Demonstrate excellence in design, while grasping the core questions and responsibilities of at least one design discipline.
 
