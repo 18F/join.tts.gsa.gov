@@ -1,13 +1,13 @@
 ---
 title: U.S. Digital Corps - Director
 permalink: /join/usdc-director/
-state: closed
+state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: U.S. Digital Corps Director
-opens: 'May 2, 2022 at 9:00 am EDT'
-closes: 'May 9, 2022 at 11:59 pm EDT'
+opens: 'TBD'
+closes: 'TBD'
 location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
 gs_level: '15'
 salary_min: '131,178' 
@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: '22FASC310JCOTR'
+job_announcement_number: 'TBD'
 pd_job_title: ' Supervisory Information Technology Specialist (SYSANALYSIS)'
 num_vacancies: '1'
 series: '2210'
-apply_url: https://www.usajobs.gov/job/651026200
+apply_url: TBD
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'John Chiu, Jr.'
+ohrm_contact_name: 'TBD'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'Yes'
@@ -65,21 +65,17 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
-The [U.S. Digital Corps (USDC)](http://digitalcorps.gsa.gov/) is a new two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was [launched](https://www.gsa.gov/about-us/newsroom/news-releases/biden-administration-launches-us-digital-corps-to-recruit-the-next-generation-of-technology-talent-to-federal-service-08302021) in August 2021 by GSA in partnership with the White House, Cybersecurity and Infrastructure Security Agency (CISA), and Office of Personnel Management (OPM) and will place its first cohort of Fellows in June 2022.
-
-The U.S. Digital Corps Director directly manages the program leadership team, as well as the Cohort Leads for the program Fellows. The USDC Director designs and drives USDC program strategy, growth, and execution. 
+The U.S. Digital Corps (USDC) is a two-year fellowship that pairs early-career, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with technology changemakers in the federal government to build human-centered solutions to solve our nation’s toughest challenges. Fellows are the engines on projects that drive innovation in the areas of climate, healthcare, racial equity, immigration and economic recovery. 
+The USDC Director strategically leads the [fellowship](https://digitalcorps.gsa.gov/) program, designing and driving USDC program strategy, growth, and execution. This is a unique and exciting opportunity to empower the next generation of technology leaders to launch careers in public service.  You will continue to build and shape on an already successful model for the future fellows. More than just a job with a competitive salary and benefits, you will help grow the federal government technology leaders of the future . This is a senior leadership, supervisory, remote/virtual, permanent position for the US Federal Government/GSA/TTS. 
 
 ## Key Objectives
 
-### Key objective #1: Provide coaching, mentorship, and professional development opportunities; manage HR processes
+### Key objective #1:   Build critical government-wide partnerships and collaborations. 
 
-- Communicate regularly with your team, as a group and in 1:1s, to provide mentorship and guidance, and help remove obstacles to their success. 
-- Work with individuals to identify and develop their strengths, helping team members pursue opportunities that enhance their talents. 
-- Help direct reports with processes for training requests. Help direct reports complete mandatory training on time.
-- Constructively address conduct, performance, issues and situations. Initiate difficult conversations and clearly communicate expectations and corrective actions. 
-- Ensure employees receive reasonable accommodations and that team events are accessible. 
-- Conduct and document employee performance plans, mid-year, and end-of-year performance evaluations. Submit mid-year and end of year reviews in HR system for all reports.
-- Review leave requests in HR system every pay period for all direct reports. Submit and approve timesheets.
+- Create growth opportunities for USDC to increase agency partnerships and facilitate strategic initiatives to grow Digital Corps to ensure its continued success and momentum.
+- Regularly collaborate with federal agencies on projects, policies, and initiatives and navigate complex bureaucracy and lead stakeholders through change.
+- Represent the USDC program with TTS leadership, stakeholders, including members of the White House, Congress, government officials, members of special interest groups, the media, at conferences and with the general public.
+- Build relationships across the government to understand business and technology needs for potential USDC placement.
 
 ### Key objective #2: Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills:
 
@@ -91,13 +87,13 @@ Ensure continued technical or program excellence by leading in two or more of th
 - Fellow Experience: Develop end to end fellow experience starting from application, to engagement/in-program support, to offboarding and conversion into permanent roles.
 - Information architecture: Organize and structure complex information to help diverse audiences easily find what they need.
 
-### Key objective #3:   Grow, develop & support growth of the USDC Program
+### Key objective #3:   Lead, manage, supervise and mentor USDC personnel with a focus on furthering diversity, equity, and inclusion efforts.
 
-- Research, develop, and encourage adoption of best practices. Create space for experimentation and iteration. 
-- Research and identify program blockers to growth. Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues. 
-- Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
-- Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.  
-- Promote transparency about how decisions are made. Regularly include others in planning and decision-making. 
+- Develop the entire fellow experience from application, to in-program support, to offboarding and potential conversion into permanent roles.
+- Drive recruitment efforts for USDC cohorts and further diversity by ensuring equal opportunity in recruitment, selection, training, awards and assignments.
+- Conduct and document performance plans and development plans for direct reports (first-line fellow supervisors and front office staff). Clearly communicate expectations, initiate difficult conversations and/or possible corrective actions.
+- Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
+
 
 {% if page.state != 'upcoming' %}
 
@@ -211,12 +207,12 @@ In order to properly be able to evaluate your previous experience, we recommend 
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. 
 
-Specialized experience must have been obtained in an information technology environment and is defined as experience: 
-
-- Experience leading a team that provides or supports delivery of modern IT product(s), platform(s), or service(s).
-- Experience with agile or iterative development methodologies. 
-- Experience supporting the overall planning, management, and direction of a program or of projects.
-- Experience building alignment with stakeholders.
+Specialized Experience must have been obtained in an information technology environment.  Specialized experience is defined as:
+- Experience developing and articulating a vision or strategy for a technology-focused program or organization
+- Experience leading a cross-functional team that provides or supports delivery of modern technology or digital product(s), platform(s), or service(s).
+- Experience managing and overseeing project plans, monitoring activities, and facilitating resources to mitigate risks, making improvements and/or resolving unforeseen problems.
+- Experience building relationships and alignment with customers and/or stakeholders.
+- Experience managing and developing early career employees.
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
 
