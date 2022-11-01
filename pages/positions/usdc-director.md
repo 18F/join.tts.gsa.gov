@@ -66,6 +66,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 ### {{ page.role_name }} - GS-{{ page.gs_level }}
 
 The U.S. Digital Corps (USDC) is a two-year fellowship that pairs early-career, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with technology changemakers in the federal government to build human-centered solutions to solve our nation’s toughest challenges. Fellows are the engines on projects that drive innovation in the areas of climate, healthcare, racial equity, immigration and economic recovery. 
+
 The USDC Director strategically leads the [fellowship](https://digitalcorps.gsa.gov/) program, designing and driving USDC program strategy, growth, and execution. This is a unique and exciting opportunity to empower the next generation of technology leaders to launch careers in public service.  You will continue to build and shape on an already successful model for the future fellows. More than just a job with a competitive salary and benefits, you will help grow the federal government technology leaders of the future . This is a senior leadership, supervisory, remote/virtual, permanent position for the US Federal Government/GSA/TTS. 
 
 ## Key Objectives
