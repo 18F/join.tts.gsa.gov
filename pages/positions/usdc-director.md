@@ -209,7 +209,7 @@ In order to properly be able to evaluate your previous experience, we recommend 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. 
 
 Specialized Experience must have been obtained in an information technology environment.  Specialized experience is defined as:
-- Experience developing and articulating a vision or strategy for a technology-focused program or organization
+- Experience developing and articulating a vision or strategy for a technology-focused program or organization.
 - Experience leading a cross-functional team that provides or supports delivery of modern technology or digital product(s), platform(s), or service(s).
 - Experience managing and overseeing project plans, monitoring activities, and facilitating resources to mitigate risks, making improvements and/or resolving unforeseen problems.
 - Experience building relationships and alignment with customers and/or stakeholders.
