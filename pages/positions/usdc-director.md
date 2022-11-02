@@ -8,7 +8,7 @@ job_post_type: usajobs
 role_name: U.S. Digital Corps Director
 opens: 'TBD'
 closes: 'TBD'
-location: 'Virtual (100% Remote); Washington, DC; San Francisco, CA; Chicago, IL; New York, NY'
+location: 'Virtual (100% Remote)'
 gs_level: '15'
 salary_min: '131,178' 
 salary_max: '176,300' 
