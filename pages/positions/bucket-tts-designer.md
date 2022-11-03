@@ -71,7 +71,6 @@ Please note, while a candidate's preference on teams may be taken into considera
 - [Login.gov](https://login.gov/)
 - [e-Rulemaking](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/erulemaking#:~:text=The%20eRulemaking%20program%20is%20a,actions%20for%20multiple%20Federal%20agencies/)
 - [Integrated Award Environment](https://www.gsa.gov/about-us/organization/federal-acquisition-service/office-of-systems-management/integrated-award-environment-iae)
-- [Federal Audit Clearinghouse](https://facweb.census.gov/uploadpdf.aspx/)
 
 ## Key objectives
 ### 1. Demonstrate excellence in design, while grasping the core questions and responsibilities of at least one design discipline.
