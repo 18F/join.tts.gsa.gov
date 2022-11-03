@@ -204,7 +204,7 @@ The information in this sections outlines the criteria that your application wil
 
 ## Qualifications
 
-In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
+In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our [general guidance](https://join.tts.gsa.gov/resume/) on creating a federal style resume.
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. 
 
