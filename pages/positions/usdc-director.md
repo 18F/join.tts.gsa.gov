@@ -1,13 +1,13 @@
 ---
 title: U.S. Digital Corps - Director
 permalink: /join/usdc-director/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: U.S. Digital Corps Director
-opens: 'TBD'
-closes: 'TBD'
+opens: 'November 10, 2022'
+closes: 'November 21, 2022 at 11:59pm EDT'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
 salary_min: '131,178' 
@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
-pd_job_title: ' Supervisory Information Technology Specialist (SYSANALYSIS)'
+job_announcement_number: '23STFB045SL-DHA'
+pd_job_title: 'Supervisory IT Program Manager'
 num_vacancies: '1'
 series: '2210'
-apply_url: TBD
-ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'TBD'
+apply_url: https://www.usajobs.gov/job/688889700
+ohrm_contact_email: 'susan.lewis@gsa.gov'
+ohrm_contact_name: 'Susan Lewis'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'Yes'
