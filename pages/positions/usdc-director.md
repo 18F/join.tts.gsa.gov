@@ -7,7 +7,7 @@ job_post_type: usajobs
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: U.S. Digital Corps Director
 opens: 'November 10, 2022'
-closes: 'November 21, 2022 at 11:59pm'
+closes: 'November 21, 2022 at 11:59pm EDT'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
 salary_min: '131,178' 
