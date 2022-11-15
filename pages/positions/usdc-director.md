@@ -1,7 +1,7 @@
 ---
 title: U.S. Digital Corps - Director
 permalink: /join/usdc-director/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
