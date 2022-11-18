@@ -178,7 +178,8 @@ For each job on your resume, provide:
 All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 **BASIC REQUIREMENTS**  
-- Have IT-related experience demonstrating EACH of the four competencies listed below:
+
+Have IT-related experience demonstrating EACH of the four competencies listed below:
 - Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
 - Customer Service - This skill is generally demonstrated by assignments where the applicant confers with users to evaluate the effectiveness of, or identify the need for, computer programs or management systems.
 - Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
@@ -190,8 +191,8 @@ AND
 To qualify, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).  Specialized experience is defined as follows:
 
 **GS15 qualifications:**
-- Experience leading the development, delivery or integration of highly complex digital products or services;
-- Experience crafting or creating product vision, strategy or road maps;
+- Experience leading the development, delivery or integration of highly complex digital products or services.
+- Experience crafting or creating product vision, strategy or road maps.
 - Experience with agile or iterative development methodologies. 
 - Experience supporting the overall planning, management, and direction of a program or of projects. 
 - Experience building alignment with stakeholders.
