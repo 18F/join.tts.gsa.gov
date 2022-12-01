@@ -83,7 +83,6 @@ TTS also supports employees’ ongoing professional development by providing tra
 The [TTS Handbook](https://handbook.18f.gov/) includes:
 - [Benefits](https://handbook.18f.gov/benefits/)
 - [Leave](https://handbook.18f.gov/benefits/#leave)
-- [Telework and virtual worker policy](https://handbook.18f.gov/telework/)
 - [Professional development and training processes](https://handbook.18f.gov/attending-conferences/)
 
 Note: If you are coming over from another agency where you received award leave, unfortunately it will not carry over to GSA. Sick leave and annual leave do transfer, however.
