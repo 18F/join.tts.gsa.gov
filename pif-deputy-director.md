@@ -1,5 +1,5 @@
 ---
-title: ENTER OFFICE HERE - ENTER ROLE TITLE HERE
+title: PIF - Deputy Director
 permalink: /join/pif-deputy-director/
 state: upcoming
 job_post_type: usajobs
@@ -22,7 +22,7 @@ job_announcement_number: 'TBD'
 pd_job_title: 'Deputy Director, PIF'
 num_vacancies: '1'
 series: '2210'
-# apply_url: APPLICATION URL
+apply_url: 'tbd'
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
 ohrm_contact_name: 'Sylvia Velez Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
