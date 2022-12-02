@@ -5,7 +5,7 @@ state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: PIF Deputy Director
+role_name: Presidential Innovation Fellows Deputy Director
 opens: 'an upcoming date'
 closes: 'TBD'
 location: 'Washington, DC'
