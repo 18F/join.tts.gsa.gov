@@ -46,25 +46,6 @@ supervisory_status: 'Yes'
   application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
-**Location:**
-{{ page.location }}
-
-**Salary Range:**
-The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
-
-Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
-
-You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
-
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2022 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$176,300** 
-
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
-
-**Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands).
-
 ## Role Summary:
 
 ### Presidential Innovation Fellows (PIF) Deputy Directory - GS-15
