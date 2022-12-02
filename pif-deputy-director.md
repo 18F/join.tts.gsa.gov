@@ -1,4 +1,5 @@
-title: PIF - Deputy Director
+---
+title: PIF Deputy Director
 permalink: /join/pif-deputy-director/
 state: upcoming
 job_post_type: usajobs
@@ -92,8 +93,7 @@ The salary range for this position is GS-15 Step 1 $148,484 to GS-15 Step 10 $17
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
 **Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) and applicants must not be GSA
-employees or contractors
+All United States citizens and nationals (residents of American Samoa and Swains Islands) 
 
 **Job Title:**
 Presidential Innovation Fellows (PIF) Deputy Director
