@@ -1,11 +1,10 @@
----
 title: PIF - Deputy Director
 permalink: /join/pif-deputy-director/
 state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Presidential Innovation Fellows Deputy Director
+role_name: PIF Deputy Director
 opens: 'an upcoming date'
 closes: 'TBD'
 location: 'Washington, DC'
@@ -27,7 +26,7 @@ ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
 ohrm_contact_name: 'Sylvia Velez Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
-supervisory_status: 'YES'
+supervisory_status: 'Yes'
 ---
 
 {% if page.state == 'upcoming' %}
