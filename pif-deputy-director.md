@@ -48,7 +48,7 @@ supervisory_status: 'Yes'
 
 ## Role Summary:
 
-### Presidential Innovation Fellows (PIF) Deputy Directory - GS-15
+### Presidential Innovation Fellows (PIF) Deputy Director - GS-15
 
 The PIF Deputy Director is a primary advisor to the PIF Executive Director (ED) on all matters pertaining to the PIF program. Advises and assists the ED in program planning, impact assessment, management, and policy development for the PIFs and agency engagement and interagency collaboration, human resources, budget, and other program areas. The Deputy also advises and drives the execution of the PIF program strategy including program development, implementation of operating procedures, practices and management controls. The Deputy represents and speaks on behalf of the PIF ED on program initiatives. The PIF Deputy Director is a second line supervisor.
 
