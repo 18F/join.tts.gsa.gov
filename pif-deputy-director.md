@@ -85,8 +85,6 @@ The PIF Deputy Director is a primary advisor to the PIF Executive Director (ED) 
 - Celebrates PIF leadership successes and program fellows skills and successes.
 
 
-{% if page.state != 'upcoming' %}
-
 ## Basic Information
 
 **Location:**
@@ -153,41 +151,17 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
-
-{% endif %}
-
-{% if page.state == 'upcoming' %}
-
-## Application 
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position.
-There are two very important things to note about this step in the process:
-
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work
-experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
-
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've
-  ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on
-  creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
-
-{% endif %}  
-
-{% if page.state != 'upcoming' %}
-
-{% endif %}
-
 ## Qualifications
+Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
+
+Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
+
+For each job on your resume, provide:
+- The exact dates you held each job (from month/year to month/year or “present”)
+- Number of hours per week you worked (if part time)
+
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
+
+**BASIC REQUIREMENTS**  
 Specialized experience for this position will be updated shortly.
 
-## Next Steps
-
-After the closing date/deadline:
-1. **ELIGIBILITY/QUALIFICATIONS:** Applicant eligibility and qualifications are reviewed.
-2. **REFERRAL TO MANAGEMENT:** Eligible/Qualified applicants are referred to management for review and possible interview.
-3. **SELECTION/TENTATIVE JOB OFFER:** If a selection is made, a Tentative Offer is extended to the selectee and suitability and/or security background investigation is conducted.
-4. **FINAL JOB OFFER:** A final job offer is made (typically within 40 days after the closing date/deadline for applications).
-5. **FINAL COMMUNICATION TO APPLICANTS:** Once the position is filled, we will notify all applicants of their final status. You may check your status by logging into USAJOBS. Go to My USAJOBS and then to Applications.
