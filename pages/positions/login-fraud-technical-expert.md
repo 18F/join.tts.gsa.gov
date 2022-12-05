@@ -31,7 +31,8 @@ supervisory_status: 'No'
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
+{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}. This role is crucial to preserving user privacy. This is an opportunity to make a significant impact by helping other federal agencies securely provide and deliver services to the American public. 
+
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
   
@@ -184,4 +185,5 @@ For each job on your resume, provide:
 The exact dates you held each job (from month/year to month/year or “present”)
 Number of hours per week you worked (if part time)
 
+**BASIC REQUIREMENTS**  
 Specialized experience for this position will be updated shortly.
