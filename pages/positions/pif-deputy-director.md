@@ -1,11 +1,11 @@
 ---
-title: PIF Deputy Director
-permalink: /join/pif-deputy-director/
+title: PIF Deputy Director GS15
+permalink: /join/pif-deputy-director15/
 state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Presidential Innovation Fellows Deputy Director
+role_name: Presidential Innovation Fellows Deputy Director GS15
 opens: 'an upcoming date'
 closes: 'TBD'
 location: 'Washington, DC'
@@ -46,9 +46,11 @@ supervisory_status: 'Yes'
   application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
-## Role Summary:
+## Opportunity overview
 
-### Presidential Innovation Fellows (PIF) Deputy Director - GS-15
+This opportunity is located within Technology Transformation Services (TTS) which is a part of Federal Acquisition Services (FAS) in the General Services Administration (GSA). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with innovative products, platforms, and services.
+
+## Role Summary:
 
 The PIF Deputy Director is a primary advisor to the PIF Executive Director (ED) on all matters pertaining to the PIF program. Advises and assists the ED in program planning, impact assessment, management, and policy development for the PIFs and agency engagement and interagency collaboration, human resources, budget, and other program areas. The Deputy also advises and drives the execution of the PIF program strategy including program development, implementation of operating procedures, practices and management controls. The Deputy represents and speaks on behalf of the PIF ED on program initiatives. The PIF Deputy Director is a second line supervisor.
 
@@ -159,8 +161,6 @@ Qualification determinations can’t be made when resumes don’t include the re
 For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-
-All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
 
 **BASIC REQUIREMENTS**  
 Specialized experience for this position will be updated shortly.
