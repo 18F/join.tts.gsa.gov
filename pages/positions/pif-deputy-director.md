@@ -1,11 +1,11 @@
 ---
-title: PIF Deputy Director
-permalink: /join/pif-deputy-director/
+title: PIF Deputy Director GS15
+permalink: /join/pif-deputy-director15/
 state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Presidential Innovation Fellows Deputy Director
+role_name: Presidential Innovation Fellows Deputy Director GS15
 opens: 'an upcoming date'
 closes: 'TBD'
 location: 'Washington, DC'
