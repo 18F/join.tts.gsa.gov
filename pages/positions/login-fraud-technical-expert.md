@@ -1,11 +1,11 @@
 ---
-title: Login.gov - Fraud Technical Expert
-permalink: /join/login-fraud-technical-expert/
+title: Login.gov - Fraud Technical Expert GS15
+permalink: /join/login-fraud-technical-expert15/
 state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Login.gov Fraud Technical Expert
+role_name: Login.gov Fraud Technical Expert GS15
 opens: 'an upcoming date' 
 closes: 'TBD'
 location: 'Virtual (100% Remote)'
