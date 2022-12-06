@@ -84,9 +84,6 @@ If you have a passion for developing identity theft solutions that preserve user
 - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
 
 
-
-{% if page.state != 'upcoming' %}
-
 ## Basic Information
 
 **Location:**
@@ -168,13 +165,6 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Any discrepancies must be resolved as a condition of continued employment
 - Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
 
-
-{% endif %}
-
-{% if page.state == 'upcoming' %}
-
-{% endif %}  
-
 ## Qualifications
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our guidance on creating a [federal style resume](https://join.tts.gsa.gov/resume/).
 
@@ -182,8 +172,8 @@ Qualification determinations can’t be made when resumes don’t include the re
 
 For each job on your resume, provide:
 
-The exact dates you held each job (from month/year to month/year or “present”)
-Number of hours per week you worked (if part time)
+- The exact dates you held each job (from month/year to month/year or “present”)
+- Number of hours per week you worked (if part time)
 
 **BASIC REQUIREMENTS**  
 Specialized experience for this position will be updated shortly.
