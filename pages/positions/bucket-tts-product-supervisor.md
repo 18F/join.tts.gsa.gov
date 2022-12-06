@@ -1,12 +1,12 @@
 ---
 layout: job-updated
-title: TTS Product Management Supervisors GS15
-permalink: /join/tts-productsupervisors15/
+title: TTS Product Management Supervisor GS15
+permalink: /join/tts-productsupervisor15/
 state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: TTS Product Management Supervisors GS15
+role_name: TTS Product Management Supervisor GS15
 opens: 'an upcoming date' 
 closes: 'TBD'
 weeks_open: 'TBD'
