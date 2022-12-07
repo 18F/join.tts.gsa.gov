@@ -57,8 +57,9 @@ The Login.gov team is remote-first and is composed of experts across product dev
 As a Product Manager at [Login.gov](https://login.gov/), you’ll lead cross-functional teams to deliver user-centered products using agile methodologies and modern software development practices while building capacity for product innovation in government. 
 
 Product managers on our team are:
--Strategic thinkers who are comfortable defining a compelling vision and designing a measurable strategy to achieve that vision.
--Decisive leaders who know how to motivate cross-functional teams to build the right thing.
+
+- Strategic thinkers who are comfortable defining a compelling vision and designing a measurable strategy to achieve that vision.
+- Decisive leaders who know how to motivate cross-functional teams to build the right thing.
 
 ## Key objectives
 ### 1. Implement the product vision and lead end-to-end product development
