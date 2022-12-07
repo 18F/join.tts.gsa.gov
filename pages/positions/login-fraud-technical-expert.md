@@ -60,7 +60,7 @@ If you have a passion for developing identity theft solutions that preserve user
 
 ## Key Objectives
 
-### 1: Lead and evolve Login.gov’s anti-fraud practice
+### 1. Lead and evolve Login.gov’s anti-fraud practice
 
 - Develop a roadmap for anti-fraud considering best practices in fraud prevention.
 - Set program-wide goals for anti-fraud initiatives.
@@ -69,7 +69,7 @@ If you have a passion for developing identity theft solutions that preserve user
 - Apply knowledge of software product delivery in a DevOps environment.
 
 
-### 2: Provide subject matter expertise on identity fraud controls to Login.gov leadership
+### 2. Provide subject matter expertise on identity fraud controls to Login.gov leadership
 
 - Create privacy-preserving identity fraud detection, mitigation, investigation, and redress practices. 
 - Provide guidance on privacy-preserving device and identity verification technologies.
@@ -79,7 +79,7 @@ If you have a passion for developing identity theft solutions that preserve user
 - Act as subject matter expert, understanding how to protect users privacy while building out identity fraud controls. 
 
 
-### 3:  Effectively collaborate with distributed, agile teams
+### 3.  Effectively collaborate with distributed, agile teams
 
 - Share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices. 
 - Participate in regular retrospectives and provide feedback to help improve the way the team works.
