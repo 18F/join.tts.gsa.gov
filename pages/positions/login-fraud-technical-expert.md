@@ -60,28 +60,30 @@ If you have a passion for developing identity theft solutions that preserve user
 
 ## Key Objectives
 
-### #1: Provide subject matter expertise on identity fraud controls to Login.gov leadership
+### #1: Lead and evolve Login.gov’s anti-fraud practice
 
-- Demonstrate expertise in privacy-preserving identity fraud detection, mitigation, investigation, and redress practices. 
-- Demonstrate expertise in privacy-preserving device and identity verification technologies.
-- Demonstrate expertise in developing, implementing, and improving identity theft investigative and redress workflows.
-- Demonstrate understanding of the mode of operations of suspicious actors with respect to identity theft.
-- Communicates with internal and external partners to share Login.gov’s fraud posture, risks, and operational processes.
-
-### #2: Lead Login.gov’s anti-fraud practice
-
-- Oversees alert/case quality and production to meet/improve Service Level Agreements (SLAs).
-- Assess and mitigate identity fraud risk by working with product, platform, and security teams.
-- Knowledge of software product delivery in a DevOps environment.
-- Set program-wide goals for anti-fraud initiatives.
 - Develop a roadmap for anti-fraud considering best practices in fraud prevention.
+- Set program-wide goals for anti-fraud initiatives.
+- Assess and mitigate identity fraud risk by working with product, platform, and security teams.
+- Oversee alert/case quality and production to meet/improve Service Level Agreements (SLAs).
+- Apply knowledge of software product delivery in a DevOps environment.
+
+
+### #2: Provide subject matter expertise on identity fraud controls to Login.gov leadership
+
+- Create privacy-preserving identity fraud detection, mitigation, investigation, and redress practices. 
+- Provide guidance on privacy-preserving device and identity verification technologies.
+- Create identity theft investigative and redress workflows.
+- Understand how suspicious actors can steal or compromise Login.gov accounts
+- Communicate with internal and external partners to share Login.gov’s fraud posture, priorities, risks, and operational processes.
+- Act as subject matter expert, understanding how to protect users privacy while building out identity fraud controls. 
 
 
 ### #3:  Effectively collaborate with distributed, agile teams
 
-- Openly share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices. 
+- Share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices. 
 - Participate in regular retrospectives and provide feedback to help improve the way the team works.
-- Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
+- Promote a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, continuous learning, and commitment to customer / partner needs. 
 
 
 ## Basic Information
