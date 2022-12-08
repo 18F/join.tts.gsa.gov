@@ -137,7 +137,6 @@ Permanent hire. This is not a term limited opportunity. Applicants who are selec
 This position is located within the General
 Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
 
-GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
   - Health insurance (choose from a wide range of plans)
