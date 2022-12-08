@@ -70,7 +70,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 
 ## Opportunity Overview
 
-These opportunities are located within the Solutions team in Technology Transformation Services (TTS) which is a part of Federal Acquisition Services (FAS) in the General Services Administration (GSA). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with innovative products, platforms, and services.
+This opportunity is located within the Solutions team in Technology Transformation Services (TTS) which is a part of Federal Acquisition Services (FAS) in the General Services Administration (GSA). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with innovative products, platforms, and services.
 
 ## Role Summary
 
@@ -112,7 +112,7 @@ The Director will be supported by portfolio teams which consist of federal and c
 
 **Salary Range:**
 The salary ranges for this position are:
-- GS-15 Step 1 $131,178 to GS-15 Step 10 $176,300
+- GS-15 Step 1 $148,484 to GS-15 Step 10 $176,300
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
