@@ -1,5 +1,5 @@
 ---
-title: Login.gov - Fraud Technical Expert GS15
+title: Login.gov Fraud Technical Expert GS15
 permalink: /join/login-fraud-technical-expert15/
 state: upcoming
 job_post_type: usajobs 
@@ -106,7 +106,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 {{ page.opens | date: '%A, %B %e, %Y' }} 
 
 **Job Title:**
-Login.gov - Fraud Technical Expert GS15
+Login.gov Fraud Technical Expert GS15
 
 **Series & Grade:**
 {{ page.series }} - {{ page.gs_level }}
