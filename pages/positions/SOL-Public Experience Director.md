@@ -1,12 +1,12 @@
 ---
 layout: job-updated
-title: Public Experience Director GS15
+title: Public Experience Portfolio Director GS15
 permalink: /join/tts-pubexperiencedirector/
 state: upcoming
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Public Experience Director GS15
+role_name: Public Experience Portfolio Director GS15
 opens: 'an upcoming date' 
 closes: 'TBD'
 weeks_open: 'TBD'
