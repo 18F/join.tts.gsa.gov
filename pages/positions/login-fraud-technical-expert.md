@@ -106,7 +106,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 {{ page.opens | date: '%A, %B %e, %Y' }} 
 
 **Job Title:**
-{{ page.pd_job_title }}
+Login.gov - Fraud Technical Expert GS15
 
 **Series & Grade:**
 {{ page.series }} - {{ page.gs_level }}
