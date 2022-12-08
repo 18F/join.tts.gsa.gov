@@ -6,7 +6,7 @@ job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Login.gov Fraud Technical Expert GS15
-opens: 'TBD on an upcoming date' 
+opens: 'an upcoming date' 
 closes: 'TBD'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
