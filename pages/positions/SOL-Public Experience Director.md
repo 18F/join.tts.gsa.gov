@@ -12,7 +12,7 @@ closes: 'TBD'
 weeks_open: 'TBD'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
-salary_min: '148,484'
+salary_min: '131,178'
 salary_max: '176,300'
 org: 'TTS'
 contact_name: 'TTS Talent Team'
@@ -112,7 +112,7 @@ The Director will be supported by portfolio teams which consist of federal and c
 
 **Salary Range:**
 The salary ranges for this position are:
-- GS-15 Step 1 $148,484 to GS-15 Step 10 $176,300
+- GS-15 Step 1 $131,178 to GS-15 Step 10 $176,300
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
