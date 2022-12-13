@@ -112,6 +112,7 @@ Teams hiring for Product Management Supervisors:
 - [10X](https://10x.gsa.gov/)
 - [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/)
 - [Public Experience Portfolio (USAGov)](https://www.usa.gov/)
+- [Centers of Excellence](https://coe.gsa.gov/)
 
 ## Basic information
 
