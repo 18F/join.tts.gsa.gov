@@ -44,7 +44,7 @@ supervisory_status: 'No'
   {% endif %}
   Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process.
-
+{% endif %}
 
 ## Opportunity overview
 
