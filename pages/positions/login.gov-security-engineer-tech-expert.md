@@ -1,11 +1,11 @@
 ---
 title: Login.gov Security Engineer Technical Expert
-permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
+permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert/
 state: upcoming
 job_post_type: usajobs
 related_performance_profiles:
   - name: 'Login.gov Security Engineer Tech Expert - Analyst'
-    link: /join/performance-profiles/18f-design-director/
+    link: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
   - name: 'Login.gov Security Engineer Tech Expert - Purple Team'
     link: /join/login.gov-security-engineer-tech-expert-purple-team/
   - name: 'Login.gov Security Engineer Tech Expert - Security Operations'
@@ -131,7 +131,14 @@ Customer Service - This skill is generally demonstrated by assignments where the
 Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
 Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource constraints;
 AND
-To qualify, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent). 
+To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
+
+- Participating in, contributing to, or leading red team, blue team, or purple team engagements
+- Experience researching emerging threats, building threat models or conducting threat hunts.
+- Conducting dynamic testing with BurpSuite, Zed Attack Proxy (ZAP) or other vulnerability scanning tools.
+- Collaborating with development teams, engineers, cross-functional teams, or Security Operations Center (SOC) professionals to provide cybersecurity guidance
+- Experience applying industry practices such as Agile or iterative development methodologies, open source, object oriented programming or DevOps.
+
 
 {% if page.job_announcement_number %}
 **Job announcement number:**
