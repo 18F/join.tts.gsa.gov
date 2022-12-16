@@ -29,7 +29,7 @@ org: 'Login.gov'
 
 ## Role summary
 
-As a purple team technical expert, you will report to Login.gov’s security branch chief. In this fully remote position, you will work closely with Login.gov’s product and platform teams to improve Login.gov’s defensive capabilities. You will provide strategic guidance to Login.gov’s leadership team to set objectives for Login.gov’s security program. You will research emerging threats, build threat models, conduct threat hunts, and plan and execute purple team engagements.
+As a purple team technical expert, you will report to [Login.gov’s](https://login.gov/) security branch chief. In this fully remote position, you will work closely with Login.gov’s product and platform teams to improve Login.gov’s defensive capabilities. You will provide strategic guidance to Login.gov’s leadership team to set objectives for Login.gov’s security program. You will research emerging threats, build threat models, conduct threat hunts, and plan and execute purple team engagements.
 
 If you have a passion for building a cybersecurity practice that considers the perspective of attackers and defenders, then this role will be a great fit for you.
 
