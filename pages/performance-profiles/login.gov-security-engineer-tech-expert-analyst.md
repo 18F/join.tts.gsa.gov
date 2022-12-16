@@ -1,22 +1,22 @@
 ---
 title: Login.gov Security Engineer Tech Expert - Analyst 
 permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
-# state: upcoming
-# job_post_type: usajobs
-# parent_position_name: Login.gov Security Engineer Technical Expert GS15
-# parent_position_link: /join/login.gov-security-engineer-technical-expert/
-# related_performance_profiles:
-#  - name: Login.gov Security Engineer Tech Expert - Purple Team
-#    link: /join/login.gov-security-engineer-tech-expert-purple-team/
-#  - name: Login.gov Security Engineer Tech Expert - Security Operations
-#    link: login.gov-security-engineer-tech-expert-secops/
-# apply_url: TBD
-# contact_name: TTS Talent Team
-# contact_email: jointts@gsa.gov
+state: upcoming
+job_post_type: usajobs
+parent_position_name: Login.gov Security Engineer Technical Expert GS15
+parent_position_link: /join/login.gov-security-engineer-technical-expert/
+related_performance_profiles:
+ - name: Login.gov Security Engineer Tech Expert - Purple Team
+   link: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/
+ - name: Login.gov Security Engineer Tech Expert - Security Operations
+   link: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
+apply_url: TBD
+contact_name: TTS Talent Team
+contact_email: jointts@gsa.gov
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-# role_name: Security Engineer Tech Expert - Analyst
-# gs_level: 15
-# org: 'Login.gov'
+role_name: Security Engineer Tech Expert - Analyst
+gs_level: 15
+org: 'Login.gov'
 ---
 {% if page.state == 'upcoming' %}
 {{ page.org }} will soon be accepting applications for GS-{{ page.gs_level }} - {{ page.role_name }} roles. If you'd like to be

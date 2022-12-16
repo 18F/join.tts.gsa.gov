@@ -9,7 +9,7 @@ title:  Login.gov Security Engineer Tech Expert -  Security Operations
   - name:Login.gov Security Engineer Tech Expert - Analyst 
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
   - name: Login.gov Security Engineer Tech Expert - Purple Team
-   link: /join/login.gov-security-engineer-tech-expert-purple-team/ 
+   link: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/ 
 apply_url: TBD
 contact_name: TTS Talent Team
 contact_email: jointts@gsa.gov
