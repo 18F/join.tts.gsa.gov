@@ -1,6 +1,6 @@
 ---
 title:  Login.gov Security Engineer Tech Expert -  Security Operations   
- permalink: login.gov-security-engineer-tech-expert-secops/
+ permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
  state: upcoming
  job_post_type: usajobs
  parent_position_name: Login.gov Security Engineer Technical Expert GS15

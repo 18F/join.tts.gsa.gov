@@ -1,6 +1,6 @@
 ---
 title:  Login.gov Security Engineer Tech Expert - Purple Team 
- permalink: /join/login.gov-security-engineer-tech-expert-purple-team/
+ permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/
  state: upcoming
  job_post_type: usajobs
  parent_position_name: Login.gov Security Engineer Technical Expert GS15
