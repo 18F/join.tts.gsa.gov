@@ -29,7 +29,7 @@ org: 'Login.gov'
 
 ## Role summary
 
-As a GS-15 security operations expert, you will report to Login.gov’s security branch chief. In this fully remote position, you will work closely with Login.gov’s product and platform teams to improve Login.gov’s security operations. You will play a key role in helping Login.gov’s security team implement best practices to improve Login.gov’s infrastructure and security posture. You will provide strategic guidance to Login.gov’s leadership team, provide feedback on security program objectives, and lead improvements to Login.gov’s cybersecurity practice.
+As a GS-15 security operations expert, you will report to [Login.gov’s](https://login.gov/) security branch chief. In this fully remote position, you will work closely with Login.gov’s product and platform teams to improve Login.gov’s security operations. You will play a key role in helping Login.gov’s security team implement best practices to improve Login.gov’s infrastructure and security posture. You will provide strategic guidance to Login.gov’s leadership team, provide feedback on security program objectives, and lead improvements to Login.gov’s cybersecurity practice.
 
 ## Key objectives
 
