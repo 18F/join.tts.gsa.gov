@@ -144,5 +144,3 @@ To qualify, your resume must demonstrate at least one (1) year of specialized ex
 **Job announcement number:**
 {{ page.job_announcement_number }}
 {% endif %}
-
-{% if page.series %}
