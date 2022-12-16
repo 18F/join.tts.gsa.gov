@@ -1,15 +1,15 @@
 ---
 title:  Login.gov Security Engineer Tech Expert - Purple Team 
- permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/
- state: upcoming
- job_post_type: usajobs
- parent_position_name: Login.gov Security Engineer Technical Expert GS15
- parent_position_link: /join/performance-profiles/login.gov-security-engineer-technical-expert/
- related_performance_profiles:
-  - name:Login.gov Security Engineer Tech Expert - Analyst 
+permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/
+state: upcoming
+job_post_type: usajobs
+parent_position_name: Login.gov Security Engineer Technical Expert GS15
+parent_position_link: /join/performance-profiles/login.gov-security-engineer-technical-expert/
+related_performance_profiles:
+  - name: Login.gov Security Engineer Tech Expert - Analyst 
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
   - name: Login.gov Security Engineer Tech Expert - Security Operations
-   link: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
+    link: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
 apply_url: TBD
 contact_name: TTS Talent Team
 contact_email: jointts@gsa.gov
