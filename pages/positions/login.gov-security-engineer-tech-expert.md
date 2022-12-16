@@ -125,12 +125,12 @@ Number of hours per week you worked
 
 **BASIC REQUIREMENTS**  
 Have IT-related experience demonstrating EACH of the four competencies listed below:
+- Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
+- Customer Service - This skill is generally demonstrated by assignments where the applicant confers with users to evaluate the effectiveness of, or identify the need for, computer programs or management systems.
+- Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
+- Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource constraints;
 
-Attention to Detail - This skill is generally demonstrated by assignments where the applicant investigates and evaluates “state of the art” technology of the industry.
-Customer Service - This skill is generally demonstrated by assignments where the applicant confers with users to evaluate the effectiveness of, or identify the need for, computer programs or management systems.
-Oral Communication - This skill is generally demonstrated by assignments where the applicant persuades others to take a particular course of action or to accept findings, recommendations, changes, or alternative viewpoints.
-Problem Solving - This skill is generally demonstrated by assignments where the applicant identifies and accommodates technology and resource constraints;
-AND
+**AND**
 To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
 
 - Participating in, contributing to, or leading red team, blue team, or purple team engagements
@@ -138,9 +138,3 @@ To qualify, your resume must demonstrate at least one (1) year of specialized ex
 - Conducting dynamic testing with BurpSuite, Zed Attack Proxy (ZAP) or other vulnerability scanning tools.
 - Collaborating with development teams, engineers, cross-functional teams, or Security Operations Center (SOC) professionals to provide cybersecurity guidance
 - Experience applying industry practices such as Agile or iterative development methodologies, open source, object oriented programming or DevOps.
-
-
-{% if page.job_announcement_number %}
-**Job announcement number:**
-{{ page.job_announcement_number }}
-{% endif %}
