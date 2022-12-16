@@ -4,7 +4,7 @@ title: Login.gov Security Engineer Tech Expert - Analyst
 # state: upcoming
 # job_post_type: usajobs
 # parent_position_name: Login.gov Security Engineer Technical Expert
-# parent_position_link: /join/ENTER POSITION LINK HERE
+# parent_position_link: /join/login.gov-security-engineer-technical-expert/
 # related_performance_profiles:
 #  - name: Login.gov Security Engineer Tech Expert - Purple Team
 #    link: /join/login.gov-security-engineer-tech-expert-purple-team/
