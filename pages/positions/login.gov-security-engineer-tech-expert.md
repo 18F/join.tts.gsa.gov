@@ -7,9 +7,9 @@ related_performance_profiles:
   - name: 'Login.gov Security Engineer Tech Expert - Analyst'
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
   - name: 'Login.gov Security Engineer Tech Expert - Purple Team'
-    link: /join/login.gov-security-engineer-tech-expert-purple-team/
+    link: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/
   - name: 'Login.gov Security Engineer Tech Expert - Security Operations'
-    link: /join/login.gov-security-engineer-tech-expert-secops/
+    link: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
