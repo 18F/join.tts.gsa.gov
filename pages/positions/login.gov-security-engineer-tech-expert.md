@@ -1,5 +1,5 @@
 ---
-title: Login.gov Security Engineer Technical Expert
+title: Login.gov Security Engineer Technical Expert GS15
 permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert/
 state: upcoming
 job_post_type: usajobs
@@ -13,7 +13,7 @@ related_performance_profiles:
 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Login.gov Security Engineer Technical Expert
+role_name: Login.gov Security Engineer Technical Expert GS15
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote)'
