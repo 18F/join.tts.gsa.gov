@@ -1,19 +1,19 @@
 ---
 title: Login.gov Security Engineer Technical Expert
-permalink: /join/login.gov-security-engineer-technical-expert/
+permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
 state: upcoming
 job_post_type: usajobs
 related_performance_profiles:
-  - name: '18F Design Director'
+  - name: 'Login.gov Security Engineer Tech Expert - Analyst'
     link: /join/performance-profiles/18f-design-director/
-  - name: '18F Product Director'
-    link: /join/performance-profiles/18f-product-director/
-  - name: '18F Account Management Director'
-    link: /join/performance-profiles/18f-account-management-director/
+  - name: 'Login.gov Security Engineer Tech Expert - Purple Team'
+    link: /join/login.gov-security-engineer-tech-expert-purple-team/
+  - name: 'Login.gov Security Engineer Tech Expert - SecOps'
+    link: /join/login.gov-security-engineer-tech-expert-secops/
 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: Chapter Director
+role_name: Login.gov Security Engineer Technical Expert
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote)'
@@ -44,7 +44,6 @@ supervisory_status: 'No'
   {% endif %}
   Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to
   learn more about the application process.
-{% endif %}
 
 
 ## Opportunity overview
@@ -54,7 +53,6 @@ These opportunities are located in the Technology Transformation Services (TTS) 
 Login.gov is a secure sign-in service created for the public to access participating government agency sites, products, and services. At its core, Login.gov is both an authentication and identity verification service available to all levels of government: federal, state, and local.
 
 Login.gov has over 30 agency partners. Our product is integrated with over 300 live applications and services including 12 Cabinet-level agencies such as the Department of Defense, Department of Homeland Security, and the Department of Energy. Over 40 million people have signed up to use Login.gov, across all applications.
-
 
 
 ## Role summary
