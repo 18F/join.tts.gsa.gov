@@ -62,7 +62,7 @@ If you have a passion for building a cybersecurity practice that considers the p
 - Propose changes to Login.gov development and site reliability engineering practices to better support automated compliance
 
 
-## Objective #4: Collaborate effectively on distributed, agile teams
+### Objective #4: Collaborate effectively on distributed, agile teams
 - Share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices. 
 - Participate in regular retrospectives and provide feedback to help improve the way the team works.
 - Promote a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, continuous learning, and commitment to customer / partner needs.
