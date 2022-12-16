@@ -119,9 +119,8 @@ Provide as much detail as possible on your resume so we can evaluate your previo
 Qualification determinations can’t be made when resumes don’t include required information. Failure to provide such may result in disqualification.
 
 For each job on your resume, provide:
-
-The exact dates you held each job (from month/year to month/year or “present”)
-Number of hours per week you worked 
+- The exact dates you held each job (from month/year to month/year or “present”)
+- Number of hours per week you worked 
 
 **BASIC REQUIREMENTS**  
 Have IT-related experience demonstrating EACH of the four competencies listed below:
