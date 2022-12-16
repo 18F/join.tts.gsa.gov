@@ -8,7 +8,7 @@ related_performance_profiles:
     link: /join/performance-profiles/18f-design-director/
   - name: 'Login.gov Security Engineer Tech Expert - Purple Team'
     link: /join/login.gov-security-engineer-tech-expert-purple-team/
-  - name: 'Login.gov Security Engineer Tech Expert - SecOps'
+  - name: 'Login.gov Security Engineer Tech Expert - Security Operations'
     link: /join/login.gov-security-engineer-tech-expert-secops/
 
 
