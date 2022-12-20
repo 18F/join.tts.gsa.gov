@@ -2,7 +2,7 @@
 layout: job-updated
 title: TTS Bilingual (Spanish/English) Designer GS14 and GS15
 permalink: /join/tts-bilingualdesigner/
-state: upcoming
+state: closed
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
