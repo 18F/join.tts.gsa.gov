@@ -1,15 +1,15 @@
 ---
 title:  Login.gov Security Engineer Tech Expert -  Security Operations   
- permalink: login.gov-security-engineer-tech-expert-secops/
- state: upcoming
- job_post_type: usajobs
- parent_position_name: Login.gov Security Engineer Technical Expert GS15
- parent_position_link: /join/login.gov-security-engineer-technical-expert/
- related_performance_profiles:
-  - name:Login.gov Security Engineer Tech Expert - Analyst 
+permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
+state: upcoming
+job_post_type: usajobs
+parent_position_name: Login.gov Security Engineer Technical Expert GS15
+parent_position_link: /join/performance-profiles/login.gov-security-engineer-tech-expert/
+related_performance_profiles:
+  - name: Login.gov Security Engineer Tech Expert - Analyst 
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
   - name: Login.gov Security Engineer Tech Expert - Purple Team
-   link: /join/login.gov-security-engineer-tech-expert-purple-team/ 
+    link: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/ 
 apply_url: TBD
 contact_name: TTS Talent Team
 contact_email: jointts@gsa.gov
@@ -29,7 +29,7 @@ org: 'Login.gov'
 
 ## Role summary
 
-As a GS-15 security operations expert, you will report to Login.gov’s security branch chief. In this fully remote position, you will work closely with Login.gov’s product and platform teams to improve Login.gov’s security operations. You will play a key role in helping Login.gov’s security team implement best practices to improve Login.gov’s infrastructure and security posture. You will provide strategic guidance to Login.gov’s leadership team, provide feedback on security program objectives, and lead improvements to Login.gov’s cybersecurity practice.
+As a GS-15 security operations expert, you will report to [Login.gov’s](https://login.gov/) security branch chief. In this fully remote position, you will work closely with Login.gov’s product and platform teams to improve Login.gov’s security operations. You will play a key role in helping Login.gov’s security team implement best practices to improve Login.gov’s infrastructure and security posture. You will provide strategic guidance to Login.gov’s leadership team, provide feedback on security program objectives, and lead improvements to Login.gov’s cybersecurity practice.
 
 ## Key objectives
 
@@ -58,18 +58,11 @@ As a GS-15 security operations expert, you will report to Login.gov’s security
 - Propose changes to Login.gov development and site reliability engineering practices to better support automated compliance
 
 
-##Objective #4: Collaborate effectively on distributed, agile teams
-Share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices. 
-Participate in regular retrospectives and provide feedback to help improve the way the team works.
-Promote a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, continuous learning, and commitment to customer / partner needs.
+### Objective #4: Collaborate effectively on distributed, agile teams
+- Share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices. 
+- Participate in regular retrospectives and provide feedback to help improve the way the team works.
+- Promote a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, continuous learning, and commitment to customer / partner needs.
 
-
-## {{ page.related_performance_profiles | size | plus: 1 }} {{ page.org }} teams are hiring for this role
-
-The links below provide descriptions specific to each {{ page.org }} team. When the role is posted and open for application on USAJobs, you can indicate which team(s) you’re interested in.
-{% for profile in page.related_performance_profiles %}
-  - [{{profile.name}}]{{site.baseurl}}({{profile.link}})
-{% endfor %}
 
 ## Preparing to apply
 
