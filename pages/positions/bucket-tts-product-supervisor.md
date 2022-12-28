@@ -121,7 +121,7 @@ Teams hiring for Product Management Supervisors:
 
 **Salary Range:**
 The salary ranges for this position are:
-- GS-15 Step 1 $131,178 to GS-15 Step 10 $176,300
+- GS-15 Step 1 $136,908 to GS-15 Step 10 $183,500
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
