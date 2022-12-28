@@ -12,8 +12,8 @@ closes: 'TBD'
 weeks_open: 'TBD'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
-salary_min: '94,373'
-salary_max: '150,703'
+salary_min: '136,908'
+salary_max: '183,500'
 org: 'TTS'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -105,7 +105,7 @@ Your salary, including base and locality, will be determined upon selection, dep
 You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
 
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a
-salary calculator [OPM's 2022 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
+salary calculator [OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
 
 Please note the maximum salary available for the GS pay system is **$176,300**
 
