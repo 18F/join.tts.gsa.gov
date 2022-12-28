@@ -98,7 +98,7 @@ Product managers on our team are:
 
 **Salary Range:**
 The salary ranges for this position are:
-- GS-15 Step 1 $131,178 to GS-15 Step 10 $176,300
+- GS-15 Step 1 $136,908 to GS-15 Step 10 $183,500
 
 Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
 
@@ -107,7 +107,7 @@ You can find more information about this in the [compensation and benefits secti
 For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a
 salary calculator [OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
 
-Please note the maximum salary available for the GS pay system is **$176,300**
+Please note the maximum salary available for the GS pay system is **$183,500**
 
 Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
 
