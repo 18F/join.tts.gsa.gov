@@ -164,7 +164,7 @@ For each job on your resume, provide:
 **BASIC REQUIREMENTS**  
 Have IT-related experience demonstrating EACH of the four competencies listed below:
 - Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
-- Customer Service - skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+- Customer Service - This skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
 - Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
 - Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate.
 
