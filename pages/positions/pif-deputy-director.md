@@ -171,9 +171,9 @@ Have IT-related experience demonstrating EACH of the four competencies listed be
 
 AND To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
 - Experience developing, communicating and implementing a vision or strategy for a technology-focused program or technology-focused organization aligning customer or stakeholder needs to solutions
-- Experience facilitating and leading cross-functional teams that provides or supports delivery of modern technology or digital product(s), platform(s), or service(s).
-- Experience developing and managing program plans, monitoring activities through performance indicators, and facilitating resources to mitigate risks, making -improvements and/or resolving unforeseen problems.
-- Experience building and stewarding relationships and alignment with customers and/or stakeholders.
+- Experience facilitating and leading cross-functional teams that provides or supports delivery of modern technology or digital product(s), platform(s), or service(s)
+- Experience developing and managing program plans, monitoring activities through performance indicators, and facilitating resources to mitigate risks, making -improvements and/or resolving unforeseen problems
+- Experience building and stewarding relationships and alignment with customers and/or stakeholders
 - Experience managing a team of supervisors who manage the overall team (i.e. multiple levels of management/supervisor)
 
 
