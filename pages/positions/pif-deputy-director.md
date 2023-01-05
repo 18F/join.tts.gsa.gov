@@ -11,7 +11,7 @@ closes: 'TBD'
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '155,700'
-salary_max: '177,978'
+salary_max: '183,500'
 org: 'PIF'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
@@ -93,7 +93,7 @@ The PIF Deputy Director is a primary advisor to the PIF Executive Director (ED) 
 Washington DC 
 
 **Salary Range:**
-The salary range for this position is GS-15 Step 1 $155,700  to GS-15 Step 10 $177,978 for the DC locality
+The salary range for this position is GS-15 Step 1 $155,700  to GS-15 Step 10 $183,500 for the DC locality
 
 If you are a new federal employee, your starting salary will likely be set at the Step 1 of the grade for which you are selected. Total compensation may include locality pay based on the individual's duty location. For more salary information including locality pay details, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/).
 
