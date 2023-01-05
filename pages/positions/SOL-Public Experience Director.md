@@ -181,11 +181,10 @@ AND
 
 **SPECIALIZED EXPERIENCE REQUIREMENTS:  In addition to the Basic Requirements listed above, you must have one year of specialized experience equivalent to the GS-14 level in the Federal service. Specialized experience is defined as:**
 
-- Experience leading the development, delivery or integration of highly complex digital products or services.
-- Experience crafting or creating product vision, strategy or road maps.
-- Experience with agile or iterative development methodologies.
-- Experience supporting the overall planning, management, and direction of a program or of projects.
-- Experience building alignment with stakeholders.
+- Experience leading the overall planning, management and direction of a portfolio or suite of digital programs, products or businesses, or a single, highly complex digital program, product or business.
+- Experience using agile methodologies, human-centered design practices, and qualitative and quantitative data to improve user outcomes in digital environments geared at the general public.
+- Experience building alignment with internal and external stakeholders.
+- Experience supervising cross-functional team members representing a variety of professional disciplines.
 
 ## Next Steps
 
