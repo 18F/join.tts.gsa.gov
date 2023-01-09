@@ -2,14 +2,14 @@
 layout: job-updated
 title: TTS Product Management Supervisor GS15
 permalink: /join/tts-productsupervisor15/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: TTS Product Management Supervisor GS15
-opens: 'an upcoming date' 
-closes: 'TBD'
-weeks_open: 'TBD'
+opens: 'January 9, 2023 at 1:00 pm EDT' 
+closes: 'January 17, 2023 at 11:59 pm EDT'
+weeks_open: '1'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
 salary_min: '136,908'
@@ -24,9 +24,9 @@ job_announcement_number: 'TBD'
 pd_job_title: 'IT Specialist'
 num_vacancies: '100'
 series: '2210'
-apply_url: 'TBD'
+apply_url: 'https://www.usajobs.gov/job/698719000'
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'TBD'
+ohrm_contact_name: 'KayLynn Howard-Morrow'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'Yes'
