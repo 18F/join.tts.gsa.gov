@@ -17,10 +17,6 @@ sidenav:
     href: /rolling-hiring/
   - text: Frequently Asked Questions
     href: /faq/
-
-subnav:
-  - text: Hiring & Application FAQ
-    href: "#hiring-and-application-FAQ"
 ---
 Thank you for your interest in a position with TTS! Below you will find some of the most commonly asked questions from prospective applicants and new hires.  
 
