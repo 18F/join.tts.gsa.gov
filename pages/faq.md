@@ -23,7 +23,7 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 ## Hiring and Application FAQ
 
 ### Can I set up a call with a TTS recruiter to learn more about working at TTS?
-- Although we cannot set up 1:1 calls with prospective candidates, we do host monthly information sessions that include plenty of time for Q&A. You can find a list of our upcoming sessions on the right sidebar of the [JoinTTS homepage](https://join.tts.gsa.gov/). 
+- Although we cannot set up 1:1 calls with prospective candidates, we do host monthly information sessions that include plenty of time to answer questions. You can find a list of our upcoming sessions on the [JoinTTS homepage](https://join.tts.gsa.gov/). 
 - You can also find info on [Working at TTS](https://join.tts.gsa.gov/working-at-tts/) and a [description of our offices](https://join.tts.gsa.gov/tts-offices/).
 
 ### Where can I find your open positions?   
@@ -41,9 +41,9 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 ### I applied for a role, what happens next?
 - A TTS recruiter will reach out to candidates who have been selected for an interview. Depending on the size of the applicant pool, this may take several weeks. Unfortunately, we are not able to provide status updates on applications and are unable to give feedback to candidates who are not selected to interview.
 
-### What is the difference between a TTS recruiter and a GSA Human Resources representative (HR rep)? 
+### What is the difference between a TTS recruiter and a GSA Human Resources representative (HR Specialist)? 
 - A TTS recruiter will reach out to you if you are selected to interview. They will coordinate your interviews and help you prepare for the process, including sharing interview questions ahead of time. 
-- If you are selected for an offer,  you will be connected to a GSA HR representative who will extend your tentative job offer. They will also work with you to complete your onboarding forms and ensure you are moving forward in the onboarding process.
+- If you are selected for an offer,  you will be connected to a GSA HR Specialist who will extend your tentative job offer. They will also work with you to complete your onboarding forms and ensure you are moving forward in the onboarding process.
 
 ### I was selected for a position and GSA HR contacted me with a tentative job offer. What happens next?
 - After you accept your tentative job offer:
