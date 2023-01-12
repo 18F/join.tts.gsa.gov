@@ -45,28 +45,8 @@ supervisory_status: 'No'
 
 {% if page.state != 'upcoming' %}
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your
-  application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. **Please note we will be reviewing applications on a rolling basis so we encourage candidates to apply as soon as possible for consideration.**
+  application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
-
-**Location:**
-{{ page.location }}
-
-**Salary Range:**
-The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
-
-Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
-
-You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
-
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a
-salary calculator [OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$183,500** 
-
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
-
-**Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands).
 
 ## Opportunity Overview
 
@@ -186,11 +166,10 @@ AND
 - Experience building alignment with internal and external stakeholders.
 - Experience supervising cross-functional team members representing a variety of professional disciplines.
 
-## Next Steps
+## How To Apply
 
-After the closing date/deadline:
-1. **ELIGIBILITY/QUALIFICATIONS:** Applicant eligibility and qualifications are reviewed.
-2. **REFERRAL TO MANAGEMENT:** Eligible/Qualified applicants are referred to management for review and possible interview.
-3. **SELECTION/TENTATIVE JOB OFFER:** If a selection is made, a Tentative Offer is extended to the selectee and suitability and/or security background investigation is conducted.
-4. **FINAL JOB OFFER:** A final job offer is made (typically within 40 days after the closing date/deadline for applications).
-5. **FINAL COMMUNICATION TO APPLICANTS:** Once the position is filled, we will notify all applicants of their final status. You may check your status by logging into USAJOBS. Go to My USAJOBS and then to Applications.
+If you would like to learn more or if you’d like to be notified when the application is open, please join our [mailing list](https://join.tts.gsa.gov/newsletter/).
+
+We will be accepting applications through the Public Notice on USAJOBS.
+
+**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
