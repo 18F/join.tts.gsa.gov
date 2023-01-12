@@ -168,7 +168,7 @@ AND
 
 ## How To Apply
 
-If you would like to learn more or if you’d like to be notified when the application is open, please join our mailing list.
+If you would like to learn more or if you’d like to be notified when the application is open, please join our [mailing list](https://join.tts.gsa.gov/newsletter/).
 
 We will be accepting applications through the Public Notice on USAJOBS.
 
