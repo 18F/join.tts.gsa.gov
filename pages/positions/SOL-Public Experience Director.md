@@ -168,10 +168,8 @@ AND
 
 ## How To Apply
 
-Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z ET on %A, %B %e, %Y' }}. Please fill out all applicable fields.
+If you would like to learn more or if you’d like to be notified when the application is open, please join our mailing list.
 
-<section class="usa-grid-full">
-  <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
-</section>
+We will be accepting applications through the Public Notice on USAJOBS.
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
