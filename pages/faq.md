@@ -17,6 +17,10 @@ sidenav:
     href: /rolling-hiring/
   - text: Frequently Asked Questions
     href: /faq/
+
+subnav:
+  - text: Hiring and Application FAQ
+    href: "#hiring-and-application-faq"
 ---
 Thank you for your interest in a position with TTS! Below you will find some of the most commonly asked questions from prospective applicants and new hires.  
 
@@ -57,3 +61,57 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 ### When will I receive my final offer?
 - Once you have cleared security (after getting your fingerprints taken, submitting your e-QIP, etc), your HR contact will reach out to you to provide your final offer and work out a start date. 
 - ***Please note, we do not recommend giving notice to your employer before receiving your final offer.***
+
+## Security & Federal ID (PIV) Card FAQs
+
+### How do I schedule my Personal Identifier Verification (PIV) card appointment?
+- Once an offer has been extended and a candidate has filled out all required HR forms/documents, GSA’s HSPD12 Security Office will send you an email which includes a link to schedule an appointment to get your fingerprints taken.  Please note, you must [schedule an appointment](https://www.fedidcard.gov/) at a “shared service” or “GSA-only” center.
+
+### Who do I contact regarding my PIV card (scheduling pick up, having it shipped to another location, etc)?
+- Once your PIV card is ready for pick-up, HSPD-12 will send you an email with a link to schedule an appointment for pick-up. 
+- Please note: under no circumstances is HSPD-12 able to ship a PIV card directly to a candidate’s home address, although there may be an option for HSPD-12 to ship your PIV card to a closer, GSA-approved pick-up location. 
+- Please reach out to [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) with all questions regarding your PIV card.
+
+### What if I’m not able to pick-up my PIV card before I start and/or what if my PIV card isn’t ready before my first day?
+- That’s totally fine! Your PIV card will often be ready by the time you start, but in some instances it may not be. If that’s the case, don’t panic! It will **NOT** impact your start date and you will still be able access your laptop and all necessary GSA systems/accounts without your PIV card. 
+- We do still encourage you to schedule your pick-up appointment as soon as possible once you receive an email that it’s available and ready for pick-up. 
+
+### I received an email from HSPD-12 ([HSPD12Admin@usaccess.gsa.gov](mailto:HSPD12Admin@usaccess.gsa.gov)) with the subject line of: “USAccess - Credential Ready For Certificate Update.” What does this mean? Do I need to schedule another in-person appointment to get my PIV card updated? Does this appointment need to happen before I start?
+- You will receive an email shortly after picking up your PIV card alerting you that your credentials are ready for a certificate update. This will require a 2nd in-person appointment, but again, this update does **NOT** need to happen before you start with TTS. 
+- Please schedule the certificate update appointment whenever is most convenient for you. The main purpose of this update is to allow employees to more easily sign documents in a virtual environment. 
+
+### When will I receive my e-QIP and how long do I have to complete it?
+- Once you have completed all of the HR-related forms in Monster and gotten your fingerprints taken, you will then receive an email invitation to fill out your e-QIP. Please complete your e-QIP document within 2 weeks. The sooner you complete your e-QIP, the quicker you can move through the security process!
+- If your fingerprints have been taken and approved, and you still haven’t received your e-QIP after a few days, please check your spam folder.
+ 
+### I am having issues with my e-QIP, who can help?
+- Security assigns an individual point of contact to each candidate. If you have not heard from and/or do not have your security POC's contact information, please reach out to [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov).
+
+## Onboarding FAQs
+
+### What is planned for my first day of employment?
+- You will receive an email from GSA’s Office of Human Resources Management (OHRM) with information about your New Employee Orientation (NEO), which will be held from 12:00 ET- 4:00 ET on your first day. The email will be sent by OHRM the week prior to your start date. 
+- You will also receive an email from the TTS Onboarding Team (Annabel and Hilary, [tts-onboarding@gsa.gov](mailto:tts-onboarding@gsa.gov)) with information regarding your equipment and more of what to expect on Day 1.
+
+### When will my computer and other equipment arrive?
+- The TTS Onboarding Team will send you information regarding your equipment on the Wednesday prior to your start date.  
+  - If you are receiving a MacBook, it typically arrives the Thursday or Friday before you start. 
+  - If you are receiving a PC, it may arrive up to one week prior to your start date. 
+  - Your iPhone may arrive in a different shipment, but likely within your first two weeks of employment. 
+- Please note: ***signature is required for all UPS deliveries***. Please be on the lookout for an email from the TTS Onboarding Team and/or other tracking information you may receive from GSA IT or UPS directly. 
+- If for any reason your equipment is delayed and is not expected to arrive before you start, that is not a problem. IT can walk you through the process of logging on to the GSA intranet via your personal laptop on the morning of your first day.
+
+### Do I need to do anything to prepare for my position/role?
+- Nothing specific is required of you to prepare for starting with TTS, but if you would like to learn more about the organization ahead of your start date, you are more than welcome to peruse the [TTS Handbook](https://handbook.tts.gsa.gov/) (but please know this is not a requirement)!
+
+### Who will be my main point of contact (POC) during the onboarding process?
+- Throughout the hiring and onboarding process, you will be interacting with multiple different POCs. *Please note that TTS is a part of GSA*. 
+- You will be interacting with:
+  - TTS Talent Recruiter - interview and selection process updates
+  - GSA’s Office of Human Resources Management (OHRM) - offer stages
+  - GSA’s Security Team - background checks, e-QIP, PIV card
+  - TTS Onboarding Team - post offer, preparing you for your first day
+  - Your TTS Supervisor and Onboarding Buddy - introductions, preparing you for your first day and beyond
+
+### Am I able to request additional hardware (mouse, keyboard, monitor)?
+- Once you start, you can submit a request via the [IT Service Desk](https://insite.gsa.gov/#:~:text=HR%20Links-,IT%20Support%20Request,-Online%20University) for additional hardware. The request will route to your supervisor for approval, and GSA IT will mail the equipment directly to your home address on file.
