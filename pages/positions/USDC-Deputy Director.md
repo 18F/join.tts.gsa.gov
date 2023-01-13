@@ -45,24 +45,9 @@ supervisory_status: 'NO'
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
-**Location:**
-{{ page.location }}
+## Opportunity overview
 
-**Salary Range:**
-The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
-
-Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
-
-You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
-
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2022 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$183,500** 
-
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
-
-**Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) 
+This opportunity is located within Technology Transformation Services (TTS) which is a part of Federal Acquisition Services (FAS) in the General Services Administration (GSA). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with innovative products, platforms, and services.
 
 ## Role Summary:
 
@@ -231,3 +216,9 @@ For each job on your resume, provide:
 
 - the exact dates you held each job (from month/year to month/year or “present”)
 - number of hours per week you worked (if part time)
+
+## How To Apply
+
+If you would like to learn more or if you’d like to be notified when the application is open, please join our [mailing list](https://join.tts.gsa.gov/newsletter/).
+
+We will be accepting applications through the Public Notice on USAJOBS.
