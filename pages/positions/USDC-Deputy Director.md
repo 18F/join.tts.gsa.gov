@@ -144,14 +144,7 @@ Competetive Term
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job
 - Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this
 - Any discrepancies must be resolved as a condition of continued employment
-- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
-
-
-{% endif %}
-
-{% if page.state == 'upcoming' %}
-
-{% endif %}  
+- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position 
 
 ## Qualifications
 
