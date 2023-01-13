@@ -45,24 +45,9 @@ supervisory_status: 'NO'
   {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
-**Location:**
-{{ page.location }}
+## Opportunity overview
 
-**Salary Range:**
-The salary range for this position is: GS-{{ page.gs_level }} Step 1 - ${{ page.salary_min }} to GS-{{ page.gs_level }} Step 10 ${{ page.salary_max }}
-
-Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
-
-You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
-
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for a salary calculator [OPM's 2022 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$183,500** 
-
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality. 
-
-**Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands) 
+This opportunity is located within Technology Transformation Services (TTS) which is a part of Federal Acquisition Services (FAS) in the General Services Administration (GSA). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with innovative products, platforms, and services.
 
 ## Role Summary:
 
@@ -106,8 +91,6 @@ The U.S. Digital Corps Deputy Director contributes to the overall program growth
 - Research USDC program outcomes and partner experience to inform and develop the USDC program. Develop a value proposition and business development strategy that is rooted in customer needs and knowledge.
 
 
-{% if page.state != 'upcoming' %}
-
 ## Basic Information
 
 **Location:**
@@ -121,27 +104,6 @@ If you are a new federal employee, your starting salary will likely be set at th
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands) 
 
-**Job announcement number:**
-{{ page.job_announcement_number }}
-
-**Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} EDT to {{ page.closes | date: '%l:%M%P %Z on %A, %B %e, %Y' }} EDT
-
-**Job Title:**
-{{ page.pd_job_title }}
-
-**Series & Grade:**
-{{ page.series }} - {{ page.gs_level }}
-
-**Promotion Potential:**
-GS-{{ page.promotion_potential }}
-
-**Number of vacancies:**
-{{ page.num_vacancies }} (Additional vacancies may be filled from this announcement as needed)
-
-**Supervisory status:**
-{{ page.supervisory_status }}
-
 **Travel requirement:**
 Occasional travel may be required up to 10%-20% per year
 
@@ -154,13 +116,8 @@ Full time
 **Appointment Type:**
 Competetive Term
   
-## Job Summary
-  
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
-
-GSA has been repeatedly named as one of the ['Best Places to Work'](http://bestplacestowork.org/BPTW/rankings/overall/mid)  in the federal government.
-You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
-
+**Employee benefits:**
+[Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
   - Health insurance (choose from a wide range of plans)
   - Life insurance coverage with several options
   - Sick leave and vacation time, including 10 paid holidays per year
@@ -171,6 +128,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
   - Flexible spending accounts
   - Long-term care insurance
   - Training and development
+  - Direct Deposit of salary check to financial organization required.
 
 ## Key Requirements
 
@@ -186,35 +144,21 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
 - Undergo and pass a background investigation.  You must be granted this clearance before you can start the job
 - Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this
 - Any discrepancies must be resolved as a condition of continued employment
-- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
-
-
-{% endif %}
-
-{% if page.state == 'upcoming' %}
-
-{% endif %}  
-
-{% if page.state != 'upcoming' %}
-
-## Application Evaluation
-
-The information in this sections outlines the criteria that your application will be evaluated against to determine if you meet the Qualifications for the position. There are two very important things to note about this step in the process:
-
-1. Only applications found "minimally qualified" are shared with the hiring manager and are the only candidates eligible to be interviewed
-2. The Minimum Qualification determination can only be made using the information that's directly within your resume and directly associated your listed work experience.
-  - Examples of stuff that can't be used:
-    - Links to portfolios or other external materials (Yes, the links themselves may be "directly" on the resume but the information is not).
-    - Information you include in cover letters, responses to questions, etc. as these are not directly associated with your work experience
-    - Lists of tools, technologies, programming languages, etc. that are listed separately from your work experience
-
-  The Qualification process is a bureaucratic requirement that we are stuck with. It's best to think about it as the most intense and rigorous resume review you've ever heard of. To get through this process you need make sure your resume directly reflects the Qualifications listed below. We also have more guidance on creating a federal style resume on [Join TTS Hiring Process]({{site.baseurl}}/resume/)
-
-{% endif %}  
+- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position 
 
 ## Qualifications
 
-In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our [general guidance](https://join.tts.gsa.gov/resume/) on creating a federal style resume.
+Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
+
+Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
+
+For each job on your resume, provide:
+- The exact dates you held each job (from month/year to month/year or “present”)
+- Number of hours per week you worked (if part time)
+
+All applications will be reviewed by a panel of subject matter experts against a scoring rubric created for this role. In order to properly be able to evaluate your previous experience, we recommend being as detailed as possible in your resume and following our general guidance on creating federal style resume.
+
+**BASIC REQUIREMENTS**  
 
 To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} in the Federal service. 
 
@@ -224,10 +168,8 @@ Specialized Experience must have been obtained in an information technology envi
 - Experience building relationships and alignment with customers and/or stakeholders.
 - Creates, implements or facilitates a marketing or communication strategy for a government audience or public sector audience
 
+## How To Apply
 
-Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
+If you would like to learn more or if you’d like to be notified when the application is open, please join our [mailing list](https://join.tts.gsa.gov/newsletter/).
 
-For each job on your resume, provide:
-
-- the exact dates you held each job (from month/year to month/year or “present”)
-- number of hours per week you worked (if part time)
+We will be accepting applications through the Public Notice on USAJOBS.
