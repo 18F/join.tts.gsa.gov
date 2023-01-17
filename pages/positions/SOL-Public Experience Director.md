@@ -2,13 +2,13 @@
 layout: job-updated
 title: Public Experience Portfolio Director GS15
 permalink: /join/tts-pubexperiencedirector/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Public Experience Portfolio Director GS15
-opens: 'an upcoming date' 
-closes: 'TBD'
+opens: 'January 17, 2023 at 8:00 am EDT' 
+closes: 'January 23, 2023 at 11:59 pm EDT'
 weeks_open: 'TBD'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
@@ -20,13 +20,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '23FASC123LUDHA'
 pd_job_title: 'TBD'
 num_vacancies: '1'
 series: '2210'
-apply_url: 'TBD'
-ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'TBD'
+apply_url: 'https://www.usajobs.gov/job/699801900'
+ohrm_contact_email: 'Loyola.Ukpokodu@gsa.gov'
+ohrm_contact_name: 'Loyola Ukpokodu'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -168,8 +168,10 @@ AND
 
 ## How To Apply
 
-If you would like to learn more or if you’d like to be notified when the application is open, please join our [mailing list](https://join.tts.gsa.gov/newsletter/).
+Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z ET on %A, %B %e, %Y' }}. Please fill out all applicable fields.
 
-We will be accepting applications through the Public Notice on USAJOBS.
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
+</section>
 
 **Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
