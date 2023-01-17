@@ -1,13 +1,13 @@
 ---
 title: PIF Deputy Director GS15
 permalink: /join/pif-deputy-director15/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Presidential Innovation Fellows Deputy Director GS15
-opens: 'an upcoming date'
-closes: 'TBD'
+opens:'January 17, 2023 at 8:00 am EDT' 
+closes: 'January 24, 2023 at 11:59 pm EDT'
 location: 'Washington, DC'
 gs_level: 15
 salary_min: '155,700'
@@ -22,9 +22,9 @@ job_announcement_number: 'TBD'
 pd_job_title: 'Deputy Director, PIF'
 num_vacancies: '1'
 series: '2210'
-apply_url: 'tbd'
+apply_url: 'https://www.usajobs.gov/job/699866200'
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'Sylvia Velez Zuniga'
+ohrm_contact_name: 'Kaylynn Howard-Morrow'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'Yes'
