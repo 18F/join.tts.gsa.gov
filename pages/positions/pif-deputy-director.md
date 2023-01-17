@@ -65,7 +65,7 @@ The PIF Deputy Director is a primary advisor to the PIF Executive Director (ED) 
 - Develops and executes against policies, plans, and initiatives to ensure effective impact and continual development of the PIF program.
 
 
-### 2.  PIF strategic efforts
+### 2. PIF strategic efforts
 
 - Manages high-level expectations, milestones, and strategies to ensure the success and excellence of the PIF program and operations.
 - Develops innovative approaches and alternative solutions to strategic problems involving policy, process, and technology within the federal government.
@@ -90,7 +90,7 @@ The PIF Deputy Director is a primary advisor to the PIF Executive Director (ED) 
 ## Basic Information
 
 **Location:**
-{{ page.location }}
+Washington, DC
 
 **Salary Range:**
 The salary range for this position is GS-15 Step 1 $155,700  to GS-15 Step 10 $183,500 for the DC locality
@@ -103,13 +103,17 @@ For specific details on locality pay, please visit [OPM's Salaries & Wages page]
 
 Please note the maximum salary available for the GS pay system is **$183,500**
 
-Note: You may not be eligible for the maximum salary as it is locality dependent. Please refer to the maximum pay for your locality.
-
 **Who May Apply:**
 All United States citizens and nationals (residents of American Samoa and Swains Islands)
 
 **Supervisory Status:**
 Supervisory
+
+**Job Title:**
+Presidential Innovation Fellows (PIF) Deputy Director
+
+**Number of vacancies:**
+1
 
 **Travel requirement:**
 Occasional travel may be required up to 10% per year
@@ -118,13 +122,10 @@ Occasional travel may be required up to 10% per year
 Public trust. Background investigation required.
 
 **Work schedule:**
-Full time.
+Full time
 
 **Appointment Type:**
 Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date.
-
-**Job Family (Series):**
-2210 IT   
 
 This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Presidential Innovation Fellows (PIF).
 
@@ -141,8 +142,23 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
   - Long-term care insurance
   - Training and development
 
-## Qualifications
+## Key Requirements
 
+1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
+2. Suitable for federal employment, determined by a background investigation
+3. You may be required to serve a trial period
+4. Direct Deposit of salary check to financial organization required
+5. Register with Selective Service, if you are required by https://www.sss.gov/Registration-Info/Who-Registration
+
+## Employment Requirements
+
+- Serve a one year trial period, if required
+- Undergo and pass a background investigation.  You must be granted this clearance before you can start the job
+- Have your identity and work status eligibility verified if you are not a GSA employee.  We will use the Department of Homeland Security’s e-Verify system for this
+- Any discrepancies must be resolved as a condition of continued employment
+- Complete a financial disclosure report to verify that no conflict, or an appearance of conflict, exists between your financial interest and this position
+
+## Qualifications
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
 Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
@@ -152,17 +168,14 @@ For each job on your resume, provide:
 - Number of hours per week you worked (if part time)
 
 **BASIC REQUIREMENTS**  
-
 Have IT-related experience demonstrating EACH of the four competencies listed below:
 - Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
 - Customer Service - This skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
 - Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
 - Problem Solving - This skill is generally demonstrated by assignments where the applicant monitors current trends or events (for example, technological, economic, political, social, educational, or employment trends or events) and applies the information as appropriate.
 
-AND
 
-**SPECIALIZED EXPERIENCE REQUIREMENTS:  To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
-
+AND To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
 - Experience developing, communicating and implementing a vision or strategy for a technology-focused program or technology-focused organization aligning customer or stakeholder needs to solutions
 - Experience facilitating and leading cross-functional teams that provides or supports delivery of modern technology or digital product(s), platform(s), or service(s)
 - Experience developing and managing program plans, monitoring activities through performance indicators, and facilitating resources to mitigate risks, making improvements and/or resolving unforeseen problems
