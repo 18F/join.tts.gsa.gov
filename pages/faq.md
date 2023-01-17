@@ -21,6 +21,10 @@ sidenav:
 subnav:
   - text: Hiring and Application FAQ
     href: "#hiring-and-application-faq"
+  - text: Security & Federal ID (PIV) Card FAQ
+    href: "#security-&-federal-ID-(PIV)-card-faqs"
+  - text: Onboarding FAQs
+    href: "#onboarding-faqs"
 ---
 Thank you for your interest in a position with TTS! Below you will find some of the most commonly asked questions from prospective applicants and new hires.  
 
@@ -115,3 +119,33 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 
 ### Am I able to request additional hardware (mouse, keyboard, monitor)?
 - Once you start, you can submit a request via the [IT Service Desk](https://insite.gsa.gov/#:~:text=HR%20Links-,IT%20Support%20Request,-Online%20University) for additional hardware. The request will route to your supervisor for approval, and GSA IT will mail the equipment directly to your home address on file.
+
+## Benefits FAQ
+
+### Will my health insurance benefits kick in on my start date?
+- No. If you are a new federal employee, you will not have health insurance benefits upon starting at TTS.
+- The quickest you can receive benefits is two weeks from your start date (the second Sunday after you start at TTS).  
+- You will sign up for health benefits using GSA’s HR Links portal. You will receive information and step-by-step guides during onboarding. 
+- If you would like to compare health plans in advance, you can view [available plans](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/compare-plans/) at any time. There are many different options and plans available, so you may find it helpful to compare plans prior to your start date.
+
+### How do I sign up for health benefits?
+- Once you are officially onboard, you will be able to sign up for health benefits via [HR Links](https://hrlinks.gsa.gov/). You will automatically be granted access to this system approximately *one week* after your start date. 
+- Once you have access to HR Links, you can sign up for benefits. You have until the 2nd Friday after you start to sign up if you want them to become effective at the start of your second pay period (the soonest possible).
+- As a new hire, you do have a full 60 days to sign-up for benefits. Once it passes 60 days, then you will need to wait until Open Season (mid-November through mid-December) to change, update, or enroll.
+- Please note, you will receive additional information regarding all benefits that GSA employees are eligible for during your New Employee Orientation (NEO) session on your first day.
+
+### How do I know what benefits to sign up for? Is there a way to compare my options?
+- Yes! OPM has a handy [health insurance plan comparison tool](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/compare-plans/) for you to use.
+
+### Who can I ask benefit related questions to?
+- Once you start, your GSA benefits coordinator will be happy to assist in answering any benefits related questions. Please use [this document](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to determine who your benefits coordinator is.  
+- Please note, your benefits coordinator can answer enrollment and logistical questions, but they will not provide recommendations on which health insurance plan to select. If you want to ask your colleagues for their recommendations, the #questions Slack channel is a good place to ask, once you have started at TTS.
+
+## Current federal employee FAQs
+
+### I am coming from another federal government agency, will my leave transfer?
+- Yes. However, annual leave and sick leave balances can take a significant amount of time to transfer to GSA, depending on the speed of your previous payroll provider. 
+- To expedite the process, please send your most recent earnings and leave statement (this needs to be your last ELS, which you probably won’t receive until after you’ve already started with TTS) to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov). This will enable GSA’s payroll department to transfer your leave quicker. 
+
+### I’m having trouble logging into my Electronic Official Personnel Folder (eOPF); what should I do?
+- You can login to your eOPF via [https://eopf.opm.gov/](https://eopf.opm.gov/). If you are having trouble logging in, please email [eopfhelpdesk@opm.gov](mailto:eopfhelpdesk@opm.gov) or give them a call at 1-866-275-8518.
