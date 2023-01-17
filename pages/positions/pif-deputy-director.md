@@ -19,7 +19,7 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '23FASC126KHDHA'
 pd_job_title: 'Deputy Director, PIF'
 num_vacancies: '1'
 series: '2210'
