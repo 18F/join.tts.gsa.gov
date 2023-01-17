@@ -9,11 +9,12 @@ job_post_type: usajobs
 role_name: Presidential Innovation Fellows Deputy Director GS15
 opens:'January 17, 2023 at 8:00 am EDT' 
 closes: 'January 24, 2023 at 11:59 pm EDT'
+weeks_open: 'TBD'
 location: 'Washington, DC'
-gs_level: 15
+gs_level: '15'
 salary_min: '155,700'
 salary_max: '183,500'
-org: 'PIF'
+org: 'TTS'
 contact_name: 'TTS Talent Team'
 contact_email: 'jointts@gsa.gov'
 
