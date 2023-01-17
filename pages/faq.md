@@ -21,10 +21,6 @@ sidenav:
 subnav:
   - text: Hiring and Application FAQ
     href: "#hiring-and-application-faq"
-  - text: Security & Federal ID (PIV) Card FAQ
-    href: "#security-&-federal-ID-(PIV)-card-faqs"
-  - text: Onboarding FAQs
-    href: "#onboarding-faqs"
 ---
 Thank you for your interest in a position with TTS! Below you will find some of the most commonly asked questions from prospective applicants and new hires.  
 
@@ -66,7 +62,7 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 - Once you have cleared security (after getting your fingerprints taken, submitting your e-QIP, etc), your HR contact will reach out to you to provide your final offer and work out a start date. 
 - ***Please note, we do not recommend giving notice to your employer before receiving your final offer.***
 
-## Security & Federal ID (PIV) Card FAQs
+## Security and Federal ID Card FAQ
 
 ### How do I schedule my Personal Identifier Verification (PIV) card appointment?
 - Once an offer has been extended and a candidate has filled out all required HR forms/documents, GSA’s HSPD12 Security Office will send you an email which includes a link to schedule an appointment to get your fingerprints taken.  Please note, you must [schedule an appointment](https://www.fedidcard.gov/) at a “shared service” or “GSA-only” center.
@@ -91,7 +87,7 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 ### I am having issues with my e-QIP, who can help?
 - Security assigns an individual point of contact to each candidate. If you have not heard from and/or do not have your security POC's contact information, please reach out to [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov).
 
-## Onboarding FAQs
+## Onboarding FAQ
 
 ### What is planned for my first day of employment?
 - You will receive an email from GSA’s Office of Human Resources Management (OHRM) with information about your New Employee Orientation (NEO), which will be held from 12:00 ET- 4:00 ET on your first day. The email will be sent by OHRM the week prior to your start date. 
@@ -141,7 +137,7 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 - Once you start, your GSA benefits coordinator will be happy to assist in answering any benefits related questions. Please use [this document](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to determine who your benefits coordinator is.  
 - Please note, your benefits coordinator can answer enrollment and logistical questions, but they will not provide recommendations on which health insurance plan to select. If you want to ask your colleagues for their recommendations, the #questions Slack channel is a good place to ask, once you have started at TTS.
 
-## Current federal employee FAQs
+## Current federal employee FAQ
 
 ### I am coming from another federal government agency, will my leave transfer?
 - Yes. However, annual leave and sick leave balances can take a significant amount of time to transfer to GSA, depending on the speed of your previous payroll provider. 
