@@ -1,12 +1,12 @@
 ---
 layout: job-updated
-title: U.S. Digital Corps - Deputy Director GS15
+title: U.S. Digital Corps Deputy Director GS15
 permalink: /join/tts-usdcdeputydirector/
 state: upcoming
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: U.S. Digital Corps Deputy Director
+role_name: U.S. Digital Corps Deputy Director GS15
 opens: 'TBD'
 closes: 'TBD'
 location: 'Virtual (100% Remote)'
