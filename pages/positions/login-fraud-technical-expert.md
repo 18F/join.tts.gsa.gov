@@ -135,15 +135,18 @@ Full time
 Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date. 
 
 **Employee benefits:**
-[Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
+You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
+
   - Health insurance (choose from a wide range of plans)
   - Life insurance coverage with several options
   - Sick leave and vacation time, including 10 paid holidays per year
-@@ -171,6 +128,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
+  - Thrift Savings Plan (similar to a 401(k) plan)
+  - Flexible work schedules and telework
+  - Transit and child care subsidies
+  - Training and development
   - Flexible spending accounts
   - Long-term care insurance
   - Training and development
-  - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our guidance on creating a [federal style resume](https://join.tts.gsa.gov/resume/).
