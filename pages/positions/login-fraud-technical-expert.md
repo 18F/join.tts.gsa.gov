@@ -103,7 +103,9 @@ All United States citizens and nationals (residents of American Samoa and Swains
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} 
+{{ page.opens | date: '%A, %B %e, %Y' }} and Monday, January 30th, 2023. 
+
+This job will close when we have received 400 applications which may be sooner than the closing date.
 
 **Job Title:**
 Login.gov Fraud Technical Expert GS15
