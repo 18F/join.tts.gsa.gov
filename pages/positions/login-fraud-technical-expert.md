@@ -1,13 +1,13 @@
 ---
 title: Login.gov Fraud Technical Expert GS15
 permalink: /join/login-fraud-technical-expert15/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Login.gov Fraud Technical Expert GS15
-opens: 'an upcoming date' 
-closes: 'TBD'
+opens: 'January 23, 2023 at 9:00 am EDT' 
+closes: 'January 30, 2023 at 11:59 pm EDT'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
 salary_min: '136,908' 
@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '23FASC143KHDHA'
 pd_job_title: 'TBD'
 num_vacancies: '1'
 series: '2210'
-apply_url: TBD
+apply_url: 'https://www.usajobs.gov/job/701405200'
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'TBD'
+ohrm_contact_name: 'KayLynn Howard-Morrow'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -40,7 +40,7 @@ supervisory_status: 'No'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  Login.gov is hiring for a Fraud Technical Expert GS15. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
 ## Opportunity Overview:
@@ -103,7 +103,9 @@ All United States citizens and nationals (residents of American Samoa and Swains
 {{ page.job_announcement_number }}
 
 **Opening and closing period for this job application:**
-{{ page.opens | date: '%A, %B %e, %Y' }} 
+{{ page.opens | date: '%A, %B %e, %Y' }} and Monday, January 30th, 2023. 
+
+This job will close when we have received 400 applications which may be sooner than the closing date.
 
 **Job Title:**
 Login.gov Fraud Technical Expert GS15
@@ -133,15 +135,18 @@ Full time
 Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date. 
 
 **Employee benefits:**
-[Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
+You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
+
   - Health insurance (choose from a wide range of plans)
   - Life insurance coverage with several options
   - Sick leave and vacation time, including 10 paid holidays per year
-@@ -171,6 +128,7 @@ You will have access to many [benefits](http://www.gsa.gov/portal/category/26702
+  - Thrift Savings Plan (similar to a 401(k) plan)
+  - Flexible work schedules and telework
+  - Transit and child care subsidies
+  - Training and development
   - Flexible spending accounts
   - Long-term care insurance
   - Training and development
-  - Direct Deposit of salary check to financial organization required.
 
 ## Qualifications
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our guidance on creating a [federal style resume](https://join.tts.gsa.gov/resume/).
@@ -154,4 +159,19 @@ For each job on your resume, provide:
 - Number of hours per week you worked (if part time)
 
 **BASIC REQUIREMENTS**  
-Specialized experience for this position will be updated shortly.
+
+Have IT-related experience demonstrating EACH of the four competencies listed below:
+- Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
+- Customer Service - This skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+- Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
+- Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+AND 
+
+GS-15 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS: In addition to the Basic Requirements listed above, you must have one year of specialized experience. Specialized experience: Specialized experience for this role is defined as:
+
+- Experience with identity fraud detection, mitigation, investigation, redress or analytics practices. 
+- Experience assessing, developing, implementing, or improving strategies for identity theft investigative and redress workflows.
+- Experience working with cross-functional teams.
+- Experience building alignment with stakeholders.
+
