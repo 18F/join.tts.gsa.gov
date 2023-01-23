@@ -40,7 +40,7 @@ supervisory_status: 'No'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  Login.gov is hiring for a Login.gov Fraud Technical Expert GS15. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
+  Login.gov is hiring for a Fraud Technical Expert GS15. This page contains information related to the role as well as a link to submit your application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process.
 {% endif %}
 
 ## Opportunity Overview:
