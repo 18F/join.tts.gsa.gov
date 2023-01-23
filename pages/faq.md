@@ -21,6 +21,14 @@ sidenav:
 subnav:
   - text: Hiring and Application FAQ
     href: "#hiring-and-application-faq"
+  - text: Security and Federal ID Card FAQ
+    href: "#security-and-federal-id-card-faq"
+  - text: Onboarding FAQ
+    href: "#onboarding-faq"
+  - text: Benefits FAQ
+    href: "#benefits-faq"
+  - text: Current federal employee FAQ
+    href: "#current-federal-employee-faq"
 ---
 Thank you for your interest in a position with TTS! Below you will find some of the most commonly asked questions from prospective applicants and new hires.  
 
@@ -137,7 +145,7 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 - Once you start, your GSA benefits coordinator will be happy to assist in answering any benefits related questions. Please use [this document](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to determine who your benefits coordinator is.  
 - Please note, your benefits coordinator can answer enrollment and logistical questions, but they will not provide recommendations on which health insurance plan to select. If you want to ask your colleagues for their recommendations, the #questions Slack channel is a good place to ask, once you have started at TTS.
 
-## Current federal employee FAQ
+## Current Federal Employee FAQ
 
 ### I am coming from another federal government agency, will my leave transfer?
 - Yes. However, annual leave and sick leave balances can take a significant amount of time to transfer to GSA, depending on the speed of your previous payroll provider. 
