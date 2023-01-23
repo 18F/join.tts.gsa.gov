@@ -1,13 +1,13 @@
 ---
 title: Login.gov Fraud Technical Expert GS15
 permalink: /join/login-fraud-technical-expert15/
-state: upcoming
+state: open
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Login.gov Fraud Technical Expert GS15
-opens: 'an upcoming date' 
-closes: 'TBD'
+opens: 'January 23, 2023 at 9:00 am EDT' 
+closes: 'January 30, 2023 at 11:59 pm EDT'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
 salary_min: '136,908' 
@@ -18,13 +18,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '23FASC143KHDHA'
 pd_job_title: 'TBD'
 num_vacancies: '1'
 series: '2210'
-apply_url: TBD
+apply_url: 'https://www.usajobs.gov/job/701405200'
 ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'TBD'
+ohrm_contact_name: 'KayLynn Howard-Morrow'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -154,4 +154,19 @@ For each job on your resume, provide:
 - Number of hours per week you worked (if part time)
 
 **BASIC REQUIREMENTS**  
-Specialized experience for this position will be updated shortly.
+
+Have IT-related experience demonstrating EACH of the four competencies listed below:
+- Attention to Detail - This skill is generally demonstrated by assignments where the applicant keeps abreast of latest technology, information, research, etc., to maintain knowledge in field of expertise (for example, reads trade journals, participates in professional/technical associations, maintains credentials).
+- Customer Service - This skill is generally demonstrated by assignments where the applicant promotes or develops and maintains good working relationships with key individuals or groups.
+- Oral Communication - This skill is generally demonstrated by assignments where the applicant serves on panels, committees, or task forces as a representative for the organization on technical or professional issues.
+- Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound judgment to generate and evaluate alternatives, and to make recommendations.
+
+AND 
+
+GS-15 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS: In addition to the Basic Requirements listed above, you must have one year of specialized experience. Specialized experience: Specialized experience for this role is defined as:
+
+- Experience with identity fraud detection, mitigation, investigation, redress or analytics practices. 
+- Experience assessing, developing, implementing, or improving strategies for identity theft investigative and redress workflows.
+- Experience working with cross-functional teams.
+- Experience building alignment with stakeholders.
+
