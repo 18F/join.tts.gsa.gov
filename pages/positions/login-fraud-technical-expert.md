@@ -168,7 +168,7 @@ Have IT-related experience demonstrating EACH of the four competencies listed be
 
 AND 
 
-GS-15 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS: In addition to the Basic Requirements listed above, you must have one year of specialized experience. Specialized experience: Specialized experience for this role is defined as:
+GS-15 LEVEL SPECIALIZED EXPERIENCE REQUIREMENTS: In addition to the Basic Requirements listed above, you must have one year of specialized experience at the GS-14 level (or equivalent). Specialized experience for this role is defined as:
 
 - Experience with identity fraud detection, mitigation, investigation, redress or analytics practices. 
 - Experience assessing, developing, implementing, or improving strategies for identity theft investigative and redress workflows.
