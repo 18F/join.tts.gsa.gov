@@ -5,30 +5,26 @@
 # date: YYYY-MM-DD format. This will get parsed automatically to show day of the week and month name.
 # time: Time in 00:00 ET / 00:00 PT format. 
   
-- role: Login.gov Security Engineer Technical Expert GS15
-  link: https://www.eventbrite.com/e/499487690127
-  date: 2023-01-23
-  time: 2:00-3:00pm ET (11:00-12:00pm PT)
-  
+
 - role: Login.gov Product Manager GS15
   link: https://www.eventbrite.com/e/logingov-product-manager-information-session-tickets-514949105637
   date: 2023-01-24
-  time: 1:00-2:00pm ET (11:00am-12:00pm PT)
+  time: 1:00-2:00pm ET (10:00am-11:00am PT)
   
 - role: Login.gov Product Manager GS15
   link: https://www.eventbrite.com/e/logingov-product-manager-information-session-tickets-514980339057
   date: 2023-01-26
-  time: 4:00-5:00pm ET (2:00pm-3:00pm PT)
+  time: 4:00-5:00pm ET (1:00pm-2:00pm PT)
   
 - role: U.S. Digital Corps - Deputy Director GS15
   link: https://www.eventbrite.com/e/us-digital-corps-deputy-director-info-session-tickets-519920435017
   date: 2023-01-30
-  time: 1:30-2:30pm ET (4:30pm-5:30pm PT)
+  time: 1:30-2:30pm ET (10:30am-11:30am PT)
   
 - role: U.S. Digital Corps - Deputy Director GS15
   link: https://www.eventbrite.com/e/us-digital-corps-deputy-director-info-session-tickets-519800426067
   date: 2023-01-31
-  time: 1:30-2:30pm ET (4:30pm-5:30pm PT)
+  time: 1:30-2:30pm ET (10:30am-11:30am PT)
 
 - role: General
   link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-483362469157
