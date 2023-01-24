@@ -2,7 +2,7 @@
 layout: job-updated
 title: PeopleOps Director GS15
 permalink: /join/tts-peopleopsdirector15/
-state: draft 
+state: upcoming 
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -21,7 +21,7 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS OPEN: These fields are required for open
 
 job_announcement_number: 'TBD'
-pd_job_title: 'TBD'
+pd_job_title: '0301 Supervisory People Operations Specialist GS-15'
 num_vacancies: '1'
 series: '0301'
 apply_url: 'TBD'
@@ -33,7 +33,7 @@ supervisory_status: 'Yes'
 ---
 
 {% if page.state == 'upcoming' %}
-{{ page.org }} will soon be accepting applications for a GS-{{ page.gs_level }} - {{ page.role_name }}.
+TTS will soon be hiring for a GS15 PeopleOps Director. 
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be
   notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
@@ -44,7 +44,7 @@ supervisory_status: 'Yes'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  {{ page.org }} is hiring for GS-{{ page.gs_level }} - {{ page.role_name }}. This page contains information related to the role as well as a link to submit your
+  TTS will soon be hiring for a GS15 PeopleOps Director. This page contains information related to the role as well as a link to submit your
   application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
