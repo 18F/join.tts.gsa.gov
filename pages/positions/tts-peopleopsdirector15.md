@@ -2,7 +2,7 @@
 layout: job-updated
 title: PeopleOps Director GS15
 permalink: /join/tts-peopleopsdirector15/
-state: draft 
+state: upcoming 
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -21,7 +21,7 @@ contact_email: 'jointts@gsa.gov'
 # INSTRUCTIONS OPEN: These fields are required for open
 
 job_announcement_number: 'TBD'
-pd_job_title: 'TBD'
+pd_job_title: '0301 Supervisory People Operations Specialist GS-15'
 num_vacancies: '1'
 series: '0301'
 apply_url: 'TBD'
