@@ -1,7 +1,7 @@
 ---
 title: Login.gov Security Engineer Technical Expert GS15
 permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert/
-state: upcoming
+state: open
 job_post_type: usajobs
 related_performance_profiles:
   - name: 'Login.gov Security Engineer Tech Expert - Analyst'
@@ -14,8 +14,8 @@ related_performance_profiles:
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Login.gov Security Engineer Technical Expert GS15
-opens: 'TBD'
-closes: 'TBD'
+opens: 'January 25, 2023'
+closes: 'Wednesday, February 1, 2023 at 11:59PM ET'
 location: 'Virtual (100% Remote)'
 gs_level: 15
 salary_min: '136,908'
@@ -26,18 +26,19 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '23FASC142KHDHA'
 pd_job_title: 'IT Specialist' 
 num_vacancies: '3'
 series: '2210' 
-apply_url: 'TBD'
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+apply_url: 'https://www.usajobs.gov/job/701280200#'
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'KayLynn Howard-Morrow'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15' 
 supervisory_status: 'No'
 ---
-{% if page.state == 'upcoming' %}
+{% if page.state != 'upcoming' %}
+
   {% if page.opens == 'tbd' %} TTS will open applications soon for GS-15 Security Engineer Technical Experts for the Login.gov team. These roles are of crucial importance to security and make a significant impact by helping other federal agencies securely provide and deliver services to the American public.  If you'd like to be
   notified when these positions are open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% else %}
@@ -132,8 +133,8 @@ Have IT-related experience demonstrating EACH of the four competencies listed be
 **AND**
 To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
 
-- Participating in, contributing to, or leading red team, blue team, or purple team engagements
-- Experience researching emerging threats, building threat models or conducting threat hunts.
-- Conducting dynamic testing with BurpSuite, Zed Attack Proxy (ZAP) or other vulnerability scanning tools.
+- Participating in , contributing to or leading: data analytics activities for detecting, defending against, or responding to security incidents; or red team, blue team, or purple team engagements; or cybersecurity assessments
+- Automating data analytics or security processes; or researching emerging threats, building threat models or conducting threat hunts; or contributing to security activities such as incident response wargames, or static/dynamic code scans or analysis. 
+- Participating in, contributing to, or leading cybersecurity assessments; or conducting dynamic testing withBurpSuite, Zed Attack Proxy (ZAP) or other vulnerability scanning tools; or supporting Software as a Service security controls such as continuous monitoring, logging, incident response, auditing, forensics or access management. 
 - Collaborating with development teams, engineers, cross-functional teams, or Security Operations Center (SOC) professionals to provide cybersecurity guidance
 - Experience applying industry practices such as Agile or iterative development methodologies, open source, object oriented programming or DevOps.
