@@ -10,7 +10,7 @@ related_performance_profiles:
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/
   - name: Login.gov Security Engineer Tech Expert - Security Operations
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
-apply_url: TBD
+apply_url: https://www.usajobs.gov/job/701280200#
 contact_name: TTS Talent Team
 contact_email: jointts@gsa.gov
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
