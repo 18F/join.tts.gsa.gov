@@ -2,7 +2,7 @@
 layout: job-updated
 title: PIF Deputy Director GS15
 permalink: /join/pif-deputy-director15/
-state: open
+state: closed
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
