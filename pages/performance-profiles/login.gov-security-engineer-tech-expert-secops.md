@@ -1,8 +1,10 @@
 ---
 title:  Login.gov Security Engineer Tech Expert -  Security Operations   
 permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
-state: upcoming
+state: open
 job_post_type: usajobs
+opens: 'January 25, 2023'
+closes: 'Wednesday, February 1, 2023 at 11:59PM EDT'
 parent_position_name: Login.gov Security Engineer Technical Expert GS15
 parent_position_link: /join/performance-profiles/login.gov-security-engineer-tech-expert/
 related_performance_profiles:
@@ -10,7 +12,7 @@ related_performance_profiles:
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-analyst/
   - name: Login.gov Security Engineer Tech Expert - Purple Team
     link: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/ 
-apply_url: TBD
+apply_url: https://www.usajobs.gov/job/701280200#
 contact_name: TTS Talent Team
 contact_email: jointts@gsa.gov
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
@@ -24,7 +26,7 @@ org: 'Login.gov'
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role. [View descriptions of other {{ page.org }} {{ page.role_name }} positions.]({{site.baseurl}}{{ page.parent_position_link }})
+{{ page.org }} is hiring for the role of GS-{{ page.gs_level }} {{ page.role_name }}. **There are several {{ page.org }} teams hiring for this role.** This page contains a summary of the {{ page.title }} role.   More details are available on [the main {{ page.parent_position_name }} posting]({{site.baseurl}}{{ page.parent_position_link }}).
 {% endif %}
 
 ## Role summary
