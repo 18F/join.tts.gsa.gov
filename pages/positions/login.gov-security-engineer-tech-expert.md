@@ -138,3 +138,13 @@ To qualify, your resume must demonstrate at least one (1) year of specialized ex
 - Participating in, contributing to, or leading cybersecurity assessments; or conducting dynamic testing withBurpSuite, Zed Attack Proxy (ZAP) or other vulnerability scanning tools; or supporting Software as a Service security controls such as continuous monitoring, logging, incident response, auditing, forensics or access management. 
 - Collaborating with development teams, engineers, cross-functional teams, or Security Operations Center (SOC) professionals to provide cybersecurity guidance.
 - Experience applying industry practices such as Agile or iterative development methodologies, open source, object oriented programming or DevOps.
+
+## How To Apply
+
+Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z ET on %A, %B %e, %Y' }}. Please fill out all applicable fields.
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
+</section>
+
+**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
