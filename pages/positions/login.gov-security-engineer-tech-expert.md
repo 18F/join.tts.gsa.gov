@@ -15,7 +15,7 @@ related_performance_profiles:
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Login.gov Security Engineer Technical Expert GS15
 opens: 'January 25, 2023'
-closes: 'Wednesday, February 1, 2023 at 11:59PM ET'
+closes: 'Wednesday, February 1, 2023 at 11:59PM EDT'
 location: 'Virtual (100% Remote)'
 gs_level: 15
 salary_min: '136,908'
@@ -133,8 +133,8 @@ Have IT-related experience demonstrating EACH of the four competencies listed be
 **AND**
 To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
 
-- Participating in , contributing to or leading: data analytics activities for detecting, defending against, or responding to security incidents; or red team, blue team, or purple team engagements; or cybersecurity assessments
+- Participating in , contributing to or leading: data analytics activities for detecting, defending against, or responding to security incidents; or red team, blue team, or purple team engagements; or cybersecurity assessments.
 - Automating data analytics or security processes; or researching emerging threats, building threat models or conducting threat hunts; or contributing to security activities such as incident response wargames, or static/dynamic code scans or analysis. 
 - Participating in, contributing to, or leading cybersecurity assessments; or conducting dynamic testing withBurpSuite, Zed Attack Proxy (ZAP) or other vulnerability scanning tools; or supporting Software as a Service security controls such as continuous monitoring, logging, incident response, auditing, forensics or access management. 
-- Collaborating with development teams, engineers, cross-functional teams, or Security Operations Center (SOC) professionals to provide cybersecurity guidance
+- Collaborating with development teams, engineers, cross-functional teams, or Security Operations Center (SOC) professionals to provide cybersecurity guidance.
 - Experience applying industry practices such as Agile or iterative development methodologies, open source, object oriented programming or DevOps.
