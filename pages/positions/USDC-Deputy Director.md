@@ -165,7 +165,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 Specialized Experience must have been obtained in an information technology environment.  Specialized experience is defined as:
 - Experience developing and articulating a vision or strategy for a technology-focused program or organization. 
 - Experience leading or creating a program's talent acquisition strategy and digital outreach/marketing practices. 
-- Experience using agile methodologies, human-centered design practices, and qualitative and quantitative data to improve user outcomes in technical environments.
+- Experience using agile methodologies, human-centered design practices, or qualitative and quantitative data to improve user outcomes in a technical environment geared towards the general public.
 - Experience leading a cross-functional team that provides or supports delivery of modern technology or digital product(s), platform(s), or service(s).
 - Experience building relationships and alignment with customers and/or stakeholders.
 - Experience presenting, demonstrating thought leadership, or contributing best practices at technology, digital or government events/conferences. 
