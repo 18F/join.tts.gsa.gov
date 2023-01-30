@@ -93,33 +93,33 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 - If your fingerprints have been taken and approved, and you still haven’t received your e-QIP after a few days, please check your spam folder.
  
 ### I am having issues with my e-QIP, who can help?
-- Security assigns an individual point of contact to each candidate. If you have not heard from and/or do not have your security POC's contact information, please reach out to [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov).
+- Security assigns an individual point of contact (POC) to each candidate. If you have not heard from and/or do not have your security POC's contact information, please reach out to [gsa.securityoffice@gsa.gov](mailto:gsa.securityoffice@gsa.gov).
 
 ## Onboarding FAQ
 
-### What is planned for my first day of employment?
-- You will receive an email from GSA’s Office of Human Resources Management (OHRM) with information about your New Employee Orientation (NEO), which will be held from 12:00 ET- 4:00 ET on your first day. The email will be sent by OHRM the week prior to your start date. 
-- You will also receive an email from the TTS Onboarding Team (Annabel and Hilary, [tts-onboarding@gsa.gov](mailto:tts-onboarding@gsa.gov)) with information regarding your equipment and more of what to expect on Day 1.
+### Do I need to do anything to prepare for my position/role?
+- Nothing specific is required of you to prepare for starting with TTS, but if you would like to learn more about the organization ahead of your start date, you are more than welcome to peruse the [TTS Handbook](https://handbook.tts.gsa.gov/) (but please know this is not a requirement)!
 
 ### When will my computer and other equipment arrive?
 - The TTS Onboarding Team will send you information regarding your equipment on the Wednesday prior to your start date.  
   - If you are receiving a MacBook, it typically arrives the Thursday or Friday before you start. 
   - If you are receiving a PC, it may arrive up to one week prior to your start date. 
   - Your iPhone may arrive in a different shipment, but likely within your first two weeks of employment. 
-- Please note: ***signature is required for all UPS deliveries***. Please be on the lookout for an email from the TTS Onboarding Team and/or other tracking information you may receive from GSA IT or UPS directly. 
+- Please note: ***a signature is required for all UPS deliveries***. Please be on the lookout for an email from the TTS Onboarding Team and/or other tracking information you may receive from GSA IT or UPS directly. 
 - If for any reason your equipment is delayed and is not expected to arrive before you start, that is not a problem. IT can walk you through the process of logging on to the GSA intranet via your personal laptop on the morning of your first day.
-
-### Do I need to do anything to prepare for my position/role?
-- Nothing specific is required of you to prepare for starting with TTS, but if you would like to learn more about the organization ahead of your start date, you are more than welcome to peruse the [TTS Handbook](https://handbook.tts.gsa.gov/) (but please know this is not a requirement)!
 
 ### Who will be my main point of contact (POC) during the onboarding process?
 - Throughout the hiring and onboarding process, you will be interacting with multiple different POCs. *Please note that TTS is a part of GSA*. 
 - You will be interacting with:
   - TTS Talent Recruiter - interview and selection process updates
   - GSA’s Office of Human Resources Management (OHRM) - offer stages
-  - GSA’s Security Team - background checks, e-QIP, PIV card
+  - GSA’s Security Teams - background checks, e-QIP, PIV card
   - TTS Onboarding Team - post offer, preparing you for your first day
   - Your TTS Supervisor and Onboarding Buddy - introductions, preparing you for your first day and beyond
+
+### What is planned for my first day of employment?
+- You will receive an email from GSA’s Office of Human Resources Management (OHRM) with information about your New Employee Orientation (NEO), which will be held from 12:00 ET- 4:00 ET on your first day. The email will be sent by OHRM the week prior to your start date. 
+- You will also receive an email from the TTS Onboarding Team (Annabel and Hilary, [tts-onboarding@gsa.gov](mailto:tts-onboarding@gsa.gov)) with information regarding your equipment and more of what to expect on Day 1.
 
 ### Am I able to request additional hardware (mouse, keyboard, monitor)?
 - Once you start, you can submit a request via the [IT Service Desk](https://insite.gsa.gov/#:~:text=HR%20Links-,IT%20Support%20Request,-Online%20University) for additional hardware. The request will route to your supervisor for approval, and GSA IT will mail the equipment directly to your home address on file.
@@ -143,7 +143,7 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 
 ### Who can I ask benefit related questions to?
 - Once you start, your GSA benefits coordinator will be happy to assist in answering any benefits related questions. Please use [this document](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to determine who your benefits coordinator is.  
-- Please note, your benefits coordinator can answer enrollment and logistical questions, but they will not provide recommendations on which health insurance plan to select. If you want to ask your colleagues for their recommendations, the #questions Slack channel is a good place to ask, once you have started at TTS.
+- Please note, your benefits coordinator can answer enrollment and logistical questions, but they will not provide recommendations on which health insurance plan to select. If you want to ask your colleagues for their recommendations, the #questions Slack channel is a good place to ask, once you have started at TTS. You will learn how we use Slack during your onboarding.
 
 ## Current Federal Employee FAQ
 
@@ -152,4 +152,4 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 - To expedite the process, please send your most recent earnings and leave statement (this needs to be your last ELS, which you probably won’t receive until after you’ve already started with TTS) to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov). This will enable GSA’s payroll department to transfer your leave quicker. 
 
 ### I’m having trouble logging into my Electronic Official Personnel Folder (eOPF); what should I do?
-- You can login to your eOPF via [https://eopf.opm.gov/](https://eopf.opm.gov/). If you are having trouble logging in, please email [eopfhelpdesk@opm.gov](mailto:eopfhelpdesk@opm.gov) or give them a call at 1-866-275-8518.
+- You can login to your eOPF via [https://eopf.opm.gov/](https://eopf.opm.gov/). You need to be on VPN. If you are having trouble logging in, please email [eopfhelpdesk@opm.gov](mailto:eopfhelpdesk@opm.gov) or give them a call at 1-866-275-8518.
