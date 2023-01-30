@@ -2,13 +2,13 @@
 layout: job-updated
 title: Login.gov Product Manager GS15
 permalink: /join/login-productmanagers15/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Login.gov Product Manager GS15
-opens: 'an upcoming date' 
-closes: 'TBD'
+opens: 'January 30th, 2023 at 9:00 am EDT' 
+closes: 'February 6th, 2023 at 11:59 pm EDT'
 weeks_open: 'TBD'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
@@ -20,13 +20,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '23FASC146SVGDHA'
 pd_job_title: 'IT Specialist'
 num_vacancies: '100'
 series: '2210'
-apply_url: 'TBD'
-ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
-ohrm_contact_name: 'TBD'
+apply_url: 'https://www.usajobs.gov/job/700843500'
+ohrm_contact_email: 'sylvia.velez-zuniga@gsa.gov'
+ohrm_contact_name: 'Sylvia Velez-Zuniga'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
