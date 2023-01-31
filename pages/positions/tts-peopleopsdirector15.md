@@ -104,7 +104,7 @@ All United States citizens and nationals (residents of American Samoa and Swains
 Supervisory
 
 **Job Title:**
-PeopleOps Director GS15
+People Operations Director GS15
 
 **Number of vacancies:**
 1
