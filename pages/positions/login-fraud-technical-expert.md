@@ -1,7 +1,7 @@
 ---
 title: Login.gov Fraud Technical Expert GS15
 permalink: /join/login-fraud-technical-expert15/
-state: open
+state: closed
 job_post_type: usajobs 
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
