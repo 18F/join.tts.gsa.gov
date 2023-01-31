@@ -1,12 +1,12 @@
 ---
 layout: job-updated
-title: PeopleOps Director GS15
+title: People Operations Director GS15
 permalink: /join/tts-peopleopsdirector15/
 state: upcoming 
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
-role_name: PeopleOps Director GS15
+role_name: People Operations Director GS15
 opens: 'tbd' 
 closes: 'tbd'
 weeks_open: 'TBD'
@@ -33,7 +33,7 @@ supervisory_status: 'Yes'
 ---
 
 {% if page.state == 'upcoming' %}
-TTS will soon be hiring for a GS15 PeopleOps Director. 
+TTS will soon be hiring for a GS15 People Operations Director. 
   {% if page.opens == 'tbd' %} The target date for when this position will be officially open to application has not yet been determined. If you'd like to be
   notified when this position is open, sign up to our [mailing list]({{ site.baseurl }}/newsletter).
   {% endif %}
@@ -44,7 +44,7 @@ TTS will soon be hiring for a GS15 PeopleOps Director.
 {% endif %}
 
 {% if page.state != 'upcoming' %}
-  TTS will soon be hiring for a GS15 PeopleOps Director. This page contains information related to the role as well as a link to submit your
+  TTS will soon be hiring for a GS15 People Operations Director. This page contains information related to the role as well as a link to submit your
   application. Check out [Join TTS Hiring Process]({{site.baseurl}}/hiring-process/) to learn more about the application process. 
 {% endif %}
 
