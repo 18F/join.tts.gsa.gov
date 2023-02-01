@@ -1,7 +1,7 @@
 ---
 title: Login.gov Security Engineer Technical Expert GS15
 permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert/
-state: open
+state: closed
 job_post_type: usajobs
 related_performance_profiles:
   - name: 'Login.gov Security Engineer Tech Expert - Analyst'
