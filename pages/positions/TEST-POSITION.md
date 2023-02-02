@@ -1,10 +1,63 @@
 ---
-permalink: test
-layout: new-blank
+################################################################################
+#                                                                              #
+# INSTRUCTIONS                                                                 #
+#                                                                              #
+# -----------------------------------------------------------------------------#
+# If you are editing this file on GitHub, first make sure you are creating a   #
+# new file, and are not editing the template file! To create a new file, go to #
+# https://github.com/18F/join.tts.gsa.gov/new/main in your browser.            #
+#                                                                              #
+# On the new file page, you can paste in the contents of the template file.    #
+# Also be sure to type in a filename in the small textbox above the file body  #
+# box. You will see the text join.tts.gsa.gov / [ Name your file ...] in main. #
+# Type your filename into that box.                                            #
+#                                                                              #
+# NOTE ABOUTE FILENAMES: Your filename should be descriptive about the job     #
+# posting that you're creating, and it MUST end with ".md". For example, if    #
+# you are creating a job for a content designer, you might choose names like:  #
+#                                                                              #
+#    tts-content-designer-2023.md                                              #
+#    login-content-designer-2023.md                                            #
+#    content-designer-2023.md                                                  #
+#    content-designer-june-2023.md                                             #
+#                                                                              #
+# For the rest of the file, follow the directions as you go, but here are a    #
+# couple more tips to help you as you work:                                    #
+#                                                                              #
+# You are currently inside the portion of the document called "frontmatter."   #
+# The frontmatter is the part that starts with just "---" on the first line    #
+# and ends with another lie that only contains "---" (further down). This part #
+# of the document is not DIRECTLY shown to the user. Instead, this is where    #
+# you can set data that will be shown to the user in other parts of the        #
+# or data that is used to configure how the page is displayed. For example,    #
+# the opens and closes dates are set in the frontmatter, but they will never   #
+# be shown to the user the way you type them in. Instead, they are used to     #
+# determine whether the posting is upcoming, open, or closed, and they will be #
+# turned into more human-friendly text when they are displayed.                #
+#                                                                              #
+# Within this frontmatter block, lines that begin with a hash (#) symbol are   #
+# comments. They do not contribute to the web page at all, but they are a nice #
+# way of explaining what the data in the frontmatter is. It is okay to delete  #
+# these comments when you are done, and it is also okay to leave them if they  #
+# might be helpful when editing the page later.                                #
+#                                                                              #
+# After the frontmatter, the rest of the document is in a special version of   #
+# Markdown used by the website builder. You will see comments in that section  #
+# as well, but they will look like this:                                       #
+#                                                                              #
+#    {% comment ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ %}#
+#    The contents in between these two lines are comments and do not           #
+#    contribute to the web page.                                               #
+#    {% endcomment ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ %}#
+#                                                                              #
+# It is safe to remove the Markdown comments as well.                          #
+#                                                                              #
+################################################################################
 
-# This is the position title. This will be shown as the first heading on the
-# page and will be used as the link text on the front page for upcoming and
-# open positions.
+# This is the position title and the org that is doing the hiring. These will be
+# combined into the the first heading on the page and will be used as the link
+# text on the front page for upcoming and open positions.
 title: My test job
 org: Login.gov
 
@@ -25,8 +78,21 @@ org: Login.gov
 #
 # closed:
 #   closes is in the past
-opens: 2023-01-07
+#
+# If either opens or closes is empty, missing, or not a date, the position is
+# considered to be upcoming.
+#
+# These dates MUST be formatted as YYYY-MM-DD, where month and day are 2-digits.
+# If the month or day are less than 10, add a 0 to the front. This is called ISO
+# 8601 format, and it's one that the site builder automatically understands.
+# Anything else will not be understood as a date.
+opens: 2023-01-03
 closes: 2023-02-06
+
+# If the position can also close when the maximum number of applications are
+# received, include the maximum number of applications here. Remove this line
+# or set the value to 0 if the job does not have an application cap.
+max applications: 0
 
 # List out which GS levels this position is being advertised at. Put each GS
 # level on its own line, starting with two spaces, a dash, and another space
@@ -43,11 +109,18 @@ closes: 2023-02-06
 # gs:
 #   - 15
 #
+# NOTE: For SES positions, set the level to 20.
+#
 # The information you put here will be used to automatically pull salary range
 # information. Each GS level listed here will be shown in the salary range
-# table.
+# table. GS grades will be listed in ascending order.
+#
+# The salary range data is stored in this file:
+#
+#   _data/pay_ranges.yml
+#
+# The data file will need to be updated each year to reflect any pay changes.
 gs:
-  - 14
   - 15
 
 # List key objectives here. Key objectives and sub-bullets will be displayed in
@@ -91,9 +164,8 @@ key objectives:
 #
 # IMPORTANT: The date MUST be formatted as YYYY-MM-DD, where the month and day
 # are TWO digits. If the month or day is less than 10, add a zero to the front.
-# (This is called the ISO 8601 standard format.) We use the date to sort the
-# info sessions on the page so they are shown nearest to furthest. Only info
-# sessions schedule for the future will be shown.
+# The date is used to sort the info sessions on the page so they are shown
+# nearest to furthest. Only info sessions schedule for the future will be shown.
 info sessions:
   - link: https://www.eventbrite.com/e/us-digital-corps-deputy-director-info-session-tickets-519800426067
     date: 2023-02-03
@@ -103,16 +175,24 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 application link: https://usajobs.gov/job/apply/whatever
+
+# DO NOT CHANGE THESE TWO
+# Eventually both of these will be removed so they don't need to be set at all,
+# but for now, just leave them alone.
+permalink: test
+layout: new-blank
+
+# This is the end of the frontmatter. After this line is Markdown.
 ---
 
-{% comment ================================================================== %}
+{% comment ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️%}
 If you want to include a closed/upcoming/open alert at the top of your page,
 leave the following line. The status of the position will be determined by the
 opens/closes dates at the top of this document
 
 If you do not want the closed/upcoming/open alert, delete the line below that
 says {% include job/status_alert.html %}
-{% endcomment =============================================================== %}
+{% endcomment ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️%}
 
 {% include job/status_alert.html %}
 
@@ -126,13 +206,13 @@ content goes here
 
 ## Key objectives
 
-{% comment ================================================================== %}
+{% comment ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️%}
 Key objectives are automatically converted from the information provided at the
 top of the page. The automatic conversion helps ensure that all of our postings
 are consistent. If you do not want to use the automatic template, delete the
 line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
-{% endcomment =============================================================== %}
+{% endcomment ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️%}
 
 {% include job/key_objectives.html %}
 
@@ -143,13 +223,13 @@ Virtual (100% Remote)
 
 **Salary Range:**
 
-{% comment ================================================================== %}
+{% comment ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️%}
 The salary range for the job can be populated automatically based on the GS
 levels this posting is advertised at. For each GS level, the template will show
 the minimum and maximum possible salary for that GS level. If you need to
 customize how the salary is displayed, delete the line below that says
 {% include job/salary_range.html %} and put in your custom content.
-{% endcomment =============================================================== %}
+{% endcomment ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️%}
 
 {% include job/salary_range.html %}
 
@@ -254,19 +334,19 @@ lower GS-grade (or equivalent).  Specialized experience is defined as follows:
 
 ## How to Apply
 
-{% comment ================================================================== %}
+{% comment ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️%}
 Maybe an alert for special cases?
-{% endcomment =============================================================== %}
+{% endcomment ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️%}
 
 Submit a complete online application prior to {% include job/close_date.html %}.
 Please fill out all applicable fields.
 
-{% comment ================================================================== %}
+{% comment ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️%}
 The "Click here to apply" button is automatically populated with the application
 link provided at the top of the document. It is formatted so that it conforms to
 USWDS. If you don't want to use the standard button, delete the line below that
 says {% include job/apply_button.html %} and put in your custom content.
-{% endcomment =============================================================== %}
+{% endcomment ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️ ⬆️%}
 
 {% include job/apply_button.html %}
 
