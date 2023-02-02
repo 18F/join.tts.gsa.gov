@@ -169,8 +169,8 @@ AND
 To qualify, you must have one (1) year of specialized experience at the next lower GS-grade (or equivalent).  Specialized experience is defined as follows:
 
 **GS15 qualifications:**
-- Experience leading the development, delivery or integration of highly complex digital products or services.
-- Experience applying leading industry practices in the design, development and delivery of digital products or services. This experience may include experimentation based frameworks, iterative development methodologies, user-centered design, planning tools or continuous delivery methodologies.
-- Experience crafting or creating product vision, strategy or road maps.
-- Experience working with cross-functional teams.
+- Experience leading vision, direction, roadmap or leading the identification of user needs for a project, product, platform, or service.
+- Experience providing project or product leadership.
+- Experience with iterative or agile methodologies.
+- Experience leading cross-functional teams.
 
