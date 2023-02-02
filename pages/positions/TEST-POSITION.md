@@ -27,14 +27,14 @@
 #                                                                              #
 # You are currently inside the portion of the document called "frontmatter."   #
 # The frontmatter is the part that starts with just "---" on the first line    #
-# and ends with another lie that only contains "---" (further down). This part #
-# of the document is not DIRECTLY shown to the user. Instead, this is where    #
-# you can set data that will be shown to the user in other parts of the        #
-# or data that is used to configure how the page is displayed. For example,    #
-# the opens and closes dates are set in the frontmatter, but they will never   #
-# be shown to the user the way you type them in. Instead, they are used to     #
-# determine whether the posting is upcoming, open, or closed, and they will be #
-# turned into more human-friendly text when they are displayed.                #
+# and ends with another line that only contains "---" (further down). This     #
+# part of the document is not DIRECTLY shown to the user. Instead, this is     #
+# where you can set data that will be shown to the user in other parts of the  #
+# page, or data that is used to configure how the page is displayed. For       #
+# example, the opens and closes dates are set in the frontmatter, but they     #
+# will never be shown to the user the way you type them in. Instead, they are  #
+# used to determine whether the posting is upcoming, open, or closed, and they #
+# will be turned into more human-friendly text when they are displayed.        #
 #                                                                              #
 # Within this frontmatter block, lines that begin with a hash (#) symbol are   #
 # comments. They do not contribute to the web page at all, but they are a nice #
