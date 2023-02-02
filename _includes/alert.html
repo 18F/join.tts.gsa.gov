@@ -1,0 +1,9 @@
+{% if include.heading and include.body %}
+{% assign type = include.type | default: "info" %}
+<div class="usa-alert usa-alert--{{ type }}">
+  <div class="usa-alert__body">
+    <h3 class="usa-alert__heading">{{ include.heading }}</h3>
+    <p class="usa-alert__text">{{ include.body | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  </div>
+</div>
+{% endif %}
