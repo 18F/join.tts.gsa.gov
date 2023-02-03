@@ -1,7 +1,7 @@
 ---
 title:  Login.gov Security Engineer Tech Expert -  Security Operations   
 permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-secops/
-state: open
+state: closed
 job_post_type: usajobs
 opens: 'January 25, 2023'
 closes: 'Wednesday, February 1, 2023 at 11:59PM EDT'
