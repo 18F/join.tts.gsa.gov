@@ -14,8 +14,14 @@
 # Type your filename into that box.                                            #
 #                                                                              #
 # NOTE ABOUTE FILENAMES: Your filename should be descriptive about the job     #
-# posting that you're creating, and it MUST end with ".md". For example, if    #
-# you are creating a job for a content designer, you might choose names like:  #
+# posting that you're creating, and it MUST end with ".md". Don't stress out   #
+# about filenames too much, though. They are used for the URL, which can help  #
+# people make sure they're on the right page, but most users will probably not #
+# notice the URL. Instead, try to make it meaningful to you and others on the  #
+# Talent Team so you can find it easily in the future if you need to edit it.  #
+#                                                                              #
+# For example, if you are posting a job for a content designer, you might      #
+# choose names like:                                                           #
 #                                                                              #
 #    tts-content-designer-2023.md                                              #
 #    login-content-designer-2023.md                                            #
@@ -69,6 +75,12 @@ org: Login.gov
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
 # this post. Setting it here means you won't have to copy it over and over.
+#
+# These dates MUST be formatted as YYYY-MM-DD, where month and day are 2-digits.
+# If the month number or day of the month are less than 10, add a 0 to the
+# front (eg, May would be 05 instead of just 5). This is the only format the
+# site builder automatically understands. Anything else will not be understood
+# as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-01-03
 closes: 2023-02-06
@@ -88,11 +100,6 @@ closes: 2023-02-06
 #
 # If either opens or closes is empty, missing, or not a date, the position is
 # considered to be upcoming.
-#
-# These dates MUST be formatted as YYYY-MM-DD, where month and day are 2-digits.
-# If the month or day are less than 10, add a 0 to the front. This is called ISO
-# 8601 format, and it's one that the site builder automatically understands.
-# Anything else will not be understood as a date.
 
 # If the position can also close when the maximum number of applications are
 # received, include the maximum number of applications here. Remove this line
@@ -124,6 +131,11 @@ gs:
 # The information you put here will be used to automatically pull salary range
 # information. Each GS level listed here will be shown in the salary range
 # table. GS grades will be listed in ascending order.
+#
+# ⚠️⚠️⚠️ IMPORTANT NOTE: The automatic salary ranges are based on 100% remote
+# positions and use the lowest and highest locality areas. If this position is
+# not 100% remote, you will need to delete the automatic salary range and input
+# it yourself down below. Look for 💰💰💰 to indicate where to do that.
 #
 # The salary range data is stored in this file:
 #
@@ -215,10 +227,12 @@ says {% include job/status_alert.html %}
 
 ## Opportunity overview
 
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 content goes here
 
 ## Role summary
 
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 content goes here
 
 ## Key objectives
@@ -236,19 +250,50 @@ content in its place.
 ## Basic information
 
 **Location:**
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 Virtual (100% Remote)
 
 **Salary Range:**
 
 {% comment ------------------------------------------------------------------ %}
+💰💰💰
 The salary range for the job can be populated automatically based on the GS
 levels this posting is advertised at. For each GS level, the template will show
-the minimum and maximum possible salary for that GS level. If you need to
-customize how the salary is displayed, delete the line below that says
-{% include job/salary_range.html %} and put in your custom content.
+the minimum and maximum possible salary for that GS level, based on the lowest
+and highest locality rates.
+
+💰💰💰
+If this position is not remote and has geographic restrictions, you can instead
+write your salary ranges below to have them formatted into a salary range table.
+To do that, update the lines below the next set of red triangles to include the
+minimum and maximum salary for each GS level that the position is advertised at,
+in order from lowest GS level to highest.
+
+For example, if the position is advertised at GS-14 and GS-15 and the position
+location is only Washington, DC, then (using 2023 pay rates):
+
+Minimums:
+  GS-14 Step 1: $132,368
+  GS-15 Step 1: $172,075
+
+Maximums:
+  GS-14 Step 10: $155,700
+  GS-15 Step 10: $183,500
+
+So you would update the lines to look like this, with values ordered by GS level
+and separated by semicolons and inside the quotation marks:
+
+    {% assign min_ranges = "$132,368; $155,700" %}
+    {% assign max_ranges = "$172,075; $183,500" %}
+
+To use the autoomatic salary ranges, leave the lines as-is.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/salary_range.html %}
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
+{% assign min_ranges = "" %}
+{% assign max_ranges = "" %}
+
+{% include job/salary_range.html min=min_ranges max=max_ranges %}
 
 Your salary, including base and locality, will be determined upon selection,
 dependent on your actual duty location.
@@ -357,13 +402,6 @@ Maybe an alert for special cases?
 
 Submit a complete online application prior to {% include job/close_date.html %}.
 Please fill out all applicable fields.
-
-{% comment ------------------------------------------------------------------ %}
-The "Click here to apply" button is automatically populated with the application
-link provided at the top of the document. It is formatted so that it conforms to
-USWDS. If you don't want to use the standard button, delete the line below that
-says {% include job/apply_button.html %} and put in your custom content.
-{% endcomment --------------------------------------------------------------- %}
 
 {% include job/apply_button.html %}
 

@@ -16,6 +16,14 @@ module Jekyll
       end
       return "upcoming"
     end
+
+    def open_positions(positions)
+      return positions.select { |job| job_posting_status(job) == "open" }
+    end
+
+    def upcoming_positions(positions)
+      return positions.select { |job| job_posting_status(job) == "upcoming" }
+    end
   end
 end
 
