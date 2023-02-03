@@ -46,10 +46,10 @@
 # Markdown used by the website builder. You will see comments in that section  #
 # as well, but they will look like this:                                       #
 #                                                                              #
-#    {% comment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}#
+#    {% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}#
 #    The contents in between these two lines are comments and do not           #
 #    contribute to the web page.                                               #
-#    {% endcomment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦  %}#
+#    {% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  %}#
 #                                                                              #
 # It is safe to remove the Markdown comments as well.                          #
 #                                                                              #
@@ -58,12 +58,16 @@
 # This is the position title and the org that is doing the hiring. These will be
 # combined into the the first heading on the page and will be used as the link
 # text on the front page for upcoming and open positions.
+#🔻🔻🔻🔻🔻
 title: My test job
 org: Login.gov
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
 # this post. Setting it here means you won't have to copy it over and over.
+#🔻🔻🔻🔻🔻
+opens: 2023-01-03
+closes: 2023-02-06
 #
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
@@ -86,18 +90,21 @@ org: Login.gov
 # If the month or day are less than 10, add a 0 to the front. This is called ISO
 # 8601 format, and it's one that the site builder automatically understands.
 # Anything else will not be understood as a date.
-opens: 2023-01-03
-closes: 2023-02-06
 
 # If the position can also close when the maximum number of applications are
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
+#🔻🔻🔻🔻🔻
 max applications: 0
 
 # List out which GS levels this position is being advertised at. Put each GS
 # level on its own line, starting with two spaces, a dash, and another space
-# before the level number. For example, if a job is advertised at GS-13, GS-14,
-# and GS-15, it should look like this (without the # at the start):
+# before the level number.
+#🔻🔻🔻🔻🔻
+gs:
+  - 15
+# For example, if a job is advertised at GS-13, GS-14, and GS-15, it should look
+# like this (without the # at the start):
 #
 # gs:
 #   - 13
@@ -120,8 +127,6 @@ max applications: 0
 #   _data/pay_ranges.yml
 #
 # The data file will need to be updated each year to reflect any pay changes.
-gs:
-  - 15
 
 # List key objectives here. Key objectives and sub-bullets will be displayed in
 # the order they are listed here. You do not need to include key objective
@@ -138,6 +143,7 @@ gs:
 #
 # The placeholder information below shows an example of how to format the key
 # objectives:
+#🔻🔻🔻🔻🔻
 key objectives:
   - Implement the product vision and lead end-to-end product development
     - Lead a cross-functional team of researchers, designers, and engineers to
@@ -166,6 +172,7 @@ key objectives:
 # are TWO digits. If the month or day is less than 10, add a zero to the front.
 # The date is used to sort the info sessions on the page so they are shown
 # nearest to furthest. Only info sessions schedule for the future will be shown.
+#🔻🔻🔻🔻🔻
 info sessions:
   - link: https://www.eventbrite.com/e/us-digital-corps-deputy-director-info-session-tickets-519800426067
     date: 2023-02-03
@@ -174,25 +181,27 @@ info sessions:
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
+#🔻🔻🔻🔻🔻
 application link: https://usajobs.gov/job/apply/whatever
 
 # DO NOT CHANGE THESE TWO
 # Eventually both of these will be removed so they don't need to be set at all,
 # but for now, just leave them alone.
+#🔻🔻🔻🔻🔻
 permalink: test
 layout: new-blank
 
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
-{% comment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 If you want to include a closed/upcoming/open alert at the top of your page,
 leave the following line. The status of the position will be determined by the
 opens/closes dates at the top of this document
 
 If you do not want the closed/upcoming/open alert, delete the line below that
 says {% include job/status_alert.html %}
-{% endcomment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 
 {% include job/status_alert.html %}
 
@@ -206,13 +215,13 @@ content goes here
 
 ## Key objectives
 
-{% comment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 Key objectives are automatically converted from the information provided at the
 top of the page. The automatic conversion helps ensure that all of our postings
 are consistent. If you do not want to use the automatic template, delete the
 line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
-{% endcomment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 
 {% include job/key_objectives.html %}
 
@@ -223,13 +232,13 @@ Virtual (100% Remote)
 
 **Salary Range:**
 
-{% comment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 The salary range for the job can be populated automatically based on the GS
 levels this posting is advertised at. For each GS level, the template will show
 the minimum and maximum possible salary for that GS level. If you need to
 customize how the salary is displayed, delete the line below that says
 {% include job/salary_range.html %} and put in your custom content.
-{% endcomment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 
 {% include job/salary_range.html %}
 
@@ -334,19 +343,19 @@ lower GS-grade (or equivalent).  Specialized experience is defined as follows:
 
 ## How to Apply
 
-{% comment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% comment 🟦🟦🟦 FOR GREG 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
 Maybe an alert for special cases?
 {% endcomment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
 
 Submit a complete online application prior to {% include job/close_date.html %}.
 Please fill out all applicable fields.
 
-{% comment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 The "Click here to apply" button is automatically populated with the application
 link provided at the top of the document. It is formatted so that it conforms to
 USWDS. If you don't want to use the standard button, delete the line below that
 says {% include job/apply_button.html %} and put in your custom content.
-{% endcomment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
 
 {% include job/apply_button.html %}
 
