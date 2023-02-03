@@ -1,7 +1,7 @@
 ---
 title:  Login.gov Security Engineer Tech Expert - Purple Team 
 permalink: /join/performance-profiles/login.gov-security-engineer-tech-expert-purple-team/
-state: open
+state: closed
 job_post_type: usajobs
 opens: 'January 25, 2023'
 closes: 'Wednesday, February 1, 2023 at 11:59PM EDT'
