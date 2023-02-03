@@ -15,6 +15,8 @@ sidenav:
     href: /about-the-dha/
   - text: Rolling hiring
     href: /rolling-hiring/
+  - text: Frequently Asked Questions
+    href: /faq/
 ---
 
 Understanding every section of a federal job posting can help you prepare the
