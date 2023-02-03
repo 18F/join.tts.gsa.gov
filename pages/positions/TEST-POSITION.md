@@ -42,14 +42,18 @@
 # these comments when you are done, and it is also okay to leave them if they  #
 # might be helpful when editing the page later.                                #
 #                                                                              #
+# The parts you need to fill out are marked with five red triangles above them #
+# like this:                                                                   #
+#🔻🔻🔻🔻🔻                                                                   #
+#                                                                              #
 # After the frontmatter, the rest of the document is in a special version of   #
 # Markdown used by the website builder. You will see comments in that section  #
 # as well, but they will look like this:                                       #
 #                                                                              #
-#    {% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}#
+#    {% comment ----------------------------------------------------------- %} #
 #    The contents in between these two lines are comments and do not           #
 #    contribute to the web page.                                               #
-#    {% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  %}#
+#    {% endcomment -------------------------------------------------------- %} #
 #                                                                              #
 # It is safe to remove the Markdown comments as well.                          #
 #                                                                              #
@@ -68,7 +72,6 @@ org: Login.gov
 #🔻🔻🔻🔻🔻
 opens: 2023-01-03
 closes: 2023-02-06
-#
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -132,6 +135,10 @@ gs:
 # the order they are listed here. You do not need to include key objective
 # numbers. They will be added automatically.
 #
+# NOTE: This is just the information about key objectives. They will be included
+# in the page further down, so you will still have a chance to rearrange them
+# on the page if you want to!
+#
 # Each key objective starts on a new line. It starts with two spaces and a dash.
 # It does not need to include a number at the beginning. A key objective can be
 # spread across multiple lines if you want, just make sure the other lines are
@@ -194,14 +201,15 @@ layout: new-blank
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
-{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+{% comment ------------------------------------------------------------------ %}
 If you want to include a closed/upcoming/open alert at the top of your page,
 leave the following line. The status of the position will be determined by the
 opens/closes dates at the top of this document
 
 If you do not want the closed/upcoming/open alert, delete the line below that
 says {% include job/status_alert.html %}
-{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+🔻🔻🔻🔻🔻
+{% endcomment --------------------------------------------------------------- %}
 
 {% include job/status_alert.html %}
 
@@ -215,13 +223,13 @@ content goes here
 
 ## Key objectives
 
-{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+{% comment ------------------------------------------------------------------ %}
 Key objectives are automatically converted from the information provided at the
 top of the page. The automatic conversion helps ensure that all of our postings
 are consistent. If you do not want to use the automatic template, delete the
 line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
-{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+{% endcomment --------------------------------------------------------------- %}
 
 {% include job/key_objectives.html %}
 
@@ -232,13 +240,13 @@ Virtual (100% Remote)
 
 **Salary Range:**
 
-{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+{% comment ------------------------------------------------------------------ %}
 The salary range for the job can be populated automatically based on the GS
 levels this posting is advertised at. For each GS level, the template will show
 the minimum and maximum possible salary for that GS level. If you need to
 customize how the salary is displayed, delete the line below that says
 {% include job/salary_range.html %} and put in your custom content.
-{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+{% endcomment --------------------------------------------------------------- %}
 
 {% include job/salary_range.html %}
 
@@ -350,12 +358,12 @@ Maybe an alert for special cases?
 Submit a complete online application prior to {% include job/close_date.html %}.
 Please fill out all applicable fields.
 
-{% comment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+{% comment ------------------------------------------------------------------ %}
 The "Click here to apply" button is automatically populated with the application
 link provided at the top of the document. It is formatted so that it conforms to
 USWDS. If you don't want to use the standard button, delete the line below that
 says {% include job/apply_button.html %} and put in your custom content.
-{% endcomment ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ %}
+{% endcomment --------------------------------------------------------------- %}
 
 {% include job/apply_button.html %}
 
