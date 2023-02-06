@@ -15,6 +15,8 @@ sidenav:
     href: /about-the-dha/
   - text: Rolling hiring
     href: /rolling-hiring/
+  - text: Frequently Asked Questions
+    href: /faq/
 
 subnav:
   - text: What to expect after submitting your resume

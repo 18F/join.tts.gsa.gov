@@ -4,6 +4,10 @@ module Jekyll
       today = Date.today
       sessions = []
 
+      if !post["info sessions"]
+        return sessions
+      end
+
       for session in post["info sessions"]
         if session["date"] >= today
           sessions.push(session)

@@ -13,6 +13,8 @@ sidenav:
     href: /compensation-and-benefits/
   - text: About the Direct Hire Authority
     href: /about-the-dha/
+  - text: Frequently Asked Questions
+    href: /faq/
 
 subnav:
   - text: How the DHA works
