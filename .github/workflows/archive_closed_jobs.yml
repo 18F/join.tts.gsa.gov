@@ -18,6 +18,7 @@ jobs:
       - name: build the site
         run: bundle exec jekyll build
       - uses: actions/github-script@v6
+        id: archive
         with:
           script: |
             const fs = require("fs/promises");
@@ -27,7 +28,6 @@ jobs:
             const closed = jobs.filter(({ status }) => status === "closed");
 
             for await (const job of closed) {
-              console.log(job);
               const pathname = new URL(job.url).pathname;
               const renderedPath = path.join("_site", pathname);
               const archivePath = path.join("archive", path.basename(pathname));
@@ -43,4 +43,10 @@ jobs:
 
               await fs.rm(path.join("positions", job.name));
             }
-      - run: git status
+
+            if(closed.length > 0) {
+              core.setOutput("archived", "true");
+            }
+
+      - if: ${{ steps.archive.output.archived === "true" }}
+        run: git status
