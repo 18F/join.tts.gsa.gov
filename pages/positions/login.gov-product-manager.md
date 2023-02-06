@@ -2,13 +2,13 @@
 layout: job-updated
 title: Login.gov Product Manager GS15
 permalink: /join/login-productmanagers15/
-state: upcoming
+state: open
 job_post_type: usajobs
 
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 role_name: Login.gov Product Manager GS15
-opens: 'TBD' 
-closes: 'TBD'
+opens: 'February 6, 2023 at 12:01 am EDT'
+closes: 'February 13, 2023 at 11:59 pm EDT'
 weeks_open: 'TBD'
 location: 'Virtual (100% Remote)'
 gs_level: '15'
@@ -20,13 +20,13 @@ contact_email: 'jointts@gsa.gov'
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-job_announcement_number: 'TBD'
+job_announcement_number: '23FASC169SVGDHA'
 pd_job_title: 'IT Specialist'
 num_vacancies: '100'
 series: '2210'
-apply_url: 'TBD'
-ohrm_contact_email: 'TBD'
-ohrm_contact_name: 'TBD'
+apply_url: 'https://www.usajobs.gov/job/704355400'
+ohrm_contact_email: 'tts-hrstaffers@gsa.gov'
+ohrm_contact_name: 'sylvia.velez-zuniga@gsa.gov'
 bargaining_unit: 'Non Bargaining Unit'
 promotion_potential: '15'
 supervisory_status: 'No'
@@ -173,4 +173,14 @@ To qualify, you must have one (1) year of specialized experience at the next low
 - Experience providing project or product leadership.
 - Experience with iterative or agile methodologies.
 - Experience leading cross-functional teams.
+
+## How To Apply
+
+Submit a complete online application prior to {{ page.closes | date: '%l:%M%P %Z ET on %A, %B %e, %Y' }}. Please fill out all applicable fields.
+
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="{{ page.apply_url }}">Click here to apply</a>
+</section>
+
+**Need Assistance in applying or have questions regarding this job opportunity, please email {{ page.contact_name }} at** [{{ page.contact_email }}](mailto:{{ page.contact_email }}).
 
