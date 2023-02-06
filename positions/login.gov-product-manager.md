@@ -194,10 +194,4 @@ lower GS-grade (or equivalent).  Specialized experience is defined as follows:
 
 ## How To Apply
 
-Submit a complete online application prior to {% include job/close_date.html %}.
-Please fill out all applicable fields.
-
 {% include job/apply_button.html %}
-
-**Need Assistance in applying or have questions regarding this job opportunity,
-please email the TTS Talent Team at** <jointts@gsa.gov>.

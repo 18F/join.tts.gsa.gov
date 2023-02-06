@@ -1,1 +1,13 @@
+{%- assign status = page | job_posting_status -%}
+{%- if status == "open" -%}
+Submit a complete online application prior to {% include job/close_date.html %}.
+Please fill out all applicable fields.
+
 [Click here to apply]({{ page["application link"] }}){: .usa-button .usa-button-secondary }
+
+**Need Assistance in applying or have questions regarding this job opportunity,
+please email the TTS Talent Team at** <jointts@gsa.gov>.
+{%- elsif status == "upcoming" %}
+If you would like to learn more or if you’d like to be notified when
+the application is open, please join our  <a href="{% link pages/newsletter.md %}">newsletter</a>.
+{%- endif -%}

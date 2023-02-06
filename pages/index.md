@@ -67,8 +67,7 @@ permalink: /
           {% unless job.path contains 'template' %}
           {% unless job.path contains 'performance-profiles' %}
           <li>
-            <a href="{{ site.baseurl }}{{ job.permalink }}">{{ job.org }}: {{ job.title }}</a>
-            (Open now through {{ job.closes | human_friendly }})
+            <a href="{{ site.baseurl }}{{ job.url }}">{{ job.org }}: {{ job.title }}</a>
           </li>
           {% endunless %}
           {% endunless %}
