@@ -4,29 +4,25 @@ layout: raw
 ---
 {%- assign list = "" | split: "," -%}
 {%- for page in site.pages -%}
-{%- assign bits = page["path"] | split: "/" -%}
-{%- if bits[0] == "positions" -%}
-{%- assign item =  page["name"] | append: "^" | append: page["title"] | split: "^" -%}
-{%- assign list = list | push: page -%}
-{%- endif -%}
+  {%- assign bits = page["path"] | split: "/" -%}
+  {%- if bits[0] == "positions" -%}
+    {%- assign list = list | push: page -%}
+  {%- endif -%}
 {%- endfor -%}
 
 [
-{%- for item in list -%}
-  {%- assign name = item["name"] | replace: ".md" -%}
-  {%- if item["permalink"] -%}
-    {%- assign name = item["permalink"] | split: "/" | shift | shift | join: "/" -%}
-  {%- endif -%}
+{%- for item in list %}
   {
     "url": "{{ site.url }}{{ item["url"] }}",
     "title": "{{ item["title"] }}",
-    {%- if item["org"] -%}
+    {%- if item["org"] %}
     "org": "{{ item["org"] }}",
-    {%- endif -%}
-    "status": "{{ item | job_posting_status }}"
+    {%- endif %}
+    "status": "{{ item | job_posting_status }}",
+    "name": "{{ item["name"] }}"
   }
   {%- if forloop.rindex > 1 -%}
     ,
   {%- endif -%}
-{%- endfor %}
+{%- endfor -%}
 ]

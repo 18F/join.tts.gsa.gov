@@ -17,4 +17,30 @@ jobs:
           bundler-cache: true
       - name: build the site
         run: bundle exec jekyll build
-      - run: cat _site/jobs.json
+      - uses: github-script@v6
+        with:
+          script: |
+            const fs = require("fs/promises");
+            const path = require("path");
+
+            const jobs = JSON.parse(await fs.readFile("_site/jobs.json"));
+            const closed = jobs.filter(({ status }) => status === "closed");
+
+            for await (const job of closed) {
+              console.log(job);
+              const pathname = new URL(job.url).pathname;
+              const renderedPath = path.join("_site", pathname);
+              const archivePath = path.join("archive", path.basename(pathname));
+
+              await fs.rename(renderedPath, archivePath);
+
+              const indexPath = path.join(archivePath, "index.html");
+              const content = await fs.readFile(indexPath, { encoding: "utf-8" });
+              const frontmatter = `---\ntitle: ${job.title}\norg: ${job.org}\nlayout: raw\n---\n`;
+              await fs.writeFile(indexPath, `${frontmatter}${content}`, {
+                encoding: "utf-8",
+              });
+
+              await fs.rm(path.join("positions", job.name));
+            }
+      - run: git status

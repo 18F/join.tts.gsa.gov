@@ -15,8 +15,8 @@ Take a look at [our list of open and upcoming positions »]({{ site.baseurl }}/)
 {%- assign list = list | push: page -%}
 {%- endif -%}
 {%- endfor -%}
-{%- assign list = list | sort: "title" -%}
+{%- assign list = list | sort: "title" | sort: "org" -%}
 
 {%- for page in list %}
-- [{{ page["title"] }}]({{ page["url"] }})
+- [{% if page["org"] %}{{ page["org"] }}: {% endif %}{{ page["title"] }}]({{ page["url"] }})
 {%- endfor %}
