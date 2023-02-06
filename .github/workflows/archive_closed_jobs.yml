@@ -17,7 +17,7 @@ jobs:
           bundler-cache: true
       - name: build the site
         run: bundle exec jekyll build
-      - uses: github-script@v6
+      - uses: actions/github-script@v6
         with:
           script: |
             const fs = require("fs/promises");
