@@ -52,10 +52,12 @@ jobs:
       - if: steps.archive.outputs.archived == 'true'
         name: commit the changes
         run: |
+          git config --global user.email "tts@gsa.gov"
+          git config --global user.name "TTSJobs Automatic Archiver"
           export BRANCH="archiver/$(date +"%s")"
           git checkout -b $BRANCH
           git add archive/ positions/
           git commit -m "archiving closed jobs"
           git push -u origin $BRANCH
-          gh pr create --base main --title "Archive closed jobs" --body "This pull request was created automatically. It is archiving job postings that are now closed."
+          gh pr create --base mgwalker/1007-markdown-template --title "Archive closed jobs" --body "This pull request was created automatically. It is archiving job postings that are now closed."
           gh pr merge $BRANCH --auto
