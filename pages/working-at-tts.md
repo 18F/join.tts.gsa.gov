@@ -1,6 +1,5 @@
 ---
 title: Working at TTS
-permalink: working-at-tts/
 
 sidenav:
   - text: Our offices

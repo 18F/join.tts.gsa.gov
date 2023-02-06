@@ -1,6 +1,5 @@
 ---
 title: Preparing your resume
-permalink: resume/
 
 sidenav:
   - text: Hiring process

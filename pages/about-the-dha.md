@@ -1,6 +1,5 @@
 ---
 title: About the Direct Hire Authority
-permalink: /about-the-dha/
 
 sidenav:
   - text: Hiring process

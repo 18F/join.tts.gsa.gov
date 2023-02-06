@@ -1,6 +1,5 @@
 ---
 title: Navigating the hiring process
-permalink: hiring-process/
 
 sidenav:
   - text: Hiring process
