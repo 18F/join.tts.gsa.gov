@@ -62,4 +62,4 @@ jobs:
           git commit -m "archiving closed jobs"
           git push -u origin $BRANCH
           gh pr create --base mgwalker/1007-markdown-template --title "Archive closed jobs" --body "This pull request was created automatically. It is archiving job postings that are now closed."
-          gh pr merge $BRANCH --auto
+          gh pr merge $BRANCH --auto --merge
