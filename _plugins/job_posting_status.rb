@@ -18,11 +18,17 @@ module Jekyll
     end
 
     def open_positions(positions)
-      return positions.select { |job| job_posting_status(job) == "open" }
+      if positions
+        return positions.select { |job| job["path"].start_with? "positions/" and job_posting_status(job) == "open" }
+      end
+      return []
     end
 
     def upcoming_positions(positions)
-      return positions.select { |job| job_posting_status(job) == "upcoming" }
+      if positions
+        return positions.select { |job| job["path"].start_with? "positions/" and job_posting_status(job) == "upcoming" }
+      end
+      return []
     end
   end
 end
