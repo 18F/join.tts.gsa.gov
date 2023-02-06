@@ -1,0 +1,20 @@
+name: archive closed jobs
+
+on: [push]
+
+jobs:
+  archive:
+    name: archive closed jobs
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+          bundler-cache: true
+      - name: build the site
+        run: bundle exec jekyll build
+      - run: cat _site/jobs.json
