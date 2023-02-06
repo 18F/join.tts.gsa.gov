@@ -61,7 +61,7 @@ defaults:
       path: pages
       type: pages
     values:
-      permalink: /:slug
+      permalink: /:basename
   - scope:
       path: positions
       type: pages
