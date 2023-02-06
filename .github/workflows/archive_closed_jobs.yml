@@ -42,11 +42,12 @@ jobs:
               });
 
               await fs.rm(path.join("positions", job.name));
+              console.log(job);
             }
 
             if(closed.length > 0) {
               core.setOutput("archived", "true");
             }
 
-      - if: steps.archive.output.archived == 'true'
+      - if: steps.archive.outputs.archived == 'true'
         run: git status
