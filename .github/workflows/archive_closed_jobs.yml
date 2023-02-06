@@ -50,4 +50,12 @@ jobs:
             }
 
       - if: steps.archive.outputs.archived == 'true'
-        run: git status
+        name: commit the changes
+        run: |
+          export BRANCH="archiver/$(date +"%s")"
+          git checkout -b $BRANCH
+          git add archive/ positions/
+          git commit -m "archiving closed jobs"
+          git push -u origin $BRANCH
+          gh pr create --base main --title "Archive closed jobs" --body "This pull request was created automatically. It is archiving job postings that are now closed."
+          gh pr merge $BRANCH --auto
