@@ -48,5 +48,5 @@ jobs:
               core.setOutput("archived", "true");
             }
 
-      - if: ${{ steps.archive.output.archived == "true" }}
+      - if: steps.archive.output.archived == 'true'
         run: git status
