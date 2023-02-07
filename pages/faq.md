@@ -72,7 +72,7 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 
 ## Security and Federal ID Card FAQ
 
-### How do I schedule my Personal Identifier Verification (PIV) card appointment?
+### How do I schedule my Personal Identity Verification (PIV) card appointment?
 - Once an offer has been extended and a candidate has filled out all required HR forms/documents, GSA’s HSPD12 Security Office will send you an email which includes a link to schedule an appointment to get your fingerprints taken.  Please note, you must [schedule an appointment](https://www.fedidcard.gov/) at a “shared service” or “GSA-only” center.
 
 ### Who do I contact regarding my PIV card (scheduling pick up, having it shipped to another location, etc)?
