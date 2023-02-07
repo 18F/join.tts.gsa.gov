@@ -150,5 +150,10 @@ Thank you for your interest in a position with TTS! Below you will find some of 
 - Yes. However, annual leave and sick leave balances can take a significant amount of time to transfer to GSA, depending on the speed of your previous payroll provider. 
 - To expedite the process, please send your most recent earnings and leave statement (this needs to be your last ELS, which you probably won’t receive until after you’ve already started with TTS) to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov). This will enable GSA’s payroll department to transfer your leave quicker. 
 
+### I am coming from another federal agency, will my current benefits selections transfer?
+- Yes, as long as your break from one federal job to the next is 3 days or less.
+  - Please note: transferring to a new agency (with 3 days or less break) is typically *not* considered a [qualifying life event](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/changes-you-can-make-outside-of-open-season/) that allows someone to change their benefits outside of Open Season, unless you are moving to a new location and become ineligible for your current health plan. 
+- If you have additional questions once you’re onboard, please reach out to your assigned [benefits specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
+
 ### I’m having trouble logging into my Electronic Official Personnel Folder (eOPF); what should I do?
 - You can login to your eOPF via [https://eopf.opm.gov/](https://eopf.opm.gov/). You need to be on VPN. If you are having trouble logging in, please email [eopfhelpdesk@opm.gov](mailto:eopfhelpdesk@opm.gov) or give them a call at 1-866-275-8518.
