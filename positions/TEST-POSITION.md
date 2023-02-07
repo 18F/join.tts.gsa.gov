@@ -292,7 +292,7 @@ Your salary, including base and locality, will be determined upon selection,
 dependent on your actual duty location.
 
 You can find more information about this in the [compensation and benefits
-section on our site](/compensation-and-benefits/).
+section on our site]({% link pages/compensation-and-benefits.md %}).
 
 For specific details on locality pay, please visit
 [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)
