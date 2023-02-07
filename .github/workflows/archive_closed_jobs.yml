@@ -45,7 +45,6 @@ jobs:
               });
 
               await fs.rm(path.join("positions", job.name));
-              console.log(job);
             }
 
             if(closed.length > 0) {

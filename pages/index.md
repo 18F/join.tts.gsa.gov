@@ -36,7 +36,7 @@ permalink: /
       </div>
     </div>
     <div class="grid-row grid-gap">
-      <div class="desktop:grid-col-8 usa-prose">
+      <div class="desktop:grid-col-8 usa-prose position-list">
         <h2 id="open-positions">Open positions</h2>
         {% if open.size > 0 %}
         <p>We are hiring and will be sharing upcoming jobs and open positions as they are available.</p>
@@ -44,7 +44,7 @@ permalink: /
         {% for job in open %}
           {% unless job.path contains 'template' %}
           {% unless job.path contains 'performance-profiles' %}
-          <li>
+          <li class="{% if job["info sessions"].size > 0 %}with-info-sessions{% endif %}">
             <a href="{{ site.baseurl }}{{ job.url }}">{{ job.org }}: {{ job.title }}</a>
             (Open now through {{ job.closes | human_friendly }})
             {%- include info_sessions.html job=job %}
