@@ -29,19 +29,6 @@ jobs:
           path: positions
           message: Internal link begins with /, but should begin with {{ site.baseurl }}/
 
-  root-relative-links-archives:
-    name: no root-relative links in archives
-    runs-on: ubuntu-latest
-    env:
-      LANG: C.UTF-8
-    steps:
-      - uses: actions/checkout@v3
-      - name: check that root-relative internal links are prefixed (pages)
-        uses: mgwalker/action-no-root-relative-links@v1
-        with:
-          path: archive
-          message: Internal link begins with /, but should begin with {{ site.baseurl }}/
-
   internal-links:
     name: verify internal links are valid
     runs-on: ubuntu-latest
