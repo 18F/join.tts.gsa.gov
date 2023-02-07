@@ -47,6 +47,7 @@ permalink: /
           <li>
             <a href="{{ site.baseurl }}{{ job.url }}">{{ job.org }}: {{ job.title }}</a>
             (Open now through {{ job.closes | human_friendly }})
+            {%- include info_sessions.html job=job %}
           </li>
           {% endunless %}
           {% endunless %}

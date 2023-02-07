@@ -5,6 +5,7 @@ org: Login.gov
 # INSTRUCTIONS UPCOMING: These fields are required for upcoming
 opens: 2023-02-06
 closes: 2023-02-13
+max applications: 400
 gs:
   - 15
 

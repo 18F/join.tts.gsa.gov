@@ -194,7 +194,13 @@ key objectives:
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: https://www.eventbrite.com/e/us-digital-corps-deputy-director-info-session-tickets-519800426067
-    date: 2023-02-03
+    date: 2023-02-13
+    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+  - link: https://www.eventbrite.com/e/us-digital-corps-deputy-director-info-session-tickets-519800426067
+    date: 2023-02-13
+    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+  - link: https://www.eventbrite.com/e/us-digital-corps-deputy-director-info-session-tickets-519800426067
+    date: 2023-02-13
     time: 1:30-2:30pm ET (10:30am -11:30am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
