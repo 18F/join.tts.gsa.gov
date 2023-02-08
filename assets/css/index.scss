@@ -144,3 +144,43 @@ $theme-color-accent-cool-lighter: #e1f3f8;
     border-color: #d9e8f6;
   }
 }
+
+aside.in-page-nav {
+  position: sticky;
+  top: 2rem;
+  margin-top: 2rem;
+
+  h1 {
+    font-size: 1rem;
+    line-height: 1.4;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    padding: 0;
+  }
+
+  ul {
+    margin-bottom: 0;
+    margin-top: 0;
+    list-style-type: none;
+    border-left: 1px solid rgba(27, 27, 27, 0.25);
+    padding: 0;
+
+    li {
+      margin-bottom: 0;
+      font-size: 1rem;
+      line-height: 1.2;
+      border: none;
+      font-weight: bold;
+      position: relative;
+      box-sizing: inherit;
+      padding: 0.5rem 1rem;
+
+      a {
+        color: #005ea2;
+
+        text-decoration: none;
+      }
+    }
+  }
+}
