@@ -3,7 +3,7 @@ name: archive closed jobs
 on:
   push:
     branches:
-      - asdfasdfksjagdlhasdghasdflkj
+      - mgwalker/1007-markdown-template
 
 jobs:
   archive:
@@ -18,12 +18,31 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
+      
+      # We need to build the site first because that will produce the JSON file
+      # we need as well as the rendered jobs pages that we might need to add to
+      # the archive.
       - name: build the site
         run: bundle exec jekyll build
+
       - uses: actions/github-script@v6
         id: archive
         with:
           script: |
+            // The jobs.json file is created by Jekyll during the build. It
+            // contains a list of all the jobs currently in the /positions
+            // folders. The jobs are structued like this:
+            //
+            // {
+            //    url: "full url to the published page",
+            //    title: "the title of the job",
+            //    org: "the hiring org, if any (e.g., 18F, Login.gov, etc.)",
+            //    status: "(upcoming | open | closed)",
+            //    name: "the filename of the source file in /positions"
+            // }
+            //
+            // We want to find the closed jobs and move them into the archives.
+
             const fs = require("fs/promises");
             const path = require("path");
 
@@ -31,26 +50,55 @@ jobs:
             const closed = jobs.filter(({ status }) => status === "closed");
 
             for await (const job of closed) {
+              // From the URL, derive the filesystem path. This makes a critical
+              // assumption: jobs DO NOT use the permalink feature of Jekyll. If
+              // a job uses a permalink that differs from where Jekyll would put
+              // it anyway, this will break. :(
+              //
+              // NOTE: Jobs from /positions are rendered to:
+              //   /join/[filename slug]/index.html
               const pathname = new URL(job.url).pathname;
               const renderedPath = path.join("_site", pathname);
+
+              // For its archival location, we just yoink out the last directory
+              // name from the URL. We're just going to move the whole directory
+              // rather than deal with moving index files and renaming them and
+              // all that. This is easier.
               const archivePath = path.join("archive", path.basename(pathname));
 
+              // Move the rendered job posting into the archive. We keep the
+              // rendered page instead of the source because we don't want the
+              // archival copy to change if our underlying templates or data
+              // change. What we rendered is what we want to preserve.
               await fs.rename(renderedPath, archivePath);
 
+              // In order for the past-positions page to make sense of the
+              // archived pages, the archived pages need frontmatter. Since we
+              // are archiving the renders, they don't have any frontmatter. But
+              // we can add it now! Here we open the index file from the
+              // archived position and read in its contents.
               const indexPath = path.join(archivePath, "index.html");
               const content = await fs.readFile(indexPath, { encoding: "utf-8" });
+
+              // Then we slather on some sweet, sweet frontmatter and save it
+              // back to disk.
               const frontmatter = `---\ntitle: ${job.title}\norg: ${job.org}\nlayout: raw\n---\n`;
               await fs.writeFile(indexPath, `${frontmatter}${content}`, {
                 encoding: "utf-8",
               });
 
+              // And finally, delete the closed job from the source.
               await fs.rm(path.join("positions", job.name));
             }
 
+            // If we closed anything, output a true so steps further 
             if(closed.length > 0) {
               core.setOutput("archived", "true");
+              core.setOutput("archived_jobs", closed.map(({ title }) => `- ${title}`).join("\n"))
             }
 
+      # If we changed anything, create a branch, commit it, push it, and open a
+      # pull request for the archival.
       - if: steps.archive.outputs.archived == 'true'
         name: commit the changes
         env:
@@ -63,5 +111,5 @@ jobs:
           git add archive/ positions/
           git commit -m "archiving closed jobs"
           git push -u origin $BRANCH
-          gh pr create --base main --title "Archive closed jobs" --body "This pull request was created automatically. It is archiving job postings that are now closed."
+          gh pr create --base mgwalker/1007-markdown-template --title "Archive closed jobs" --body "This pull request was created automatically. It is archiving job postings that are now closed. The pull request will merge automatically once it has been approved.\n\nApproving this pull request will move the following jobs into the archive:\n${{ steps.archive.outputs.archived_jobs }}"
           gh pr merge $BRANCH --auto --merge

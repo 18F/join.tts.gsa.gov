@@ -83,7 +83,7 @@ org: Login.gov
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-02-01
-closes: 2023-02-13
+closes: 2023-02-02
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
