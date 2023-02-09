@@ -1,15 +1,15 @@
 module Jekyll
   module InfoSessionStatus
-    def future_info_sessions(post)
+    def future_info_sessions(position)
       today = Date.today
       sessions = []
 
-      if !post["info sessions"]
+      if !position["info sessions"]
         return sessions
       end
 
-      for session in post["info sessions"]
-        if session["date"] >= today
+      for session in position["info sessions"]
+        if session["date"] and session["date"] >= today
           sessions.push(session)
         end
       end

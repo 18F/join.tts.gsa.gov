@@ -1,9 +1,9 @@
 module Jekyll
   module PostingStatus
-    def job_posting_status(post)
+    def job_posting_status(position)
       today = Date.today
-      opens = post['opens']
-      closes = post['closes']
+      opens = position['opens']
+      closes = position['closes']
 
       if !opens.kind_of? Date or !closes.kind_of? Date
         return "upcoming"
