@@ -163,13 +163,7 @@ For each job on your resume, provide:
 
 **BASIC REQUIREMENTS**  
 
-To qualify, your resume must demonstrate at least one (1) year of specialized experience at GS-14 level (or equivalent). Specialized experience is defined as:
-
-- Providing expert advice to generate and develop new theories of program components to explore state-of-the art in efficiency and effectiveness in areas of strategic people operations, including data-driven decision making, performance management, organizational compliance, team member development and training, and off boarding talent; 
-- Creating data dashboards to analyze and find trends in data by using pivot tables or other data modeling techniques; 
-- Knowledge of the design for work processes using agile frameworks or methodologies (e.g. scrum, kanban, lean startup, service design, or comparable); 
-- Writing custom google sheets formulas using vlookups, index, match, query, importrange, and if statements to improve the flow of data through a work-system; 
-- Developing and managing content for a static website using the markdown coding language and version control tools, such as GitHub, including creating pull requests, managing branches and merge commits to the live site.
+We will be sharing requirements shortly.
 
 
 ## How To Apply
