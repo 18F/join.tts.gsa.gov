@@ -121,7 +121,7 @@ Full time
 **Appointment Type:**
 Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date.
 
-This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS), Presidential Innovation Fellows (PIF).
+This position is located within the General Services Administration (GSA),  Federal Acquisition Service (FAS), Technology Transformation Service (TTS). 
 
 You will have access to many [benefits](http://www.gsa.gov/portal/category/26702) including:
 
