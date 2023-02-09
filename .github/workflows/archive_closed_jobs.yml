@@ -111,5 +111,9 @@ jobs:
           git add archive/ positions/
           git commit -m "archiving closed jobs"
           git push -u origin $BRANCH
-          gh pr create --base mgwalker/1007-markdown-template --title "Archive closed jobs" --body "This pull request was created automatically. It is archiving job postings that are now closed. The pull request will merge automatically once it has been approved.\n\nApproving this pull request will move the following jobs into the archive:\n${{ steps.archive.outputs.archived_jobs }}"
-          gh pr merge $BRANCH --auto --merge
+          echo "This pull request was created automatically. It is archiving job postings that are now closed. The pull request will merge automatically once it has been approved.\n\nApproving this pull request will move the following jobs into the archive:\n${{ steps.archive.outputs.archived_jobs }}" > PR_BODY
+          gh pr create \
+            --base mgwalker/1007-markdown-template \
+            --title "Archive closed jobs" \
+            --body-file PR_BODY
+
