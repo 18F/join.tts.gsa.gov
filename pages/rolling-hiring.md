@@ -1,6 +1,5 @@
 ---
 title: Interviewing with the Technology Transformation Services (TTS) Design Team
-permalink: rolling-hiring/
 
 sidenav:
   - text: Hiring process

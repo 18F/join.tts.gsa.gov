@@ -58,15 +58,16 @@ defaults:
       layout: page
       sidenav: primary
   - scope:
-      path: pages/positions
+      path: pages
       type: pages
     values:
-      layout: job
+      permalink: /:basename/
   - scope:
-      path: pages/performance-profiles
+      path: positions
       type: pages
     values:
       layout: job
+      permalink: /join/:basename/
 
 styles:
   - /assets/css/index.css

@@ -1,0 +1,10 @@
+{% if include.body %}
+{% assign type = include.type | default: "info" %}
+{% assign icon = include.icon | default: "true" %}
+<div class="usa-alert usa-alert--{{ type }}{%if icon != "true" %} usa-alert--no-icon{% endif %}">
+  <div class="usa-alert__body">
+    {% if include.heading %}<h3 class="usa-alert__heading">{{ include.heading }}</h3>{% endif %}
+    <p class="usa-alert__text">{{ include.body | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  </div>
+</div>
+{% endif %}

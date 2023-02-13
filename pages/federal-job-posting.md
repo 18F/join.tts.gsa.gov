@@ -1,6 +1,5 @@
 ---
 title: Reading a federal job posting
-permalink: federal-job-posting/
 
 sidenav:
   - text: Hiring process

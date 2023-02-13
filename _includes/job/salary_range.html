@@ -1,0 +1,15 @@
+The salary ranges for this position are:
+
+{% assign grades = page.gs | sort %}
+{% assign mins = include.min | split: ";" %}
+{% assign maxs = include.max | split: ";" %}
+
+{% if mins.size > 0 %}
+|GS grade|Step 1 (minimum)|Step 10 (maximum)|
+|---|---|---|{% for gs in grades %}
+|{% if gs == 20 %}Senior Executive Service{%else%}GS-{{ gs }}{%endif%}|**{{ mins[forloop.index0] | strip }}**|**{{ maxs[forloop.index0] | strip }}**|{% endfor %}
+{% else %}
+|GS grade|Step 1 (minimum)|Step 10 (maximum)|
+|---|---|---|{% for gs in grades %}
+|{% if gs == 20 %}Senior Executive Service{%else%}GS-{{ gs }}{%endif%}|**{{ site.data.pay_ranges[gs].low }}**|**{{ site.data.pay_ranges[gs].high }}**|{% endfor %}
+{% endif %}

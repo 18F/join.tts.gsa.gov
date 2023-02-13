@@ -1,6 +1,5 @@
 ---
 title: Understanding compensation and benefits
-permalink: compensation-and-benefits/
 
 sidenav:
   - text: Hiring process
