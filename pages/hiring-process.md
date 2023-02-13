@@ -1,6 +1,5 @@
 ---
 title: Navigating the hiring process
-permalink: hiring-process/
 
 sidenav:
   - text: Hiring process
@@ -57,7 +56,7 @@ one-on-one conversations with candidates about roles, but instead will welcome
 folks to attend one of our info sessions.
 
 Registration information about info sessions can be found on the [JoinTTS
-homepage]({{ site.baseurl }}).
+homepage]({% link pages/index.md %}).
 
 ## Application
 
@@ -193,7 +192,7 @@ for which you are applying.
 authority to fill the majority of roles at TTS. Applications for these roles are
 completed on [USAJOBS.gov](https://usajobs.gov). DHA positions can be either
 term-limited or full-time career positions. See [About the Direct Hire
-Authority]({{ site.baseurl }}/about-the-dha/) for more details.
+Authority]({% link pages/about-the-dha.md %}) for more details.
 
 **Competitive Service:** Applicants for all competitive service roles must
 complete the application process at USAJOBS.gov. Individuals go through a

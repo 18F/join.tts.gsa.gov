@@ -1,6 +1,5 @@
 ---
 title: TTS offices
-permalink: tts-offices/
 
 sidenav:
   - text: Our offices

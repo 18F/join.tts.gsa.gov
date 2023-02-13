@@ -1,0 +1,60 @@
+name: archive closed jobs
+
+on:
+  schedule:
+    # 1000 UTC will always be after midnight ET.
+    - cron: 0 10 * * *
+
+jobs:
+  archive:
+    name: archive closed jobs
+    runs-on: ubuntu-latest
+    env:
+      LANG: C.UTF-8
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+          bundler-cache: true
+      
+      # We need to build the site first because that will produce the JSON file
+      # we need as well as the rendered jobs pages that we might need to add to
+      # the archive.
+      - name: build the site
+        run: bundle exec jekyll build
+
+      # Hand it off to some Javascript to do the actual archival work... More
+      # comments in that script.
+      - uses: actions/github-script@v6
+        id: archive
+        with:
+          script: |
+            const archiver = require("./.github/workflows/archive_closed_jobs.js");
+            await archiver({ core });
+
+      # If we changed anything, create a branch, commit it, push it, and open a
+      # pull request for the archival.
+      #
+      # NOTE: The echo -e step near the end is necessary to capture newlines for
+      #   the pull request body. The gh CLI doesn't seem to like them by itself,
+      #   so put them in a file and use the file as the PR body.
+      - if: steps.archive.outputs.archived == 'true'
+        name: commit the changes
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.email "tts@gsa.gov"
+          git config --global user.name "TTSJobs Automatic Archiver"
+          export BRANCH="archiver/$(date +"%s")"
+          git checkout -b $BRANCH
+          git add archive/ positions/
+          git commit -m "archiving closed jobs"
+          git push -u origin $BRANCH
+          echo -e "This pull request was created automatically. It is archiving job postings that are now closed. The pull request will merge automatically once it has been approved.\n\nApproving this pull request will move the following jobs into the archive:\n${{ steps.archive.outputs.archived_jobs }}\n\nNote: These jobs are already shown as CLOSED on the TTSJobs site. This pull request is not necessary to mark these jobs as closed. It is just for moving them to the archive to help keep a tidy repo. 🙂" > PR_BODY
+          gh pr create \
+            --base mgwalker/1007-markdown-template \
+            --title "Archive closed jobs" \
+            --body-file PR_BODY
+

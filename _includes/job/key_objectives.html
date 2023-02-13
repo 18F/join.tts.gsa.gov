@@ -1,0 +1,7 @@
+{% for objective in page["key objectives"] %}
+{% assign bits = objective | split: " - " %}
+### {{ forloop.index }}. {{ bits[0] }}
+{% for bit in bits offset:1 %}
+  - {{ bit }}
+{% endfor %}
+{% endfor %}

@@ -1,6 +1,5 @@
 ---
 title: Get job alerts
-permalink: newsletter/
 layout: default
 ---
 <section class="usa-section">
