@@ -1,9 +1,16 @@
 {%- assign status = page | job_posting_status -%}
+{%- assign link = page["application link"] -%}
+{%- assign is_link = link | string_is_link -%}
+
 {%- if status == "open" -%}
 Submit a complete online application prior to {% include job/close_date.html %}.
 Please fill out all applicable fields.
 
-[Click here to apply]({{ page["application link"] }}){: .usa-button .usa-button-secondary }
+{% if is_link %}
+[Click here to apply]({{ link }}){: .usa-button .usa-button-secondary }
+{% else %}
+The link will be available shortly.
+{% endif %}
 
 **Need Assistance in applying or have questions regarding this job opportunity,
 please email the TTS Talent Team at** <jointts@gsa.gov>.
