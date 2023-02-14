@@ -1,28 +1,14 @@
 {%- assign future_sessions = include.job | future_info_sessions_for_job -%} {%-
-if future_sessions.size > 0 -%} {% assign id = job.title | slugify | append:
-job.opens | append: "-info-sessions" %}
+if future_sessions.size > 0 -%}
 
-<div class="usa-accordion usa-accordion--bordered">
-  <h4 class="usa-accordion__heading">
-    <button
-      type="button"
-      class="usa-accordion__button"
-      aria-expanded="false"
-      aria-controls="{{ id }}"
-    >
-      Upcoming information sessions for {{ job.title }}
-    </button>
-  </h4>
-  <div id="{{ id }}" class="usa-accordion__content usa-prose">
-    <ul>
-      {% for session in future_sessions %}
-      <li>
-        <a href="{{ session.link }}">{{ session.date | human_friendly }}</a
-        ><br />at {{ session.time }}
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+<h3>Upcoming info sessions</h3>
+<ul>
+  {% for session in future_sessions %}
+  <li>
+    <a href="{{ session.link }}">{{ session.date | human_friendly }}</a
+    ><br />at {{ session.time }}
+  </li>
+  {% endfor %}
+</ul>
 
 {%- endif -%}
