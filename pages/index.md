@@ -57,7 +57,7 @@ permalink: /
         </ul>
         {% else %}
           <p>
-            No open positions at this time. Check out our open roles or
+            No open positions at this time. Check out our upcoming roles or
             <a href="{% link pages/newsletter.md %}">sign up for job alerts</a>
             for future roles!
           </p>
