@@ -1,16 +1,16 @@
 ---
 title: "U.S. Digital Corps: Deputy Director GS15"
 
-opens: "TBD"
-closes: "TBD"
-max applications: 0
+opens: 2023-02-15
+closes: 2023-02-22
+max applications: 250
 
 gs:
   - 15
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-application_link:
+application_link: 
 ---
 
 {% include job/status_alert.html %}
