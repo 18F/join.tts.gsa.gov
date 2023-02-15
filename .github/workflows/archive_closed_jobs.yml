@@ -57,4 +57,5 @@ jobs:
             --base main \
             --title "Archive closed jobs" \
             --body-file PR_BODY
+          gh pr merge --auto --squash
 
