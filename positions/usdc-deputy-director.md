@@ -145,7 +145,7 @@ All applications will be reviewed by a panel of subject matter experts against a
 
 **BASIC REQUIREMENTS**
 
-To qualify for this role, you must have one year of specialized experience equivalent to the GS-{{ page.gs_level | minus: 1 }} level in the Federal service.
+To qualify for this role, you must have one year of specialized experience equivalent to the GS 14 level in the Federal service.
 
 Specialized Experience must have been obtained in an information technology environment. Specialized experience is defined as:
 
