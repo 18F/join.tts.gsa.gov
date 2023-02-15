@@ -26,7 +26,7 @@ platforms, and services.
 
 ## Role Summary:
 
-The U.S. Digital Corps [USDC](https://digitalcorps.gsa.gov/) is a two-year
+The U.S. Digital Corps ([USDC](https://digitalcorps.gsa.gov/)) is a two-year
 fellowship for early-career technologists to launch impactful careers in public
 service and create a more effective, equitable government. USDC pairs
 early-career, mission-driven software engineers, data scientists, product
