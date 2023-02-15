@@ -10,7 +10,7 @@ gs:
 
 # INSTRUCTIONS OPEN: These fields are required for open
 
-application_link: 
+application_link: https://www.usajobs.gov/job/706813500
 ---
 
 {% include job/status_alert.html %}
