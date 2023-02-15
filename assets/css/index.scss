@@ -133,15 +133,13 @@ $theme-color-accent-cool-lighter: #e1f3f8;
   }
 }
 
-.position-list.usa-prose > ul li.with-info-sessions {
-  margin-bottom: 1rem;
+.position-list.usa-prose {
+    &> ul li.with-info-sessions {
+    margin-bottom: 1rem;
 
-  button.usa-accordion__button {
-    background-color: #d9e8f6;
-  }
-
-  div.usa-accordion__content.usa-prose {
-    border-color: #d9e8f6;
+    h3 {
+      margin-bottom: 0;
+    }
   }
 }
 
