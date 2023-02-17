@@ -28,10 +28,6 @@
 # Info sessions in the past will not be displayed. It is still a good idea to
 # delete them from this file, though, to keep it tidy, but there's no rush.
 ################################################################################
-
-- link: https://www.eventbrite.com/e/tts-hiring-information-session-tickets-483362469157
-  date: 2023-02-16
-  time: 12:30-1:30pm ET (9:30-10:30am PT)
   
 - link: https://www.eventbrite.com/e/483389419767
   date: 2023-03-16
@@ -39,4 +35,8 @@
   
 - link: https://www.eventbrite.com/e/483396310377
   date: 2023-04-20
+  time: 12:30-1:30pm ET (9:30-10:30am PT)
+
+- link: https://www.eventbrite.com/e/483402187957
+  date: 2023-05-18
   time: 12:30-1:30pm ET (9:30-10:30am PT)
