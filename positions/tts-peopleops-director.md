@@ -22,7 +22,7 @@ which is a part of Federal Acquisition Services (FAS) in the General Services
 Administration (GSA). TTS applies modern methodologies and technologies to
 improve the lives of the public and public servants. We help agencies make their
 services more accessible, efficient, and effective with innovative products,
-platforms, and services.
+platforms, and services.sd
 
 ## Role Summary
 
