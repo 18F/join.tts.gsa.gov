@@ -21,7 +21,7 @@ make sure that any changes here are reflected there as well!
     {%- assign status = item | job_posting_status %}
     {%- if status == "open" %}
       {%- capture text -%}
-        This role is open for applications until {{ item["closes"] | human_friendly }}, at 11:59 pm ET{% if max > 0 %} OR {{ max }} applications have been received{% endif %}.
+        This role is open for applications until {{ item["closes"] | human_friendly }}, at 11:59 pm ET{% if max > 0 %} OR{{ max }} applications have been received{% endif %}.
       {%- endcapture -%}
     {%- endif -%}
 
