@@ -37,12 +37,12 @@ jobs:
       # Only do this next step if the archive step above did anything. Here, we:
       #
       # 1. Setup a git user because otherwise it won't work (_shrug_)
-      # 2. Create a unique branch for this archive instance
-      # 3. Commit the changes to the unique branch
-      # 4. Force push the local unique branch up to the archiver/auto branch.
-      #    If the archiver/auto branch does not exist, it will be created. If it
-      #    DOES exist, it will be overwritten. In this way, any existing,
-      #    unmerged archivals will roll up with each new archival.
+      # 2. Create a local archive/auto branch
+      # 3. Commit the changes to our local branch
+      # 4. Force push the local branch up to the archiver/auto branch. If the
+      #    archiver/auto branch does not exist, it will be created. If it DOES
+      #    exist, it will be overwritten. In this way, any existing, unmerged
+      #    archivals will roll up with each new archival.
       # 5. Write the body of the pull request into a local file. (This is the
       #    echo -e step.) This is necessary to capture newlines. The gh CLI
       #    doesn't seem to like them by itself, so put them in a file and use
