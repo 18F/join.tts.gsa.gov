@@ -31,8 +31,7 @@ jobs:
           bundler-cache: true
       
       # We need to build the site first because that will produce the JSON file
-      # we need as well as the rendered jobs pages that we might need to add to
-      # the archive.
+      # we need to copy over to the Handbook.
       - name: build the site
         run: bundle exec jekyll build
 
