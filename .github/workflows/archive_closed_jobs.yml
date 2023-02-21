@@ -60,15 +60,12 @@ jobs:
         run: |
           git config --global user.email "tts@gsa.gov"
           git config --global user.name "TTSJobs Automatic Archiver"
-          export BRANCH="archiver/$(date +"%s")"
-          git checkout -b $BRANCH
+          git checkout -b archiver/auto
           git add archive/ positions/
           git commit -m "archiving closed jobs"
           git push -f origin archiver/auto
           echo -e "This pull request was created automatically. It is archiving job postings that are now closed. The pull request will merge automatically once it has been approved.\n\nApproving this pull request will move the following jobs into the archive:\n${{ steps.archive.outputs.archived_jobs }}\n\nNote: These jobs are already shown as CLOSED on the TTSJobs site. This pull request is not necessary to mark these jobs as closed. It is just for moving them to the archive to help keep a tidy repo. 🙂" > PR_BODY
           gh pr create \
-            --base main \
-            --head "archiver/auto"
             --title "🛄 Archive closed jobs" \
             --label "archive"
             --body-file PR_BODY || true
