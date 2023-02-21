@@ -2,7 +2,7 @@
 title: "U.S. Digital Corps: Deputy Director GS15"
 
 opens: 2023-02-15
-closes: 2023-02-22
+closes: 2023-02-20
 max applications: 250
 
 gs:
