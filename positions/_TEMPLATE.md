@@ -195,23 +195,6 @@ says {% include job/status_alert.html %}
 
 {% include job/status_alert.html %}
 
-## Role summary
-
-{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-content goes here
-
-## Key objectives
-
-{% comment ------------------------------------------------------------------ %}
-Key objectives are automatically converted from the information provided at the
-top of the page. The automatic conversion helps ensure that all of our postings
-are consistent. If you do not want to use the automatic template, delete the
-line below that says {% include job/key_objectives.html %} and add your custom
-content in its place.
-{% endcomment --------------------------------------------------------------- %}
-
-{% include job/key_objectives.html %}
-
 ## Basic information
 
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
@@ -221,7 +204,12 @@ Island). Subject to background check. Full information available on USAJOBS.
 
 **Job title:** {{ page.title }}
 
-{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
+{% comment ------------------------------------------------------------------ %}
+The job title on USAJOBS is not always the same as the job title as we list it.
+To help applicants find the right jobs on USAJOBS, put the title as it appears
+on USAJOBS here.
+🔻🔻🔻🔻🔻
+{% endcomment --------------------------------------------------------------- %}
 **Official title in USAJOBS:**
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
@@ -242,9 +230,9 @@ specify the salary min and max. For example, if the position is advertised at
 GS-15 and the position location is only Washington, DC, then (using 2023 pay
 rates):
 
-Minimums:
+Minimum:
   GS-15 Step 1: $172,075
-Maximums:
+Maximum:
   GS-15 Step 10: $183,500
 
 So you would update the line below to look like this:
@@ -298,6 +286,23 @@ positions.
 
 Learn more about the benefits of working at [GSA](https://www.gsa.gov/portal/category/26702)
 and [TTS]({% link pages/compensation-and-benefits.md %}).
+
+## Role summary
+
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
+content goes here
+
+## Key objectives
+
+{% comment ------------------------------------------------------------------ %}
+Key objectives are automatically converted from the information provided at the
+top of the page. The automatic conversion helps ensure that all of our postings
+are consistent. If you do not want to use the automatic template, delete the
+line below that says {% include job/key_objectives.html %} and add your custom
+content in its place.
+{% endcomment --------------------------------------------------------------- %}
+
+{% include job/key_objectives.html %}
 
 ## Qualifications
 
