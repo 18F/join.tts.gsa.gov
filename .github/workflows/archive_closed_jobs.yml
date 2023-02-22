@@ -34,12 +34,25 @@ jobs:
             const archiver = require("./.github/workflows/archive_closed_jobs.js");
             await archiver({ core });
 
-      # If we changed anything, create a branch, commit it, push it, and open a
-      # pull request for the archival.
+      # Only do this next step if the archive step above did anything. Here, we:
       #
-      # NOTE: The echo -e step near the end is necessary to capture newlines for
-      #   the pull request body. The gh CLI doesn't seem to like them by itself,
-      #   so put them in a file and use the file as the PR body.
+      # 1. Setup a git user because otherwise it won't work (_shrug_)
+      # 2. Create a local archive/auto branch
+      # 3. Commit the changes to our local branch
+      # 4. Force push the local branch up to the archiver/auto branch. If the
+      #    archiver/auto branch does not exist, it will be created. If it DOES
+      #    exist, it will be overwritten. In this way, any existing, unmerged
+      #    archivals will roll up with each new archival.
+      # 5. Write the body of the pull request into a local file. (This is the
+      #    echo -e step.) This is necessary to capture newlines. The gh CLI
+      #    doesn't seem to like them by itself, so put them in a file and use
+      #    the file as the PR body.
+      # 6. Create a pull request from the archiver/auto branch into main. If a
+      #    PR already exists for that source/target, this command will fail, but
+      #    in that case we don't care because the PR will have been updated in 
+      #    step 4. So to keep this workflow from failing, we throw a "|| true"
+      #    on the end of the command. This ensures the command never fails.
+      # 7. Set the PR to auto-merge. This is just a convenience, but it's nice.
       - if: steps.archive.outputs.archived == 'true'
         name: commit the changes
         env:
@@ -47,16 +60,14 @@ jobs:
         run: |
           git config --global user.email "tts@gsa.gov"
           git config --global user.name "TTSJobs Automatic Archiver"
-          export BRANCH="archiver/$(date +"%s")"
-          git checkout -b $BRANCH
+          git checkout -b archiver/auto
           git add archive/ positions/
           git commit -m "archiving closed jobs"
-          git push -u origin $BRANCH
+          git push -f origin archiver/auto
           echo -e "This pull request was created automatically. It is archiving job postings that are now closed. The pull request will merge automatically once it has been approved.\n\nApproving this pull request will move the following jobs into the archive:\n${{ steps.archive.outputs.archived_jobs }}\n\nNote: These jobs are already shown as CLOSED on the TTSJobs site. This pull request is not necessary to mark these jobs as closed. It is just for moving them to the archive to help keep a tidy repo. 🙂" > PR_BODY
           gh pr create \
-            --base main \
             --title "🛄 Archive closed jobs" \
-            --label "archive"
-            --body-file PR_BODY
-          gh pr merge --auto --squash
+            --label "archive" \
+            --body-file PR_BODY || true
+          gh pr merge archiver/auto --auto --squash
 
