@@ -68,6 +68,6 @@ jobs:
           gh pr create \
             --title "🛄 Archive closed jobs" \
             --label "archive" \
-            --body-file PR_BODY || true \
+            --body-file PR_BODY || true
           gh pr merge archiver/auto --auto --squash
 
