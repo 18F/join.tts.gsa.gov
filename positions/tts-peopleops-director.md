@@ -5,8 +5,7 @@ opens: tbd
 closes: tbd
 max applications: 0
 
-gs:
-  - 15
+gs: 15
 
 # INSTRUCTIONS OPEN: These fields are required for open
 

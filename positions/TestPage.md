@@ -75,7 +75,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Hiring Org: Position title"
+title: "Content Update Test Position"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -87,8 +87,8 @@ title: "Hiring Org: Position title"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-02-01
-closes: 2023-02-22
+opens: 2024-02-01
+closes: 2024-02-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -148,16 +148,57 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Implement the product vision and lead end-to-end product development
-    - Lead a cross-functional team of researchers, designers, and engineers to
-    ensure product delivery.
-    - Identify and proactively monitor and address product risks.
-    - Work with the team to set and meet quality standards for any product you
-    build.
-  - Build institutional expertise around product management
-    - Share best practices and tools with your peers across the organization
-    - Share lessons learned from your work at Login.gov with peers and leaders
-    to help guide our approach to digital transformation.
+  - You will create more scalable and automated people operations processes,
+    tools and systems for TTS
+    - Oversee functions including TTS capacity management, performance
+      management, employee travel, events, training and conference request,
+      micropurchases, organizational audits (including OGE450), employee
+      onboarding and offboarding, telework and full time telework agreements,
+      career progression framework, timekeeping, and non recruit personnel
+      action requests.
+    - Analyze implementation of innovations in people operations operational
+      matters, ensuring that TTS continues to develop and employ best in
+      industry practices.
+    - Build automated tools to automate flow of talent data and work systems;
+      create custom tools in Google environment using custom scripts, formulas,
+      pivot tables (i.e. employee travel estimator, newcomer tracker and event
+      and training dashboards).
+    - Mitigate employee questions and confusion by creating custom process
+      guides to enable employees to more easily navigate complicated and complex
+      processes including creating and updating telework agreements, preparing
+      for employee offboarding and creating performance plans.
+
+  - You will provide coaching, mentorship, and professional development
+    opportunities; support employee wellbeing of People Operations team
+    - Create a work environment that fosters trust, respect, and collaboration,
+      since the best work comes from including diverse skill sets and
+      backgrounds on the project. Uphold TTS values of inclusion, integrity,
+      and impact.
+    - Steward the team’s professional development, including identification of
+      appropriate training, developmental assignments, and/or details.
+      Incorporate equity and inclusion into plans for staff development,
+      retention, training, speaking events, and experiential learning
+      opportunities.
+    - Encourage teamwork and a collaborative approach to problem solving.
+    - Promote transparency in how decisions are made. Regularly include others
+      in planning and decision-making.
+    - Provide coaching, mentoring, and sponsorship to others in the
+      organization, tailoring approaches to the needs of the individual. Work
+      with individuals to identify and develop their strengths, helping team
+      members pursue opportunities that enhance their talents.
+
+  - You will establish trusting relationships with the TTS team and develop a
+    deep understanding of people-related resources, policies, and best practices
+    that impact their team members
+    - Embody the spirit of customer service and genuinely engage with all
+      members of TTS.
+    - Maintain consistent lines of communication with leaders, guilds, and
+      affinity groups to understand the problems and challenges facing their
+      members and partners.
+    - Navigate complex bureaucracy, build coalitions, and lead stakeholders with
+      disparate views through change.
+    - Promote fairness and equity and provide guidance to stakeholders that
+      support this.
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -198,7 +239,22 @@ says {% include job/status_alert.html %}
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-content goes here
+The People Operations team at TTS are experts in people related policy,
+regulations and administrative requirements. They create and maintain the
+infrastructure and support that’s needed to meet the requirements of hiring and
+working within the federal government. Moreover, they seek to create an
+environment where our people can focus on the work that matters and make sure
+TTS employees have everything they need to do great work.
+
+As the People Operations Director, you will oversee areas of Business Operations
+including performance management, events and training management, travel,
+personnel action requests, leave and time management, purchasing, career
+progression frameworks and supervisor training and development. You will work
+with experts in these areas and ensure that they have the support that they need
+to deliver. You will help unblock roadblocks, interpret policy and lead
+strategically. Success in this role will require strong collaboration,
+experience navigating complex problems and systems and an ability to lead with
+trust.
 
 ## Key objectives
 
@@ -271,12 +327,10 @@ or for a salary calculator
 Please note the maximum salary available for the GS pay system is **$183,500**.
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Travel requirement:**
-Occasional travel may be required up to 10%-20% per year.
+**Travel requirement:** Occasional travel may be required up to 10%-20% per year.
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Work schedule:**
-Full time.
+**Work schedule:** Full time.
 
 {% comment ------------------------------------------------------------------ %}
 Pick one of the two paragraphs below, depending on whether the position is
@@ -325,7 +379,6 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
   user-centered design, planning tools or continuous delivery methodologies.
 - Experience crafting or creating product vision, strategy or road maps.
 - Experience working with cross-functional teams.
-
 
 ## How to Apply
 
