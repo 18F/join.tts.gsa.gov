@@ -7,7 +7,7 @@ on:
 
 jobs:
   update:
-    name: update TT Handbook
+    name: update TTS Handbook
     runs-on: ubuntu-latest
     env:
       LANG: C.UTF-8
