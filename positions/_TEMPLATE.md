@@ -246,17 +246,13 @@ To use the autoomatic salary ranges, leave the lines as-is.
 {% include job/salary_range.html min="" max="" %}
 
 Your salary, including base and locality, will be determined upon selection,
-dependent on your actual duty location.
-
-You can find more information in our [compensation and benefits
-section]({% link pages/compensation-and-benefits.md %}).
-
-For specific details on locality pay, please visit
-[OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)
+dependent on your actual duty location. Please note the maximum salary available
+for the GS pay system is $183,500. For specific details on locality pay, please
+visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)
 or for a salary calculator
-[OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$183,500**.
+[OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/). You can find more
+information in our
+[compensation and benefits section]({% link pages/compensation-and-benefits.md %}).
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Travel requirement:**
