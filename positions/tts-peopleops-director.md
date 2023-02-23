@@ -160,7 +160,7 @@ For each job on your resume, provide:
 - Experience using agile frameworks or iterative methodologies (e.g. scrum, kanban, lean startup, service design, etc.) to increase efficiencies or design a work process.
 - Experience translating an organization’s business strategy into an actionable people operations strategy with measurable results (i.e. process automation, increased scalability, smarter work systems, etc.)
 - Experience working with Human Capital Management Systems to create custom reports, dashboards and/or automated tools using scripts, formulas or pivot tables.
-- Experience advising executive-level stakeholders on people operations strategy across a remotely-distributed or bureaucratic technology organization.
+- Experience advising or partnering with executive-level stakeholders on people operations strategy across a remotely-distributed or bureaucratic technology organization.
 
 ## How To Apply
 
