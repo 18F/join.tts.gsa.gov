@@ -80,7 +80,7 @@ const runArchiver = async ({ core, fs = _fs, path = _path }) => {
     // back to disk.
     const frontmatter = [
       "---",
-      `title: ${job.title}`,
+      `title: "${job.title}"`,
       `layout: raw`,
       "---",
     ].join("\n");

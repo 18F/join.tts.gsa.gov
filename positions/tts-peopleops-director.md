@@ -7,21 +7,46 @@ max applications: 0
 
 gs: 15
 
-# INSTRUCTIONS OPEN: These fields are required for open
+appointment type: perm
 
 application link: "TBD"
 ---
 
 {% include job/status_alert.html %}
 
-## Opportunity Overview
+## Basic information
 
-This opportunity is located within Technology Transformation Services (TTS)
-which is a part of Federal Acquisition Services (FAS) in the General Services
-Administration (GSA). TTS applies modern methodologies and technologies to
-improve the lives of the public and public servants. We help agencies make their
-services more accessible, efficient, and effective with innovative products,
-platforms, and services.
+Open to U.S. citizens or nationals (residents of American Samoa and Swains
+Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
+
+**Supervisory status:** Supervisory
+
+**Job title:** {{ page.title }}
+
+{% comment ------------------------------------------------------------------ %}
+The job title on USAJOBS is not always the same as the job title as we list it.
+To help applicants find the right jobs on USAJOBS, put the title as it appears
+on USAJOBS here.
+🔻🔻🔻🔻🔻
+{% endcomment --------------------------------------------------------------- %}
+**Official title in USAJOBS:**
+
+**Number of vacancies:** 1
+
+**Location:** Anywhere in the U.S. (remote)
+
+{% include job/salary_range.html %}
+
+**Travel requirement:**
+Very occasional, minimal travel may be required.
+
+**Work schedule:**
+Full time.
+
+{% include job/appointment_type.html %}
+
+Learn more about the benefits of working at [GSA](https://www.gsa.gov/portal/category/26702)
+and [TTS]({% link pages/compensation-and-benefits.md %}).
 
 ## Role Summary
 
@@ -70,61 +95,6 @@ trust.
 - Navigate complex bureaucracy, build coalitions, and lead stakeholders with disparate views through change.
 - Promote fairness and equity and provide guidance to stakeholders that support this.
 
-## Basic Information
-
-**Location:**
-Virtual
-
-**Salary Range:**
-{% include job/salary_range.html %}
-
-Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
-
-You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
-
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for salary calculator [OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$183,500**
-
-**Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands)
-
-**Supervisory Status:**
-Supervisory
-
-**Job Title:**
-People Operations Director GS15
-
-**Number of vacancies:**
-1
-
-**Travel requirement:**
-Very occasional, minimal travel may be required.
-
-**Security clearance:**
-Public trust. Background investigation required.
-
-**Work schedule:**
-Full time
-
-**Appointment Type:**
-Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date.
-
-This position is located within the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
-
-You will have access to many [benefits](https://www.gsa.gov/portal/category/26702) including:
-
-- Health insurance (choose from a wide range of plans)
-- Life insurance coverage with several options
-- Sick leave and vacation time, including 10 paid holidays per year
-- Thrift Savings Plan (similar to a 401(k) plan)
-- Flexible work schedules and telework
-- Transit and child care subsidies
-- Training and development
-- Flexible spending accounts
-- Long-term care insurance
-- Training and development
-
 ## Key Requirements
 
 1. You must be a U.S. Citizen or National (residents of American Samoa and Swains Islands)
@@ -145,14 +115,14 @@ You will have access to many [benefits](https://www.gsa.gov/portal/category/2670
 
 Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
-Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
+Failure to provide required information may result in disqualification.
 
 For each job on your resume, provide:
 
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
 
-**BASIC REQUIREMENTS**
+**SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 - Experience supervising and leading a people operations team within a technology organization.
 - Experience creating or developing processes in areas of strategic people operations with at least 3 of the following: performance management, career progression, organizational audits, team member development and training, employee travel, time-keeping, conference requests, and/or onboarding/off-boarding talent.

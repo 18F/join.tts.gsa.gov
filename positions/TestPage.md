@@ -87,8 +87,8 @@ title: "Content Update Test Position"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-02-01
-closes: 2024-02-22
+opens: 2023-02-01
+closes: 2023-02-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,6 +111,12 @@ closes: 2024-02-22
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
 max applications: 0
+
+# Is this a permanent or term appointment? Use either "perm" or "term". This
+# will be used to fill in the appointment type on the page with consistent
+# language.
+#🔻🔻🔻🔻🔻
+appointment type: term
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
@@ -297,16 +303,12 @@ information in our
 **Work schedule:** Full time.
 
 {% comment ------------------------------------------------------------------ %}
-Pick one of the two paragraphs below, depending on whether the position is
-perm or term. Delete the one you don't need.
+The next {% include ... %} line will pull in the appropriate text based on the
+appointment type for this job. If you need to use different text, delete that
+line and write your custom text in its place.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Appointment type:**
-Permanent hire. This is not a term limited opportunity. Applicants who are
-selected for this opportunity will have career conditional status in the federal
-government for their first three years of employment and transition to career
-after three years. This means you will be a permanent federal employee with no
-expiration date.
+{% include job/appointment_type.html %}
 
 Learn more about the benefits of working at [GSA](https://www.gsa.gov/portal/category/26702)
 and [TTS]({% link pages/compensation-and-benefits.md %}).
