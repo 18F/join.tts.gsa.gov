@@ -13,10 +13,10 @@ permalink: /
 <section class="usa-hero padding-y-6">
   <div class="grid-container">
       <h1 class="usa-hero__heading--alt font-heading-l font-family-sans margin-top-0 tablet:margin-bottom-0">
-        Find your opportunity to make a difference
+        Find your opportunity to make a difference.
       </h1>
       <h2 class="usa-hero__heading margin-top-2 font-heading-2xl line-height-heading-4">
-        Help us <span class="usa-hero__heading--highlight">design and deliver a digital government</span> with and for the American public
+        Help us <span class="usa-hero__heading--highlight">design and deliver a digital government</span> with and for the American public.
       </h2>
   </div>
 </section>
