@@ -38,7 +38,7 @@ on USAJOBS here.
 {% include job/salary_range.html %}
 
 **Travel requirement:**
-Very occasional, minimal travel may be required.
+Occasional travel may be required; up to 10%-20% per year
 
 **Work schedule:**
 Full time.
