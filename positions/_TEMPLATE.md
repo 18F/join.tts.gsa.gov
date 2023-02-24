@@ -112,31 +112,18 @@ closes: 2023-02-22
 #🔻🔻🔻🔻🔻
 max applications: 0
 
-# List out which GS levels this position is being advertised at. Put each GS
-# level on its own line, starting with two spaces, a dash, and another space
-# before the level number.
-#
-# NOTE: For SES positions, set the level to 20.
-#
+# Is this a permanent or term appointment? Use either "perm" or "term". This
+# will be used to fill in the appointment type on the page with consistent
+# language.
 #🔻🔻🔻🔻🔻
-gs:
-  - 15
-# For example, if a job is advertised at GS-13, GS-14, and GS-15, it should look
-# like this (without the # at the start):
-#
-# gs:
-#   - 13
-#   - 14
-#   - 15
-#
-# If it is only advertised at GS-15, it should look like this:
-#
-# gs:
-#   - 15
-#
+appointment type: term
+
+# Put the GS grade this position is being advertised at. For SES positions, set
+# the level to 20.
+#🔻🔻🔻🔻🔻
+gs: 15
 # The information you put here will be used to automatically pull salary range
-# information. Each GS level listed here will be shown in the salary range
-# table. GS grades will be listed in ascending order.
+# information.
 #
 # ⚠️⚠️⚠️ IMPORTANT NOTE: The automatic salary ranges are based on 100% remote
 # positions and use the lowest and highest locality areas. If this position is
@@ -214,14 +201,89 @@ says {% include job/status_alert.html %}
 
 {% include job/status_alert.html %}
 
-## Opportunity overview
+## Basic information
+
+Open to U.S. citizens or nationals (residents of American Samoa and Swains
+Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
+
+**Supervisory status:** Supervisory
+
+**Job title:** {{ page.title }}
+
+{% comment ------------------------------------------------------------------ %}
+The job title on USAJOBS is not always the same as the job title as we list it.
+To help applicants find the right jobs on USAJOBS, put the title as it appears
+on USAJOBS here.
+🔻🔻🔻🔻🔻
+{% endcomment --------------------------------------------------------------- %}
+**Official title in USAJOBS:**
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
+**Number of vacancies:** 1
+
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
+**Location:** Anywhere in the U.S. (remote)
+
+{% comment ------------------------------------------------------------------ %}
+💰💰💰
+The salary range for the job can be populated automatically based on the GS
+grade this posting is advertised at, based on the lowest and highest locality
+rates.
+
+💰💰💰
+If this position is not remote and has geographic restrictions, you can instead
+specify the salary min and max. For example, if the position is advertised at
+GS-15 and the position location is only Washington, DC, then (using 2023 pay
+rates):
+
+Minimum:
+  GS-15 Step 1: $172,075
+Maximum:
+  GS-15 Step 10: $183,500
+
+So you would update the line below to look like this:
+
+    {% include job/salary_range.html min="$172,075" max="$183,500" %}
+
+To use the autoomatic salary ranges, leave the lines as-is.
+
+🔻🔻🔻🔻🔻
+{% endcomment --------------------------------------------------------------- %}
+{% include job/salary_range.html min="" max="" %}
+
+Your salary, including base and locality, will be determined upon selection,
+dependent on your actual duty location. Please note the maximum salary available
+for the GS pay system is $183,500. For specific details on locality pay, please
+visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)
+or for a salary calculator
+[OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/). You can find more
+information in our
+[compensation and benefits section]({% link pages/compensation-and-benefits.md %}).
+
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
+**Travel requirement:**
+Occasional travel may be required up to 10%-20% per year.
+
+{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
+**Work schedule:**
+Full time.
+
+{% comment ------------------------------------------------------------------ %}
+The next {% include ... %} line will pull in the appropriate text based on the
+appointment type for this job. If you need to use different text, delete that
+line and write your custom text in its place.
+🔻🔻🔻🔻🔻
+{% endcomment --------------------------------------------------------------- %}
+{% include job/appointment_type.html %}
+
+Learn more about the benefits of working at
+[GSA](https://www.gsa.gov/portal/category/26702) and
+[TTS]({% link pages/compensation-and-benefits.md %}).
 
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-content goes here
+Describe the role here.
 
 ## Key objectives
 
@@ -235,147 +297,23 @@ content in its place.
 
 {% include job/key_objectives.html %}
 
-## Basic information
-
-**Location:**
-{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Virtual (100% Remote)
-
-**Salary Range:**
-
-{% comment ------------------------------------------------------------------ %}
-💰💰💰
-The salary range for the job can be populated automatically based on the GS
-levels this posting is advertised at. For each GS level, the template will show
-the minimum and maximum possible salary for that GS level, based on the lowest
-and highest locality rates.
-
-💰💰💰
-If this position is not remote and has geographic restrictions, you can instead
-write your salary ranges below to have them formatted into a salary range table.
-To do that, update the lines below the next set of red triangles to include the
-minimum and maximum salary for each GS level that the position is advertised at,
-in order from lowest GS level to highest.
-
-For example, if the position is advertised at GS-14 and GS-15 and the position
-location is only Washington, DC, then (using 2023 pay rates):
-
-Minimums:
-GS-14 Step 1: $132,368
-GS-15 Step 1: $172,075
-
-Maximums:
-GS-14 Step 10: $155,700
-GS-15 Step 10: $183,500
-
-So you would update the lines to look like this, with values ordered by GS level
-and separated by semicolons and inside the quotation marks:
-
-    {% assign min_ranges = "$132,368; $155,700" %}
-    {% assign max_ranges = "$172,075; $183,500" %}
-
-To use the autoomatic salary ranges, leave the lines as-is.
-{% endcomment --------------------------------------------------------------- %}
-
-{% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-{% assign min_ranges = "" %}
-{% assign max_ranges = "" %}
-
-{% include job/salary_range.html min=min_ranges max=max_ranges %}
-
-Your salary, including base and locality, will be determined upon selection,
-dependent on your actual duty location.
-
-You can find more information about this in the [compensation and benefits
-section on our site]({% link pages/compensation-and-benefits.md %}).
-
-For specific details on locality pay, please visit
-[OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)
-or for a salary calculator
-[OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$183,500**.
-
-Note: You may not be eligible for the maximum salary as it is locality
-dependent. Please refer to the maximum pay for your locality.
-
-**Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains
-Islands).
-
-**Travel requirement:**
-Occasional travel may be required up to 10%-20% per year.
-
-**Security clearance:**
-Public trust. Background investigation required.
-
-**Work schedule:**
-Full time.
-
-**Appointment type:**
-This is a term limited appointment with the ability to extend for a total of
-eight years.
-
-**Job Family (Series):**
-2210 IT
-
-**Employee benefits:**
-[Learn more about the benefits we offer.](https://join.tts.gsa.gov/compensation-and-benefits/)
-
-- Health insurance (choose from a wide range of plans)
-- Life insurance coverage with several options
-- Sick leave and vacation time, including 10 paid holidays per year
-- Thrift Savings Plan (similar to a 401(k) plan)
-- Flexible work schedules and telework
-- Transit and child care subsidies
-- Training and development
-- Flexible spending accounts
-- Long-term care insurance
-- Training and development
-- Direct Deposit of salary check to financial organization required.
-
 ## Qualifications
 
 Provide as much detail as possible on your resume so that we can evaluate your
 previous experience. Follow our
 [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
-Qualification determinations can’t be made when resumes don’t include the
-required information. Failure to provide required information may result in
-disqualification.
+Failure to provide required information may result in disqualification.
 
 For each job on your resume, provide:
 
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
 
-All applications will be reviewed by a panel of subject matter experts against a
-scoring rubric created for this role. In order to properly be able to evaluate
-your previous experience, we recommend being as detailed as possible in your
-resume and following our general guidance on creating federal style resume.
-
-**BASIC REQUIREMENTS**
-
-Have IT-related experience demonstrating EACH of the four competencies listed below:
-
-- Attention to Detail - This skill is generally demonstrated by assignments
-  where the applicant investigates and evaluates “state of the art” technology
-  of the industry.
-- Customer Service - This skill is generally demonstrated by assignments where
-  the applicant confers with users to evaluate the effectiveness of, or identify
-  the need for, computer programs or management systems.
-- Oral Communication - This skill is generally demonstrated by assignments where
-  the applicant persuades others to take a particular course of action or to
-  accept findings, recommendations, changes, or alternative viewpoints.
-- Problem Solving - This skill is generally demonstrated by assignments where
-  the applicant identifies and accommodates technology and resource constraints;
-
-AND
+**SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
-
-**GS-15 qualifications:**
 
 - Experience leading the development, delivery or integration of highly complex
   digital products or services.
@@ -386,10 +324,7 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 - Experience crafting or creating product vision, strategy or road maps.
 - Experience working with cross-functional teams.
 
-## How to Apply
 
-{% comment 🟦🟦🟦 FOR GREG 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
-Maybe an alert for special cases?
-{% endcomment 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 %}
+## How to Apply
 
 {% include job/apply_button.html %}

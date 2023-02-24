@@ -9,17 +9,11 @@
   %}
 {% elsif state == "upcoming" %}
   {% capture body %}
-  We will soon be accepting applications for this position.
-  {% if open == 0 %}
-  The opening date for this position has not yet been determined.
-  {% else %}
-  We expect to begin taking applications on {% include job/open_date.html %}.
-  {% endif %}
-  If you would like to learn more or if you'd like to be notified when the application is open, please <a href="https://join.tts.gsa.gov/newsletter/">join our mailing list</a>.
+  <a href="{% link pages/newsletter.md %}">Get notified</a> when this position opens.
   {% endcapture %}
   {% include alert.html
     type="info"
-    heading="Upcoming role"
+    heading="Coming soon"
     body=body
   %}
 {% elsif state == "open" %}

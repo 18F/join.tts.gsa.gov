@@ -13,12 +13,16 @@ make sure that any changes here are reflected there as well!
 {%- for page in site.pages -%}
 {%- assign bits = page["path"] | split: "/" -%}
 {%- if bits[0] == "positions" -%}
-  {%- assign list = list | push: page -%}
+  {%- assign status = page | job_posting_status -%}
+  {%- if status != "closed" -%}
+    {%- assign list = list | push: page -%}
+  {%- endif -%}
 {%- endif -%} {%- endfor -%}
 [
   {% for item in list %}
     {%- assign max = item["max applications"] | plus: 0 -%}
     {%- assign status = item | job_posting_status %}
+    {%- assign text = "" -%}
     {%- if status == "open" %}
       {%- capture text -%}
         This role is open for applications until {{ item["closes"] | human_friendly }}, at 11:59 pm ET{% if max > 0 %} OR{{ max }} applications have been received{% endif %}.
@@ -28,7 +32,7 @@ make sure that any changes here are reflected there as well!
     {
       "url": "{{ site.url }}{{ item["url"] }}",
       "title": "{{ item["title"] }}",
-      "status": "{{ item | job_posting_status }}",
+      "status": "{{ status }}",
       "name": "{{ item["name"] }}",
       "opens": "{{ item["opens"] }}",
       "closes": "{{ item["closes"] }}",

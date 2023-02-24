@@ -1,15 +1,13 @@
-The salary ranges for this position are:
-
-{% assign grades = page.gs | sort %}
-{% assign mins = include.min | split: ";" %}
-{% assign maxs = include.max | split: ";" %}
-
-{% if mins.size > 0 %}
-|GS grade|Step 1 (minimum)|Step 10 (maximum)|
-|---|---|---|{% for gs in grades %}
-|{% if gs == 20 %}Senior Executive Service{%else%}GS-{{ gs }}{%endif%}|**{{ mins[forloop.index0] | strip }}**|**{{ maxs[forloop.index0] | strip }}**|{% endfor %}
-{% else %}
-|GS grade|Step 1 (minimum)|Step 10 (maximum)|
-|---|---|---|{% for gs in grades %}
-|{% if gs == 20 %}Senior Executive Service{%else%}GS-{{ gs }}{%endif%}|**{{ site.data.pay_ranges[gs].low }}**|**{{ site.data.pay_ranges[gs].high }}**|{% endfor %}
+{% assign min = include.min | subtract: 0 %}
+{% assign max = include.max | subtract: 0 %}
+{% assign grade = "GS-" | append: page.gs %}
+{% if page.gs == 20 %}
+{% assign grade = "Senior Executive Service (SES)" %}
 {% endif %}
+
+**Salary range:** {{ grade }}&nbsp;
+{%- if min and min != "" and max and max != "" -%}
+({{ min }} - {{ max }})
+{%- else -%}
+({{ site.data.pay_ranges[page.gs].low }} to {{ site.data.pay_ranges[page.gs].high }})
+{%- endif -%}

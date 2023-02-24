@@ -13,7 +13,7 @@ permalink: /
 <section class="usa-hero padding-y-6">
   <div class="grid-container">
       <h1 class="usa-hero__heading--alt font-heading-l font-family-sans margin-top-0 tablet:margin-bottom-0">
-        Do you want an opportunity to make a difference?
+        Find your opportunity to make a difference
       </h1>
       <h2 class="usa-hero__heading margin-top-2 font-heading-2xl line-height-heading-4">
         Help us <span class="usa-hero__heading--highlight">design and deliver a digital government</span> with and for the American public
@@ -29,7 +29,7 @@ permalink: /
         </p>
         <div class="usa-prose">
           <p>
-          The Technology Transformation Services (TTS) mission is to design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA).
+          The Technology Transformation Services' (TTS) mission is to design and deliver a digital government with and for the American public. TTS is part of the General Services Administration (GSA).
           </p>
           <p>
           We are accepting applications for the positions listed below. We also post upcoming positions. <a href="{% link pages/newsletter.md %}">Join our mailing list</a> to be notified when we post new jobs.
@@ -57,9 +57,8 @@ permalink: /
         </ul>
         {% else %}
           <p>
-            No open positions at this time. Check out our upcoming roles or
-            <a href="{% link pages/newsletter.md %}">sign up for job alerts</a>
-            for future roles!
+            No open positions at this time. Sign up for
+            <a href="{% link pages/newsletter.md %}">job alerts</a>!
           </p>
         {% endif %}
 
@@ -79,9 +78,8 @@ permalink: /
         </ul>
         {% else %}
           <p>
-            No upcoming positions at this time. Check out our open roles or
-            <a href="{% link pages/newsletter.md %}">sign up for job alerts</a>
-            for future roles!
+            No upcoming positions at this time. Sign up for
+            <a href="{% link pages/newsletter.md %}">job alerts</a>!
           </p>
         {% endif %}
         <h2> Other GSA Opportunities </h2>
@@ -101,13 +99,17 @@ permalink: /
         <div class="usa-summary-box">
           <div class="usa-summary-box__body">
             <h3 class="usa-summary-box__heading">
-              Register for a hiring information session
+              Find Out More
             </h3>
             <div class="usa-summary-box__text">
-              <p>We hold periodic info sessions to offer potential candidates an opportunity to learn more about working at TTS, available positions, and our application process. Register for a session below.</p>
+              <p>
+                Join us at one of our monthly online information sessions. Come
+                learn more about working at TTS, available positions, and our
+                application process. Register for a session below.
+              </p>
               <ul>
                 {% for session in sortedinfosessions %}
-                    <li><p><a target="_blank" href="{{ session.link }}">General Hiring Info Session</a><br />{{ session.date | human_friendly }} at {{ session.time }}</p></li>
+                    <li><p><a target="_blank" href="{{ session.link }}">{{ session.date | human_friendly }}</a><br/>{{ session.time }}</p></li>
                 {% endfor %}
               </ul>
             </div>

@@ -1,0 +1,12 @@
+{%- assign status = page | job_posting_status -%}
+{%- assign link = page["application link"] -%}
+{%- assign is_link = link | string_is_link -%}
+
+Full information
+{% if status == "upcoming" %} will be {% else %} is {% endif %}
+available on
+{% if status != "upcoming" and is_link == true-%}
+<a href="{{ link }}">USAJOBS</a>.
+{%- else -%}
+USAJOBS.
+{%- endif -%}

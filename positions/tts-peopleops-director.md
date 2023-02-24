@@ -5,109 +5,124 @@ opens: tbd
 closes: tbd
 max applications: 0
 
-gs:
-  - 15
+gs: 15
 
-# INSTRUCTIONS OPEN: These fields are required for open
+appointment type: perm
 
 application link: "TBD"
 ---
 
 {% include job/status_alert.html %}
 
-## Opportunity Overview
+## Basic information
 
-This opportunity is located within Technology Transformation Services (TTS)
-which is a part of Federal Acquisition Services (FAS) in the General Services
-Administration (GSA). TTS applies modern methodologies and technologies to
-improve the lives of the public and public servants. We help agencies make their
-services more accessible, efficient, and effective with innovative products,
-platforms, and services.
+Open to U.S. citizens or nationals (residents of American Samoa and Swains
+Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-## Role Summary
+**Supervisory status:** Supervisory
 
-The People Operations team at Technology Transformation Services (TTS) owns the relationship and experience with staff and supervisors for all things talent (other than hiring) starting when an employee comes on-board through an employee off-boarding. They are experts in people related policy, regulations and bureaucratic requirements.  They partner with GSA Office of Human Resources Management (OHRM) to  provide additional support that’s needed to meet the requirements of hiring and working within the federal government. Moreover, they seek to create an environment where our people can focus on the work that matters, one where our people spend as little time as possible thinking about the mundane details of working (compensation, benefits, moving, etc.) and make sure they have everything they need to do great work.
+**Job title:** {{ page.title }}
 
-As the People Operations Director, you will partner with GSA OHRM and provide strategic  guidance to areas of TTS Business Operations including performance management, events and training management, travel, personnel action requests, leave and time management, purchasing, career progression frameworks and supervisor training and development. You will work with team members in these areas and ensure that they have the support that they need to deliver. You will partner with GSA OHRM to help unblock roadblocks, interpret policy and lead strategically. Success in this role will require strong collaboration, experience navigating complex problems and systems and an ability to lead with trust.
+{% comment ------------------------------------------------------------------ %}
+The job title on USAJOBS is not always the same as the job title as we list it.
+To help applicants find the right jobs on USAJOBS, put the title as it appears
+on USAJOBS here.
+🔻🔻🔻🔻🔻
+{% endcomment --------------------------------------------------------------- %}
+**Official title in USAJOBS:** Supervisory People Operations Specialist
 
-## Key Objectives
+**Number of vacancies:** 1
 
-### Objective #1. You will create more scalable and automated people operations processes, tools and systems for TTS
+**Location:** Anywhere in the U.S. (remote)
 
-- Ensure management controls and compliance with GSA OHRM policy and oversee functions including TTS capacity management, performance management, employee travel, events, training and conference request, micropurchases, organizational audits (including OGE450), employee onboarding and offboarding, telework and full time telework agreements, career progression framework, timekeeping, and non recruit personnel action requests. 
-- Analyze implementation of innovations in people operations operational matters, ensuring that TTS continues to develop and employ best in industry practices. 
-- Build automated tools to automate flow of talent data and work systems; create custom tools in Google environment using custom scripts, formulas, pivot tables (i.e. employee travel estimator, newcomer tracker and event and training dashboards).
-- Mitigate employee questions and confusion by creating custom process guides to enable employees to more easily navigate complicated and complex processes including creating and updating telework agreements, preparing for employee offboarding and creating performance plans based on GSA OHRM recommendations.
-
-### Objective #2. You will provide coaching, mentorship, and professional development opportunities; support employee wellbeing of People Operations team
-
-- Create a work environment that fosters trust, respect, and collaboration, since the best work comes from including diverse skill sets and backgrounds on the project. Uphold TTS values of inclusion, integrity, and impact. 
-- Steward the team’s professional development, including identification of appropriate training, developmental assignments, and/or details. Incorporate equity and inclusion into plans for staff development, retention, training, speaking events, and experiential learning opportunities. 
-- Encourage teamwork and a collaborative approach to problem solving.
-- Promote transparency in how decisions are made. Regularly include others in planning and decision-making. 
-- Provide coaching, mentoring, and sponsorship to others in the organization, tailoring approaches to the needs of the individual. Work with individuals to identify and develop their strengths, helping team members pursue opportunities that enhance their talents.
-
-### Objective #3. You will establish trusting relationships with the TTS team and partner with GSA OHRM to develop a deep understanding of people-related resources, policies, and best practices that impact their team members
-
-- Embody the spirit of customer service and genuinely engage with all members of TTS.
-- Maintain consistent lines of communication with leaders, guilds, and affinity groups to understand the problems and challenges facing their members and partners.
-- Navigate complex bureaucracy, build coalitions, and lead stakeholders with disparate views through change.
-- Promote fairness and equity and provide guidance to stakeholders that support this.
-
-## Basic Information
-
-**Location:**
-Virtual
-
-**Salary Range:**
 {% include job/salary_range.html %}
-
-Your salary, including base and locality, will be determined upon selection, dependent on your actual duty location.
-
-You can find more information about this in the [compensation and benefits section on our site](https://join.tts.gsa.gov/compensation-and-benefits/).
-
-For specific details on locality pay, please visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or for salary calculator [OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/).
-
-Please note the maximum salary available for the GS pay system is **$183,500**
-
-**Who May Apply:**
-All United States citizens and nationals (residents of American Samoa and Swains Islands)
-
-**Supervisory Status:**
-Supervisory
-
-**Job Title:**
-People Operations Director GS15
-
-**Number of vacancies:**
-1
 
 **Travel requirement:**
 Very occasional, minimal travel may be required.
 
-**Security clearance:**
-Public trust. Background investigation required.
-
 **Work schedule:**
-Full time
+Full time.
 
-**Appointment Type:**
-Permanent hire. This is not a term limited opportunity. Applicants who are selected for this opportunity will have career conditional status in the federal government for their first three years of employment and transition to career after three years. This means you will be a permanent federal employee with no expiration date.
+{% include job/appointment_type.html %}
 
-This position is located within the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Service (TTS).
+Learn more about the benefits of working at [GSA](https://www.gsa.gov/portal/category/26702)
+and [TTS]({% link pages/compensation-and-benefits.md %}).
 
-You will have access to many [benefits](https://www.gsa.gov/portal/category/26702) including:
+## Role Summary
 
-- Health insurance (choose from a wide range of plans)
-- Life insurance coverage with several options
-- Sick leave and vacation time, including 10 paid holidays per year
-- Thrift Savings Plan (similar to a 401(k) plan)
-- Flexible work schedules and telework
-- Transit and child care subsidies
-- Training and development
-- Flexible spending accounts
-- Long-term care insurance
-- Training and development
+TThe People Operations team at Technology Transformation Services (TTS) owns the
+relationship and experience with staff and supervisors for all things talent
+(other than hiring) starting when an employee comes on-board through an employee
+off-boarding. They are experts in people related policy, regulations and
+bureaucratic requirements. They partner with GSA Office of Human Resources
+Management (OHRM) to provide additional support that’s needed to meet the
+requirements of hiring and working within the federal government. Moreover,
+they seek to create an environment where our people can focus on the work that
+matters, one where our people spend as little time as possible thinking about
+the mundane details of working (compensation, benefits, moving, etc.) and make
+sure they have everything they need to do great work.
+
+As the People Operations Director, you will partner with GSA OHRM and provide
+strategic guidance to areas of TTS Business Operations including performance
+management, events and training management, travel, personnel action requests,
+leave and time management, purchasing, career progression frameworks and
+supervisor training and development. You will work with team members in these
+areas and ensure that they have the support that they need to deliver. You will
+partner with GSA OHRM to help unblock roadblocks, interpret policy and lead
+strategically. Success in this role will require strong collaboration,
+experience navigating complex problems and systems and an ability to lead with
+trust.
+
+## Key Objectives
+
+### 1. You will create more scalable and automated people operations processes, tools and systems for TTS
+
+- Ensure management controls and compliance with GSA OHRM policy and oversee
+  functions including TTS capacity management, performance management, employee
+  travel, events, training and conference request, micropurchases,
+  organizational audits (including OGE450), employee onboarding and offboarding,
+  telework and full time telework agreements, career progression framework,
+  timekeeping, and non recruit personnel action requests. 
+- Analyze implementation of innovations in people operations operational
+  matters, ensuring that TTS continues to develop and employ best in industry
+  practices. 
+- Build automated tools to automate flow of talent data and work systems; create
+  custom tools in Google environment using custom scripts, formulas, pivot
+  tables (i.e. employee travel estimator, newcomer tracker and event and
+  training dashboards).
+- Mitigate employee questions and confusion by creating custom process guides to
+  enable employees to more easily navigate complicated and complex processes
+  including creating and updating telework agreements, preparing for employee
+  offboarding and creating performance plans based on GSA OHRM recommendations.
+
+### 2. You will provide coaching, mentorship, and professional development opportunities; support employee wellbeing of People Operations team
+
+- Create a work environment that fosters trust, respect, and collaboration,
+  since the best work comes from including diverse skill sets and backgrounds on
+  the project. Uphold TTS values of inclusion, integrity, and impact. 
+- Steward the team’s professional development, including identification of
+  appropriate training, developmental assignments, and/or details. Incorporate
+  equity and inclusion into plans for staff development, retention, training,
+  speaking events, and experiential learning opportunities. 
+- Encourage teamwork and a collaborative approach to problem solving.
+- Promote transparency in how decisions are made. Regularly include others in
+  planning and decision-making. 
+- Provide coaching, mentoring, and sponsorship to others in the organization,
+  tailoring approaches to the needs of the individual. Work with individuals to
+  identify and develop their strengths, helping team members pursue
+  opportunities that enhance their talents.
+
+### 3. You will establish trusting relationships with the TTS team and partner with GSA OHRM to develop a deep understanding of people-related resources, policies, and best practices that impact their team members
+
+- Embody the spirit of customer service and genuinely engage with all members of
+  TTS.
+- Maintain consistent lines of communication with leaders, guilds, and affinity
+  groups to understand the problems and challenges facing their members and
+  partners.
+- Navigate complex bureaucracy, build coalitions, and lead stakeholders with
+  disparate views through change.
+- Promote fairness and equity and provide guidance to stakeholders that support
+  this.
 
 ## Key Requirements
 
@@ -127,16 +142,17 @@ You will have access to many [benefits](https://www.gsa.gov/portal/category/2670
 
 ## Qualifications
 
-Provide as much detail as possible on your resume so that we can evaluate your previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
+Provide as much detail as possible on your resume so that we can evaluate your
+previous experience. Follow our [guidance on creating a federal style resume.](https://join.tts.gsa.gov/resume/)
 
-Qualification determinations can’t be made when resumes don’t include the required information. Failure to provide required information may result in disqualification.
+Failure to provide required information may result in disqualification.
 
 For each job on your resume, provide:
 
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
 
-**BASIC REQUIREMENTS**
+**SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 - Experience supervising and leading a people operations team within a technology organization.
 - Experience creating or developing processes in areas of strategic people operations with at least 3 of the following: performance management, career progression, organizational audits, team member development and training, employee travel, time-keeping, conference requests, and/or onboarding/off-boarding talent.

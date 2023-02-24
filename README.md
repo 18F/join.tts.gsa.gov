@@ -75,6 +75,49 @@ your custom job posting page.
   If you do not include `icon`, the alert
   icon will be displayed. You can turn off the icon by setting `icon="false"`.
 
+## API
+
+The Join TTS site has a [static API](https://join.tts.gsa.gov/jobs.json) that
+provides a list of upcoming and open jobs. The static API is updated whenever
+the site is rebuilt, which includes when jobs are added or updated and the
+nightly automatic rebuild. As a result, the static API always reflects the same
+information as the site.
+
+## Automations
+
+### Open and closed jobs
+
+The Join TTS site is automatically redeployed every night. As a result, jobs
+will automatically move from upcoming to open, and from open to closed, based on
+the `opens` and `closes` dates in the job. Once both values have been set, the
+job will go through the stages automatically. There is no need to manually
+update them.
+
+### Archived jobs
+
+Once a job has closed, it will also be automatically archived. Archived jobs are
+moved from the `/positions` folder into the `/archive` folder. A job is archived
+by copying the job's ***BUILT*** directory from the `_site/join/` directory into
+the `/archive` directory and adding this frontmatter:
+
+```
+---
+layout: raw
+title: "{{ the job title }}
+```
+
+Where `{{ the job title }}` is taken from the ***SOURCE*** file for the job. The
+automatic procedure runs every night and creates a
+[pull request](/18F/join.tts.gsa.gov/pulls) to make the archival permanent. It
+is not necessary to archive a job for it to be removed from the front page.
+Archival is just a tool to help keep the repo tidy and easy to navigate.
+
+> **IMPORTANT NOTE:** The **BUILT** job is used for the archive so we can be
+> certain it won't change in the future if we need to change the behavior of
+> layouts, includes, or other components of the site. Archiving the original
+> source could result in archives having different information in the future
+> than they had at the time the position was posted.
+
 ## Development
 
 ### Running locally
@@ -166,8 +209,13 @@ input from the `page` variable.
 - **job/apply_button.html** - Using the job's opens/closes dates and application
   link, displays a button linking candidates to the actual application page if
   the job is open. Otherwise displays a link to subscribe to the newsletter.
+- **job/appointment_type.html** - Displays appropriate text according to the
+  job's appointment type.
 - **job/close_date.html** - Using the job's closes date, displays a nicely
   formatted date, with `at 11:59pm ET` appended to the end.
+- **job/full_info_on_usajobs.html** - Displays text indicating that the full
+  information for this job is or will be available on USAJOBS. If there is an
+  application link for the job, it will be included in this text.
 - **job/info_sessions.html** Using the job's info sessions data, if any, to
   display the upcoming info sessions for the job.
 - **job/key_objectives.html** Using the job's key objectives, if any, to display
@@ -181,8 +229,8 @@ input from the `page` variable.
 
   ```liquid
   {% include job/salary_range.html
-       min_ranges="$10;$20;$30"
-       max_ranges="$15; $24; $33"
+       min="$10"
+       max="$15"
   %}
   ```
 
@@ -190,10 +238,6 @@ input from the `page` variable.
   step 1 and step 10, respectively, of the lowest and highest locality areas,
   also respectively. This is taken from the `_data/pay_ranges.yml` file and must
   be updated whenever GS pay tables are modified.
-
-  If the arguments are provided, they must be semicolon-delimited and they must
-  be ordered from lowest GS grade the job is to highest. Extraneous whitespace
-  will be removed, so feel free to use whitespace for readability!
 
 #### Filters
 
@@ -218,9 +262,16 @@ input from the `page` variable.
   posting frontmatter. If either is missing or not a valid date, the job is
   `upcoming`.
 
-- `future_info_sessions_for_job` - this filter can be applied to a single job posting
-  and will return a list of info sessions for the job that are either today or
-  in the future.
+- `future_info_sessions` - this filter can be applied to a list of info sessions
+  (such as general info sessions) and will return a list of info sessions that
+  are either today or in the future.
+
+- `future_info_sessions_for_job` - this filter can be applied to a single job
+  posting and will return a list of info sessions for the job that are either
+  today or in the future.
+
+- `string_is_link` - this filter can be applied to a text string and will return
+  `true` if the string begins with `http://` or `https://`, or `false` otherwise.
 
 ## Public domain
 
