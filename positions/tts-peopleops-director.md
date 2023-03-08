@@ -2,7 +2,7 @@
 title: "TTS: People Operations Director GS15"
 
 opens: tbd
-closes: tbd
+closes: 2023-03-07
 max applications: 0
 
 gs: 15
