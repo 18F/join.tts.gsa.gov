@@ -165,6 +165,25 @@ key objectives:
     - Support supervisors in the onboarding of new chapter staff.
     - Ensure continued technical excellence in your chapter.
     - Steward the chapter’s professional development by identifying appropriate training and  developmental assignments. Incorporate equity, inclusion, and accessibility into training, speaking events, and experiential learning opportunities. Assist supervisors in tailoring approaches to individuals’ needs.
+  -  Provide strategic leadership
+    - Set the vision for the 18F chapter, aligning with 18F, TTS and GSA vision, goals, and values.
+    - Represent the chapter in the 18F Leadership Team and communicate information back to the chapter. -     - Convey the needs, skills and capacity of the chapter to the broader organization. Promote transparency in how decisions are made. Regularly include others in planning and decision-making.
+    - Lead strategic 18F initiatives as determined by the leadership team and 18F director.
+    - Coordinate with other members of the 18F leadership team to develop guidance and organizational communication around hiring, business development, project support, performance evaluation, and more.
+    - Collect feedback to discuss successes and challenges, and share patterns and key feedback with the rest of 18F leadership.
+    - Craft strategic, data-driven hiring plans for the chapter that align with 18F’s hiring strategy and trends in partner needs. Include sourcing strategies and interview practices to ensure a diverse candidate pool and inclusive hiring process.  Ensure Equal Employment Opportunity (EEO) regulations are followed throughout recruitment, hiring, and selection processes.
+    - Set strategy for knowledge management such that key information is carried forward and key skills are learned, to ensure chapter resilience.
+    - Create a work environment that fosters trust, respect, and collaboration. Uphold TTS values of inclusion, integrity, and impact.
+    - Identify power dynamics; respond thoughtfully and create space for less dominant voices.
+    - Promote collective success and leadership growth among the chapter members. Plan and ensure there is time for collaborative decision-making; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
+    - Continue to iterate and improve on 18F and chapter processes.
+Research, develop, and encourage best practices in the field of  management, and create space for experimentation and iteration.
+  -  Build stronger 18F practices
+    - As part of 18F leadership, continue to align 18F on shared processes, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
+  - Help 18F project teams tell stories that document and demonstrate our expertise and impact. 
+  - As part of 18F leadership, provide oversight of partner engagements and help members of the chapter contribute meaningfully to partner and user success.
+  - Collaborate with the 18F Leadership Team and staffing leads to ensure projects are staffed with chapter expertise to best meet the needs of partners as well as to support skills growth of team members.
+
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -215,10 +234,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** TBD
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 1
+**Number of vacancies:** 2
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -282,7 +301,12 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Describe the role here.
+18F is an office of federal employees within the General Services Administration (GSA) that collaborates with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 18F is part of the Technology Transformation Services, which is within the Federal Acquisition Service.
+18F envisions a country whose government consistently offers digital services that instill pride and trust, meet user needs, are secure, and are delivered quickly and at reasonable cost.
+We develop partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. Through our work together, we also aim to strengthen government technology practices in ways that last beyond our formal partnerships. We effect change by practicing user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open. 
+
+The 18F Director leads the 18F chapter focused on driving from concept to delivery. 18F managers are strategic thinkers who are skilled in defining a compelling vision, designing a measurable strategy to achieve it, and enabling cross-functional teams to deliver on it. As Director, you’ll support employee development, foster inclusion, belonging, and growth within your team; lead hiring for 18F’s chapter; coach supervisors as they work with their direct reports; set a vision for the chapter; and represent the chapter as a member of 18F leadership. In this role, you’ll help shape how 18F creates meaningful change for our partners, stakeholders, and the American public. 
+ 
 
 ## Key objectives
 
