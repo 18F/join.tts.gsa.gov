@@ -167,7 +167,8 @@ key objectives:
     - Steward the chapter’s professional development by identifying appropriate training and  developmental assignments. Incorporate equity, inclusion, and accessibility into training, speaking events, and experiential learning opportunities. Assist supervisors in tailoring approaches to individuals’ needs.
   -  Provide strategic leadership
     - Set the vision for the 18F chapter, aligning with 18F, TTS and GSA vision, goals, and values.
-    - Represent the chapter in the 18F Leadership Team and communicate information back to the chapter. -     - Convey the needs, skills and capacity of the chapter to the broader organization. Promote transparency in how decisions are made. Regularly include others in planning and decision-making.
+    - Represent the chapter in the 18F Leadership Team and communicate information back to the chapter. 
+    - Convey the needs, skills and capacity of the chapter to the broader organization. Promote transparency in how decisions are made. Regularly include others in planning and decision-making.
     - Lead strategic 18F initiatives as determined by the leadership team and 18F director.
     - Coordinate with other members of the 18F leadership team to develop guidance and organizational communication around hiring, business development, project support, performance evaluation, and more.
     - Collect feedback to discuss successes and challenges, and share patterns and key feedback with the rest of 18F leadership.
@@ -182,7 +183,7 @@ key objectives:
     - As part of 18F leadership, continue to align 18F on shared processes, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
     - Help 18F project teams tell stories that document and demonstrate our expertise and impact. 
     - As part of 18F leadership, provide oversight of partner engagements and help members of the chapter contribute meaningfully to partner and user success.
-  - Collaborate with the 18F Leadership Team and staffing leads to ensure projects are staffed with chapter expertise to best meet the needs of partners as well as to support skills growth of team members.
+    - Collaborate with the 18F Leadership Team and staffing leads to ensure projects are staffed with chapter expertise to best meet the needs of partners as well as to support skills growth of team members.
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
