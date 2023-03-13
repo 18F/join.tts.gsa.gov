@@ -88,7 +88,7 @@ title: "Login: Deputy Director GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-06-01
-closes: 2023-06-25
+closes: 
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -154,7 +154,7 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Lead Delivery of Login.gov products and programs to develop and execute a product roadmap aligned with program and agency goals.
+  - Lead Delivery of Login.gov products and programs
     - Serve as the supervisor accountable for development and delivery of the Login.gov product roadmap, leveraging multiple inputs from customers, users, programmatic and financial stakeholders, industry experts, and program staff.
     - Identifying and removing barriers to developing a product roadmap, and maintaining high-quality, strong processes to execute on that roadmap.
     - Develop and design organizational structures and practices to enable engineering, product development and UX excellence, following industry best practices.
@@ -171,7 +171,7 @@ key objectives:
     - Help Login.gov branch chiefs develop themselves and their teams.
     - Apply performance management techniques to bring out the best in people; hold branch chiefs accountable for their results.
     
-  - Advise the Login.gov Director, leadership and the organization to support
+  - Support and advise the Login.gov Director, leadership and the organization
     - Work to strengthen Login.gov as a whole and continue to break down silos.
     - Contribute to the development of program goals and stakeholder alignment to those goals.
     - Develop strong working relationships between the delivery organization and other components of Login.gov.
@@ -230,7 +230,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** 
+**Official title in USAJOBS:** 2210 Supervisory IT Specialist (PLCYPLN)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
@@ -297,18 +297,11 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The Login.gov Deputy Director (“Deputy”) is the primary advisor to the Login.gov Director on
-all matters pertaining to Login.gov delivery, strategy and program direction. The Deputy’s
-primary responsibility is leading the Login.gov delivery organization to meet the goals set
-by the Login.gov program as a whole. In addition, in the Director’s absence the Deputy
-serves as Login.gov’s executive leader for overall Login.gov management and all matters
-pertaining to Login.gov, including delivery services, product development, policy
-development, and implementation of operating procedures, practices and management
-controls.
+Login.gov is the public’s one account for government, simplifying access to government benefits and services for members of the public by enabling them to reuse one secure account across government agencies, and improving the security of government systems by enabling agencies to leverage a shared technology service to provide strong authentication and identity verification services to their customers.
 
-The Deputy represents and speaks for the Director on Login.gov initiatives and services with
-senior GSA officials, other top-level executives from public and private industry, federal
-agencies, Congressional representatives, the news media and other public media outlets.
+The Login.gov Deputy Director is the primary advisor to the Login.gov Director on all matters pertaining to Login.gov. The Deputy’s primary responsibility is leading the Login.gov delivery organization to meet the goals set by the Login.gov program as a whole. In addition, in the Director’s absence the Deputy serves as Login.gov’s executive leader for overall Login.gov management and all matters pertaining to Login.gov, including delivery services, product development, policy development, and implementation of operating procedures, practices and management controls.
+
+The Deputy represents and speaks for the Director on Login.gov initiatives and services with senior GSA officials, other top-level executives from public and private industry, federal agencies, Congressional representatives, the media and other public outlets.
 
 ## Key objectives
 
@@ -340,16 +333,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience leading the overall planning, management and direction of a portfolio or
-suite of digital programs, products or businesses, or a single, highly complex digital
-program, product or business;
-- Experience overseeing a Software as a Service (SaaS) product that serves multiple
-constituencies of customers and users;
-- Experience supervising cross-functional teams a variety of professional disciplines;
-- Experience partnering with leadership and stakeholders across teams or agencies to
-achieve organizational goals;
-- Experience leading and supervising a team and providing mentorship, support and
-professional development opportunities.
+- Leading the overall planning, management and direction of a portfolio or suite of digital programs, products or businesses, or a single, highly complex digital program, product or business;
+- Overseeing a Software as a Service (SaaS) product that serves multiple constituencies of customers and users;
+- Supervising cross-functional teams of a variety of professional disciplines, such as software engineers, product managers, designers, content strategists, agile process managers, etc.;
+- Partnering with leadership and stakeholders across teams or agencies to achieve organizational goals;
+- Leading and supervising a team and providing mentorship, support and professional development opportunities.
 
 
 ## How to Apply
