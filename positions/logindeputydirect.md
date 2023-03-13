@@ -88,7 +88,7 @@ title: "Login: Deputy Director GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-06-01
-closes: 
+closes: 2023-06-25
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
