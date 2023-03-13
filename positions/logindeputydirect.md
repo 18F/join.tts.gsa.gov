@@ -154,7 +154,7 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Lead Delivery of Login.gov products and programs
+  - Lead delivery of Login.gov products and programs
     - Serve as the supervisor accountable for development and delivery of the Login.gov product roadmap, leveraging multiple inputs from customers, users, programmatic and financial stakeholders, industry experts, and program staff.
     - Identifying and removing barriers to developing a product roadmap, and maintaining high-quality, strong processes to execute on that roadmap.
     - Develop and design organizational structures and practices to enable engineering, product development and UX excellence, following industry best practices.
