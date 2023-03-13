@@ -5,7 +5,7 @@
 To add a new job posting, first copy [the template](positions/_TEMPLATE.md).
 The easiest way to copy it is to open
 [this raw view](https://raw.githubusercontent.com/18F/join.tts.gsa.gov/main/positions/_TEMPLATE.md),
-select all, and copy. Then create a new file by [opening this link](new/main/positions).
+select all, and copy. Then create a new file by [opening this link](https://github.com/18F/join.tts.gsa.gov/new/main/positions).
 On the page that opens, paste the template you copied earlier into the body.
 Add a filename (at the top), and then follow the instructions in the template.
 

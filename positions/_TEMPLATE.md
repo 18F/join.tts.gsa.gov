@@ -6,7 +6,7 @@
 # -----------------------------------------------------------------------------#
 # If you are editing this file on GitHub, first make sure you are creating a   #
 # new file, and are not editing the template file! To create a new file, go to #
-# https://github.com/18F/join.tts.gsa.gov/new/main in your browser.            #
+# https://github.com/18F/join.tts.gsa.gov/new/main/positions in your browser.  #
 #                                                                              #
 # On the new file page, you can paste in the contents of the template file.    #
 # Also be sure to type in a filename in the small textbox above the file body  #
