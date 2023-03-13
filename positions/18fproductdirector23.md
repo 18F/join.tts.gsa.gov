@@ -157,8 +157,8 @@ key objectives:
   - Develop and enable your team 
     - Define and communicate what high quality product management means at 18F, and provide the training and resources necessary for your supervisors and team to meet those standards. 
     - Communicate regularly with your team to provide mentorship and guidance in a variety of ways, and help remove obstacles to their success.
-    - Develop the supervisory people management capabilities of the product chapter, including growing supervisors’ skills in areas of performance management, employee development and career growth, and coaching others through difficult project situations.
-    - Develop the supervisory business management capabilities of the product chapter by breaking down 18F’s business needs into pieces of work that supervisors can learn to do and coaching supervisors through learning to do them effectively. 
+    - Develop the supervisory people management capabilities of the Product Chapter, including growing supervisors’ skills in areas of performance management, employee development and career growth, and coaching others through difficult project situations.
+    - Develop the supervisory business management capabilities of the Product Chapter by breaking down 18F’s business needs into pieces of work that supervisors can learn to do and coaching supervisors through learning to do them effectively. 
     - Constructively address situations, issues, and behaviors. Initiate difficult conversations and clearly communicate corrective actions.
     - Oversee employee performance plans and evaluations. Provide performance evaluations for supervisors and assist them in conducting and documenting performance evaluations for staff. Work with supervisors to determine support that might improve individuals’ wellbeing and mechanisms to provide that support.
     - Collaborate with other members of 18F leadership to identify and support strategic training opportunities.
@@ -166,23 +166,23 @@ key objectives:
     - Ensure continued technical excellence in your chapter.
     - Steward the chapter’s professional development by identifying appropriate training and  developmental assignments. Incorporate equity, inclusion, and accessibility into training, speaking events, and experiential learning opportunities. Assist supervisors in tailoring approaches to individuals’ needs.
   -  Provide strategic leadership
-    - Set the vision for the 18F product chapter, aligning with 18F, TTS and GSA vision, goals, and values.
-    - Represent the chapter in the 18F Leadership Team and communicate information back to the chapter. Convey the needs, skills and capacity of the product chapter to the broader organization. Promote transparency in how decisions are made. Regularly include others in planning and decision-making.
+    - Set the vision for the 18F Product Chapter, aligning with 18F, TTS and GSA vision, goals, and values.
+    - Represent the chapter in the 18F Leadership Team and communicate information back to the chapter. Convey the needs, skills and capacity of the Product Chapter to the broader organization. Promote transparency in how decisions are made. Regularly include others in planning and decision-making.
     - Lead strategic 18F initiatives as determined by the leadership team and 18F director.
     - Coordinate with other members of the 18F leadership team to develop guidance and organizational communication around hiring, business development, project support, performance evaluation, and more.
     - Collect feedback to discuss successes and challenges, and share patterns and key feedback with the rest of 18F leadership.
-    - Craft strategic, data-driven hiring plans for the product chapter that align with 18F’s hiring strategy and trends in partner needs. Include sourcing strategies and interview practices to ensure a diverse candidate pool and inclusive hiring process.  Ensure Equal Employment Opportunity (EEO) regulations are followed throughout recruitment, hiring, and selection processes.
+    - Craft strategic, data-driven hiring plans for the Product Chapter that align with 18F’s hiring strategy and trends in partner needs. Include sourcing strategies and interview practices to ensure a diverse candidate pool and inclusive hiring process.  Ensure Equal Employment Opportunity (EEO) regulations are followed throughout recruitment, hiring, and selection processes.
     - Set strategy for knowledge management such that key information is carried forward and key skills are learned, to ensure chapter resilience.
     - Create a work environment that fosters trust, respect, and collaboration. Uphold TTS values of inclusion, integrity, and impact.
     - Identify power dynamics; respond thoughtfully and create space for less dominant voices.
     - Promote collective success and leadership growth among the chapter members. Plan and ensure there is time for collaborative decision-making; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
-    - Continue to iterate and improve on 18F and product chapter processes.
+    - Continue to iterate and improve on 18F and Product Chapter processes.
     - Research, develop, and encourage best practices in the field of product management, and create space for experimentation and iteration.
   -  Build stronger 18F practices
     - As part of 18F leadership, continue to align 18F on shared processes, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
     - Help 18F project teams tell stories that document and demonstrate our expertise and impact. 
-    - As part of 18F leadership, provide oversight of partner engagements and help members of the product chapter contribute meaningfully to partner and user success.
-    - Collaborate with the 18F Leadership Team and staffing leads to ensure projects are staffed with Product chapter expertise to best meet the needs of partners as well as to support skills growth of team members.
+    - As part of 18F leadership, provide oversight of partner engagements and help members of the Product Chapter contribute meaningfully to partner and user success.
+    - Collaborate with the 18F Leadership Team and staffing leads to ensure projects are staffed with Product Chapter expertise to best meet the needs of partners as well as to support skills growth of team members.
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -202,7 +202,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: TBD
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
