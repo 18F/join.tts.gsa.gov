@@ -13,10 +13,7 @@ make sure that any changes here are reflected there as well!
 {%- for page in site.pages -%}
 {%- assign bits = page["path"] | split: "/" -%}
 {%- if bits[0] == "positions" -%}
-  {%- assign status = page | job_posting_status -%}
-  {%- if status != "closed" -%}
-    {%- assign list = list | push: page -%}
-  {%- endif -%}
+  {%- assign list = list | push: page -%}
 {%- endif -%} {%- endfor -%}
 [
   {% for item in list %}
