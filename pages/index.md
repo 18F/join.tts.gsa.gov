@@ -46,8 +46,9 @@ permalink: /
         {% for job in open %}
           {% unless job.path contains 'template' %}
           {% unless job.path contains 'performance-profiles' %}
-          <li class="{% if job["info sessions"].size > 0 %}with-info-sessions{% endif %}">
-            <a href="{{ site.baseurl }}{{ job.url }}">{{ job.title }}</a>
+          {% assign info_sessions = job | future_info_sessions_for_job %}
+          <li class="{% if info_sessions.size > 0 %}with-info-sessions{% endif %}">
+            {{ infosessions.size }}<a href="{{ site.baseurl }}{{ job.url }}">{{ job.title }}</a>
             (Open now through {{ job.closes | human_friendly }}{% if job["max applications"] > 0 %}, or when {{ job["max applications"] }} applications have been received{% endif %})
             {%- include info_sessions.html job=job %}
           </li>
@@ -68,7 +69,8 @@ permalink: /
         {% for job in upcoming %}
           {% unless job.path contains 'template' %}
           {% unless job.path contains 'performance-profiles' %}
-          <li class="{% if job["info sessions"].size > 0 %}with-info-sessions{% endif %}">
+          {% assign info_sessions = job | future_info_sessions_for_job %}
+          <li class="{% if info_sessions.size > 0 %}with-info-sessions{% endif %}">
             <a href="{{ site.baseurl }}{{ job.url }}">{{ job.title }}</a>
             {%- include info_sessions.html job=job %}
           </li>
