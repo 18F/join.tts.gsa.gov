@@ -335,7 +335,7 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
 - Leading the overall planning, management and direction of a portfolio or suite of digital programs, products or businesses, or a single, highly complex digital program, product or business;
 - Overseeing a Software as a Service (SaaS) product that serves multiple constituencies of customers and users;
-- Supervising cross-functional teams of a variety of professional disciplines, such as software engineers, product managers, designers, content strategists, agile process managers, etc.;
+- Supervising cross-functional teams of a variety of professional disciplines, such as software engineers, product managers, user experience designers, content strategists, agile project managers, or other software delivery disciplines;
 - Partnering with leadership and stakeholders across teams or agencies to achieve organizational goals;
 - Leading and supervising a team and providing mentorship, support and professional development opportunities.
 
