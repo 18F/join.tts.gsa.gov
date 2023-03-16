@@ -196,7 +196,7 @@ key objectives:
 info sessions:
   - link: https://www.eventbrite.com/e/591727702487
     date: 2023-03-22
-    time: 3:00-4:00pm ET (12:00-1:00am PT)
+    time: 3:00-4:00pm ET (12:00-1:00pm PT)
   - link: https://www.eventbrite.com/e/591748825667
     date: 2023-03-28
     time: 1:00-2:00pm ET (10:00-11:00am PT)
