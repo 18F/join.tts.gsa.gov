@@ -194,10 +194,13 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
+  - link: https://www.eventbrite.com/e/591727702487
+    date: 2023-03-22
+    time: 3:00-4:00pm ET (12:00-1:00pm PT)
+  - link: https://www.eventbrite.com/e/591748825667
+    date: 2023-03-28
+    time: 1:00-2:00pm ET (10:00-11:00am PT)
 
-# Put the link applicants need to use to apply for this position here. This link
-# will be used for the "Click here to apply" button at the bottom of the
-# position page.
 #🔻🔻🔻🔻🔻
 application link: https://usajobs.gov/job/apply/whatever
 # This is the end of the frontmatter. After this line is Markdown.
