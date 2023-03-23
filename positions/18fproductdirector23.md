@@ -201,7 +201,7 @@ info sessions:
     time: 12:30-1:30pm ET (9:30-10:30am PT)
   - link: https://www.eventbrite.com/e/18f-product-engineering-director-info-session-tickets-597839242267
     date: 2023-04-19
-    time: 3:30-4:30pm ET (12:30-1:30 PT)
+    time: 3:30-4:30pm ET (12:30-1:30pm PT)
 
 
 # Put the link applicants need to use to apply for this position here. This link
