@@ -165,8 +165,12 @@ key objectives:
     - Leads brand positioning across multiple organizational stakeholder levels, and multiple products and services at different maturity levels; leveraging various methods/techniques such as strategic roadmaps, value propositions, brand maturity models and/or market development strategies.
     - Develops and nurtures relationships with agency partners, and across the technology ecosystem, showcases the impact of TTS’ work, moves engagement stakeholders from awareness to action and continues to build the TTS brand. 
     - Demonstrates thought leadership and contributes to best practices through developing, hosting, and coordinating TTS participation in technology-focused events and conferences (government and industry). 
+    - Partners with OSC in responding to various media inquiries, evaluating media opportunities, arranging interviews with management and leadership and providing TTS related talking points and presentations to GSA, FAS, and TTS leadership.  
+    - Drives open, transparent and consistent internal communications using multiple channels to drive delivery of the TTS culture and employee experience.  
+    - Leads the development of platforms, tools, content, and strategy to clearly communicate business goals, strategies, and updates to employees and other internal stakeholders. 
+    - Develops outreach and communication strategies for crisis and change management, communicating the benefits, consequences, and processes to gain understanding and buy-in driving acceptance and alignment. 
+    - Provides creative direction and serves as a senior advisor to TTS leadership.
 
-    
   - Supervise and Develop the TTS Outreach Division
     - Supervises, leads, and develops a team of marketing, outreach, UX, media relations, and visual and content design professionals.
     - Provides creative direction and oversight to the TTS Outreach Division, including strategic and tactical review of the work, creating development opportunities and improving the team’s competencies and services.
