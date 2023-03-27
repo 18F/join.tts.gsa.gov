@@ -75,7 +75,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Hiring Org: Position title"
+title: "TTS: Director of Marketing & Outreach GS-15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -87,8 +87,8 @@ title: "Hiring Org: Position title"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-02-01
-closes: 2023-02-22
+opens: 2023-12-01
+closes: 
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -110,13 +110,13 @@ closes: 2023-02-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 200
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: term
+appointment type: perm
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
@@ -154,16 +154,38 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Implement the product vision and lead end-to-end product development
-    - Lead a cross-functional team of researchers, designers, and engineers to
-    ensure product delivery.
-    - Identify and proactively monitor and address product risks.
-    - Work with the team to set and meet quality standards for any product you
-    build.
-  - Build institutional expertise around product management
-    - Share best practices and tools with your peers across the organization
-    - Share lessons learned from your work at Login.gov with peers and leaders
-    to help guide our approach to digital transformation.
+  - Promote and Position TTS 
+    - Creates and executes TTS marketing, outreach, media relations and brand strategies communicating TTS’ vision, business goals, and impact applying specific knowledge and understanding of the technology audience, customer base and audience segmentation in partnership with GSA’s Office of Strategic Communications (OSC).
+    - Directs the use of multiple communication channels to engage with key audiences, including: 
+     - Digital platforms (websites, social media, online content, etc.) to maintain a consistent brand and tone of voice.
+     - Printed materials (marketing brochures, reports, guides, etc.) to meet audiences where they are.
+     - Press outreach (including mainstream, government, and tech media) to feature user-centered stories that convey the impact of TTS’ work. 
+     - Events (speaking opportunities and panels at conferences, TTS led workshops, etc.) to highlight technology thought leaders. 
+    - Guides development of strategic marketing plans for individual products, services and initiatives to compliment the greater TTS plan and ensure a consistent voice and message. This includes identifying audiences, determining the most effective media to use in reaching them and developing content.
+    - Develops and implements campaign strategies related to digital and print marketing, content marketing, and social media.
+    - Establishes measures, benchmarks and sets goals for the impact, effectiveness and return on investment (ROI) of outreach and marketing efforts, using marketing tools (e.g. Google Analytics or Adwords, Hootsuite, Trello, GovDelivery, airtable, etc) to support data-informed decisions.
+    - Leverages technology acumen and background in the IT industry; provides guidance, knowledge and expertise on emerging technologies within media/marketing space (AI, machine learning, cloud computing, etc.).
+
+  - Build and Maintain Stakeholder Relationships and Internal Alignment
+    - Leads brand positioning across multiple organizational stakeholder levels, and multiple products and services at different maturity levels; leveraging various methods/techniques such as strategic roadmaps, value propositions, brand maturity models and/or market development strategies.
+    - Develops and nurtures relationships with agency partners, and across the technology ecosystem, showcases the impact of TTS’ work, moves engagement stakeholders from awareness to action and continues to build the TTS brand. 
+    - Demonstrates thought leadership and contributes to best practices through developing, hosting, and coordinating TTS participation in technology-focused events and conferences (government and industry). 
+    - Partners with OSC in responding to various media inquiries, evaluating media opportunities, arranging interviews with management and leadership and providing TTS related talking points and presentations to GSA, FAS, and TTS leadership.
+    - Develops congressional communications, including but not limited to: briefings, presentations, leave-behinds, testimony scripts, formal testimony responses, and formal testimony “questions for the record” responses.  
+    - Drives open, transparent and consistent internal communications using multiple channels to drive delivery of the TTS culture and employee experience.  
+    - Leads the development of platforms, tools, content, and strategy to clearly communicate business goals, strategies, and updates to employees and other internal stakeholders. 
+    - Develops outreach and communication strategies for crisis and change management, communicating the benefits, consequences, and processes to gain understanding and buy-in driving acceptance and alignment. 
+    - Provides creative direction and serves as a senior advisor to TTS leadership.
+
+  - Supervise and Develop the TTS Outreach Division
+    - Supervises, leads, and develops a team of marketing, outreach, UX, media relations, and visual and content design professionals.
+    - Provides creative direction and oversight to the TTS Outreach Division, including strategic and tactical review of the work, creating development opportunities and improving the team’s competencies and services.
+    - Leads and develops the long-term goals and success of the Division, and its future support and contribution to organizational goals and outcomes. 
+    - Develops team performance plans and advises on technical and administrative matters.
+    - Support a safe, respectful, inclusive workplace and a positive team culture in which all team members and perspectives are valued and included. Uphold the TTS values of inclusion, integrity, and impact. 
+    - Maintain a work environment of  collaboration, continuous learning, and commitment to customer / partner needs.  
+
+    
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -177,9 +199,7 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
-    date: 2023-02-13
-    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
@@ -216,7 +236,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Supervisory IT Program Manager GS15
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
@@ -283,7 +303,12 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Describe the role here.
+The Technology Transformation Services (TTS) Director of Marketing & Outreach is the senior advisor and knowledge expert within TTS on marketing, outreach and engagement  and works directly with the General Services Administration (GSA), Federal Acquisition Service (FAS), and TTS leadership and staff to increase awareness of and clarify TTS’ vision, mission, values, service offerings, and the TTS brand. 
+
+The Director also works with stakeholders such as government agency partners, the technology industry and the media. The Director translates overall business strategy into an actionable brand and marketing strategy. 
+
+Due to the nature of the work done by TTS, strong technology experience is highly preferred. 
+
 
 ## Key objectives
 
@@ -323,6 +348,18 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
   user-centered design, planning tools or continuous delivery methodologies.
 - Experience crafting or creating product vision, strategy or road maps.
 - Experience working with cross-functional teams.
+
+- Experience creating and executing marketing and outreach strategies for a technology-focused organization, communicating business goals/vision and determining the most effective communication channels including all of the following: 
+  - Digital platforms (i.e websites, social media content, etc)
+  - Print media (i.e marketing brochures, reports, etc.), 
+  - Press outreach (i.e interviews, press releases, etc.) 
+  - Events (i.e speaking opportunities, workshops, etc.)
+- Experience translating overall business strategies into an actionable technology brand and marketing strategy.  
+- Experience leading brand positioning for an organization with multiple products and services.
+- Experience leading and supervising a team of cross-functional professionals (i.e. marketing, outreach, UX, media relations, and visual and content design professionals) and advising Senior Executives in the technology field. 
+- Experience composing executive-level technology focused articles and/or speeches for different audiences (technical and non-technical), i.e: talking points, executive briefings, and/or official testimony.
+- Experience making data-informed decisions through the use of marketing tools (e.g. Google Analytics, Hootsuite, Trello, GovDelivery, Airtable and Google Adwords)
+
 
 
 ## How to Apply
