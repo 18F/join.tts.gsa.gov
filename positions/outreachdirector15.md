@@ -88,7 +88,7 @@ title: "TTS: Director of Marketing & Outreach GS-15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-12-01
-closes: 
+closes: 2023-12-06
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
