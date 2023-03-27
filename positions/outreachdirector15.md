@@ -156,15 +156,11 @@ gs: 15
 key objectives:
  - Promote and Position TTS 
    - Creates and executes TTS marketing, outreach, media relations and brand strategies communicating TTS’ vision, business goals, and impact applying specific knowledge and understanding of the technology audience, customer base and audience segmentation in partnership with GSA’s Office of Strategic Communications (OSC).
-  - Directs the use of multiple communication channels to engage with key audiences, including: 
-    - Digital platforms (websites, social media, online content, etc.) to maintain a consistent brand and tone of voice.
-    - Printed materials (marketing brochures, reports, guides, etc.) to meet audiences where they are.
-    - Press outreach (including mainstream, government, and tech media) to feature user-centered stories that convey the impact of TTS’ work. 
-    - Events (speaking opportunities and panels at conferences, TTS led workshops, etc.) to highlight technology thought leaders. 
-  - Guides development of strategic marketing plans for individual products, services and initiatives to compliment the greater TTS plan and ensure a consistent voice and message. This includes identifying audiences, determining the most effective media to use in reaching them and developing content.
-  - Develops and implements campaign strategies related to digital and print marketing, content marketing, and social media.
-  - Establishes measures, benchmarks and sets goals for the impact, effectiveness and return on investment (ROI) of outreach and marketing efforts, using marketing tools (e.g. Google Analytics or Adwords, Hootsuite, Trello, GovDelivery, airtable, etc) to support data-informed decisions.
-  - Leverages technology acumen and background in the IT industry; provides guidance, knowledge and expertise on emerging technologies within media/marketing space (AI, machine learning, cloud computing, etc.).
+   - Directs the use of multiple communication channels to engage with key audiences, including: Digital platforms (websites, social media, online content, etc.) to maintain a consistent brand and tone of voice.  Printed materials (marketing brochures, reports, guides, etc.) to meet audiences where they are.  Press outreach (including mainstream, government, and tech media) to feature user-centered stories that convey the impact of TTS’ work. Events (speaking opportunities and panels at conferences, TTS led workshops, etc.) to highlight technology thought leaders. 
+   - Guides development of strategic marketing plans for individual products, services and initiatives to compliment the greater TTS plan and ensure a consistent voice and message. This includes identifying audiences, determining the most effective media to use in reaching them and developing content.
+   - Develops and implements campaign strategies related to digital and print marketing, content marketing, and social media.
+   - Establishes measures, benchmarks and sets goals for the impact, effectiveness and return on investment (ROI) of outreach and marketing efforts, using marketing tools (e.g. Google Analytics or Adwords, Hootsuite, Trello, GovDelivery, airtable, etc) to support data-informed decisions.
+   - Leverages technology acumen and background in the IT industry; provides guidance, knowledge and expertise on emerging technologies within media/marketing space (AI, machine learning, cloud computing, etc.).
 
  
  - Build and Maintain Stakeholder Relationships and Internal Alignment
@@ -177,11 +173,15 @@ key objectives:
    - Leads the development of platforms, tools, content, and strategy to clearly communicate business goals, strategies, and updates to employees and other internal stakeholders. 
    - Develops outreach and communication strategies for crisis and change management, communicating the benefits, consequences, and processes to gain understanding and buy-in driving acceptance and alignment. 
    - Provides creative direction and serves as a senior advisor to TTS leadership.
-
     
  - Supervise and Develop the TTS Outreach Division
-    - Lead a cross-functional team of researchers, designers, and engineers to
-    ensure product delivery.
+    - Supervises, leads, and develops a team of marketing, outreach, UX, media relations, and visual and content design professionals.
+    - Provides creative direction and oversight to the TTS Outreach Division, including strategic and tactical review of the work, creating development opportunities and improving the team’s competencies and services.
+    - Leads and develops the long-term goals and success of the Division, and its future support and contribution to organizational goals and outcomes. 
+    - Develops team performance plans and advises on technical and administrative matters.
+    - Support a safe, respectful, inclusive workplace and a positive team culture in which all team members and perspectives are valued and included. Uphold the TTS values of inclusion, integrity, and impact. 
+    - Maintain a work environment of  collaboration, continuous learning, and commitment to customer / partner needs.  
+
     
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -332,7 +332,14 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-TBD
+- Experience creating and executing marketing and outreach strategies for a technology-focused organization, communicating business goals/vision and determining the most effective communication channels including all of the following: Digital platforms (i.e websites, social media content, etc), Print media (i.e marketing brochures, reports, etc.), Press outreach (i.e interviews, press releases, etc.) and events (i.e speaking opportunities, workshops, etc.)
+- Experience translating overall business strategies into an actionable technology brand and marketing strategy.  
+- Experience leading brand positioning for an organization with multiple products and services.
+- Experience leading and supervising a team of cross-functional professionals (i.e. marketing, outreach, UX, media relations, and visual and content design professionals) and advising Senior Executives in the technology field. 
+- Experience composing executive-level technology focused articles and/or speeches for different audiences (technical and non-technical), i.e: talking points, executive briefings, and/or official testimony.
+- Experience making data-informed decisions through the use of marketing tools (e.g. Google Analytics, Hootsuite, Trello, GovDelivery, Airtable and Google Adwords)
+
+
 
 ## How to Apply
 
