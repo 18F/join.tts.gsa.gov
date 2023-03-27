@@ -308,7 +308,12 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- TBD
+- Experience creating and executing marketing and outreach strategies for a technology-focused organization, communicating business goals/vision and determining the most effective communication channels including all of the following: Digital platforms (i.e websites, social media content, etc), print media (i.e marketing brochures, reports, etc.), press outreach (i.e interviews, press releases, etc.), and events (i.e speaking opportunities, workshops, etc.)
+- Experience translating overall business strategies into an actionable technology brand and marketing strategy.  
+- Experience leading brand positioning for an organization with multiple products and services.
+- Experience leading and supervising a team of cross-functional professionals (i.e. marketing, outreach, UX, media relations, and visual and content design professionals) and advising Senior Executives in the technology field. 
+- Experience composing executive-level technology focused articles and/or speeches for different audiences (technical and non-technical), i.e: talking points, executive briefings, and/or official testimony.
+- Experience making data-informed decisions through the use of marketing tools (e.g. Google Analytics, Hootsuite, Trello, GovDelivery, Airtable and Google Adwords)
 
 
 
