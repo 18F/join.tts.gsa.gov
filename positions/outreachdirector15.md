@@ -155,6 +155,13 @@ gs: 15
 #🔻🔻🔻🔻🔻
 key objectives:
  - Promote and Position TTS 
+   - Creates and executes TTS marketing, outreach, media relations and brand strategies communicating TTS’ vision, business goals, and impact applying specific knowledge and understanding of the technology audience, customer base and audience segmentation in partnership with GSA’s Office of Strategic Communications (OSC).
+  - Directs the use of multiple communication channels to engage with key audiences, including: Digital platforms (websites, social media, online content, etc.) to maintain a consistent brand and tone of voice, printed materials (marketing brochures, reports, guides, etc.) to meet audiences where they are, press outreach (including mainstream, government, and tech media) to feature user-centered stories that convey the impact of TTS’ work, and events (speaking opportunities and panels at conferences, TTS led workshops, etc.) to highlight technology thought leaders. 
+  - Guides development of strategic marketing plans for individual products, services and initiatives to compliment the greater TTS plan and ensure a consistent voice and message. This includes identifying audiences, determining the most effective media to use in reaching them and developing content.
+  - Develops and implements campaign strategies related to digital and print marketing, content marketing, and social media.
+  - Establishes measures, benchmarks and sets goals for the impact, effectiveness and return on investment (ROI) of outreach and marketing efforts, using marketing tools (e.g. Google Analytics or Adwords, Hootsuite, Trello, GovDelivery, airtable, etc) to support data-informed decisions.
+  - Leverages technology acumen and background in the IT industry; provides guidance, knowledge and expertise on emerging technologies within media/marketing space (AI, machine learning, cloud computing, etc.).
+
 
     
 # If there are any info sessions associated with this position, list them here.
