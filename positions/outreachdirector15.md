@@ -166,7 +166,7 @@ key objectives:
     - Develops and nurtures relationships with agency partners, and across the technology ecosystem, showcases the impact of TTS’ work, moves engagement stakeholders from awareness to action and continues to build the TTS brand. 
     - Demonstrates thought leadership and contributes to best practices through developing, hosting, and coordinating TTS participation in technology-focused events and conferences (government and industry). 
     - Partners with OSC in responding to various media inquiries, evaluating media opportunities, arranging interviews with management and leadership and providing TTS related talking points and presentations to GSA, FAS, and TTS leadership.  
-    - Develops congressional communications, including but not limited to: briefings, presentations, leave-behinds, testimony scripts, formal testimony responses, and responses to questions for the record.
+    - Developos congressional communications, including but not limited to briefings, presentations, leave-behinds, testimony scripts, formal testimony responses, and formal testimony "questions for the record" responses.
     - Drives open, transparent and consistent internal communications using multiple channels to drive delivery of the TTS culture and employee experience.  
     - Leads the development of platforms, tools, content, and strategy to clearly communicate business goals, strategies, and updates to employees and other internal stakeholders. 
     - Develops outreach and communication strategies for crisis and change management, communicating the benefits, consequences, and processes to gain understanding and buy-in driving acceptance and alignment. 
