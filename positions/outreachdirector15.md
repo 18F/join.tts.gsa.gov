@@ -156,7 +156,7 @@ gs: 15
 key objectives:
   - Promote and Position TTS 
     - Creates and executes TTS marketing, outreach, media relations and brand strategies communicating TTS’ vision, business goals, and impact applying specific knowledge and understanding of the technology audience, customer base and audience segmentation in partnership with GSA’s Office of Strategic Communications (OSC). 
-    - Directs the use of multiple communication channels to engage with key audiences to include:
+    - Directs the use of multiple communication channels to engage with key audiences to include
       * Digital platforms (websites, social media, online content, etc.) to maintain a consistent brand and tone of voice
       * Printed materials (marketing brochures, reports, guides, etc.) to meet audiences where they are
       * Press outreach (including mainstream, government, and tech media) to feature user-centered stories that convey the impact of TTS’ work
