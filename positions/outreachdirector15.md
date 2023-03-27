@@ -75,7 +75,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Login: Deputy Director GS15"
+title: "TTS: Director of Marketing & Outreach GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -87,7 +87,7 @@ title: "Login: Deputy Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-06-01
+opens: 2023-12-01
 closes: 
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
@@ -110,7 +110,7 @@ closes:
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 250
+max applications: 200
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -154,34 +154,8 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Lead delivery of Login.gov products and programs
-    - Serve as the supervisor accountable for development and delivery of the Login.gov product roadmap, leveraging multiple inputs from customers, users, programmatic and financial stakeholders, industry experts, and program staff.
-    - Identifying and removing barriers to developing a product roadmap, and maintaining high-quality, strong processes to execute on that roadmap.
-    - Develop and design organizational structures and practices to enable engineering, product development and UX excellence, following industry best practices.
-    - Develop and execute against policies, plans, and initiatives to ensure effective growth, continual development, and sustainment of the Login.gov program.
-    - Develop staffing plans to ensure that Login.gov’s delivery organization has the right staff in place to deliver on key product and program initiatives; interview and hire staff to meet these needs.
-    - Develop and design organizational structures and practices to enable the delivery team to closely collaborate with critical supporting teams such as cybersecurity, anti-fraud and privacy.
-    - Track and report on all product development initiatives.
-    
-  - Lead a team of product and business professionals
-    - Serves as supervisor for the Login.gov delivery organization, spanning product management, user experience and design, and full stack engineering.
-    - Help the Login.gov delivery organization align on and adhere to shared processes, deliver results, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
-    - Help Login.gov teams understand what success looks like. Work with Login.gov teams to regularly demonstrate our expertise and impact.
-    - Help identify opportunities for professional growth and learning for Login.gov teams.
-    - Help Login.gov branch chiefs develop themselves and their teams.
-    - Apply performance management techniques to bring out the best in people; hold branch chiefs accountable for their results.
-    
-  - Support and advise the Login.gov Director, leadership and the organization
-    - Work to strengthen Login.gov as a whole and continue to break down silos.
-    - Contribute to the development of program goals and stakeholder alignment to those goals.
-    - Develop strong working relationships between the delivery organization and other components of Login.gov.
-    - Share information across Login.gov branches to improve the product offering.
-    - Work efficiently and effectively in our distributed culture. Look for ways to build relationships and be inclusive.
-    - Show thoughtful conflict-resolution and mediation skills.
-    - Celebrate Login.gov members’ skills and successes.
-    - Represent the Login.gov program externally at conferences and other events.
-    - Work directly with stakeholders internal and external to Login, TTS, and GSA to further objectives of the Login.gov program.
-
+  - TBD
+ 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -194,12 +168,7 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/591727702487
-    date: 2023-03-22
-    time: 3:00-4:00pm ET (12:00-1:00pm PT)
-  - link: https://www.eventbrite.com/e/591748825667
-    date: 2023-03-28
-    time: 1:00-2:00pm ET (10:00-11:00am PT)
+
 
 #🔻🔻🔻🔻🔻
 application link: https://usajobs.gov/job/apply/whatever
@@ -233,7 +202,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** 2210 Supervisory IT Specialist (PLCYPLN)
+**Official title in USAJOBS:**  Supervisory IT Program Manager GS15
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
@@ -300,11 +269,11 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Login.gov is the public’s one account for government, simplifying access to government benefits and services for members of the public by enabling them to reuse one secure account across government agencies, and improving the security of government systems by enabling agencies to leverage a shared technology service to provide strong authentication and identity verification services to their customers.
+The Technology Transformation Services (TTS) Director of Marketing & Outreach is the senior advisor and knowledge expert within TTS on marketing, outreach and engagement  and works directly with the General Services Administration (GSA), Federal Acquisition Service (FAS), and TTS leadership and staff to increase awareness of and clarify TTS’ vision, mission, values, service offerings, and the TTS brand. 
 
-The Login.gov Deputy Director is the primary advisor to the Login.gov Director on all matters pertaining to Login.gov. The Deputy’s primary responsibility is leading the Login.gov delivery organization to meet the goals set by the Login.gov program as a whole. In addition, in the Director’s absence the Deputy serves as Login.gov’s executive leader for overall Login.gov management and all matters pertaining to Login.gov, including delivery services, product development, policy development, and implementation of operating procedures, practices and management controls.
+The Director also works with stakeholders such as government agency partners, the technology industry and the media. The Director translates overall business strategy into an actionable brand and marketing strategy. 
 
-The Deputy represents and speaks for the Director on Login.gov initiatives and services with senior GSA officials, other top-level executives from public and private industry, federal agencies, Congressional representatives, the media and other public outlets.
+Due to the nature of the work done by TTS, strong technology experience is highly preferred. 
 
 ## Key objectives
 
@@ -336,12 +305,7 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Leading the overall planning, management and direction of a portfolio or suite of digital programs, products or businesses, or a single, highly complex digital program, product or business;
-- Overseeing a Software as a Service (SaaS) product that serves multiple constituencies of customers and users;
-- Supervising cross-functional teams of a variety of professional disciplines, such as software engineers, product managers, user experience designers, content strategists, agile project managers, or other software delivery disciplines;
-- Partnering with leadership and stakeholders across teams or agencies to achieve organizational goals;
-- Leading and supervising a team and providing mentorship, support and professional development opportunities.
-
+TBD
 
 ## How to Apply
 
