@@ -154,10 +154,12 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - TBD
+  - Promote and Position TTS 
+    - Creates and executes TTS marketing, outreach, media relations and brand strategies communicating TTS’ vision, business goals, and impact applying specific knowledge and understanding of the technology audience, customer base and audience segmentation in partnership with GSA’s Office of Strategic Communications (OSC).
+  - Build and Maintain Stakeholder Relationships and Internal Alignment
     - TBD
-
-
+  - Supervise and Develop the TTS Outreach Division
+    - TBD
     
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
