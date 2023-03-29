@@ -232,7 +232,10 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Describe the role here.
+As a Fraud Technical Expert, you will report to Login.gov’s product security branch chief. In this fully-remote position, you will provide strategic guidance to Login.gov’s leadership team, helping to set objectives for Login.gov’s identity fraud program. You will lead efforts associated with improving Login.gov’s privacy-preserving fraud controls, investigative procedures, and redress procedures. You will research emerging threats and work closely with Login.gov’s security team to build threat models and to plan and conduct test exercises.
+
+If you have a passion for developing identity theft solutions that preserve user privacy, this role could be a great fit for you. 
+
 
 ## Key objectives
 
