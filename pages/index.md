@@ -71,7 +71,7 @@ permalink: /
           {% unless job.path contains 'performance-profiles' %}
           {% assign info_sessions = job | future_info_sessions_for_job %}
           <li class="{% if info_sessions.size > 0 %}with-info-sessions{% endif %}">
-            <a href="{{ site.baseurl }}{{ job.url }}">{{ job.title }}</a>
+            <h3><a href="{{ site.baseurl }}{{ job.url }}">{{ job.title }}</a></h3>
             {%- include info_sessions.html job=job %}
           </li>
           {% endunless %}
