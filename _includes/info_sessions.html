@@ -1,7 +1,7 @@
 {%- assign future_sessions = include.job | future_info_sessions_for_job -%} {%-
 if future_sessions.size > 0 -%}
 
-<h3>Upcoming info sessions for {{ job.title }}</h3>
+<h4>Upcoming info sessions for {{ job.title }}</h4>
 <ul>
   {% for session in future_sessions %}
   <li>
