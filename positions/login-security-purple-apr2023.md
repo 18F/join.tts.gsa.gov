@@ -89,12 +89,6 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Implement the product vision and lead end-to-end product development
-    - Lead a cross-functional team of researchers, designers, and engineers to
-    ensure product delivery.
-    - Identify and proactively monitor and address product risks.
-    - Work with the team to set and meet quality standards for any product you
-    build.
   - Contribute to Login.gov’s Cybersecurity Practice
     - Contribute to vulnerability testing and analysis, incident response and 
     analysis, alert response and analysis activities.
