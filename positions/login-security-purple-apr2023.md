@@ -23,7 +23,7 @@ title: "Login.gov: Security Engineer Technical Expert - Purple Team"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-04-03
-closes: 2023-04-10
+closes: 2023-04-09
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
