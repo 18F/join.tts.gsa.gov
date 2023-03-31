@@ -160,7 +160,7 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 - Experience in assessing the robustness of cybersecurity practices for cloud-based 
 Software as a Service (SaaS) solutions.
 - Experience developing operational procedures for cloud-based SaaS systems.
-- Participating in cybersecurity assessments of cloud-based SaaS systems.
+- Experience participating in cybersecurity assessments of cloud-based SaaS systems.
 
 
 ## How to Apply
