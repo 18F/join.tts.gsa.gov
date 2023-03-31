@@ -286,6 +286,7 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 Software as a Service (SaaS) solutions.
 - Experience developing operational procedures for cloud-based SaaS systems.
 - Experience conducting red, blue, or purple team engagements
+- Experience conducting vulnerability scans and recognizing vulnerabilities in SaaS systems
 
 
 ## How to Apply
