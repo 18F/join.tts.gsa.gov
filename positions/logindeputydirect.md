@@ -87,8 +87,8 @@ title: "Login.gov: Deputy Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-06-01
-closes: 
+opens: 2023-04-04
+closes: 2023-04-13
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -110,7 +110,7 @@ closes:
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 250
+max applications: 175
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -202,7 +202,7 @@ info sessions:
     time: 1:00-2:00pm ET (10:00-11:00am PT)
 
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/716620100
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
