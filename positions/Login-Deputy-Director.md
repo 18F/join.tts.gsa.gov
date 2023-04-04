@@ -20,7 +20,7 @@ title: "Login.gov: Deputy Director"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-04-04
+opens: 2023-04-03
 closes: 2023-04-13
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
