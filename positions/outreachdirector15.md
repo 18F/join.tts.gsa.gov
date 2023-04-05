@@ -192,7 +192,9 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-
+  - link: https://www.eventbrite.com/e/director-of-marketing-outreach-technology-modernization-tickets-609508003847
+    date: 2023-04-27
+    time: 1:00pm-2:00pm ET (10:00am -11:00am PT)
 
 #🔻🔻🔻🔻🔻
 application link: https://usajobs.gov/job/apply/whatever
