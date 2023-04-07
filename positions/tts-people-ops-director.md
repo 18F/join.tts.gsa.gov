@@ -154,18 +154,18 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Objective #1: You will create more scalable and automated people operations processes, tools and systems for TTS
+  - You will create more scalable and automated people operations processes, tools and systems for TTS
     - Ensure management controls and compliance with GSA OHRM policy and oversee functions including TTS capacity management, performance management, employee travel, events, training and conference request, micropurchases, organizational audits (including OGE450), employee onboarding and offboarding, telework and full time telework agreements, career progression framework, timekeeping, and non recruit personnel action requests. 
     - Analyze implementation of innovations in people operations operational matters, ensuring that TTS continues to develop and employ best in industry practices, and apply the most effective methodologies and technologies in support of modernizing the federal government. 
     - Build automated tools to automate flow of talent data and work systems; create custom tools in Google environment using custom scripts, formulas, pivot tables (i.e. employee travel estimator, newcomer tracker and event and training dashboards).
     - Mitigate employee questions and confusion by creating custom process guides to enable employees to more easily navigate complicated and complex processes including creating and updating telework agreements, preparing for employee offboarding and creating performance plans based on GSA OHRM recommendations.
-  - Objective #2: You will provide coaching, mentorship, and professional development opportunities; support employee well-being of People Operations team
+  - You will provide coaching, mentorship, and professional development opportunities; support employee well-being of People Operations team
     - Create a work environment that fosters trust, respect, and collaboration, since the best work comes from including diverse skill sets and backgrounds on the project. Uphold TTS values of inclusion, integrity, and impact. 
     - Steward the team’s professional development, including identification of appropriate training, developmental assignments, and/or details. Incorporate equity and inclusion into plans for staff development, retention, training, speaking events, and experiential learning opportunities. 
     - Encourage teamwork and a collaborative approach to problem solving.
     - Promote transparency in how decisions are made. Regularly include others in planning and decision-making. 
     - Provide coaching, mentoring, and sponsorship to others in the organization, tailoring approaches to the needs of the individual. Work with individuals to identify and develop their strengths, helping team members pursue opportunities that enhance their talents.
-  - Objective #3:  You will establish trusting relationships with the TTS team and partner with GSA OHRM to develop a deep understanding of people-related resources, policies, and best practices that impact their team members
+  - You will establish trusting relationships with the TTS team and partner with GSA OHRM to develop a deep understanding of people-related resources, policies, and best practices that impact their team members
     - Embody the spirit of customer service and genuinely engage with all members of TTS.
     - Maintain consistent lines of communication with leaders, guilds, and affinity groups to understand the problems and challenges facing their members and partners.
     - Navigate complex bureaucracy, build coalitions, and lead stakeholders with disparate views through change.
