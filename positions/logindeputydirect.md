@@ -88,7 +88,7 @@ title: "Login.gov: Deputy Director GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-04-04
-closes: 2023-04-13
+closes: 2023-04-10
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
