@@ -70,6 +70,7 @@
 # a full name rather than an acronym. For example:
 #   - U.S. Digital Corps, not USDC
 #   - Presidential Innovation Fellows, not PIF
+# The exception to this is a TTS role, for which you can just say TTS. 
 #
 # NOTE: Be sure to leave the "title: " part at the beginning! These line
 # headings are how the site builder knows what the data is. For the rest of the
