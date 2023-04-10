@@ -5,7 +5,7 @@ title:  "Login.gov: Security Engineer Technical Expert - Security Operations"
 
 #🔻🔻🔻🔻🔻
 opens: 2023-04-03
-closes: 2023-04-10
+closes: 2023-04-11
 
 #🔻🔻🔻🔻🔻
 max applications: 400
