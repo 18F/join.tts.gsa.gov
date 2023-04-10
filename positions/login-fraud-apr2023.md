@@ -23,7 +23,7 @@ title: "Login.gov: Fraud Technical Expert"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-04-03
-closes: 2023-04-10
+closes: 2023-04-11
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
