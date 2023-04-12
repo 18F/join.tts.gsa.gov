@@ -87,8 +87,8 @@ title: "18F: Product Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-06-20
-closes: 2023-06-25
+opens: 2023-04-26
+closes: 2023-05-02
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -110,7 +110,7 @@ closes: 2023-06-25
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 400
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -345,7 +345,7 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience managing individuals 
+- Experience managing individuals who work in the technology space  
 - Experience leading a cross-functional or multidisciplinary team that provides or supports delivery of modern IT systems, software systems, or digital services
 - Experience supporting the overall planning, management, and direction of a program or business, or multiple projects or products
 - Experience building alignment with stakeholders 
