@@ -341,6 +341,7 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 - Experience leading and supervising a team of cross-functional professionals (i.e. marketing, outreach, UX, media relations, and visual and content design professionals) and advising Senior Executives in the technology field. 
 - Experience composing executive-level technology focused articles and/or speeches for different audiences (technical and non-technical), i.e: talking points, executive briefings, and/or official testimony.
 - Experience making data-informed decisions through the use of marketing tools (e.g. Google Analytics, Hootsuite, Trello, GovDelivery, Airtable and Google Adwords)
+- Experience establishing and maintaining effective working relationships to facilitate high level briefings, meetings and to gain consistency in decision making.
 
 
 
