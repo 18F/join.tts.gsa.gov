@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Director GS-15"
+title: "FedRAMP: Director GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -155,8 +155,8 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - You will oversee the growth of a dynamic FedRAMP marketYou will make it easier for federal agencies and cloud service providers to engage with FedRAMP.Build institutional expertise around product management.
-  - Share best practices and tools with your peers across the organization.
+  - You will oversee the growth of a dynamic FedRAMP marketplace of cloud service offerings.
+  - You will make it easier for federal agencies and cloud service providers to engage with FedRAMP.
   - You will sustain FedRAMP’s reputation as a trusted independent evaluator of cloud services for the federal enterprise.
 
 # If there are any info sessions associated with this position, list them here.
@@ -277,7 +277,6 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Describe the role here.
 The Director of FedRAMP is the principal leader and point of contact for the Federal Risk Management and Authorization Program. 
 
 The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. FedRAMP is a mission-critical public-private partnership that connects agency-based cybersecurity officers and private sector cloud service providers to provide secure cloud products that enable government technologists to efficiently serve the American public.  
