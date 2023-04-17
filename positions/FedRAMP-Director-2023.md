@@ -156,8 +156,19 @@ gs: 15
 #🔻🔻🔻🔻🔻
 key objectives:
   - You will oversee the growth of a dynamic FedRAMP marketplace of cloud service offerings.
+    - Act as primary steward of this marketplace and its governance, including relationships with industry, agency-based cybersecurity officers, experts in standards and compliance for federal IT, and the FedRAMP program management office staff. 
+    - Identify and understand the present and future needs of the federal enterprise, and create strategies to bring new technologies from cloud service providers into the federal marketplace to meet those needs. 
+    - Serve as the primary spokesperson for the FedRAMP program with both industry and government, representing the federal government’s cybersecurity needs across the commercial cloud sector.
+    - Oversee communications, marketing and positioning for the FedRAMP program, addressing audiences that include, GSA leadership, the official FedRAMP Advisory Committee, Congress, the White House, private industry and independent oversight bodies.
   - You will make it easier for federal agencies and cloud service providers to engage with FedRAMP.
+    - Oversee the pipeline of cloud service provider assessments that form the backbone of the program.
+    - Direct a cohesive program of enhancements for this pipeline that respond to cloud service provider and agency feedback, manage ever-evolving cybersecurity requirements, and support sound technological decision-making across the federal enterprise.
+    - Oversee the FedRAMP program staff who regularly engage with all aspects of the marketplace, and will develop and report on measures of marketplace reach, quality and efficiency for examination by FedRAMP stakeholders.
   - You will sustain FedRAMP’s reputation as a trusted independent evaluator of cloud services for the federal enterprise.
+    - Navigate the complex legal and policy environment and balance multiple, overlapping demands.
+    - Develop staff members for success in a rapidly evolving, high-stakes environment.
+    - Ensure that all program activities and assessments comply with all applicable standards and policies.
+- 
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
