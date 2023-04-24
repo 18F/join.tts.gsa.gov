@@ -1,7 +1,7 @@
 ---
 ################################################################################
 #                                                                              #
-# INSTRUCTIONS                                                                 #
+# INSTRUCTIONS: TTS JOB TEMPLATE                                               #
 #                                                                              #
 # -----------------------------------------------------------------------------#
 # If you are editing this file on GitHub, first make sure you are creating a   #
@@ -13,7 +13,7 @@
 # box. You will see the text join.tts.gsa.gov / [ Name your file ...] in main. #
 # Type your filename into that box.                                            #
 #                                                                              #
-# NOTE ABOUTE FILENAMES: Your filename should be descriptive about the job     #
+# NOTE ABOUT FILENAMES: Your filename should be descriptive about the job      #
 # posting that you're creating, and it MUST end with ".md". Don't stress out   #
 # about filenames too much, though. They are used for the URL, which can help  #
 # people make sure they're on the right page, but most users will probably not #
