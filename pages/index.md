@@ -53,7 +53,7 @@ permalink: /
             {% assign link_url = site.baseurl | append: job.url %}
           {% endif %}
           <li class="{% if info_sessions.size > 0 %}with-info-sessions{% endif %}">
-            {{ infosessions.size }}<a href="{{ link_url }}">{{ job.title }}</a>
+            <a href="{{ link_url }}">{{ job.title }}</a>
             (Open now through {{ job.closes | human_friendly }}{% if job["max applications"] > 0 %}, or when {{ job["max applications"] }} applications have been received{% endif %})
             {%- include info_sessions.html job=job %}
           </li>
