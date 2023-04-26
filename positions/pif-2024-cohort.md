@@ -110,7 +110,7 @@ closes:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
- - link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-5823-tickets-622447616577
+  - link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-5823-tickets-622447616577
     date: 2023-05-08
     time: 3:00pm - 4:00pm ET (12:00pm -1:00pm PT)
   - link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-51723-tickets-622561637617
