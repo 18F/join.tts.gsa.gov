@@ -1,0 +1,43 @@
+---
+permalink: jobs.json
+layout: raw
+---
+{% comment %}
+This file produces a JSON file representing all positions that currently show up
+on the front page of join.tts.gsa.gov. This is effectively a TTSJobs API. It is
+used by the TTS Handbook to populate the TTSJobs page there as well, so please
+make sure that any changes here are reflected there as well!
+{% endcomment %}
+
+{%- assign list = "" | split: "," -%}
+{%- for page in site.pages -%}
+{%- assign bits = page["path"] | split: "/" -%}
+{%- if bits[0] == "positions" -%}
+  {%- assign list = list | push: page -%}
+{%- endif -%} {%- endfor -%}
+[
+  {% for item in list %}
+    {%- assign max = item["max applications"] | plus: 0 -%}
+    {%- assign status = item | job_posting_status %}
+    {%- assign text = "" -%}
+    {%- if status == "open" %}
+      {%- capture text -%}
+        This role is open for applications until {{ item["closes"] | human_friendly }}, at 11:59 pm ET{% if max > 0 %} OR{{ max }} applications have been received{% endif %}.
+      {%- endcapture -%}
+    {%- endif -%}
+
+    {
+      "url": "{{ site.url }}{{ item["url"] }}",
+      "title": "{{ item["title"] }}",
+      "status": "{{ status }}",
+      "name": "{{ item["name"] }}",
+      "opens": "{{ item["opens"] }}",
+      "closes": "{{ item["closes"] }}",
+      "max applications": {{ max }},
+      "text": "{{ text }}"
+    }
+    {%- if forloop.rindex > 1 -%}
+    ,
+    {%- endif -%}
+  {%- endfor %}
+]
