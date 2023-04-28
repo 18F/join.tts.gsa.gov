@@ -88,7 +88,7 @@ title: "18F: Engineering Director GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-04-26
-closes: 2023-05-02
+closes: 2023-04-27
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
