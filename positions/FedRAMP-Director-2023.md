@@ -323,11 +323,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience leading the overall planning, management, oversight and direction of a highly complex digital program, product or business.
-- Experience supervising teams working on cybersecurity or cloud technology products.
-- Experience representing an organization or product, and building alignment with a complex network of internal/external stakeholders, customers and partners.
-- Experience in communicating complex security or technical materials to broad audiences.
-- Experience with technical knowledge related to cloud technologies and cybersecurity principles.
+- Leading the overall planning, management, oversight and direction of a highly complex digital program, product or business.
+- Supervising teams working on cybersecurity or cloud technology products.
+- Building alignment with a complex network of internal/external stakeholders, customers and partners.
+- Communicating complex security or technical materials to broad audiences.
+- Technical knowledge related to cloud technologies and cybersecurity principles.
 - Experience with industry or government accreditation or compliance programs and/or standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
 
 
