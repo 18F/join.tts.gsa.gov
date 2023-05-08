@@ -158,20 +158,20 @@ key objectives:
   - Lead Login.gov partnerships organization to support and expand the Login.gov program
     - Lead the Login.gov partnerships organization to develop and execute a strategy to expand Login.gov usage throughout the government. 
     - Develop and design organizational structures and practices to enable execution by individual business units under Login.gov partnerships. 
-    - Develop and execute policies, plans, and initiatives to ensure effective growth, continual development, and sustainment of the Login.gov program
+    - Develop and execute policies, plans, and initiatives to ensure effective growth, continual development, and sustainment of the Login.gov program.
     - Identify and remove barriers to achieving the desired change, developing an operational roadmap, and maintaining high-quality, strong delivery.
     - Develop staffing plans to ensure that Login.gov’s delivery organization has the right staff in place to deliver on key product and program initiatives. 
     - Supervisor for Login.gov employees in account management, communications and user support.
-    - Oversee team responsible for analyzing and reporting on contact center performance, including call volumes and resolution rates
-    - Oversee team responsible for agency support
-    - Collaborate with other departments to ensure data and trends from the contact center inform product delivery decisions 
+    - Oversee team responsible for analyzing and reporting on contact center performance, including call volumes and resolution rates.
+    - Oversee team responsible for agency support.
+    - Collaborate with other departments to ensure data and trends from the contact center inform product delivery decisions. 
   -  Develop Login.gov’s public presence in government and the digital identity ecosystem
-    - Develop and execute a comprehensive communications strategy
-    - Build and manage a team of communication professionals to ensure the delivery of high-quality and efficient communications
-    - Serve as a primary spokesperson for Login.gov including partner engagements, supporting TTS Outreach with media and congressional inquiries, and external reporting
-    - Find and execute opportunities for thought leadership for the Login.gov program
-  -   Apply data driven sales and marketing practices to onboard new partners to Login.gov
-    - Oversee the development and implementation of sales management processes – pipeline, account planning, and partner integrations in order to scale revenue.
+    - Develop and execute a comprehensive communications strategy.
+    - Build and manage a team of communication professionals to ensure the delivery of high-quality and efficient communications.
+    - Serve as a primary spokesperson for Login.gov including partner engagements, supporting TTS Outreach with media and congressional inquiries, and external reporting.
+    - Find and execute opportunities for thought leadership for the Login.gov program.
+  -   Apply data driven sales and marketing practices to onboard new partners to Login.gov.
+    - Oversee the development and implementation of sales management processes, pipeline, account planning, and partner integrations in order to scale revenue.
     - Develop data driven strategies and meet customer challenges, and share insights with the product delivery team.
     - Collect and evaluate qualitative and quantitative metrics to assess pipeline health and identify opportunities. 
     - Establish both short-term results and long-term strategy, including revenue forecasting.
@@ -228,7 +228,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Program Manager GS15
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
