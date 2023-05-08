@@ -79,7 +79,7 @@ title: "Presidential Innovation Fellows: Presidential Innovation Fellow GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens:
+opens: 2023-05-15
 closes:
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
