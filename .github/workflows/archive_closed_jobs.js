@@ -8,7 +8,7 @@ const _path = require("path");
 // we can say the two are basically the same thing.
 const exists = async (path) => {
   try {
-    await fs.access(path);
+    await _fs.access(path);
     return true;
   } catch (e) {
     return false;
@@ -55,8 +55,9 @@ const runArchiver = async ({ core, fs = _fs, path = _path }) => {
     const archivePath = await (async () => {
       const archiveBase = path.join("archive", path.basename(pathname));
       let archivePath = archiveBase;
-      let offset = 1;
+      let offset = 0;
       while (await exists(archivePath)) {
+        offset++;
         archivePath = `${archiveBase}_${offset}`;
       }
       return archivePath;
