@@ -4,7 +4,6 @@ on:
   schedule:
     # 1000 UTC will always be after midnight ET.
     - cron: 0 10 * * *
-  pull_request:
 
 jobs:
   archive:
