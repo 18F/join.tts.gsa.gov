@@ -18,7 +18,7 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      
+
       # We need to build the site first because that will produce the JSON file
       # we need as well as the rendered jobs pages that we might need to add to
       # the archive.
@@ -49,7 +49,7 @@ jobs:
       #    the file as the PR body.
       # 6. Create a pull request from the archiver/auto branch into main. If a
       #    PR already exists for that source/target, this command will fail, but
-      #    in that case we don't care because the PR will have been updated in 
+      #    in that case we don't care because the PR will have been updated in
       #    step 4. So to keep this workflow from failing, we throw a "|| true"
       #    on the end of the command. This ensures the command never fails.
       # 7. Set the PR to auto-merge. This is just a convenience, but it's nice.
