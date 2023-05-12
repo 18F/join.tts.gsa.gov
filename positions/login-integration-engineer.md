@@ -108,7 +108,7 @@ closes: 2023-07-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 
+max applications: 250
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
