@@ -1,3 +1,4 @@
+---
 # INSTRUCTIONS: TTS JOB TEMPLATE                                               #
 #                                                                              #
 # -----------------------------------------------------------------------------#
@@ -323,4 +324,6 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
 
 ## How to Apply
+
+{% include job/apply_button.html %}
 
