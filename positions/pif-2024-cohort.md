@@ -80,7 +80,7 @@ title: "Presidential Innovation Fellows: Presidential Innovation Fellow GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-05-15
-closes:
+closes: 2023-06-23
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
