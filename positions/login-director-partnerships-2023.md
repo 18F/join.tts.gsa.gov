@@ -88,8 +88,8 @@ title: "Login.gov: Partnerships Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-06-01
-closes: 2023-06-22
+opens: 2023-07-01
+closes: 2023-07-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -189,9 +189,9 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: 
-    date: 
-    time: 
+  - link: https://www.eventbrite.com/e/logingov-information-session-may-23-2023-1230-pm-et-tickets-637360350967 
+    date: 2023-05-23
+    time: 12:30-1:30pm ET (9:30-10:30am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
