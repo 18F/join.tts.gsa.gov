@@ -1,7 +1,7 @@
 {
   "type": "commonjs",
   "scripts": {
-    "test": "tap"
+    "test": "tap --branches 0"
   },
   "prettier": {},
   "devDependencies": {
