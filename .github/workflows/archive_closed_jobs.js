@@ -1,14 +1,14 @@
 const _fs = require("fs/promises");
-const _path = require("path");
+const path = require("path");
 
 // Checks if a path exists. Can be a directory or a file. Not STRICTLY a check
 // that the path exists, but rather than the calling user has permission to
 // access it. If it doesn't exist, the user won't have access. Since in this
 // context, our "user" has access to all the paths that we might be checking,
 // we can say the two are basically the same thing.
-const exists = async (path) => {
+const exists = async (pathToCheck, { fs }) => {
   try {
-    await _fs.access(path);
+    await fs.access(pathToCheck);
     return true;
   } catch (e) {
     return false;
@@ -19,9 +19,8 @@ const exists = async (path) => {
 // Actions toolkit core:
 //   https://github.com/actions/toolkit/tree/main/packages/core
 //
-// fs and path are provided here as injected dependencies in case we decide we
-// need to write tests for this function.
-const runArchiver = async ({ core, fs = _fs, path = _path }) => {
+// fs is provided here as injected dependency for test mocking.
+const runArchiver = async ({ core, fs = _fs }) => {
   // The jobs.json file is created by Jekyll during the build. It
   // contains a list of all the jobs currently in the /positions
   // folders. The jobs are structued like this:
@@ -56,7 +55,7 @@ const runArchiver = async ({ core, fs = _fs, path = _path }) => {
       const archiveBase = path.join("archive", path.basename(pathname));
       let archivePath = archiveBase;
       let offset = 0;
-      while (await exists(archivePath)) {
+      while (await exists(archivePath, { fs })) {
         offset++;
         archivePath = `${archiveBase}_${offset}`;
       }
