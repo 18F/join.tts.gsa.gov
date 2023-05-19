@@ -87,8 +87,8 @@ title: "TTS: People Operations Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-06-19
-closes: 2023-06-24
+opens: 2023-05-22
+closes: 2023-05-26
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -192,7 +192,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/727082600
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
