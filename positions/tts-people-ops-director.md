@@ -88,7 +88,7 @@ title: "TTS: People Operations Director GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-05-22
-closes: 2023-05-26
+closes: 2023-05-23
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
