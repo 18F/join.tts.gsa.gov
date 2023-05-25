@@ -30,15 +30,15 @@ subnav:
 
 The federal hiring process differs from industry and private-sector hiring. Federal hiring often takes longer than industry and requires specific actions. When applying for jobs at TTS, the expected duration of each step of the hiring process is as follows:
 
-- Application collection- 5 business days
-- Resume qualification- 14 to 21 days
-- Interviews- 30 days
-- Offer and security- 50 to 80 days
-- Total from application to start- 99 to 136 days
+- Application collection - 5 business days or until an application cap is met
+- Resume qualification - 14 to 21 days
+- Interviews - 30 days
+- Offer and security - 50 to 80 days
+- Total from application to start - 99 to 136 days
 
 ## Information Sessions
 
-TTS hosts monthly general hiring info sessions and role-specific sessions for upcoming or newly-opened roles. At our general sessions, candidates learn about working at TTS, what kinds of roles we hire for, and more about the application process. Our role-specific info sessions briefly cover some of the same information and offer a chance to hear directly from the hiring team about the vision for the role and what a day-in-the-life might actually look like. Candidates have an opportunity  to ask us questions about the application process, the work, and the team culture. 
+TTS hosts monthly general hiring information sessions and role-specific sessions for upcoming or newly-opened roles. At our general sessions, candidates learn about working at TTS, what kinds of roles we hire for, and more about the application process. Our role-specific info sessions briefly cover some of the same information and offer a chance to hear directly from the hiring team about the vision for the role and what a day-in-the-life might actually look like. Candidates have an opportunity  to ask us questions about the application process, the work, and the team culture. 
 TTS does not conduct one-on-one conversations with candidates about roles to ensure an equitable hiring process. Please attend one of our public information sessions for these details.
 
 A list of upcoming information sessions can be found on the [JoinTTS
@@ -56,7 +56,7 @@ When you apply for a role at TTS, you are required to submit a [government-style
 
 The interview process typically takes about a month, with approximately 3-4 interview rounds. The first round is a 30-60 minute preliminary screen by phone or video. During this call, plan to talk briefly about your skills, experience, and professional passion. We’ll share more information about the role, the team, and the opportunity.
 
-If you advance past the preliminary screen, we’ll invite you to a series of formal video interviews with various TTS team members. During these longer conversations, we will discuss your past work experience and how your skills and knowledge apply to TTS. Some positions may require a technical interview such as a coding exercise or leadership/collaboration interview before moving forward to the final round of interviews. 
+If you advance past the preliminary screen, we’ll invite you to a series of formal video interviews with various TTS team members. During these longer conversations, we will discuss your past work experience and how your skills and knowledge apply to TTS. Some positions may require a technical interview such as a coding exercise or leadership and collaboration interview before moving forward to the final round of interviews. 
 
 The final round of interviews always include a TTS Core Values interview which is intended to evaluate candidate alignment with [the organization’s values](https://handbook.tts.gsa.gov/about-us/tts-history/#our-values).
 
