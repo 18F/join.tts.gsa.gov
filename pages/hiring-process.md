@@ -28,7 +28,7 @@ subnav:
 
 {{ sidenav }} TTS is proud to be an equal opportunity employer and to build a workforce that reflects the diversity of the citizens that we serve. We invite all eligible United States citizens and nationals (residents of American Samoa and Swains Islands) to apply to work at TTS. 
 
-The federal hiring process differs from industry and private-sector hiring. Federal hiring often takes longer than industry and requires specific actions. When applying for jobs at TTS, the expected duration of each step of the hiring process is as follows:
+The federal hiring process differs from industry and private-sector hiring. Federal hiring often takes longer than industry and requires specific actions. Here is an expected timeline of the hiring process at TTS:
 
 - Application collection - 5 business days or until an application cap is met
 - Resume qualification - 2 to 3 weeks
@@ -38,7 +38,7 @@ The federal hiring process differs from industry and private-sector hiring. Fede
 
 ## Information Sessions
 
-TTS hosts monthly general hiring information sessions and role-specific sessions for upcoming or newly-opened roles. At our general sessions, candidates learn about working at TTS, what kinds of roles we hire for, and more about the application process. Our role-specific info sessions briefly cover some of the same information and offer a chance to hear directly from the hiring team about the vision for the role and what a day-in-the-life might actually look like. Candidates have an opportunity  to ask us questions about the application process, the work, and the team culture. 
+TTS hosts monthly general hiring information sessions and role-specific sessions for upcoming or newly-opened roles. At our general sessions, candidates learn about working at TTS, what types of roles we hire for, and more about the application process. Our role-specific info sessions briefly cover some of the same information and offer a chance to hear directly from the hiring team about the vision for the role and what a day-in-the-life might actually look like. Candidates have an opportunity  to ask us questions about the application process, the work, and the team culture. 
 TTS does not conduct one-on-one conversations with candidates about roles to ensure an equitable hiring process. Please attend one of our public information sessions for these details.
 
 A list of upcoming information sessions can be found on the [JoinTTS
@@ -60,7 +60,7 @@ If you advance past the preliminary screen, we’ll invite you to a series of fo
 
 The final round of interviews always include a TTS Core Values interview which is intended to evaluate candidate alignment with [the organization’s values](https://handbook.tts.gsa.gov/about-us/tts-history/#our-values).
 
-We share copies of the interview guide, which includes the questions and interviewer names,  with candidates in advance of your interviews. Sharing questions in advance provides you a more informed interview experience so you can better understand what we’re looking for. 
+We share copies of the interview guide, which includes the questions and interviewer names, in advance of your interviews. Sharing questions in advance provides you a more informed interview experience so you can better understand what we’re looking for. 
 
 
 ### Interview Format
