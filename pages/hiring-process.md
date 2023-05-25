@@ -26,15 +26,15 @@ subnav:
     href: "#security-and-onboarding"
 ---
 
-{{ sidenav }} TTS is proud to build a workforce that reflects the diversity of the citizens that we serve. The TTS team is proud to be an equal opportunity employer. We invite all eligible United States citizens and nationals (residents of American Samoa and Swains Islands) to apply to work at TTS. 
+{{ sidenav }} TTS is proud to be an equal opportunity employer and to build a workforce that reflects the diversity of the citizens that we serve. We invite all eligible United States citizens and nationals (residents of American Samoa and Swains Islands) to apply to work at TTS. 
 
 The federal hiring process differs from industry and private-sector hiring. Federal hiring often takes longer than industry and requires specific actions. When applying for jobs at TTS, the expected duration of each step of the hiring process is as follows:
 
 - Application collection - 5 business days or until an application cap is met
-- Resume qualification - 14 to 21 days
-- Interviews - 30 days
-- Offer and security - 50 to 80 days
-- Total from application to start - 99 to 136 days
+- Resume qualification - 2 to 3 weeks
+- Interviews - 1 month
+- Offer and security - 2 to 3 months
+- Total from application to start - 3 - 5 months
 
 ## Information Sessions
 
