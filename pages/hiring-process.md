@@ -92,5 +92,5 @@ If you are identified as a strong candidate after the interviews, the hiring pro
 
 ### Security Clearance Documents
 
-All government positions require background checks. Most roles at TTS require a public trust position clearance, which may be more thorough than most private-sector background checks. The GSA HR will guide you through the process.
+All government positions require background checks. Most roles at TTS require a public trust position clearance, which may be more thorough than most private-sector background checks. GSA HR will guide you through the process.
 
