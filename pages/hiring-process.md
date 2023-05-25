@@ -34,7 +34,7 @@ The federal hiring process differs from industry and private-sector hiring. Fede
 - Resume qualification - 2 to 3 weeks
 - Interviews - 1 month
 - Offer and security - 2 to 3 months
-- Total from application to start - 3 - 5 months
+- Total from application to start - 3 to 5 months
 
 ## Information Sessions
 
