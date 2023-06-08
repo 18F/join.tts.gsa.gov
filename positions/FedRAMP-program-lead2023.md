@@ -161,7 +161,7 @@ key objectives:
     - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management.
     - Work with the team to set and meet quality standards for vulnerability management deliverables.
     - Make program evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure FedRAMP Vulnerability Management program complies with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508.
+    - Ensure FedRAMP Vulnerability Management program complies with federal regulations such as [Authority to Operate](https://csrc.nist.gov/glossary/term/authorization_to_operate), the [Paperwork Reduction Act](https://digital.gov/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/), and [Section 508](https://www.section508.gov/).
   - Work with agency partners to enable cybersecurity risk management
     - Work with partners and stakeholders to establish in-house Vulnerability Management program ownership and participation as part of the FedRAMP Continuous Monitoring Program.
     - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the identification and remediation of suspected and reported vulnerabilities and other cybersecurity issues.
