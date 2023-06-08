@@ -181,9 +181,7 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:    
-  - link: https://www.eventbrite.com/e/fedramp-director-information-session-tickets-631070547997
-    date: 2023-06-08
-    time: 1:00-2:00pm ET (10:00am -11:00am PT)
+
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
