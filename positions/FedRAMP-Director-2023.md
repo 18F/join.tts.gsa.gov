@@ -88,8 +88,8 @@ title: "FedRAMP: Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-05-01
-closes: 
+opens: 2023-06-09
+closes: 2023-06-16
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes:
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 200
+max applications: 250
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -180,11 +180,7 @@ key objectives:
 # The date is used to sort the info sessions on the page so they are shown
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
-info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-director-information-session-tickets-631046726747
-    date: 2023-06-01
-    time: 1:00-2:00pm ET (10:00am -11:00am PT)
-    
+info sessions:    
   - link: https://www.eventbrite.com/e/fedramp-director-information-session-tickets-631070547997
     date: 2023-06-08
     time: 1:00-2:00pm ET (10:00am -11:00am PT)
@@ -193,7 +189,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/728730800/preview
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
