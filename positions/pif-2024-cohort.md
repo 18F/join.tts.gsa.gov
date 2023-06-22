@@ -80,7 +80,7 @@ title: "Presidential Innovation Fellows: Presidential Innovation Fellow GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-05-15
-closes: 2023-06-23
+closes: 2023-07-07
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -125,7 +125,10 @@ info sessions:
   - link: https://www.eventbrite.com/e/presidential-innovation-fellows-application-information-session-61523-tickets-622713893017
     date: 2023-06-15
     time: 2:00pm - 3:00pm ET (11:00am - 12:00pm PT)
-
+  - link: https://www.eventbrite.com/e/presidential-innovation-fellows-pif-information-session-62923-tickets-664889862477
+    date: 2023-06-29
+    time: 12:00pm - 1:00pm ET (9:00am - 10:00am PT)
+    
 # Put the link to the PIF, USDC, or other site where the job description is 
 # located. This will point the user to that site rather than a posting on the
 # JoinTTS site.
