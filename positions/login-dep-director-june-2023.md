@@ -347,6 +347,7 @@ content in its place.
     - Celebrate Login.gov members’ skills and successes.
     - Represent the Login.gov program externally at conferences and other events
     - Work directly with stakeholders internal and external to Login, TTS, and GSA to further objectives of the Login.gov program.
+      
 ## Qualifications
 
 Provide as much detail as possible on your resume so that we can evaluate your
