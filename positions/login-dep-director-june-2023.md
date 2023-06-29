@@ -155,7 +155,7 @@
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - 1. Lead Delivery of Login.gov products and programs
+  - Lead Delivery of Login.gov products and programs
     - Serve as the supervisor accountable for development and delivery of the Login.gov product roadmap, leveraging multiple inputs from customers, users, programmatic and financial stakeholders, industry experts, and program staff.
     - Identifying and removing barriers to developing a product roadmap, and maintaining high-quality, strong processes to execute on that roadmap.
     - Develop and design organizational structures and practices to enable engineering, product development and user experience excellence, following industry best practices.
@@ -163,14 +163,14 @@ key objectives:
     - Develop staffing plans to ensure that Login.gov’s delivery organization has the right staff in place to deliver on key product and program initiatives; interview and hire staff to meet these needs.
     - Develop and design organizational structures and practices to enable the delivery team to closely collaborate with critical supporting teams such as cybersecurity, anti-fraud and privacy.
     - Track and report on all product development initiatives.
- - 2. Lead a team of product and business professionals
+  - Lead a team of product and business professionals
     - Serves as a second-level supervisor for the Login.gov delivery organization, spanning product management, user experience and design, and full stack engineering.
     - Help the Login.gov delivery organization align on and adhere to shared processes, deliver results, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
     - Help Login.gov teams understand what success looks like. Work with Login.gov teams to regularly demonstrate our expertise and impact.
     - Help identify opportunities for professional growth and learning for Login.gov teams.
     - Help Login.gov branch chiefs develop themselves and their teams.
     - Apply performance management techniques to bring out the best in people; hold branch chiefs accountable for their results.
- - 3. Support and advise the Login.gov Director, leadership and the organization
+  - Support and advise the Login.gov Director, leadership and the organization
     - Work to strengthen Login.gov as a whole and continue to break down silos.
     - Contribute to the development of program goals and stakeholder alignment to those goals.
     - Develop strong working relationships between the delivery organization and other components of Login.gov.
