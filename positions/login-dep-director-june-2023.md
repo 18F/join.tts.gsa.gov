@@ -327,7 +327,7 @@ content in its place.
     - Develop and design organizational structures and practices to enable the delivery team to closely collaborate with critical supporting teams such as cybersecurity, anti-fraud and privacy.
     - Track and report on all product development initiatives.
       
- 3. Lead a team of product and business professionals
+ 2. Lead a team of product and business professionals
     
     - Serves as a second-level supervisor for the Login.gov delivery organization, spanning product management, user experience and design, and full stack engineering.
     - Help the Login.gov delivery organization align on and adhere to shared processes, deliver results, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
@@ -336,7 +336,7 @@ content in its place.
     - Help Login.gov branch chiefs develop themselves and their teams.
     - Apply performance management techniques to bring out the best in people; hold branch chiefs accountable for their results.
       
-  - Support and advise the Login.gov Director, leadership and the organization
+ 3. Support and advise the Login.gov Director, leadership and the organization
     
     - Work to strengthen Login.gov as a whole and continue to break down silos.
     - Contribute to the development of program goals and stakeholder alignment to those goals.
