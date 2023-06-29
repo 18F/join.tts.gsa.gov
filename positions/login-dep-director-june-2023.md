@@ -75,8 +75,8 @@
 # NOTE: Be sure to leave the "title: " part at the beginning! These line
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
-#🔻🔻🔻🔻🔻
-title: "Hiring Org: Login.gov Deputy Director GS15"
+#🔻🔻🔻🔻🔻 
+ title: "Login.gov Deputy Director GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "Hiring Org: Login.gov Deputy Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-08-01
-closes: 2023-08-22
+ opens: 2023-08-01
+ closes: 2023-08-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,18 +111,18 @@ closes: 2023-08-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+ max applications: 0
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: perm
+ appointment type: perm
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 15
+ gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -193,7 +193,7 @@ key objectives:
 # The date is used to sort the info sessions on the page so they are shown
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
-info sessions:
+ info sessions:
   - link: https://www.eventbrite.com/...
     
 
@@ -201,7 +201,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+ application link: https://usajobs.gov/job/apply/whatever
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -213,7 +213,7 @@ opens/closes dates at the top of this document
 If you do not want the closed/upcoming/open alert, delete the line below that
 says {% include job/status_alert.html %}
 🔻🔻🔻🔻🔻
-{% endcomment --------------------------------------------------------------- %}
+ {% endcomment --------------------------------------------------------------- %}
 
 {% include job/status_alert.html %}
 
