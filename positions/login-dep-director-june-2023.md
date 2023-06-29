@@ -155,31 +155,32 @@
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
- - Lead Delivery of Login.gov products and programs
-   - Serve as the supervisor accountable for development and delivery of the Login.gov product roadmap, leveraging multiple inputs from customers, users, programmatic and financial stakeholders, industry experts, and program staff.
-   - Identifying and removing barriers to developing a product roadmap, and maintaining high-quality, strong processes to execute on that roadmap.
-   - Develop and design organizational structures and practices to enable engineering, product development and user experience excellence, following industry best practices.
-   - Develop and execute policies, processes, plans, and initiatives to ensure effective growth, continual development, and sustainment of the Login.gov program.
-   - Develop staffing plans to ensure that Login.gov’s delivery organization has the right staff in place to deliver on key product and program initiatives; interview and hire staff to meet these needs.
-   - Develop and design organizational structures and practices to enable the delivery team to closely collaborate with critical supporting teams such as cybersecurity, anti-fraud and privacy.
-   - Track and report on all product development initiatives.
-- Lead a team of product and business professionals
-   - Serves as a second-level supervisor for the Login.gov delivery organization, spanning product management, user experience and design, and full stack engineering.
-   - Help the Login.gov delivery organization align on and adhere to shared processes, deliver results, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
-   - Help Login.gov teams understand what success looks like. Work with Login.gov teams to regularly demonstrate our expertise and impact.
-   - Help identify opportunities for professional growth and learning for Login.gov teams.
-   - Help Login.gov branch chiefs develop themselves and their teams.
-   - Apply performance management techniques to bring out the best in people; hold branch chiefs accountable for their results.
-- Support and advise the Login.gov Director, leadership and the organization
-   - Work to strengthen Login.gov as a whole and continue to break down silos.
-   - Contribute to the development of program goals and stakeholder alignment to those goals.
-   - Develop strong working relationships between the delivery organization and other components of Login.gov.
-   - Share information across Login.gov branches to improve the product offering.
-   - Work efficiently and effectively in our distributed culture. Look for ways to build relationships and be inclusive.
-   - Show thoughtful conflict-resolution and mediation skills.
-   - Celebrate Login.gov members’ skills and successes.
-   - Represent the Login.gov program externally at conferences and other events
-   - Work directly with stakeholders internal and external to Login, TTS, and GSA to further objectives of the Login.gov program.
+  - Lead Delivery of Login.gov products and programs 
+    - Serve as the supervisor accountable for development and delivery of the Login.gov product roadmap, leveraging multiple inputs from customers, users, programmatic and financial stakeholders, industry experts, and program staff. 
+    - Identifying and removing barriers to developing a product roadmap, and maintaining high-quality, strong processes to execute on that roadmap. 
+    - Develop and design organizational structures and practices to enable engineering, product development and user experience excellence, following industry best practices.
+    - Develop and execute policies, processes, plans, and initiatives to ensure effective growth, continual development, and sustainment of the Login.gov program.
+    - Develop staffing plans to ensure that Login.gov’s delivery organization has the right staff in place to deliver on key product and program initiatives; interview and hire staff to meet these needs.
+    - Develop and design organizational structures and practices to enable the delivery team to closely collaborate with critical supporting teams such as cybersecurity, anti-fraud and privacy.
+    - Track and report on all product development initiatives.
+  - Lead a team of product and business professionals 
+    - Serves as a second-level supervisor for the Login.gov delivery organization, spanning product management, user experience and design, and full stack engineering.
+    - Help the Login.gov delivery organization align on and adhere to shared processes, deliver results, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
+    - Help Login.gov teams understand what success looks like. Work with Login.gov teams to regularly demonstrate our expertise and impact.
+    - Help identify opportunities for professional growth and learning for Login.gov teams.
+    - Help Login.gov branch chiefs develop themselves and their teams.
+    - Apply performance management techniques to bring out the best in people; hold branch chiefs accountable for their results.  
+  - Support and advise the Login.gov Director, leadership and the organization
+    - Work to strengthen Login.gov as a whole and continue to break down silos.
+    - Contribute to the development of program goals and stakeholder alignment to those goals.
+    - Develop strong working relationships between the delivery organization and other components of Login.gov.
+    - Share information across Login.gov branches to improve the product offering.
+    - Work efficiently and effectively in our distributed culture. Look for ways to build relationships and be inclusive.
+    - Show thoughtful conflict-resolution and mediation skills.
+    - Celebrate Login.gov members’ skills and successes.
+    - Represent the Login.gov program externally at conferences and other events
+    - Work directly with stakeholders internal and external to Login, TTS, and GSA to further objectives of the Login.gov program.
+ 
 
 
 # If there are any info sessions associated with this position, list them here.
@@ -299,7 +300,12 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Describe the role here.
+Login.gov is the public’s one account for government, simplifying access to government benefits and services for members of the public by enabling them to reuse one secure account across government agencies, and improving the security of government systems by enabling agencies to leverage a shared technology service to provide strong authentication and identity verification services to their customers.
+
+The [Login.gov](https://login.gov/) Deputy Director is the primary advisor to the Login.gov Director on all matters pertaining to the  Login.gov product and experience. The Deputy’s primary responsibility is leading the Login.gov delivery organization (product, design, and engineering) to meet the goals set by the Login.gov program as a whole. In addition, in the Director’s absence the Deputy serves as Login.gov’s executive leader for overall Login.gov management and all matters pertaining to Login.gov, including delivery services, product development, policy development, and implementation of operating procedures, practices and management controls. 
+
+The Deputy represents and speaks for the Director on Login.gov initiatives and services with senior GSA officials, other top-level executives from public and private industry, federal agencies, Congressional representatives, the media and other public outlets.
+
 
 ## Key objectives
 
