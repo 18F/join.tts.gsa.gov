@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "United States Digital Corp: Fellow Experience Supervisor - Product Management GS14"
+title: "U.S. Digital Corp: Fellow Experience Supervisor - Product Management GS14"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -297,13 +297,9 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 The U.S. Digital Corps (USDC) is a new two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was launched in August 2021 by GSA in partnership with the White House, CISA, and OPM. USDC welcomed its first cohort of Fellows in 2022 and is in the process of bringing on its second cohort starting in July 2023.
-
 Key area of focus: Fellow Management, Support & Development
-
-A U.S. Digital Corps Product Fellow Supervisor directly supervises and coaches early-career technology Fellows focused on product management work; ensuring USDC Fellows are reaching their potential for impact. The USDC program places Fellows for 90% of their time on a high priority project at a placement agency; the remaining 10% of time is spent with the USDC Corps and is focused on coaching, learning, development, and participation in the USDC Community. Because of this structure, day to day management of Fellow’s work is done by the placement agency and each USDC Supervisor manages ~15-20 Fellows within their technical area of expertise, with support structures that vary depending on the needs of the fellows. As such, the majority of 1:1 time between Supervisor and Fellow is focused on Fellow coaching, growth, and support and not activities like tasking or reviewing project work.
-
+A U.S. Digital Corps Product Fellow Supervisor directly supervises and coaches early-career technology Fellows focused on product management work; ensuring USDC Fellows are reaching their potential for impact. The USDC program places Fellows for 90% of their time on a high priority project at a placement agency; the remaining 10% of time is spent with the USDC Corps and is focused on coaching, learning, development, and participation in the USDC Community. Because of this structure, day to day management of Fellow’s work is done by the placement agency and each USDC Supervisor manages approximately 15-20 Fellows within their technical area of expertise, with support structures that vary depending on the needs of the fellows. As such, the majority of 1:1 time between Supervisor and Fellow is focused on Fellow coaching, growth, and support and not activities like tasking or reviewing project work.
 Each U.S. Digital Corps Supervisor is a skilled Product Management technologist in their own right and uses their discipline specific knowledge, excellence in coaching & management, and ongoing engagements with USDC Fellows to inform the design and execute the delivery of the Product Fellow learning & development curriculum throughout the two year cohort experience. USDC Supervisors take the lead on USDC Product Track specific programming within their domain of expertise. 
-
 A USDC Supervisor also works closely with Agency partners to ensure that Fellows receive the structures and support to be successful while on placement with their Agency - starting before the Fellow begins work, through the fellowship period, and until the final permanent offboarding transfer to the Agency occurs.
 
 ## Key objectives
