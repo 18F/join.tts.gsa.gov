@@ -158,10 +158,6 @@ key objectives:
   - Provide product management coaching, mentorship, and professional development opportunities; support employee wellbeing for Digital Corps Fellows
     - Steward the Fellow’s personal professional development by identifying and providing appropriate training, developmental assignments, and/or support focusing on their specific discipline of product management.
     - Utilize previous experience as a product management practitioner and supervisor to: 
-     - Coach and mentor fellows on the techniques and methods of modern product discovery and product delivery
-     - Coach and mentor fellows on Agile methodologies and Product Ownership
-     - Coach and mentor fellows on figuring out solutions to hard problems with many constraints, using data-informed sound judgment to assess risks
-     - Coach and mentor fellows on how to engage with engineers, designers, and federal agency leaders in a constructive and collaborative manner.
     - Work with individuals to identify and develop their strengths, helping Fellows pursue opportunities that enhance their talents.
     - Engage regularly with your Fellows, as a Cohort group and in 1on1s, to provide mentorship and guidance, support, and help remove obstacles to their success.
     - Help design and implement cohort wide and track specific virtual and in-person learning and engagement experiences during the course of the fellowship. Incorporate equity and inclusion into training, speaking events, and experiential learning opportunities.
@@ -169,11 +165,6 @@ key objectives:
     - Ensure Fellows receive reasonable accommodations and that team events are accessible.
     - Research and Implement feedback systems between Fellows, agency placement leads, and the PMO to inform Fellow performance measurement, agency engagement, and PMO design and strategy.
     - Manage HR processes
-     - Support the onboarding of Fellows.
-     - Submit and approve timesheets and leave requests in HR Links every pay period for all direct reports
-     - Conduct and document employee performance plans, mid-year, and end-of-year performance evaluations.
-     - Ensure U.S. Digital Corps adheres to all Pathways Recent College Graduate requirements that pertain to Fellow support, learning & development, and mentorship.
-     - Facilitate Fellow career ladder and service changes; specifically promotions to GS-11 & GS-12 at the appropriate times within the fellowship and conversion from excepted to career service upon completion of the Recent Graduates portion of the fellowship.
   - Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills:
     - Fellowship Experience Management: Design, develop, and successfully manage the end to end Fellow experience and employee lifecycle -  from onboarding, to engagement/in-program support & performance management, to offboarding and conversion into permanent roles.
     - Learning and Development Programming: Identify and deliver appropriate and high quality professional, technical, and government specific learning & development opportunities to support early career technologist’s learning and growth needs.
@@ -182,14 +173,10 @@ key objectives:
     - Talent Program Operations: Design and execute processes and practices that support program consistency and quality talent outcomes.
   - Support the growth & development of the U.S. Digital Corps program and build stronger values-driven practices
     - Within the Fellow learning, development, and experience areas of focus:
-     - Research, develop, and encourage best practices. 
-     - Create space for experimentation and iteration.
     - Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
     - Support strategic outreach activities to include college fairs, professional conference, as speaking engagements
     - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
     - Uphold USDC & TTS values of inclusion, integrity, and impact. Champion diversity, equity, inclusion, and accessibility.
-     - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Incorporate diversity, equity, inclusion, and accessibility practices into project work.
-     - Identify power dynamics within teams and with partners, respond thoughtfully, and open space equitably among team members.
       
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
