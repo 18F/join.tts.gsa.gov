@@ -157,7 +157,7 @@ gs: 14
 key objectives:
   - Provide product management coaching, mentorship, and professional development opportunities; support employee wellbeing for Digital Corps Fellows
     - Steward the Fellow’s personal professional development by identifying and providing appropriate training, developmental assignments, and/or support focusing on their specific discipline of product management.
-    - Utilize previous experience as a product management practitioner and supervisor to: 
+    - Utilize previous experience as a product management practitioner and supervisor to\: 
     - Work with individuals to identify and develop their strengths, helping Fellows pursue opportunities that enhance their talents.
     - Engage regularly with your Fellows, as a Cohort group and in 1on1s, to provide mentorship and guidance, support, and help remove obstacles to their success.
     - Help design and implement cohort wide and track specific virtual and in-person learning and engagement experiences during the course of the fellowship. Incorporate equity and inclusion into training, speaking events, and experiential learning opportunities.
@@ -165,18 +165,19 @@ key objectives:
     - Ensure Fellows receive reasonable accommodations and that team events are accessible.
     - Research and Implement feedback systems between Fellows, agency placement leads, and the PMO to inform Fellow performance measurement, agency engagement, and PMO design and strategy.
     - Manage HR processes
-  - Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills:
-    - Fellowship Experience Management: Design, develop, and successfully manage the end to end Fellow experience and employee lifecycle -  from onboarding, to engagement/in-program support & performance management, to offboarding and conversion into permanent roles.
-    - Learning and Development Programming: Identify and deliver appropriate and high quality professional, technical, and government specific learning & development opportunities to support early career technologist’s learning and growth needs.
-    - Employee Support & Engagement: Create equitable, inclusive, accessible, engaging, and supportive teams or organizations.
-    - Partner Agency Management & Success: Maintain strong working relationships with partner agencies. Develop, and lead a shared support model with agency partners that ensures alignment, ongoing performance feedback, and mutual support for the Fellow during the fellowship period.
-    - Talent Program Operations: Design and execute processes and practices that support program consistency and quality talent outcomes.
+  - Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills\:
+    - Fellowship Experience Management\: Design, develop, and successfully manage the end to end Fellow experience and employee lifecycle -  from onboarding, to engagement/in-program support & performance management, to offboarding and conversion into permanent roles.
+    - Learning and Development Programming\: Identify and deliver appropriate and high quality professional, technical, and government specific learning & development opportunities to support early career technologist’s learning and growth needs.
+    - Employee Support & Engagement\: Create equitable, inclusive, accessible, engaging, and supportive teams or organizations.
+    - Partner Agency Management & Success\: Maintain strong working relationships with partner agencies. Develop, and lead a shared support model with agency partners that ensures alignment, ongoing performance feedback, and mutual support for the Fellow during the fellowship period.
+    - Talent Program Operations\: Design and execute processes and practices that support program consistency and quality talent outcomes.
   - Support the growth & development of the U.S. Digital Corps program and build stronger values-driven practices
-    - Within the Fellow learning, development, and experience areas of focus:
+    - Within the Fellow learning, development, and experience areas of focus\:
     - Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
     - Support strategic outreach activities to include college fairs, professional conference, as speaking engagements
     - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
     - Uphold USDC & TTS values of inclusion, integrity, and impact. Champion diversity, equity, inclusion, and accessibility.
+    
       
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -297,9 +298,13 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 The U.S. Digital Corps (USDC) is a new two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was launched in August 2021 by GSA in partnership with the White House, CISA, and OPM. USDC welcomed its first cohort of Fellows in 2022 and is in the process of bringing on its second cohort starting in July 2023.
+
 Key area of focus: Fellow Management, Support & Development
+
 A U.S. Digital Corps Product Fellow Supervisor directly supervises and coaches early-career technology Fellows focused on product management work; ensuring USDC Fellows are reaching their potential for impact. The USDC program places Fellows for 90% of their time on a high priority project at a placement agency; the remaining 10% of time is spent with the USDC Corps and is focused on coaching, learning, development, and participation in the USDC Community. Because of this structure, day to day management of Fellow’s work is done by the placement agency and each USDC Supervisor manages approximately 15-20 Fellows within their technical area of expertise, with support structures that vary depending on the needs of the fellows. As such, the majority of 1:1 time between Supervisor and Fellow is focused on Fellow coaching, growth, and support and not activities like tasking or reviewing project work.
+
 Each U.S. Digital Corps Supervisor is a skilled Product Management technologist in their own right and uses their discipline specific knowledge, excellence in coaching & management, and ongoing engagements with USDC Fellows to inform the design and execute the delivery of the Product Fellow learning & development curriculum throughout the two year cohort experience. USDC Supervisors take the lead on USDC Product Track specific programming within their domain of expertise. 
+
 A USDC Supervisor also works closely with Agency partners to ensure that Fellows receive the structures and support to be successful while on placement with their Agency - starting before the Fellow begins work, through the fellowship period, and until the final permanent offboarding transfer to the Agency occurs.
 
 ## Key objectives
