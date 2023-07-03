@@ -164,14 +164,12 @@ key objectives:
       - Coach and mentor fellows on figuring out solutions to hard problems with many constraints, using data-informed sound judgment to assess risks
       - Coach and mentor fellows on how to engage with engineers, designers, and federal agency leaders in a constructive and collaborative manner.
 
-  - ""
     - Work with individuals to identify and develop their strengths, helping Fellows pursue opportunities that enhance their talents.
     - Engage regularly with your Fellows, as a Cohort group and in 1on1s, to provide mentorship and guidance, support, and help remove obstacles to their success.
     - Help design and implement cohort wide and track specific virtual and in-person learning and engagement experiences during the course of the fellowship. Incorporate equity and inclusion into training, speaking events, and experiential learning opportunities.
     - Constructively address situations, issues, and behaviors. Initiate difficult conversations and clearly communicate corrective actions.
     - Ensure Fellows receive reasonable accommodations and that team events are accessible.
     - Research and Implement feedback systems between Fellows, agency placement leads, and the PMO to inform Fellow performance measurement, agency engagement, and PMO design and strategy.
-
 
       - Manage HR processes
       - Support the onboarding of Fellows. 
