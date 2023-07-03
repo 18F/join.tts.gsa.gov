@@ -219,7 +219,7 @@ Island). Subject to background check. {% include job/full_info_on_usajobs.html %
 
 **Supervisory status:** Not Supervisory
 
-**Job title:** {{ FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment }}
+**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
