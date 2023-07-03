@@ -154,7 +154,7 @@ gs: 13
 # The placeholder information below shows an example of how to format the key
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
-Key objectives:
+key objectives:
   - Own the product vision and lead end-to-end product/program development and management.
     - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
     - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
@@ -174,6 +174,7 @@ Key objectives:
     - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
     - Continually seek out new tools that could improve the way we work.
     - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
+
   
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -218,7 +219,7 @@ Island). Subject to background check. {% include job/full_info_on_usajobs.html %
 
 **Supervisory status:** Not Supervisory
 
-**Job title:** {{ page.title }}
+**Job title:** {{ FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
