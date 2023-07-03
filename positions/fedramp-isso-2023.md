@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Hiring Org: Position title"
+title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "Hiring Org: Position title"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 
-closes: 2023-02-22
+opens: 2023-12-26
+closes: 
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
