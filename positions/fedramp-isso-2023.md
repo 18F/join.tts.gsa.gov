@@ -230,7 +230,7 @@ on USAJOBS here.
 **Official title in USAJOBS:**
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 1
+**Number of vacancies:** 3
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
