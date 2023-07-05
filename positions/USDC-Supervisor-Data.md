@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "U.S. Digital Corp: Fellow Experience Supervisor Product Management GS14"
+title: "U.S. Digital Corps: Fellow Experience Supervisor Data Science and Analytics GS14"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
