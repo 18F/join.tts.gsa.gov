@@ -377,6 +377,6 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
 Submit a complete online application prior to Monday, July 24th, 2023, at 11:59 pm ET. Please fill out all applicable fields.
 
-Click [here](https://www.usajobs.gov/job/735637900) to apply
+Click [here](https://www.usajobs.gov/job/735637900) to apply.
 
 Need Assistance in applying or have questions regarding this job opportunity, please email the TTS Talent Team at jointts@gsa.gov.
