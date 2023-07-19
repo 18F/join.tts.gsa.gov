@@ -88,8 +88,8 @@ title: "Login.gov: Partnerships Director GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-07-21
-closes: 2023-07-22
+opens: 2023-07-20
+closes: 2023-07-21
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -197,7 +197,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/738242900/
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
