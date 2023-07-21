@@ -74,7 +74,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Login.gov: Integration Engineer GS15"
+title: "Login.gov: Integration Engineer/Solution Architect GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -86,8 +86,8 @@ title: "Login.gov: Integration Engineer GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-07-03
-closes: 2023-07-04
+opens: 2023-08-01
+closes: 2023-08-08
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
