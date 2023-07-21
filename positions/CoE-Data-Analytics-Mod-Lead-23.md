@@ -88,7 +88,7 @@ title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-07-21
+opens: 2023-08-21
 closes: 2023-08-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
