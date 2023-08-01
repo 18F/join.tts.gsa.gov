@@ -88,8 +88,8 @@ title: "U.S. Digital Corps: Fellow Experience Supervisor Data Science and Analyt
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-08-01
-closes: 2023-08-22
+opens: 2023-09-01
+closes: 2023-09-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
