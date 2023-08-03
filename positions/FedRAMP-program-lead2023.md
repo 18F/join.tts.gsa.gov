@@ -186,7 +186,7 @@ key objectives:
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: (https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator)
-    date: 2023-08-6
+    date: 2023-08-16
     time: 11:00-12:00pm ET (8:00am -9:00am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
