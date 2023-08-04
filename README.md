@@ -25,7 +25,7 @@ your custom job posting page.
 #### Dates
 
 - If you want to include the opening date of a job, you can write this into your
-  markdown to have it displayed nicely-formatted, based on the `opens` data
+  markdown to have it displayed nicely formatted, based on the `opens` data
   at the top of the file:
 
   ```liquid
