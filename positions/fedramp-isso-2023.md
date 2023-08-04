@@ -191,7 +191,6 @@ info sessions:
   - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
     date: 2023-08-16
     time: 11:00-12:00pm ET (8:00am-9:00am PT)
-info sessions:
   - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
     date: 2023-08-23
     time: 11:00-12:00pm ET (8:00am-9:00am PT)
