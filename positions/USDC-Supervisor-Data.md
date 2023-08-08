@@ -352,8 +352,14 @@ For each job on your resume, provide:
 
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
-Qualifications for this opportunity will be updated. 
+To qualify, you must have one (1) year of specialized experience at the next
+lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
+- Experience managing or supervising staff that provide or support delivery of modern IT product(s), platform(s), or service(s).
+- Experience leading the overall planning, management, and direction of a program or of projects.
+- Experience as a data science and analytics practitioner in a technical environment.
+- Experience with agile or iterative development methodologies.
+- Experience building relationships and alignment with partners and/or stakeholders.
 
 ## How to Apply
 
