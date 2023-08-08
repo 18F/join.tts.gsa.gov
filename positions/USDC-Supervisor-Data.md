@@ -353,7 +353,7 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
+lower GS-grade (or equivalent). Specialized experience is defined as follows
 
 - Experience managing or supervising staff that provide or support delivery of modern IT product(s), platform(s), or service(s).
 - Experience leading the overall planning, management, and direction of a program or of projects.
