@@ -209,9 +209,13 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
-    date: 2023-02-13
+  - link: https://www.eventbrite.com/e/us-digital-corps-supvr-data-science-prod-mgmt-gs14-info-sess-tickets-695453148087?aff=oddtdtcreator
+    date: 2023-08-15
     time: 1:30-2:30pm ET (10:30am -11:30am PT)
+
+     - link: https://www.eventbrite.com/e/us-digital-corps-supvr-data-science-prod-mgmt-gs14-info-sess-tickets-695463388717?aff=oddtdtcreator
+    date: 2023-08-17
+    time: 11:30-12:30pm ET (7:30am -8:30am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
