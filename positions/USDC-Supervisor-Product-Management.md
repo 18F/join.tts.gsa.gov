@@ -213,7 +213,7 @@ info sessions:
     date: 2023-08-15
     time: 2:30-3:30pm ET (11:30am -12:30pm PT)
 
-     - link: https://www.eventbrite.com/e/us-digital-corps-supvr-data-science-prod-mgmt-gs14-info-sess-tickets-695463388717?aff=oddtdtcreator
+  - link: https://www.eventbrite.com/e/us-digital-corps-supvr-data-science-prod-mgmt-gs14-info-sess-tickets-695463388717?aff=oddtdtcreator
     date: 2023-08-17
     time: 12:30-1:30pm ET (9:30am -10:30am PT)
 
