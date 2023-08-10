@@ -155,7 +155,7 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces
 #🔻🔻🔻🔻🔻
 key objectives:
-  - **Objective 1: Defining and deploying standards of practice for product management at TTS**
+  - Objective 1: Defining and deploying standards of practice for product management at TTS
 The Director of Product Management will work collaboratively with product development teams and organizational leadership and be responsible for setting the general approach to and standards of practice of the product management discipline at TTS. This includes defining the tools, methodologies, and artifacts used by product managers throughout the organization. 
 
 The director is also responsible for the rollout and adoption of these practices across the organization through a consultative partnership, and leverages the director’s subject matter expertise and data-driven approach to influence teams in a matrixed environment. In addition: 
