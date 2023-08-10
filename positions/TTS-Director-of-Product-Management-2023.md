@@ -152,9 +152,9 @@ gs: 15
 # indented the same amount so they line up.
 #
 # The placeholder information below shows an example of how to format the key
-# objectives. This example indents sub-bullets with two spaces:
+# objectives. This example indents sub-bullets with two spaces
 #🔻🔻🔻🔻🔻
-key objectives
+key objectives:
   - **Objective 1: Defining and deploying standards of practice for product management at TTS**
 The Director of Product Management will work collaboratively with product development teams and organizational leadership and be responsible for setting the general approach to and standards of practice of the product management discipline at TTS. This includes defining the tools, methodologies, and artifacts used by product managers throughout the organization. 
 
