@@ -155,7 +155,7 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - **Objective 1: Defining and deploying standards of practice for product management at TTS**
+  - Objective 1: Defining and deploying standards of practice for product management at TTS
     - Defining business processes for the intake of new product ideas and requests with internal and external stakeholders. This may also include implementation of toolsets that enable the organization, and communication of the TTS product and program landscape holistically. 
     - Establishing the evaluation criteria used by leadership to approve or reject new requests. These criteria will include assessing customer value, level of effort, financial viability, technical feasibility, total cost of ownership, and regulatory requirements. 
     - Creating methodologies for approved requests to be prioritized by development teams within their existing scope of work taking into account the needs of stakeholders and TTS’ overall organizational goals.
