@@ -302,7 +302,7 @@ content in its place.
 - **Objective 1: Defining and deploying standards of practice for product management at TTS**
 The Director of Product Management will work collaboratively with product development teams and organizational leadership and be responsible for setting the general approach to and standards of practice of the product management discipline at TTS. This includes defining the tools, methodologies, and artifacts used by product managers throughout the organization. 
 
-The director is also responsible for the rollout and adoption of these practices across the organization through a consultative partnership, and leverages the director’s subject matter expertise and data-driven approach to influence teams in a matrixed environment. In addition: 
+   The director is also responsible for the rollout and adoption of these practices across the organization through a consultative partnership, and leverages the director’s subject matter expertise and data-driven approach to influence teams in a matrixed environment. In addition: 
     - Ensuring product teams are co-designing with state and local governments, tribal nations, and community-based organizations (CBOs) supporting historically-marginalized communities and people with disabilities.
     - Continually promoteTTS’s values by making a strong case for iterative, user-centered design on every project.
 
