@@ -300,6 +300,7 @@ content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
  - **Objective 1: Defining and deploying standards of practice for product management at TTS**
+
 The Director of Product Management will work collaboratively with product development teams and organizational leadership and be responsible for setting the general approach to and standards of practice of the product management discipline at TTS. This includes defining the tools, methodologies, and artifacts used by product managers throughout the organization. 
 
 The director is also responsible for the rollout and adoption of these practices across the organization through a consultative partnership, and leverages the director’s subject matter expertise and data-driven approach to influence teams in a matrixed environment. In addition: 
@@ -309,6 +310,7 @@ The director is also responsible for the rollout and adoption of these practices
 
     
   - **Objective 2: Establishing and executing product portfolio management at TTS**
+
 Through TTS’ rapid growth, the scope of its products, programs, and stakeholders has become complex. The Director will practice consistent product portfolio management to moderate and manage this. In collaboration with TTS leadership, the director will establish the process and policies for the intake, evaluation, and prioritization of new product ideas and requests. This will involve:
 
     - Defining business processes for the intake of new product ideas and requests with internal and external stakeholders. This may also include implementation of toolsets that enable the organization, and communication of the TTS product and program landscape holistically. 
@@ -318,6 +320,7 @@ Through TTS’ rapid growth, the scope of its products, programs, and stakeholde
     - Executing and managing the operations of the portfolio management process once it is established. 
 
   - **Objective 3: Leading engagements with internal and external stakeholders**
+
 The Director of Product will be responsible for engaging with stakeholders of all kinds to promote TTS’ products and services along with advancing the organization’s goals and objectives. This may include:
 
     - Partnering with other program and product leaders within TTS to enable success for the entire organization 
@@ -325,6 +328,7 @@ The Director of Product will be responsible for engaging with stakeholders of al
     - Collaborating with other parts of GSA and other government agencies to expand the impact and potential of TTS’ products and services
 
   - **Objective 4: Advising TTS leadership on product-related strategies, practices, and policy**
+
 The director will be a key member of the delivery team and will work closely with the TTS Director, and Deputy Director along with front office advisors to realize the organization’s goals and objectives. It is expected that the director will:
 
     - Contribute meaningfully to discussions and take ownership of selected artifacts and deliverables for TTS’ product strategies, practices, and policies. These deliverables could be wide ranging and may involve decision memos, research reports, market analysis, and more. 
@@ -332,6 +336,7 @@ The director will be a key member of the delivery team and will work closely wit
     - Collaborating with other parts of GSA and other government agencies to expand the impact and potential of TTS’ products and services
 
   - **Objective 5: Hiring, training, and supervising a team to assist in delivering results**
+
 The Director will  hire, train, and supervise a team to advance the goals and objectives stated above. The team may include full-time federal employees, temporary contract personnel, and/or external consultants serving as subject matter experts. It is critical that the director be knowledgeable in management practices and capable of leading a team. Specific responsibilities include:
 
     - Collaborating with TTS talent acquisition, GSA human resources, and procurement to identify full-time and temporary staffing options and secure appropriately skilled talent
