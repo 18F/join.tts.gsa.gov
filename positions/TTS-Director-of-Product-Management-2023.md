@@ -152,15 +152,10 @@ gs: 15
 # indented the same amount so they line up.
 #
 # The placeholder information below shows an example of how to format the key
-# objectives. This example indents sub-bullets with two spaces
+# objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
   - **Objective 1: Defining and deploying standards of practice for product management at TTS**
-
-    
-  - **Objective 2: Establishing and executing product portfolio management at TTS**
-Through TTS’ rapid growth, the scope of its products, programs, and stakeholders has become complex. The Director will practice consistent product portfolio management to moderate and manage this. In collaboration with TTS leadership, the director will establish the process and policies for the intake, evaluation, and prioritization of new product ideas and requests. This will involve:
-
     - Defining business processes for the intake of new product ideas and requests with internal and external stakeholders. This may also include implementation of toolsets that enable the organization, and communication of the TTS product and program landscape holistically. 
     - Establishing the evaluation criteria used by leadership to approve or reject new requests. These criteria will include assessing customer value, level of effort, financial viability, technical feasibility, total cost of ownership, and regulatory requirements. 
     - Creating methodologies for approved requests to be prioritized by development teams within their existing scope of work taking into account the needs of stakeholders and TTS’ overall organizational goals.
