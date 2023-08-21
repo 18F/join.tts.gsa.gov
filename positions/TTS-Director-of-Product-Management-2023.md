@@ -169,7 +169,7 @@ key objectives:
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: https://www.eventbrite.com/...
-    date: 2023-02-13
+    date: 2023-02-07
     time: 1:30-2:30pm ET (10:30am -11:30am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
@@ -354,7 +354,14 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Qualifications will be updated soon
+- Experience developing successful product visions and strategies for digital products and services with a focus on the customer experience. 
+- Experience evaluating product feasibility (technical and business), customer value, and business impact with measurable outputs and outcomes
+- Experience leading interdisciplinary, cross-functional, geographically-distributed software development teams using agile software development processes and tools for the delivery of a clear product strategy 
+- Experience managing the interrelationships of software technologies and principles of architecture to ensure the successful deployment and integration of applications and platform
+- Experience managing technologists with varying degrees of experience through coaching, continual feedback, conflict resolution  and other managerial tools and best practices.  
+- Experience leading organizational change for the adoption and implementation of new technology related processes and tools leveraging industry accepted best practices
+- Experience successfully communicating digital technology product visions and plans internally and externally across multiple stakeholders while balancing conflicting priorities and interests
+
 
 
 ## How to Apply
