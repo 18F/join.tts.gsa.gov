@@ -89,7 +89,7 @@ title: "U.S. Digital Corps: Fellow Experience Supervisor Data Science and Analyt
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-08-21
-closes: 2023-09-22
+closes: 2023-09-01
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
