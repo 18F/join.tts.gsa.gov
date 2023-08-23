@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
+title: "18F: Product Director GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-11-21
-closes: 2023-11-22
+opens: 2023-08-07
+closes: 2023-08-09
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2023-11-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 400
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -155,23 +155,36 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Promote the adoption of modern technology and business practices through advice, recommendations, teaching, coaching, and knowledge sharing.
-    - Practice and enthusiastically share project management and agile methodologies throughout all stages of the project lifecycle.
-    - Deliver educational workshops to accelerate learning and adoption of agile principles and practices.
-    - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-    - Create compelling case studies on how users are benefiting from the CoE projects, providing a special focus on lessons learned.
-  - Practice an exceptional customer experience with all partners, providing a unique, tailored partner experience and solutions. 
-    - Explain products or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at.
-    - Empathetically guide our agency partners through requirements, standards, guidelines, administration priorities, compliance and security processes.
-    - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
-    - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentations.
-    - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
-  - Lead a customized Data and Analytics strategy service that enables optimal access to a partner agency data.
-    - Drive agency-wide and multi-agency IT modernization initiatives in the areas of data management, analytics, and data visualization.
-    - Advise senior executives on data management best practices, maturing organizational analytics portfolios, and on new developments and advanced techniques in data science.
-    - Lead and develop pilots, prototypes, and minimum viable products to demonstrate analytic products and solutions for customers. 
-    - Serve as a data and analytics subject matter expert through consulting with customers to determine requirements, explore solutions, and deliver high business impact solutions in an iterative, agile process.
-
+  - Develop and enable your team
+    - Define and communicate what high quality product management means at 18F, and provide the training and resources necessary for your supervisors and team to meet those standards.
+    - Communicate regularly with your team to provide mentorship and guidance in a variety of ways, and help remove obstacles to their success.
+    - Develop the supervisory people management capabilities of the Product Chapter, including growing supervisors’ skills in areas of performance management, employee development and career growth, and coaching others through difficult project situations.
+    - Develop the supervisory business management capabilities of the Product Chapter by breaking down 18F’s business needs into pieces of work that supervisors can learn to do and coaching supervisors through learning to do them effectively.
+    - Constructively address situations, issues, and behaviors. Initiate difficult conversations and clearly communicate corrective actions.
+    - Oversee employee performance plans and evaluations. Provide performance evaluations for supervisors and assist them in conducting and documenting performance evaluations for staff. Work with supervisors to determine support that might improve individuals’ wellbeing and mechanisms to provide that support.
+    - Collaborate with other members of 18F leadership to identify and support strategic training opportunities.
+    - Support supervisors in the onboarding of new product chapter staff.
+    - Ensure continued technical excellence in your chapter.
+    - Steward the chapter’s professional development by identifying appropriate training and developmental assignments. Incorporate equity, inclusion, and accessibility into training, speaking events, and experiential learning opportunities. Assist supervisors in tailoring approaches to individuals’ needs.
+  - Provide strategic leadership
+    - Set the vision for the 18F Product Chapter, aligning with 18F, TTS and GSA vision, goals, and values.
+    - Represent the chapter in the 18F Leadership Team and communicate information back to the chapter. Convey the needs, skills and capacity of the Product Chapter to the broader organization. Promote transparency in how decisions are made. Regularly include others in planning and decision-making
+    - Lead strategic 18F initiatives as determined by the leadership team and 18F director.
+    - Coordinate with other members of the 18F leadership team to develop guidance and organizational communication around hiring, business development, project support, performance evaluation, and more.
+    - Collect feedback to discuss successes and challenges, and share patterns and key feedback with the rest of 18F leadership.
+    - Craft strategic, data-driven hiring plans for the Product Chapter that align with 18F’s hiring strategy and trends in partner needs. Include sourcing strategies and interview practices to ensure a diverse candidate pool and inclusive hiring process. Ensure Equal Employment Opportunity (EEO) regulations are followed throughout recruitment, hiring, and selection processes.
+    - Set strategy for knowledge management such that key information is carried forward and key skills are learned, to ensure chapter resilience.
+    - Create a work environment that fosters trust, respect, and collaboration. Uphold TTS values of inclusion, integrity, and impact.
+    - Identify power dynamics; respond thoughtfully and create space for less dominant voices.
+    - Promote collective success and leadership growth among the chapter members. Plan and ensure there is time for collaborative decision-making; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
+    - Continue to iterate and improve on 18F and Product Chapter processes.
+    - Research, develop, and encourage best practices in the field of product management, and create space for experimentation and iteration.
+  - Build stronger 18F practices
+    - As part of 18F leadership, continue to align 18F on shared processes, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
+    - Help 18F project teams tell stories that document and demonstrate our expertise and impact.
+    - As part of 18F leadership, provide oversight of partner engagements and help members of the Product Chapter contribute meaningfully to partner and user success.
+    - Collaborate with the 18F Leadership Team and staffing leads to ensure projects are staffed with Product Chapter expertise to best meet the needs of partners as well as to support skills growth of team members.
+    - 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -192,7 +205,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/740717100
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -223,10 +236,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** Information Technology Specialist (SYSANALYSIS)
+**Official title in USAJOBS:** Supervisory IT Specialist
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 4
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -290,22 +303,13 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Technology Transformation Services (TTS), Centers of Excellence (CoE) is hiring for the role of GS-15 Data & Analytics Modernization Lead. This is an opportunity to make a huge difference in the lives of the public and other federal agencies.
+18F is an office of federal employees within the General Services Administration (GSA) that collaborates with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 18F is part of the Technology Transformation Services, which is within the Federal Acquisition Service.
 
-As part of GSA’s Technology Transformation Services, the Centers of Excellence (CoE) initiative accelerates IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation.
+18F envisions a country whose government consistently offers digital services that instill pride and trust, meet user needs, are secure, and are delivered quickly and at reasonable cost.
 
-The Centers of Excellence work primarily in six focus areas: Infrastructure Optimization, Cloud Adoption, Data & Analytics, Artificial Intelligence, Contact Centers, and Customer Experience. Our complementary work in strategic communications, change management, and performance management ensures these innovations can be successful and sustainable. We also work with partner agencies to enhance their ability to innovate so they can continuously modernize as opportunities and challenges emerge over time.
+We develop partnerships with agencies to help them deliver exceptional digital experiences that address their strategic initiatives. Through our work together, we also aim to strengthen government technology practices in ways that last beyond our formal partnerships. We effect change by practicing user-centered development, testing to validate hypotheses, shipping often, and deploying products in the open.
 
-As a  Data & Analytics Modernization Lead at the CoE, you will:
-  - help our agency partner make sense of the complex digital landscape and how technology and process modernization can benefit their programs and users. 
-  - establish and maintain trusted relationships with our agency partners, and set up engagements to be successful.
-  - coordinate cross-functional teams to deliver user-centered solutions to complex problems. 
-  - help our agency partners to develop their own capacity for continuous innovation. 
-  - offer a customized Data and Analytics strategic guidance that enables optimal access to agency data.
-  - employ industry best practices and data architectural principles to define the target state.
-  - develop well-defined implementation plans that include year-long projects, benefits and risks.
-
-Your expertise will help ensure the success of our government partners as they meet technology modernization challenges head on. 
+The 18F Product Director leads the 18F chapter focused on driving products from concept to delivery. 18F product managers are strategic thinkers who are skilled in defining a compelling vision, designing a measurable strategy to achieve it, and enabling cross-functional teams to deliver on it. As Product Director, you’ll support employee development, foster inclusion, belonging, and growth within your team; lead hiring for 18F’s Product chapter; coach supervisors as they work with their direct reports; set a vision for the chapter; and represent the Product chapter as a member of 18F leadership. In this role, you’ll help shape how 18F creates meaningful change for our partners, stakeholders, and the American public.
 
 ## Key objectives
 
@@ -337,11 +341,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience leading vision, direction, roadmap or leading the identification of user needs for a project, product, platform, or service.
-- Experience providing project or product leadership.
-- Experience with iterative or agile methodologies.
-- Experience leading cross-functional teams.
-- Experience collaborating with senior or executive stakeholders.
+- Experience managing individuals who work in the technology space
+- Experience leading a cross-functional or multidisciplinary team that provides or supports delivery of modern IT systems, software systems, or digital services
+- Experience supporting the overall planning, management, and direction of a program or business, or multiple projects or products
+- Experience building alignment with stakeholders
 
 
 ## How to Apply

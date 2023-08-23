@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
+title: "TTS: Director of Product Management"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-11-21
-closes: 2023-11-22
+opens: 
+closes: 2023-10-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2023-11-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 250
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -155,22 +155,6 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Promote the adoption of modern technology and business practices through advice, recommendations, teaching, coaching, and knowledge sharing.
-    - Practice and enthusiastically share project management and agile methodologies throughout all stages of the project lifecycle.
-    - Deliver educational workshops to accelerate learning and adoption of agile principles and practices.
-    - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-    - Create compelling case studies on how users are benefiting from the CoE projects, providing a special focus on lessons learned.
-  - Practice an exceptional customer experience with all partners, providing a unique, tailored partner experience and solutions. 
-    - Explain products or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at.
-    - Empathetically guide our agency partners through requirements, standards, guidelines, administration priorities, compliance and security processes.
-    - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
-    - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentations.
-    - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
-  - Lead a customized Data and Analytics strategy service that enables optimal access to a partner agency data.
-    - Drive agency-wide and multi-agency IT modernization initiatives in the areas of data management, analytics, and data visualization.
-    - Advise senior executives on data management best practices, maturing organizational analytics portfolios, and on new developments and advanced techniques in data science.
-    - Lead and develop pilots, prototypes, and minimum viable products to demonstrate analytic products and solutions for customers. 
-    - Serve as a data and analytics subject matter expert through consulting with customers to determine requirements, explore solutions, and deliver high business impact solutions in an iterative, agile process.
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -185,7 +169,7 @@ key objectives:
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: https://www.eventbrite.com/...
-    date: 2023-02-13
+    date: 2023-02-07
     time: 1:30-2:30pm ET (10:30am -11:30am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
@@ -223,10 +207,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** Information Technology Specialist (SYSANALYSIS)
+**Official title in USAJOBS:**
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 4
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -290,22 +274,19 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Technology Transformation Services (TTS), Centers of Excellence (CoE) is hiring for the role of GS-15 Data & Analytics Modernization Lead. This is an opportunity to make a huge difference in the lives of the public and other federal agencies.
+TTS has grown tremendously in the last few years to 24+ different products and services and over 500 employees. As a result, we need to update and implement new and consistent product management practices in order to meet the organization's size and complexity. It is essential that we mature our standards of practice for creating  product visions focused on customer experiences and value to the American public with strategies that result in predictable, reliable outputs and outcomes.
 
-As part of GSA’s Technology Transformation Services, the Centers of Excellence (CoE) initiative accelerates IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation.
+The  new TTS  Director Of Product Management will lead these efforts. This new position will report directly to the TTS Deputy Director. This vital role will determine the approach to developing strategies, roadmaps, and feature definitions for future products and platforms. The position also serves as an internal and external representative for TTS’ products and works directly with the greater TTS organization to better understand market needs and use of technologies. 
 
-The Centers of Excellence work primarily in six focus areas: Infrastructure Optimization, Cloud Adoption, Data & Analytics, Artificial Intelligence, Contact Centers, and Customer Experience. Our complementary work in strategic communications, change management, and performance management ensures these innovations can be successful and sustainable. We also work with partner agencies to enhance their ability to innovate so they can continuously modernize as opportunities and challenges emerge over time.
+The ideal candidate will encompass the following: 
 
-As a  Data & Analytics Modernization Lead at the CoE, you will:
-  - help our agency partner make sense of the complex digital landscape and how technology and process modernization can benefit their programs and users. 
-  - establish and maintain trusted relationships with our agency partners, and set up engagements to be successful.
-  - coordinate cross-functional teams to deliver user-centered solutions to complex problems. 
-  - help our agency partners to develop their own capacity for continuous innovation. 
-  - offer a customized Data and Analytics strategic guidance that enables optimal access to agency data.
-  - employ industry best practices and data architectural principles to define the target state.
-  - develop well-defined implementation plans that include year-long projects, benefits and risks.
+  - A strategic thinker who knows how to define compelling product visions based on rigorous and inclusive research and service design, designing a measurable strategy to achieve that vision, communicating the vision, and driving delivery against the strategy.
+  - An experienced leader who knows from successes and failures the best practices for product management and software development for digital products and network services
+  - An influential facilitator who knows how to effectively communicate and motivate cross-functional teams to build the right thing.
+  - A pragmatic detective comfortable with uncertainty and ambiguity using both quantitative and qualitative methods to evaluate the direction of products.
+  - An empathetic coach, teacher, and advocate who helps staff develop the skills to manage products.
+  - A knowledgeable champion for promoting greater equity and accessibility in the development of products and platforms
 
-Your expertise will help ensure the success of our government partners as they meet technology modernization challenges head on. 
 
 ## Key objectives
 
@@ -317,7 +298,43 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+- **Objective 1: Defining and deploying standards of practice for product management at TTS**
+The Director of Product Management will work collaboratively with product development teams and organizational leadership and be responsible for setting the general approach to and standards of practice of the product management discipline at TTS. This includes defining the tools, methodologies, and artifacts used by product managers throughout the organization. 
+
+  The director is also responsible for the rollout and adoption of these practices across the organization through a consultative partnership, and leverages the director’s subject matter expertise and data-driven approach to influence teams in a matrixed environment. In addition: 
+    - Ensuring product teams are co-designing with state and local governments, tribal nations, and community-based organizations (CBOs) supporting historically-marginalized communities and people with disabilities.
+    - Continually promoteTTS’s values by making a strong case for iterative, user-centered design on every project.
+
+    
+- **Objective 2: Establishing and executing product portfolio management at TTS**
+Through TTS’ rapid growth, the scope of its products, programs, and stakeholders has become complex. The Director will practice consistent product portfolio management to moderate and manage this. In collaboration with TTS leadership, the director will establish the process and policies for the intake, evaluation, and prioritization of new product ideas and requests. This will involve:
+    - Defining business processes for the intake of new product ideas and requests with internal and external stakeholders. This may also include implementation of toolsets that enable the organization, and communication of the TTS product and program landscape holistically. 
+    - Establishing the evaluation criteria used by leadership to approve or reject new requests. These criteria will include assessing customer value, level of effort, financial viability, technical feasibility, total cost of ownership, and regulatory requirements. 
+    - Creating methodologies for approved requests to be prioritized by development teams within their existing scope of work taking into account the needs of stakeholders and TTS’ overall organizational goals.
+    - Thoughtfully rolling out this new practice across the organization leveraging best practices in change management for successful adoption
+    - Executing and managing the operations of the portfolio management process once it is established. 
+
+- **Objective 3: Leading engagements with internal and external stakeholders**
+The Director of Product will be responsible for engaging with stakeholders of all kinds to promote TTS’ products and services along with advancing the organization’s goals and objectives. This may include:
+    - Partnering with other program and product leaders within TTS to enable success for the entire organization 
+    - Speaking at conferences and events to connect with government leaders and others in the civic technology space
+    - Collaborating with other parts of GSA and other government agencies to expand the impact and potential of TTS’ products and services
+
+- **Objective 4: Advising TTS leadership on product-related strategies, practices, and policy**
+The director will be a key member of the delivery team and will work closely with the TTS Director, and Deputy Director along with front office advisors to realize the organization’s goals and objectives. It is expected that the director will:
+    - Contribute meaningfully to discussions and take ownership of selected artifacts and deliverables for TTS’ product strategies, practices, and policies. These deliverables could be wide ranging and may involve decision memos, research reports, market analysis, and more. 
+    - Provide subject matter expertise in the areas of modern software development practices, research and development methodologies, and customer-experience / human-centered design. 
+    - Collaborating with other parts of GSA and other government agencies to expand the impact and potential of TTS’ products and services
+
+- **Objective 5: Hiring, training, and supervising a team to assist in delivering results**
+The Director will  hire, train, and supervise a team to advance the goals and objectives stated above. The team may include full-time federal employees, temporary contract personnel, and/or external consultants serving as subject matter experts. It is critical that the director be knowledgeable in management practices and capable of leading a team. Specific responsibilities include:
+    - Collaborating with TTS talent acquisition, GSA human resources, and procurement to identify full-time and temporary staffing options and secure appropriately skilled talent
+    - Hire and onboard team members with clear training plans and performance expectations that include annual performance goals for each role
+    - Assist in the development of individual career paths through identifying professional goals, development opportunities, and learning needs.
+    - Create a team culture of collaboration, inclusivity, and accountability
+    - Serve as a coach, mentor, and teacher to the team
+
+
 
 ## Qualifications
 
@@ -337,13 +354,17 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience leading vision, direction, roadmap or leading the identification of user needs for a project, product, platform, or service.
-- Experience providing project or product leadership.
-- Experience with iterative or agile methodologies.
-- Experience leading cross-functional teams.
-- Experience collaborating with senior or executive stakeholders.
+- Experience developing successful product visions and strategies for digital products and services with a focus on the customer experience. 
+- Experience evaluating product feasibility (technical and business), customer value, and business impact with measurable outputs and outcomes
+- Experience leading interdisciplinary, cross-functional, geographically-distributed software development teams using agile software development processes and tools for the delivery of a clear product strategy 
+- Experience managing the interrelationships of software technologies and principles of architecture to ensure the successful deployment and integration of applications and platform
+- Experience managing technologists with varying degrees of experience through coaching, continual feedback, conflict resolution  and other managerial tools and best practices.  
+- Experience leading organizational change for the adoption and implementation of new technology related processes and tools leveraging industry accepted best practices
+- Experience successfully communicating digital technology product visions and plans internally and externally across multiple stakeholders while balancing conflicting priorities and interests
+
 
 
 ## How to Apply
 
 {% include job/apply_button.html %}
+
