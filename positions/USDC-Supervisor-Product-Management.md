@@ -89,7 +89,7 @@ title: "U.S. Digital Corps: Fellow Experience Supervisor Product Management GS14
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-08-21
-closes: 2023-09-01
+closes: 2023-08-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
