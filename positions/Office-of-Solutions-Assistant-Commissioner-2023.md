@@ -352,11 +352,12 @@ on a clear demonstration that the applicant's training and experience are of the
 quality and level of responsibility sufficient to successfully perform the duties and r
 esponsibilities of this executive position.
 
+
 **MANDATORY TECHNICAL COMPETENCIES:**
 
-1. Demonstrated senior-level experience leading medium to large scale (100+) digital 
+**1. Demonstrated senior-level experience leading medium to large scale (100+) digital 
 technical organizations through the development and delivery of products and services 
-to end users (consumer or business). This experience must include:
+to end users (consumer or business). This experience must include:**
   - Defining and/or redefining product strategies and roadmaps based on newly discovered
   consumer or business needs based on data-driven insights and measured outcomes.
   - Delivering direct value to end users through software delivery or innovation,
@@ -364,9 +365,10 @@ to end users (consumer or business). This experience must include:
   improvement of a product or service in production.
   - Experience crafting or creating product vision, strategy or road maps.
   - Experience working with cross-functional teams.
-2. Demonstrated senior-level experience leading medium to large scale (100+) technical
+
+**2. Demonstrated senior-level experience leading medium to large scale (100+) technical
 organizations through the improvement of internal operational processes.
-This experience must include:
+This experience must include:**
   - Extensive experience in communicating/coordinating with internal and external
   stakeholders to negotiate and successfully implement program objectives.
   - Experience leading large cross-functional teams made up of senior-level product
@@ -379,14 +381,17 @@ This experience must include:
   process improvements (e.g. agile transformations) or structural realignments
   - Creating and delivering talent growth and development plans through a culture of
   continuous improvement that include succession planning for key positions.
-3. Demonstrated executive-level experience in managing the performance of medium to
+
+**3. Demonstrated executive-level experience in managing the performance of medium to
 large digital technology organizations (service providers, consulting).
-This experience must include:
+This experience must include:**
   - Collaborating with senior-level customers and/or stakeholders to define the
   strategy evaluating feasibility and opportunity while managing risk to arrive at a
   balanced portfolio of products and programs.
   - Providing oversight for operational management of business agreements, financial
   planning, hiring practices, stakeholder communications, and partner relationships.
+
+
 
 **EXECUTIVE CORE QUALIFICATIONS - ECQs:**
 
@@ -394,16 +399,20 @@ This experience must include:
 change, both within and outside the organization, to meet organizational goals. Inherent
 to this ECQ is the ability to establish an organizational vision and to implement it in
 a continuously changing environment.
+
 **2. Leading People:** This core qualification involves the ability to lead people toward
 meeting the organization's vision, mission, and goals. Inherent to this ECQ is the
 ability to provide an inclusive workplace that fosters the development of others,
 facilitates cooperation and teamwork, and supports constructive resolution of conflicts.
+
 **3. Results Driven:** This core qualification involves the ability to meet organizational
 goals and customer expectations. Inherent to this ECQ is the ability to make decisions
 that produce high-quality results by applying technical knowledge, analyzing problems,
 and calculating risks.
+
 **4. Business Acumen:** This core qualification involves the ability to manage human,
 financial, and information resources strategically.
+
 **5. Building Coalitions:** This core qualification involves the ability to build coalitions
 internally and with other Federal agencies, State and local governments, nonprofit and
 private sector organizations, foreign governments, or international organizations to achieve
