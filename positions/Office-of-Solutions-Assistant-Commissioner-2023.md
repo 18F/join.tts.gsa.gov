@@ -280,14 +280,9 @@ To use the autoomatic salary ranges, leave the lines as-is.
 
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-{% include job/salary_range.html min="" max="" %}
+{% include job/salary_range.html min="$141,022" max="$201,720" %}
 
-Your salary, including base and locality, will be determined upon selection,
-dependent on your actual duty location. Please note the maximum salary available
-for the GS pay system is $183,500. For specific details on locality pay, please
-visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)
-or for a salary calculator
-[OPM's 2023 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2023/general-schedule-gs-salary-calculator/). You can find more
+You can find more
 information in our
 [compensation and benefits section]({% link pages/compensation-and-benefits.md %}).
 
@@ -314,26 +309,27 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The Assistant Commissioner, Office of Solutions is responsible for supplying the 
+The Office of Solutions Assistant Commissioner is responsible for supplying the 
 federal government with the technology solutions (i.e., technology products, platforms, 
 and programs) it needs to meet the needs of the American public. The Assistant 
 Commissioner represents and speaks for the Deputy Director, TTS on technology 
 solutions initiatives and services with senior GSA officials, top level executives 
 from other federal agencies and the public and private sectors, Congressional 
 representatives, the news media and other public media outlets.
+
 The ideal candidate will encompass the following:
 
 - An experienced leader who knows from successes and failures the best practices in
-software development for digital products and network services
+software development for digital products and network service;
 - An influential facilitator who knows how to effectively communicate and motivate
-cross-functional teams 
+cross-functional teams; 
 - A strategic thinker able to define or redefine product strategies and roadmaps
 based on rigorous and inclusive research and service design, designing a measurable
 strategy to achieve that vision, communicating the vision, and driving delivery
-against the strategy.
+against the strategy;
 - A pragmatic detective comfortable with uncertainty and ambiguity using both
-quantitative and qualitative methods to evaluate the direction of products
-- An empathetic coach, teacher, and advocate who helps staff develop their skills 
+quantitative and qualitative methods to evaluate the direction of products;
+- An empathetic coach, teacher, and advocate who helps staff develop their skills. 
 
 
 ## Key objectives
@@ -358,17 +354,17 @@ esponsibilities of this executive position.
 
 **MANDATORY TECHNICAL COMPETENCIES:**
 
-- Demonstrated senior-level experience leading medium to large scale (100+) digital 
+1. Demonstrated senior-level experience leading medium to large scale (100+) digital 
 technical organizations through the development and delivery of products and services 
 to end users (consumer or business). This experience must include:
   - Defining and/or redefining product strategies and roadmaps based on newly discovered
-  consumer or business needs based on data-driven insights and measured outcomes
+  consumer or business needs based on data-driven insights and measured outcomes.
   - Delivering direct value to end users through software delivery or innovation,
   ensuring continuous discovery of business and user needs, or the operational
   improvement of a product or service in production.
   - Experience crafting or creating product vision, strategy or road maps.
   - Experience working with cross-functional teams.
-- Demonstrated senior-level experience leading medium to large scale (100+) technical
+2. Demonstrated senior-level experience leading medium to large scale (100+) technical
 organizations through the improvement of internal operational processes.
 This experience must include:
   - Extensive experience in communicating/coordinating with internal and external
@@ -382,33 +378,33 @@ This experience must include:
   - Experience leading strategic and tactical organizational change such as internal
   process improvements (e.g. agile transformations) or structural realignments
   - Creating and delivering talent growth and development plans through a culture of
-  continuous improvement that include succession planning for key positions
-- Demonstrated executive-level experience in managing the performance of medium to
+  continuous improvement that include succession planning for key positions.
+3. Demonstrated executive-level experience in managing the performance of medium to
 large digital technology organizations (service providers, consulting).
 This experience must include:
   - Collaborating with senior-level customers and/or stakeholders to define the
   strategy evaluating feasibility and opportunity while managing risk to arrive at a
-  balanced portfolio of products and programs
+  balanced portfolio of products and programs.
   - Providing oversight for operational management of business agreements, financial
   planning, hiring practices, stakeholder communications, and partner relationships.
 
 **EXECUTIVE CORE QUALIFICATIONS - ECQs:**
 
-1. Leading Change: This core qualification involves the ability to bring about strategic
+**1. Leading Change:** This core qualification involves the ability to bring about strategic
 change, both within and outside the organization, to meet organizational goals. Inherent
 to this ECQ is the ability to establish an organizational vision and to implement it in
 a continuously changing environment.
-2. Leading People: This core qualification involves the ability to lead people toward
+**2. Leading People:** This core qualification involves the ability to lead people toward
 meeting the organization's vision, mission, and goals. Inherent to this ECQ is the
 ability to provide an inclusive workplace that fosters the development of others,
 facilitates cooperation and teamwork, and supports constructive resolution of conflicts.
-3. Results Driven: This core qualification involves the ability to meet organizational
+**3. Results Driven:** This core qualification involves the ability to meet organizational
 goals and customer expectations. Inherent to this ECQ is the ability to make decisions
 that produce high-quality results by applying technical knowledge, analyzing problems,
 and calculating risks.
-4. Business Acumen: This core qualification involves the ability to manage human,
+**4. Business Acumen:** This core qualification involves the ability to manage human,
 financial, and information resources strategically.
-5. Building Coalitions: This core qualification involves the ability to build coalitions
+**5. Building Coalitions:** This core qualification involves the ability to build coalitions
 internally and with other Federal agencies, State and local governments, nonprofit and
 private sector organizations, foreign governments, or international organizations to achieve
 common goals.
