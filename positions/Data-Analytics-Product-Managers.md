@@ -155,36 +155,6 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Build or steward the product vision and lead end-to-end product development
-    - You are an experienced product manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to galvanize your team, whether that means generating a product vision and strategy with your team or helping agency partners articulate and focus their vision and strategy.
-      - Establish a vision and ensure all team members and stakeholders have a shared understanding of product objectives, goals, and metrics
-      - Analyze market demand and market fit, do competitive analysis, and guide build vs. buy or reuse approaches
-      - Create a product strategy and roadmap and develop a communications strategy supporting product goals
-      - Identify and proactively monitor and address product risks
-      - Lead or facilitate a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience
-      - Work with the team to set and meet quality standards for any product you build
-      - Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
-      - Energize and motivate the team by recognizing successes and learning from failures
-      - Ensure that products comply with federal regulations such as the 21st Century IDEA Act, the Federal Information Security Modernization Act (FISMA), and Section 508 of the Rehabilitation Act of 1973.
-  - Support agency partners in delivering results to the public
-    - As a product manager at TTS, you’ll uphold a modern product development mindset and make sure every project you touch is set up for sustained long-term success. As part of that, you’ll share your expertise and experience with your teammates and stakeholders in order to ensure that you are not a single point of success.
-      - Help partners understand how to deliver value, rather than features, to their users
-      - Help teammates and stakeholders navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy
-      - Advocate for and explain agile, open source, and user-centered principles so that teammates, stakeholders, and government partners understand the value these practices bring
-      - Improve the government’s product management capacity by coaching and mentoring more junior product managers
-      - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
-      - Work with teammates and stakeholders to develop communications strategies to sustain the product in the short and long term
-  - You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
-    - Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
-    - Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
-    - Meet the needs of internal and external customers
-    - Make well-informed, effective, and timely decisions
-    - Identify and analyze problems in a constructive manner
-    - Explain technical issues and concepts clearly to both technical and non-technical audiences
-  - Lead in your program area(s)
-    - While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Areas that contribute to the collective, cross-functional capabilities within TTS’s Data & Analytics Portfolio.
-      - **Data.gov** is the United States government's open data website. It provides access to datasets published by agencies across the federal government. Data.gov is intended to provide access to government open data to the public, achieve agency missions, drive innovation, fuel economic activity, and uphold the ideals of an open and transparent government. As an **Open Data Product Manager for Data.gov**, your responsibilities will include developing and maintaining a product strategy for Data.gov; ensuring alignment with broader federal open data efforts, the OPEN Government Data Act, and agency objectives and priorities. You will oversee the product design process, working closely with UX/UI Designers to create intuitive and user-friendly features for Data.gov, and managing the design and delivery of features such as data visualization tools, dashboards, and reporting systems. You will also be responsible for establishing and maintaining strong relationships with internal and external stakeholders; ensuring effective communication of product updates, progress, and performance. Represent Data.gov in interagency efforts addressing issues such as metadata schemas applicable to federal data.
-      - The **Feedback Analytics Program** develops and manages government-wide services that collect and report quantitative and qualitative customer feedback to aid service improvement and decision-making. This includes methods to evaluate progress toward achieving customer experience goals and inform continual improvements to service design and delivery. As a **Product Manager for Feedback Analytics**, you will be responsible for developing and maintaining a product strategy for Feedback Analytics products including the use cases served by Touchpoints, ensuring alignment with broader federal feedback and public experience initiatives, the 21st Century Digital Experience Act, and agency objectives and priorities. You will oversee the product design process, working closely with UX/UI Designers to create intuitive and user-friendly features for Feedback Analytics, and managing the design and delivery of features such as data visualization tools, dashboards, and reporting systems. You will also be responsible for establishing and maintaining strong relationships with internal and external stakeholders; ensuring effective communication of product updates, progress, and performance. Represent Feedback Analytics in interagency efforts addressing issues such as metadata schemas applicable to federal data.
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -334,7 +304,48 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+**1. Build or steward the product vision and lead end-to-end product development**
+You are an experienced product manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to galvanize your team, whether that means generating a product vision and strategy with your team or helping agency partners articulate and focus their vision and strategy.
+  - Establish a vision and ensure all team members and stakeholders have a shared understanding of product objectives, goals, and metrics
+  - Analyze market demand and market fit, do competitive analysis, and guide build vs. buy or reuse approaches
+  - Create a product strategy and roadmap and develop a communications strategy supporting product goals
+  - Identify and proactively monitor and address product risks
+  - Lead or facilitate a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience
+  - Work with the team to set and meet quality standards for any product you build
+  - Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
+  - Energize and motivate the team by recognizing successes and learning from failures
+  - Ensure that products comply with federal regulations such as the 21st Century IDEA Act, the Federal Information Security Modernization Act (FISMA), and Section 508 of the Rehabilitation Act of 1973.
+
+**2. Support agency partners in delivering results to the public**
+As a product manager at TTS, you’ll uphold a modern product development mindset and make sure every project you touch is set up for sustained long-term success. As part of that, you’ll share your expertise and experience with your teammates and stakeholders in order to ensure that you are not a single point of success.
+  - Help partners understand how to deliver value, rather than features, to their users
+  - Help teammates and stakeholders navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy
+  - Advocate for and explain agile, open source, and user-centered principles so that teammates, stakeholders, and government partners understand the value these practices bring
+  - Improve the government’s product management capacity by coaching and mentoring more junior product managers
+  - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
+  - Work with teammates and stakeholders to develop communications strategies to sustain the product in the short and long term
+
+**3. Achieve excellence in customer-centric technical leadership**
+You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
+  - Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
+  - Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
+  - Meet the needs of internal and external customers
+  - Make well-informed, effective, and timely decisions
+  - Identify and analyze problems in a constructive manner
+  - Explain technical issues and concepts clearly to both technical and non-technical audiences
+
+**4. Lead in your program area(s)**
+While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Areas that contribute to the collective, cross-functional capabilities within TTS’s Data & Analytics Portfolio.
+
+  - **Data.gov** is the United States government's open data website. It provides access to datasets published by agencies across the federal government. Data.gov is intended to provide access to government open data to the public, achieve agency missions, drive innovation, fuel economic activity, and uphold the ideals of an open and transparent government. As an **Open Data Product Manager for Data.gov**, your responsibilities will include:
+    - Developing and maintaining a product strategy for Data.gov; ensuring alignment with broader federal open data efforts, the OPEN Government Data Act, and agency objectives and priorities.
+    - Overseeing the product design process, working closely with UX/UI Designers to create intuitive and user-friendly features for Data.gov, and managing the design and delivery of features such as data visualization tools, dashboards, and reporting systems.
+    - Establishing and maintaining strong relationships with internal and external stakeholders; ensuring effective communication of product updates, progress, and performance. Represent Data.gov in interagency efforts addressing issues such as metadata schemas applicable to federal data.
+
+  - **Feedback Analytics Program** develops and manages government-wide services that collect and report quantitative and qualitative customer feedback to aid service improvement and decision-making. This includes methods to evaluate progress toward achieving customer experience goals and inform continual improvements to service design and delivery. As a **Product Manager for Feedback Analytics**, your responsibilities will include:
+    - Developing and maintaining a product strategy for Feedback Analytics products including the use cases served by Touchpoints, ensuring alignment with broader federal feedback and public experience initiatives, the 21st Century Digital Experience Act, and agency objectives and priorities.
+    - Overseeing the product design process, working closely with UX/UI Designers to create intuitive and user-friendly features for Feedback Analytics, and managing the design and delivery of features such as data visualization tools, dashboards, and reporting systems.
+    - Establishing and maintaining strong relationships with internal and external stakeholders; ensuring effective communication of product updates, progress, and performance. Represent Feedback Analytics in interagency efforts addressing issues such as metadata schemas applicable to federal data.
 
 ## Qualifications
 
