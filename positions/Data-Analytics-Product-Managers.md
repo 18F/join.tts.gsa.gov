@@ -210,7 +210,7 @@ on USAJOBS here.
 **Official title in USAJOBS:** IT Specialist - DATAMGT-INET
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 1
+**Number of vacancies:** 2
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -304,7 +304,7 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-**1. Build or steward the product vision and lead end-to-end product development**
+**1. Build or steward the product vision and lead end-to-end product development.**
 You are an experienced product manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to galvanize your team, whether that means generating a product vision and strategy with your team or helping agency partners articulate and focus their vision and strategy.
   - Establish a vision and ensure all team members and stakeholders have a shared understanding of product objectives, goals, and metrics
   - Analyze market demand and market fit, do competitive analysis, and guide build vs. buy or reuse approaches
@@ -316,7 +316,7 @@ You are an experienced product manager who can unite vision and execution to lea
   - Energize and motivate the team by recognizing successes and learning from failures
   - Ensure that products comply with federal regulations such as the 21st Century IDEA Act, the Federal Information Security Modernization Act (FISMA), and Section 508 of the Rehabilitation Act of 1973.
 
-**2. Support agency partners in delivering results to the public**
+**2. Support agency partners in delivering results to the public.**
 As a product manager at TTS, you’ll uphold a modern product development mindset and make sure every project you touch is set up for sustained long-term success. As part of that, you’ll share your expertise and experience with your teammates and stakeholders in order to ensure that you are not a single point of success.
   - Help partners understand how to deliver value, rather than features, to their users
   - Help teammates and stakeholders navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy
@@ -325,7 +325,7 @@ As a product manager at TTS, you’ll uphold a modern product development mindse
   - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
   - Work with teammates and stakeholders to develop communications strategies to sustain the product in the short and long term
 
-**3. Achieve excellence in customer-centric technical leadership**
+**3. Achieve excellence in customer-centric technical leadership.**
 You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
   - Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
   - Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
@@ -334,7 +334,7 @@ You’ll meet customer expectations, along with personal and organizational goal
   - Identify and analyze problems in a constructive manner
   - Explain technical issues and concepts clearly to both technical and non-technical audiences
 
-**4. Lead in your program area(s)**
+**4. Lead in your program area(s).**
 While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Areas that contribute to the collective, cross-functional capabilities within TTS’s Data & Analytics Portfolio.
 
   - **Data.gov** is the United States government's open data website. It provides access to datasets published by agencies across the federal government. Data.gov is intended to provide access to government open data to the public, achieve agency missions, drive innovation, fuel economic activity, and uphold the ideals of an open and transparent government. As an **Open Data Product Manager for Data.gov**, your responsibilities will include:
