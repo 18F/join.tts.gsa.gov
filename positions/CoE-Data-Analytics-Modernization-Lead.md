@@ -303,13 +303,13 @@ As part of GSA’s Technology Transformation Services, the Centers of Excellence
 The Centers of Excellence work primarily in six focus areas: Infrastructure Optimization, Cloud Adoption, Data & Analytics, Artificial Intelligence, Contact Centers, and Customer Experience. Our complementary work in strategic communications, change management, and performance management ensures these innovations can be successful and sustainable. We also work with partner agencies to enhance their ability to innovate so they can continuously modernize as opportunities and challenges emerge over time.
 
 As a  Data & Analytics Modernization Lead at the CoE, you will:
-  - help our agency partner make sense of the complex digital landscape and how technology and process modernization can benefit their programs and users. 
-  - establish and maintain trusted relationships with our agency partners, and set up engagements to be successful.
-  - coordinate cross-functional teams to deliver user-centered solutions to complex problems. 
-  - help our agency partners to develop their own capacity for continuous innovation. 
-  - offer a customized Data and Analytics strategic guidance that enables optimal access to agency data.
-  - employ industry best practices and data architectural principles to define the target state.
-  - develop well-defined implementation plans that include year-long projects, benefits and risks.
+  - Help our agency partner make sense of the complex digital landscape and how technology and process modernization can benefit their programs and users. 
+  - Establish and maintain trusted relationships with our agency partners, and set up engagements to be successful.
+  - Coordinate cross-functional teams to deliver user-centered solutions to complex problems. 
+  - Help our agency partners to develop their own capacity for continuous innovation. 
+  - Offer a customized Data and Analytics strategic guidance that enables optimal access to agency data.
+  - Employ industry best practices and data architectural principles to define the target state.
+  - Develop well-defined implementation plans that include year-long projects, benefits and risks.
 
 Your expertise will help ensure the success of our government partners as they meet technology modernization challenges head on. 
 
