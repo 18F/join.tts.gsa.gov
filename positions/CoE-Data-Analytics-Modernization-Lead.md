@@ -156,28 +156,6 @@ gs: 15
 #🔻🔻🔻🔻🔻
 Key Objectives:
 
-  - OBJECTIVE 1:  Promote the adoption of modern technology and business practices through advice, recommendations, teaching, coaching, and knowledge sharing
-    - Practice and enthusiastically share project management and agile methodologies throughout all stages of the project lifecycle.
-    - Deliver educational workshops to accelerate learning and adoption of agile principles and practices.
-    - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-    - Create compelling case studies on how users are benefiting from the CoE projects, providing a special focus on lessons learned.
-    - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document best practices across government.
-
-  - OBJECTIVE 2: Practice an exceptional customer experience with all partners, providing a unique, tailored partner experience and solutions
-    - Explain products or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at.
-    - Empathetically guide our agency partners through requirements, standards, guidelines, administration priorities, compliance and security processes.
-    - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
-    - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentations.
-    - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
-
-  - OBJECTIVE 3: Lead in your focus area(s) 
-    - While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Area that contribute to the collective cross-functional capabilities of the CoE team. The Centers of Excellence (CoE) Focus Area for this role is Data & Analytics: 
-     - Lead a customized Data and Analytics strategy service that enables optimal access to a partner agency data.
-     - Drive agency-wide and multi-agency IT modernization initiatives in the areas of data management, analytics, and data visualization.
-     - Advise senior executives on data management best practices, maturing organizational analytics portfolios, and on new developments and advanced techniques in data science.
-     - Lead and develop pilots, prototypes, and minimum viable products to demonstrate analytic products and solutions for customers. 
-     - Serve as a data and analytics subject matter expert through consulting with customers to determine requirements, explore solutions, and deliver high business impact solutions in an iterative, agile process.
-
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -323,7 +301,28 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+
+  - OBJECTIVE 1:  Promote the adoption of modern technology and business practices through advice, recommendations, teaching, coaching, and knowledge sharing
+    - Practice and enthusiastically share project management and agile methodologies throughout all stages of the project lifecycle.
+    - Deliver educational workshops to accelerate learning and adoption of agile principles and practices.
+    - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
+    - Create compelling case studies on how users are benefiting from the CoE projects, providing a special focus on lessons learned.
+    - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document best practices across government.
+
+  - OBJECTIVE 2: Practice an exceptional customer experience with all partners, providing a unique, tailored partner experience and solutions
+    - Explain products or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at.
+    - Empathetically guide our agency partners through requirements, standards, guidelines, administration priorities, compliance and security processes.
+    - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+    - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentations.
+    - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
+
+  - OBJECTIVE 3: Lead in your focus area(s) 
+    - While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Area that contribute to the collective cross-functional capabilities of the CoE team. The Centers of Excellence (CoE) Focus Area for this role is Data & Analytics: 
+     - Lead a customized Data and Analytics strategy service that enables optimal access to a partner agency data.
+     - Drive agency-wide and multi-agency IT modernization initiatives in the areas of data management, analytics, and data visualization.
+     - Advise senior executives on data management best practices, maturing organizational analytics portfolios, and on new developments and advanced techniques in data science.
+     - Lead and develop pilots, prototypes, and minimum viable products to demonstrate analytic products and solutions for customers. 
+     - Serve as a data and analytics subject matter expert through consulting with customers to determine requirements, explore solutions, and deliver high business impact solutions in an iterative, agile process.
 
 ## Qualifications
 
