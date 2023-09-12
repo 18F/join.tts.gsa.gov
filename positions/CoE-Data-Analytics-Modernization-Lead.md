@@ -88,8 +88,8 @@ title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-09-22
-closes: 2023-09-29
+opens: 2023-09-21
+closes: 2023-10-05
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -168,9 +168,9 @@ Key Objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
-    date: 2023-02-13
-    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJIsfuqsqTosGMqmWiv8cnyoK-xYW35veLk&sa=D&source=calendar&ust=1694960035940411&usg=AOvVaw0Dy3jl4HIC-u0V9cfMM64h
+    date: 2023-09-19
+    time: 12:00-1:00pm ET (9:00am -10:00am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
