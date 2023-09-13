@@ -89,7 +89,7 @@ title: "TTS: Director of Product Management"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-09-11
-closes: 2023-09-15
+closes: 2023-09-12
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
