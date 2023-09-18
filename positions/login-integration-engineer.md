@@ -87,7 +87,7 @@ title: "Login.gov: Integration Engineer/Solution Architect GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-09-11
-closes: 2023-09-20
+closes: 2023-09-17
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
