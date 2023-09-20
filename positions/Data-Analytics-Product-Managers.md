@@ -89,7 +89,7 @@ title: "Data & Analytics Portfolio: Product Manager GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-09-17
-closes: 2023-09-25
+closes: 2023-10-06
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2023-09-25
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 200
+max applications: 0
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -168,9 +168,13 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
-    date: 2023-02-13
-    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJIsdeGrqzgoHqAd_luZcJuEG7mvGx22jLc#/registration
+    date: 2023-09-27
+    time: 12:00 - 1:00pm ET (9:00am - 10:00am PT)
+  
+  - link: https://gsa.zoomgov.com/meeting/register/vJItf-CorzsqHpbIHq9nISsXacicLey_cWw#/registration
+    date: 2023-09-28
+    time: 3:00 - 4:00pm ET (12:00pm - 1:00pm PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
