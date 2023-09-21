@@ -206,7 +206,12 @@ says {% include job/status_alert.html %}
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/status_alert.html %}
+<!-- {% include job/status_alert.html %} -->
+  {% include alert.html
+    type="warning"
+    heading="This job posting has been updated."
+    body="Please click [HERE](/join/CoE-Data-Analytics-Modernization-Lead) to access the current job posting."
+  %}
 
 ## Basic information
 
