@@ -210,7 +210,7 @@ says {% include job/status_alert.html %}
   {% include alert.html
     type="warning"
     heading="This job posting has been updated."
-    body="Please click [HERE]({{ site.baseurl }}/join/CoE-Data-Analytics-Modernization-Lead) to access the current job posting."
+    body="Please click [HERE](https://join.tts.gsa.gov/join/CoE-Data-Analytics-Modernization-Lead/) to access the current job posting."
   %}
 
 ## Basic information
