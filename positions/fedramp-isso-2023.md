@@ -89,7 +89,7 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-12-26
-closes: 
+closes: 2023-10-02
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
