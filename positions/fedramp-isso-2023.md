@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 
+opens: 2023-10-01
+closes: 2023-10-02 
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
