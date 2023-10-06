@@ -88,8 +88,8 @@ title: "Digital Analytics Program (DAP): Program Manager GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-10-23
-closes: 2023-10-30
+opens: 2023-10-16
+closes: 2023-10-20
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -336,8 +336,11 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience for this role will be updated once finalized. 
-
+lower GS-grade (or equivalent). Specialized experience for this role is defined as: 
+  - Experience with web analytics platforms such as Google Analytics as well as skill in advocating for web analytics data to improve public experiences on the web
+  - Experience with human centered design to track and interpret user needs and policy requirements into product and program strategy for continuous improvement
+  - Experience with database systems and infrastructure to support data analytics such as BigQuery
+  - Experience with the planning and management of program resources including contracts and contractor staff
 
 ## How to Apply
 
