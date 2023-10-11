@@ -295,7 +295,9 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Describe the role here.
+We are looking for a Contact Center Modernization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improve the capabilities and services of our partner agencies.
+
+As an expert contact center modernization consultant, you are well versed in contact center multi-channel and/or omnichannel technologies, platforms and operations.  You will collaborate with agency partners to design, plan, and deliver on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s public facing infrastructure and processes.
 
 ## Key objectives
 
