@@ -189,7 +189,7 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
+  - link: https://gsa.zoomgov.com/j/1615799574?pwd=dWowVS8vYitTZGJjbmJVU1ZKWTZqdz09
     date: 2023-10-19
     time: 3:00-4:00pm ET (12:00pm -1:00pm PT)
 
