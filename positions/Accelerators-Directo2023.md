@@ -332,10 +332,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). 
 
-    - Leading the overall planning, management and direction of digital research and development of early-stage digital products and services, identifying “product-market fit” and identifying strong candidate products and ideas for further development.
-    - Creating or evaluating business plans, product roadmaps and operational plans for digital products.
-    - Navigating a complex organization that follows rules and regulations or federated structure, and building alignment with a complex network of internal/external stakeholders, customers and partners.
-    - Supervising cross-functional team members representing a variety of technical professional disciplines.
+- Leading the overall planning, management and direction of digital research and development of early-stage digital products and services, identifying “product-market fit” and identifying strong candidate products and ideas for further development.
+- Creating or evaluating business plans, product roadmaps and operational plans for digital products.
+- Navigating a complex organization that follows rules and regulations or federated structure, and building alignment with a complex network of internal/external stakeholders, customers and partners.
+- Supervising cross-functional team members representing a variety of technical professional disciplines.
+
 
 
 ## How to Apply
