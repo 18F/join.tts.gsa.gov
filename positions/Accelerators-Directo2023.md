@@ -338,9 +338,6 @@ lower GS-grade (or equivalent).
     - Supervising cross-functional team members representing a variety of technical professional disciplines.
 
 
-
-
-
 ## How to Apply
 
 {% include job/apply_button.html %}
