@@ -89,7 +89,7 @@ title: "Digital Analytics Program (DAP): Program Manager GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-10-16
-closes: 2023-10-20
+closes: 2023-10-16
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
