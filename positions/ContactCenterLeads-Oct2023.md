@@ -77,7 +77,6 @@
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
 title: "Centers of Excellence - Contact Center Modernization Specialist"
-
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
 # this post. Setting it here means you won't have to copy it over and over.
@@ -155,28 +154,7 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - You will help federal agencies develop and execute contact center and customer experience modernization strategies incorporating leading technology, and best practices to ensure solutions can meet their current and future needs in an efficient, sustainable, agile, and adaptable manner.
-    - Design enterprise-level contact center solutions using user story definition, and holistic journey mapping while also incorporating standard operating procedures and best-practice methodologies.
-    - Ability to collect and analyze current contact center operations, data and reports to develop future-state recommendations for optimization and transformation.
-    - Lead the development and maintenance of  strategic application technology portfolios, and roadmaps, to support or drive solution development or product selection.
-    - Ability to incorporate standard operating procedures, training, QA programs and best practice methodologies into contact center operations.
-    - Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications.
-    - Incorporate knowledge management and customer relationship management systems best practices to improve the agent experience and the agency’s overall customer experience.
-    - Support the implementation of intelligent system solutions to leverage robotic process automation (RPA) & artificial intelligence (AI) to help anticipate user needs, augment conversations and automate routine tasks.
-    - Interface with agency data and security teams to address gaps and risks and assist in the overall design and build of security features.
-    - Develop and track performance metrics, customer feedback, quality assurance and other KPI’s
-  - You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
-    - Practice and enthusiastically share project management and agile methodologies throughout all stages of the project lifecycle.
-    - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
-    - Create compelling case studies on how users are benefiting from the program, providing a special focus on lessons learned.
-    - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document good practices across government.
-  - Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.
-    - Ability to explain product or services (contact center) to people who have varying levels of technical knowledge — always meet the agency partner where they’re at.
-    - Ability to empathetically guide our agency partners through the bureaucracy of the sometimes long and arduous compliance and security processes.
-    - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
-    - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentation.
-    - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
-    
+
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -190,7 +168,7 @@ key objectives:
 #🔻🔻🔻🔻🔻
 - link: https://www.eventbrite.com/...
     - date: 2023-02-13
-    - time: 1:30-2:30pm ET (10:30am -11:30am PT) 
+    - time: 1:30-2:30pm ET (10:30am-11:30am PT) 
   
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
