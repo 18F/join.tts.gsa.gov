@@ -189,13 +189,10 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/j/1615799574?pwd=dWowVS8vYitTZGJjbmJVU1ZKWTZqdz09
-    date: 2023-10-19
-    time: 3:00-4:00pm ET (12:00pm -1:00pm PT)
-  - We are looking for a Contact Center Modernization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improve the 
-    capabilities and services of our partner agencies. Join our informational session to learn more!
-
-
+  - link: https:
+    date: 
+    time: 
+  
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
