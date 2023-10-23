@@ -188,6 +188,7 @@ key objectives:
 # The date is used to sort the info sessions on the page so they are shown
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
+info sessions:
 - link: https://www.eventbrite.com/...
     - date: 2023-02-13
     - time: 1:30-2:30pm ET (10:30am -11:30am PT) 
