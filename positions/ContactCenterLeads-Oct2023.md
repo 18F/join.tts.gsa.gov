@@ -166,9 +166,10 @@ key objectives:
 # The date is used to sort the info sessions on the page so they are shown
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
-- link: https://www.eventbrite.com/...
+info sessions:
+  - link: https://www.eventbrite.com/...
     - date: 2023-02-13
-    - time: 1:30-2:30pm ET (10:30am-11:30am PT) 
+    - time: 1:30-2:30pm ET (10:30am -11:30am PT) 
   
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
