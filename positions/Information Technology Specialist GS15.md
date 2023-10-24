@@ -212,7 +212,7 @@ on USAJOBS here.
 **Official title in USAJOBS:** Information Technology Specialist
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 8-15
+**Number of vacancies:** 16-30
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
