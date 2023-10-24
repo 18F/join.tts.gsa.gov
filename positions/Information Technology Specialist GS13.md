@@ -277,15 +277,9 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
-  - FedRAMP | Training Program Designer
-  - Design Research Operations | Program Manager
   - Login.gov | Product Manager
-  - Login.gov | UX Designer
-  - Digital.gov | Software Engineer
-  - Challenge.gov | Software Engineer
-  - 18F | Consulting Content Strategist
-  - Centers of Excellence | Innovation Adoption Lead
-
+  - Federal Audit Clearinghouse | UX Designer
+  - Outreach | Digital Content Strategist
 
 ## Key objectives
 
