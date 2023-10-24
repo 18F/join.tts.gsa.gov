@@ -277,14 +277,14 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
-  - FedRAMP | Training Program Designer
-  - Design Research Operations | Program Manager
-  - Login.gov | Product Manager
-  - Login.gov | UX Designer
-  - Digital.gov | Software Engineer
-  - Challenge.gov | Software Engineer
-  - 18F | Consulting Content Strategist
-  - Centers of Excellence | Innovation Adoption Lead
+  - FedRAMP - Training Program Designer
+  - [Design Research Operations - Program Manager]({% link public_file_sharing/tts-research-ops-performance-profile.pdf %})
+  - Login.gov - Product Manager
+  - Login.gov - UX Designer
+  - [Digital.gov - Software Engineer]({% link public_file_sharing/digital.gov-engineer-performance-profile-gs-14.pdf %})
+  - [Challenge.gov - Software Engineer]({% link public_file_sharing/open-innovation-engineering-lead-performance-profile.pdf %})
+  - [18F - Consulting Content Strategist]({% link public_file_sharing/18f-content-strategist-performance-profile-fy22.pdf %})
+  - Centers of Excellence - Innovation Adoption Lead
 
 
 ## Key objectives

@@ -277,9 +277,9 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
-  - Login.gov | Product Manager
-  - Federal Audit Clearinghouse | UX Designer
-  - Outreach | Digital Content Strategist
+  - Login.gov - Product Manager
+  - Federal Audit Clearinghouse - UX Designer
+  - [Outreach - Digital Content Strategist]({% link public_file_sharing/outreach_techtogov__tts-content-strategist-performance-profile.pdf %})
 
 ## Key objectives
 

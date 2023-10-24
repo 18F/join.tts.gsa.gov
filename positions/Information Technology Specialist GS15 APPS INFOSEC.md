@@ -279,16 +279,16 @@ Learn more about the benefits of working at
 
 TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
 
-  - Tech Operations | Software Engineer
-  - Developer Tools | Platform Engineer
-  - Developer Tools | Application Lead
-  - Benefits Studio | Engineer
-  - Accelerators | Solution Architect
-  - Login.gov | Platform Engineer
-  - Login.gov | Application Engineer
-  - Cloud.gov | Platform Engineer
-  - eRulemaking | Engineering Modernization Specialist
-  - 18F | Consulting Engineer
+  - Tech Operations - Software Engineer
+  - [Developer Tools - Application Lead]({% link public_file_sharing/devtools-engineering-ic-performance-profile.pdf %})
+  - [Developer Tools - Platform Engineer]({% link public_file_sharing/devtools-platform-engineering-ic-performance-profile.pdf %})
+  - [Benefits Studio - Engineer]({% link public_file_sharing/benefits-studio-software-engineer-python-specialist-performance-profile-ttg-fy24.pdf %})
+  - [Accelerators - Solution Architect]({% link public_file_sharing/performance-profile-arp-delivery-solution-architect.pdf %})
+  - [Login.gov - Application Engineer]({% link public_file_sharing/login.gov-engineer-performance-profile.pdf %})
+  - [Login.gov - Platform Engineer]({% link public_file_sharing/login.gov-engineer-performance-profile.pdf %})
+  - [Cloud.gov - Platform Engineer]({% link public_file_sharing/cloud.gov-platform-engineering-ic-performance-profile.pdf %})
+  - [eRulemaking - Engineering Modernization Specialist]({% link public_file_sharing/generic-it-spec-sysanalysis-performance-profile.pdf %})
+  - [18F - Consulting Engineer]({% link public_file_sharing/18f-principal-software-engineer-performance-profile.pdf %})
 
 ## Key objectives
 
