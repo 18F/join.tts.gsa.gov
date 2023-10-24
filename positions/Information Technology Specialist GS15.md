@@ -122,7 +122,7 @@ appointment type: term
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 14
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -299,20 +299,26 @@ content in its place.
 
 {% include job/key_objectives.html %}
 
-  - Technical Expert
-    - Engages with customer agencies, the public, and/or GSA management and staff to support/contribute to needs analyses to define opportunities for a new or improved business processes, solutions, practices, products, services or strategies based on customer/user needs.
-    - Serves as an IT expert and authoritative technical advisor on IT projects and initiatives involving the full array of IT areas: Policy and Planning, Network Services, Enterprise Architecture, Data Management, Security, Internet, Systems Analysis, Systems Administration, Applications Software, Customer Support, and/or Operating Systems.
-    - Serves as an expert consultant to stakeholders at customer agencies and/or internal to GSA and provides authoritative advice to explore innovative approaches to design and deliver mission-critical software products and/or IT programs. Consults with agency partners to identify new or existing solutions that support administrative priorities and agency practices. Consults with stakeholder partners to refine and translate functional requirements into informal, plain-language descriptions and/or explanations of software features (i.e., user stories) and technical specifications. Develops user-centered requirements, specifications, and/or user stories for projects that meet administrative and operational business requirements. Contributes to ot conducts feasibility studies and trade-off analyses of/for IT projects, initiatives, and solutions to a variety of problems; prepares materials for business cases for the application of IT or modified products or services.
- - Cross functional Product/Service Delivery team functions
-    -  Serves as a member of cross-functional delivery teams developing IT services and products. This includes supporting the development of project scopes and objectives, developing cost estimates for new or modified products or services, and ensuring the integration of all project components (e.g., procedures, databases, policies, software, and hardware). Independently plans, develops, and executes important programs in software and/or services. Facilitates and maintains awareness of customer, end-user/customer experience, and associated needs, feedback, and satisfaction.
-    -  Applies iterative development methodologies to specific products to meet different delivery needs. Contributes to the design, development, and deployment of IT solutions leveraging current and emergent IT solutions and best practices.
- - IT Project Leadership
-    - Provides authoritative expert technical advice on direction and vision during the entire IT project life cycle. Helps maintain alignment with the goals of engagement and communicates effectively with team members to support management/leadership, team members, and stakeholder communication and creation of project visions in terms of clarity and consensus of purpose, execution, and completion. 
-    - Reviews projects for technical feasibility and adherence with the organization's mission objectives and provides recommendations to the team and management prior to commencement of IT projects. Contributes to the creation of project objectives and priorities, identifying and weighing anticipated potential threats or opportunities to them providing advice, suggestions, recommendations, and other inputs.
- - Relationship Management
-    - Serves as a liaison establishing and maintaining mutual understanding and cooperation with program personnel within the agency to convey information regarding IT program activities, guidelines, and goals clarifies procedures, and interpret guidelines as needed.
-    - Utilizes interpersonal skills to develop cooperative relationships and work closely with customer agencies to navigate and work through conflicting stakeholder priorities. Uses a variety of skills and approaches (e.g., empathy, creativity, coalition building, situational awareness, tact) to solve a wide array of IT and related problems and cooperate with and facilitate delivery of IT products to stakeholders.
-
+  - Senior IT Expert:
+    - Engages with customer agencies to perform needs analyses to define opportunities for new or improved business processes, solutions, practices, products, services or strategies based on user needs.
+    - Consults with agency partners to refine functional requirements and translate functional requirements into user stories and technical specifications.
+    - Develops user-centered requirements, specifications, and/or user stories for systems that meet business requirements and advises on the merits of proposed IT systems development projects.
+    - Serves as a recognized and respected authority on a diverse range of highly technical software issues.
+  - Expert IT Project Leadership and Delivery:
+    -  Reviews projects for technical feasibility and adherence with the organization's mission objectives and provides recommendations to management prior to commencement of IT projects.
+    -  Determines project objectives and sets priorities; anticipates potential threats or opportunities.
+    -  Applies human-centered design techniques to drive IT project decisions to ensure the right IT product is being developed.
+  - Provides Leadership to Teams:
+    -  Leads cross functional teams to develop innovative IT services.
+    -  Plans, develops, and executes highly complex and intricate IT projects that transform the manner in which government leverages technology to serve the public.
+    -  Determines the size, skills, and roles necessary for a project team to deliver a product and identifies appropriate team members.
+    -  Engages leadership in the design, development and deployment of IT solutions leveraging current and emergent IT technologies and best practices.
+    -  Implements and/or introduces the use of new IT technologies or tools within government agencies.
+  - Relationship Management:
+    - Works closely with customer agencies in a leadership role and navigates and works through conflicting priorities from stakeholders.
+    - Provides agency partners accurate, expert, and authoritative technical IT advice.
+    - Utilizes interpersonal skills to develop cooperative relationships.
+ 
 ## Qualifications
 
 Provide as much detail as possible on your resume so that we can evaluate your
@@ -331,10 +337,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience with the design, roadmap, vision, technical direction, or identification of user needs for a project, product, platform, or services.
-- Experience providing project or product leadership for a project, product, platform, or services.
-- Experience leading a project, product, platform, or service utilizing iterative or agile methodologies.
-- Experience working with cross-functional teams to deliver a product, platform, or service.
+- Experience leading the design, roadmap, vision, technical direction, or identification of user needs for a project, product, platform, or services.
+- Experience consulting with clients/customers in support of their project, product, platform, or service.
+- Experience with iterative or agile methodologies.
+- Experience leading cross-functional teams to deliver a product, platform, or service.
+- Experience collaborating with senior level or executive stakeholders.
 
 
 ## How to Apply
