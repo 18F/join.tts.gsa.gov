@@ -304,10 +304,10 @@ content in its place.
     - Collaborates with governmentwide stakeholders and partners to implement and support government information security/cybersecurity needs and establish related guidelines.
     - Implements and provides authoritative advice and guidance to a wide array of management, staff, and other stakeholders (e.g., contractors, private sector firms) to ensure the confidentiality, integrity, and availability of digital services/platforms/products on a broad, complex spectrum impacting myriad government entities.
     - Serves as a definitive authority and senior spokesperson on a diverse range of overarching/broad IT security and related widespread issues affecting the substantive government and private industry missions.
-    - Relationship Management:
-      - Serves as a liaison establishing and maintaining mutual understanding and cooperation with executive, management, and staff stakeholders within the employing agency and customer agencies.
-      - Communicates information regarding program activities, policies, and goals; clarifies procedures; and interprets guidelines (e.g., policy, directives, memoranda from other federal agencies) as needed.
-      - Presents highly technical IT and/or program product/service/delivery information to a diverse array of public and private sector stakeholder audiences and ensures or provides documentation processes and procedures for digital service delivery development security operations.
+  - Relationship Management:
+    - Serves as a liaison establishing and maintaining mutual understanding and cooperation with executive, management, and staff stakeholders within the employing agency and customer agencies.
+    - Communicates information regarding program activities, policies, and goals; clarifies procedures; and interprets guidelines (e.g., policy, directives, memoranda from other federal agencies) as needed.
+    - Presents highly technical IT and/or program product/service/delivery information to a diverse array of public and private sector stakeholder audiences and ensures or provides documentation processes and procedures for digital service delivery development security operations.
      
      
  
