@@ -304,7 +304,17 @@ content in its place.
     - Work with stakeholders to develop project scopesand approach, to include such functions as determining the appropriate resources (e.g., financial, personnel, IT Solutions) and monitoring solution development and performance.
     - Contributes to or conducts feasibility studies and trade-off analyses of/for IT projects, initiatives, and solutions to a variety of problems.
     - Prepares materials for business cases for the application of IT or modified products or services.
-- 
+- Cross functional Product/Service Delivery team functions
+  - Applies iterative development methodologies to specific products to meet different delivery needs.
+  - Contributes to the design, development, and deployment of IT solutions leveraging current and emergent IT solutions and best practices.
+  - Promotes transparency and maintains open lines of communication in how decisions are made to facilitate soundness of decision-making and responsiveness to issues, problems, and needs of teams, customers, and other stakeholders.
+- IT Project Leadership:
+  - Provide expert technical advice during IT project
+  - Reviews projects for technical feasibility and adherence with the organization's mission objectives and provides recommendations to the team and management prior to commencement of IT projects.
+- Relationship Management:
+  - Serves as a liaison establishing and maintaining mutual understanding and cooperation with program personnel within the agency to convey information regarding IT program activities, guidelines, goals, and clarifies procedures.
+  - Interpret guidelines as needed.
+  - Presents highly technical information to a wide variety of audiences and documents processes and procedures information presentation for use in post hoc reviews, future activities, and similar purposes.
 
 ## Qualifications
 
@@ -324,10 +334,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience with the design, roadmap, vision, technical direction, or identification of user needs for a project, product, platform, or services.
-- Experience providing project or product leadership for a project, product, platform, or services.
-- Experience leading a project, product, platform, or service utilizing iterative or agile methodologies.
-- Experience working with cross-functional teams to deliver a product, platform, or service.
+- Experience working with the design, roadmap, or technical implementation for a project, product, platform, or services.
+- Experience building relationships or alignment with stakeholders.
+- Experience coordinating or implementing findings in support of a project, product, platform or service.
+- Experience working collaborating with technical teams in support of a project, product, platform or service.
 
 
 ## How to Apply
