@@ -277,22 +277,22 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
-  - Cloud.gov | Product Manager
-  - Challenge.gov | Product Manager
-  - Communities & Collaboration | Product Manager
-  - Digital Analytics Program | Software Engineer
-  - US Web Design System | Software Engineer
-  - 10x | Product Designer
-  - 10x | Software Engineer
-  - Benefits Studio | Senior Content Strategist
-  - Benefits Studio | Research & Development Lead
-  - 18F | Consulting UX Designer
-  - 18F | Consulting Service Designer
-  - 18F | Consulting Product Manager
-  - 18F | Consulting Engineer
-  - Centers of Excellence | Customer Experience Modernization Lead
-  - Centers of Excellence | Cloud Infrastructure Modernization Lead
-  - Centers of Excellence | Innovation Adoption Modernization Lead
+  - [Cloud.gov - Product Manager]({% link public_file_sharing/cloud.gov-product-manager-performance-profile.pdf %})
+  - [Challenge.gov - Product Manager]({% link public_file_sharing/challenge.gov-senior-product-manager-performance-profile.pdf %})
+  - [Communities & Collaboration - Product Manager]({% link public_file_sharing/communities-and-collaboration-senior-product-manager-performance-profile.pdf %})
+  - [Digital Analytics Program - Software Engineer]({% link public_file_sharing/tech2gov-tts-web-tools-portfolio-engineer-dha-performance-profile.pdf %})
+  - [US Web Design System - Software Engineer]({% link public_file_sharing/uswds-revision-tts-engineer-dha-performance-profile.pdf %})
+  - [10x - Product Designer]({% link public_file_sharing/10x-product-designer-fy24-performance-profile.pdf %})
+  - [10x - Software Engineer]({% link public_file_sharing/10x-software-engineer-fy24-performance-profile.pdf %})
+  - [Benefits Studio - Senior Content Strategist]({% link public_file_sharing/benefits-studio-senior-content-strategist-performance-profile-ttg-fy24.pdf %})
+  - [Benefits Studio - Research & Development Lead]({% link public_file_sharing/benefits-studio-research-development-lead-performance-profile-ttg-fy24.pdf %})
+  - [18F - Consulting UX Designer]({% link public_file_sharing/18f-ux-designer-performance-profile-fy22.pdf %})
+  - 18F - Consulting Service Designer
+  - [18F - Consulting Product Manager]({% link public_file_sharing/fy24-tech-to-gov-18f-product-manager-performance-profile.pdf %})
+  - [18F - Consulting Engineer]({% link public_file_sharing/tech-to-gov-oct-23-18f-consulting-software-engineer-performance-profile.pdf %})
+  - Centers of Excellence - Customer Experience Modernization Lead
+  - Centers of Excellence - Cloud Infrastructure Modernization Lead
+  - Centers of Excellence - Innovation Adoption Modernization Lead
 
 ## Key objectives
 
