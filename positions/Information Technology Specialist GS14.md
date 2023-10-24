@@ -199,7 +199,7 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Supervisory
+**Supervisory status:** Non-supervisory
 
 **Job title:** {{ page.title }}
 
