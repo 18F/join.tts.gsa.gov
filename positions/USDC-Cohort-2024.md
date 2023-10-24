@@ -118,7 +118,7 @@ info sessions:
 # located. This will point the user to that site rather than a posting on the
 # JoinTTS site.
 #🔻🔻🔻🔻🔻
-information link: https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_108
+information link: https://digitalcorps.gsa.gov/opportunity/
 
 # This is the end of the frontmatter. After this line is Markdown.
 ---
