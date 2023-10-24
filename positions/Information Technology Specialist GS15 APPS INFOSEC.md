@@ -277,6 +277,19 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 
+TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
+
+  - Tech Operations | Software Engineer
+  - Developer Tools | Platform Engineer
+  - Developer Tools | Application Lead
+  - Benefits Studio | Engineer
+  - Accelerators | Solution Architect
+  - Login.gov | Platform Engineer
+  - Login.gov | Application Engineer
+  - Cloud.gov | Platform Engineer
+  - eRulemaking | Engineering Modernization Specialist
+  - 18F | Consulting Engineer
+
 ## Key objectives
 
 {% comment ------------------------------------------------------------------ %}
