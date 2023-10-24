@@ -277,6 +277,13 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 
+TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
+
+  - Tech Operations | Cloud and Security Architect
+  - Tech Operations | Security Specialist
+  - Login.gov | Security Engineer
+  - Benefits Studio | Security & Compliance Specialist
+  - Developer Tools | Security Lead
 
 ## Key objectives
 
