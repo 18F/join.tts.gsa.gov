@@ -276,23 +276,7 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
-  - Cloud.gov | Product Manager
-  - Challenge.gov | Product Manager
-  - Communities & Collaboration | Product Manager
-  - Digital Analytics Program | Software Engineer
-  - US Web Design System | Software Engineer
-  - 10x | Product Designer
-  - 10x | Software Engineer
-  - Benefits Studio | Senior Content Strategist
-  - Benefits Studio | Research & Development Lead
-  - 18F | Consulting UX Designer
-  - 18F | Consulting Service Designer
-  - 18F | Consulting Product Manager
-  - 18F | Consulting Engineer
-  - Centers of Excellence | Customer Experience Modernization Lead
-  - Centers of Excellence | Cloud Infrastructure Modernization Lead
-  - Centers of Excellence | Innovation Adoption Modernization Lead
+
 
 ## Key objectives
 
@@ -306,25 +290,26 @@ content in its place.
 
 {% include job/key_objectives.html %}
 
-  - Senior IT Expert:
-    - Engages with customer agencies to perform needs analyses to define opportunities for new or improved business processes, solutions, practices, products, services or strategies based on user needs.
-    - Consults with agency partners to refine functional requirements and translate functional requirements into user stories and technical specifications.
-    - Develops user-centered requirements, specifications, and/or user stories for systems that meet business requirements and advises on the merits of proposed IT systems development projects.
-    - Serves as a recognized and respected authority on a diverse range of highly technical software issues.
-  - Expert IT Project Leadership and Delivery:
-    -  Reviews projects for technical feasibility and adherence with the organization's mission objectives and provides recommendations to management prior to commencement of IT projects.
-    -  Determines project objectives and sets priorities; anticipates potential threats or opportunities.
-    -  Applies human-centered design techniques to drive IT project decisions to ensure the right IT product is being developed.
-  - Provides Leadership to Teams:
-    -  Leads cross functional teams to develop innovative IT services.
-    -  Plans, develops, and executes highly complex and intricate IT projects that transform the manner in which government leverages technology to serve the public.
-    -  Determines the size, skills, and roles necessary for a project team to deliver a product and identifies appropriate team members.
-    -  Engages leadership in the design, development and deployment of IT solutions leveraging current and emergent IT technologies and best practices.
-    -  Implements and/or introduces the use of new IT technologies or tools within government agencies.
-  - Relationship Management:
-    - Works closely with customer agencies in a leadership role and navigates and works through conflicting priorities from stakeholders.
-    - Provides agency partners accurate, expert, and authoritative technical IT advice.
-    - Utilizes interpersonal skills to develop cooperative relationships.
+  - Agile Development, Operation, and Securing of Digital Services:
+    - Acts as a core member of self-organizing multifunctional agile digital service program and/or IT project team(s).
+    - Engages team problems to develop fully production ready solutions.
+    - Participates in and contributes to developing application, infrastructure, and system components by developing code and conducting code reviews following standard change request processes in which changes to code.
+    - Works with the team to decide on potential solutions to problems  and break down the work into smaller, more quickly and easily delivered components.
+    - Participates in IT project or program office teams performing or independently conducts security operations and continuous monitoring by reviewing security tooling and auditor findings and working with the team to mitigate security issues.
+    - Provides suggested changes or peer reviews to facilitate acceptance into production. Identifies and suggests/provides remediation for security flaws in application source, infrastructure, security, and other types of code.
+    - Enhances and improves code quality automation to prevent repeated flaws of the same type from being accepted in the course of information security, cybersecurity, and associated development activities.
+    - Ensures the rigorous application of information security/information assurance policies, principles, and practices in the delivery of IT services.
+    - Uses community security frameworks and practices (e.g., those developed by the National Institute of Standards and Technology, SANS Institute, MITRE Corporation, Open Worldwide Application Security Project) to guide individual and team efforts and prioritize reduction of the most significant security and related risks.
+  - Policy Leadership and Stakeholder Collaboration:
+    - Collaborates with governmentwide stakeholders and partners to implement and support government information security/cybersecurity needs and establish related guidelines.
+    - Implements and provides authoritative advice and guidance to a wide array of management, staff, and other stakeholders (e.g., contractors, private sector firms) to ensure the confidentiality, integrity, and availability of digital services/platforms/products on a broad, complex spectrum impacting myriad government entities.
+    - Serves as a definitive authority and senior spokesperson on a diverse range of overarching/broad IT security and related widespread issues affecting the substantive government and private industry missions.
+    - Relationship Management:
+      - Serves as a liaison establishing and maintaining mutual understanding and cooperation with executive, management, and staff stakeholders within the employing agency and customer agencies.
+      - Communicates information regarding program activities, policies, and goals; clarifies procedures; and interprets guidelines (e.g., policy, directives, memoranda from other federal agencies) as needed.
+      - Presents highly technical IT and/or program product/service/delivery information to a diverse array of public and private sector stakeholder audiences and ensures or provides documentation processes and procedures for digital service delivery development security operations.
+     
+     
  
 ## Qualifications
 
@@ -344,11 +329,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience leading the design, roadmap, vision, technical direction, or identification of user needs for a project, product, platform, or services.
-- Experience consulting with clients/customers in support of their project, product, platform, or service.
-- Experience with iterative or agile methodologies.
-- Experience leading cross-functional teams to deliver a product, platform, or service.
-- Experience collaborating with senior level or executive stakeholders.
+- Applying information security principles, concepts, methods, standards, and practices to secure network connected applications/services.
+- Applying modern cybersecurity practices such as integrating security into the software development life cycle (DevSecOps), leveraging open source security tools, leveraging cloud based security services (SaaS/PaaS/IaaS), or threat modeling to deliver network connected applications/services.
+- Leading development, interpretation, and implementation of  policies, procedures, and/or strategies governing the planning and delivery of services.
+- Experience driving security measures for tools, services, or products as part of an IT delivery team.
 
 
 ## How to Apply
