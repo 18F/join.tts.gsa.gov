@@ -111,7 +111,7 @@ closes: 2023-11-22
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: https://gsa.zoomgov.com/webinar/register/3016980964216/WN_-B2wi3a-Tr61XoSJjLiQgw
-    date: 2023-10-24
+    date: 2023-10-26
     time: 4:00pm-5:00pm ET (1:00pm -2:00pm PT)
 
 # Put the link to the PIF, USDC, or other site where the job description is 
