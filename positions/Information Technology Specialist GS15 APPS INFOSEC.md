@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "TechToGov - TTS: GS 15 Term Limited Various Roles"
+title: "TechToGov - TTS: GS 15 IT Specialist (APPSW/INFOSEC) - PERM"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -117,7 +117,7 @@ closes: 2023-10-30
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: term
+appointment type: perm
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
@@ -276,23 +276,6 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
-  - Cloud.gov | Product Manager
-  - Challenge.gov | Product Manager
-  - Communities & Collaboration | Product Manager
-  - Digital Analytics Program | Software Engineer
-  - US Web Design System | Software Engineer
-  - 10x | Product Designer
-  - 10x | Software Engineer
-  - Benefits Studio | Senior Content Strategist
-  - Benefits Studio | Research & Development Lead
-  - 18F | Consulting UX Designer
-  - 18F | Consulting Service Designer
-  - 18F | Consulting Product Manager
-  - 18F | Consulting Engineer
-  - Centers of Excellence | Customer Experience Modernization Lead
-  - Centers of Excellence | Cloud Infrastructure Modernization Lead
-  - Centers of Excellence | Innovation Adoption Modernization Lead
 
 ## Key objectives
 
@@ -306,26 +289,22 @@ content in its place.
 
 {% include job/key_objectives.html %}
 
-  - Senior IT Expert:
-    - Engages with customer agencies to perform needs analyses to define opportunities for new or improved business processes, solutions, practices, products, services or strategies based on user needs.
-    - Consults with agency partners to refine functional requirements and translate functional requirements into user stories and technical specifications.
-    - Develops user-centered requirements, specifications, and/or user stories for systems that meet business requirements and advises on the merits of proposed IT systems development projects.
-    - Serves as a recognized and respected authority on a diverse range of highly technical software issues.
-  - Expert IT Project Leadership and Delivery:
-    -  Reviews projects for technical feasibility and adherence with the organization's mission objectives and provides recommendations to management prior to commencement of IT projects.
-    -  Determines project objectives and sets priorities; anticipates potential threats or opportunities.
-    -  Applies human-centered design techniques to drive IT project decisions to ensure the right IT product is being developed.
-  - Provides Leadership to Teams:
-    -  Leads cross functional teams to develop innovative IT services.
-    -  Plans, develops, and executes highly complex and intricate IT projects that transform the manner in which government leverages technology to serve the public.
-    -  Determines the size, skills, and roles necessary for a project team to deliver a product and identifies appropriate team members.
-    -  Engages leadership in the design, development and deployment of IT solutions leveraging current and emergent IT technologies and best practices.
-    -  Implements and/or introduces the use of new IT technologies or tools within government agencies.
+  - Software Engineering/Applications Security Development:
+    - Serves as an expert software engineer and applications developer and consultant, managing and directing multiple highly complex and innovative IT and information security projects and initiatives.
+    - Serves as a recognized authority on a diverse range of highly technical and complex software engineering, development, security, and usability issues as well as more widespread issues affecting customer agencies’ missions.
+    - Coordinates information security and digital service development activities within the program organization relating to application development and integration as well as a wide range of major initiatives associated with other TTS organizations and partner agencies.
+    - Advises program leadership, staff, and members of the employing organization on all matters pertaining to delivery, information security, privacy, strategy, information architecture, and program direction. Assesses and balances programmatic needs for user experience, partner growth, information security, and compliance.
+    - Represents GSA at technical symposia and conferences. Serves on agency, interagency, and technical society committees of national importance as a recognized authority in software engineering. Develops cyberspace and information security workforce plans, strategies, and guidance to support cyberspace workforce manpower, personnel, training, and education requirements. Develops cyberspace and information security plans, strategy, and policy to support and align with organizational cyberspace missions and initiatives.
+  - Provides Leadership to Ad Hoc Teams:
+    - Leads cross-functional teams at scale in highly complex environments to develop innovative software and/or related secure and high impact digital services.
+    - Focuses team efforts towards current goals and priorities, providing leadership in the design, development, and deployment of IT software, applications, programs, and/or services solutions leveraging current and emergent technologies and best practices. Mentors ad hoc team members, as necessary, evaluates and improves team practices, and establishes and/or ensures compliance with standards.
+    - Applies and tailors agile methodologies to meet different/changing delivery needs. Applies a wide range of qualitative and/or quantitative methods to assess and improve project effectiveness and/or associated complex management processes, projects, and systems.
   - Relationship Management:
-    - Works closely with customer agencies in a leadership role and navigates and works through conflicting priorities from stakeholders.
-    - Provides agency partners accurate, expert, and authoritative technical IT advice.
-    - Utilizes interpersonal skills to develop cooperative relationships.
- 
+    - Serves as a liaison establishing and maintaining mutual understanding and cooperation with executive, management, and staff stakeholders within GSA and customer agencies.
+    - Develops cooperative relationships working with customer agencies and navigates and works through conflicting priorities from stakeholders.
+    - Ensures agency partners are fully engaged members of teams and helps them manage expectations with their stakeholders. Provides customer agencies technical advice, promoting best practices and working to overcome resistance to improvements and other changes.
+   
+      
 ## Qualifications
 
 Provide as much detail as possible on your resume so that we can evaluate your
@@ -344,11 +323,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience leading the design, roadmap, vision, technical direction, or identification of user needs for a project, product, platform, or services.
-- Experience consulting with clients/customers in support of their project, product, platform, or service.
-- Experience with iterative or agile methodologies.
-- Experience leading cross-functional teams to deliver a product, platform, or service.
-- Experience collaborating with senior level or executive stakeholders.
+- Applying software design and information security principles, concepts, methods, standards, and practices.
+- Leveraging modern software practices such as iterative development methodologies (Agile), leveraging open source software components, leveraging cloud based services (SaaS/PaaS/IaaS), or continuous integration/delivery.
+- Estimating resource requirements, defining milestones and deliverables, monitoring activities, and evaluating and reporting on accomplishments.
+- Experience working in a team to deliver IT projects, tools, services, or products.
 
 
 ## How to Apply
