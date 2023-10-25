@@ -67,7 +67,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "U.S. Digital Corps: 2024 Cohort"
+title: "2024 U.S. Digital Corps Fellows"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -118,7 +118,7 @@ info sessions:
 # located. This will point the user to that site rather than a posting on the
 # JoinTTS site.
 #🔻🔻🔻🔻🔻
-information link: https://digitalcorps.gsa.gov/opportunity/
+information link: https://digitalcorps.gsa.gov/apply/
 
 # This is the end of the frontmatter. After this line is Markdown.
 ---
