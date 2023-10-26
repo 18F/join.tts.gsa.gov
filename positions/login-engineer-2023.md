@@ -335,6 +335,15 @@ For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
 
+**SPECIALIZED EXPERIENCE REQUIREMENTS:**
+
+To qualify, you must have one (1) year of specialized experience at the next
+lower GS-grade (or equivalent). Specialized experience is defined as follows:
+
+- Applying software design and information security principles, concepts, methods, standards, and practices.
+- Implementing and providing authoritative advice and guidance to a wide array of management, staff, and other stakeholders to ensure the confidentiality, integrity, and availability of digital services/platforms/products on a broad, complex spectrum impacting government entities.
+- Estimating resource requirements, defining milestones and deliverables, monitoring activities, and evaluating and reporting on accomplishments.
+- Collaborating across organizational/operational boundaries to build strategic relationships, and resolving sensitive IT issues.
 
 ## How to Apply
 
