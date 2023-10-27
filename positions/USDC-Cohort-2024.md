@@ -110,10 +110,22 @@ closes: 2023-11-22
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/webinar/register/3016980964216/WN_-B2wi3a-Tr61XoSJjLiQgw
-    date: 2023-10-26
-    time: 4:00pm-5:00pm ET (1:00pm -2:00pm PT)
-
+  - link: https://gsa.zoomgov.com/webinar/register/1016981594193/WN_k20Ay9lMQyG9nIAoIJQkXg#/registration
+    date: 2023-11-01
+    time: 12:00pm-1:00pm ET (9:00am -10:00am PT)
+  - link: https://gsa.zoomgov.com/webinar/register/8716947002215/WN_2FqNNpRIQVu7mk5JXFW2GA
+    date: 2023-11-02
+    time: 3:30pm-4:30pm ET (12:30pm -1:30pm PT)
+  - link: https://gsa.zoomgov.com/webinar/register/WN_AYjDCRhzT5ioJd5s5UC8pQ#/registration
+    date: 2023-11-03
+    time: 2:30pm-3:30pm ET (11:30am -12:30pm PT)
+  - link: https://gsa.zoomgov.com/webinar/register/WN_SWEdbvjKTxK8ETpmPeGQZg#/registration
+    date: 2023-11-06
+    time: 3:00pm-4:00pm ET (12:00pm -1:00pm PT)
+  - link: https://gsa.zoomgov.com/webinar/register/WN_nbCA_3JjSd2YbdcxHLHWUQ
+    date: 2023-11-08
+    time: 12:00pm-1:00pm ET (9:00am -10:00am PT)
+    
 # Put the link to the PIF, USDC, or other site where the job description is 
 # located. This will point the user to that site rather than a posting on the
 # JoinTTS site.
