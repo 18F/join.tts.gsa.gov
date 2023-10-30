@@ -67,7 +67,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "2024 Presidential Innovation Fellow - Artificial Intelligence"
+title: "2024 Presidential Innovation Fellows - Artificial Intelligence"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
