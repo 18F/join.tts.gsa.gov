@@ -116,10 +116,10 @@ info sessions:
   - link: https://gsa.zoomgov.com/webinar/register/WN_IKUjc_fVSx-h4WvrpzxY2A#/registration
     date: 2023-11-06
     time: 2:30pm - 3:30pm ET (11:30am -12:30pm PT)
- - link: https://gsa.zoomgov.com/webinar/register/WN_4I1ESo9wQ-a_cZfn0lcCJQ#/registration
+  - link: https://gsa.zoomgov.com/webinar/register/WN_4I1ESo9wQ-a_cZfn0lcCJQ#/registration
     date: 2023-11-09
     time: 1:00pm - 2:00pm ET (10:00am -11:00am PT)
- - link: https://gsa.zoomgov.com/webinar/register/WN_KyuwOWVnS2uYKuX6t78m8g#/registration
+  - link: https://gsa.zoomgov.com/webinar/register/WN_KyuwOWVnS2uYKuX6t78m8g#/registration
     date: 2023-11-14
     time: 11:00am - 12:00pm ET (8:30am -9:30am PT)
 
