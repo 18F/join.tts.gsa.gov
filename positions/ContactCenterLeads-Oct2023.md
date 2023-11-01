@@ -88,8 +88,8 @@ title: "Centers of Excellence: Contact Center Modernization Specialist"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-11-01
-closes: 2023-11-02
+opens: 2023-12-25
+closes: 2023-12-29
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
