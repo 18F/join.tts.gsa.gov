@@ -79,8 +79,8 @@ title: "2024 U.S. Digital Corps Fellows"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 
-closes: 2023-11-22
+opens: 2023-11-06
+closes: 2023-11-17
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
