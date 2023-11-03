@@ -79,8 +79,8 @@ title: "2024 U.S. Digital Corps Fellows"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 
-closes: 2023-11-22
+opens: 2023-11-06
+closes: 2023-11-17
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -110,15 +110,6 @@ closes: 2023-11-22
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/webinar/register/1016981594193/WN_k20Ay9lMQyG9nIAoIJQkXg#/registration
-    date: 2023-11-01
-    time: 12:00pm-1:00pm ET (9:00am -10:00am PT)
-  - link: https://gsa.zoomgov.com/webinar/register/8716947002215/WN_2FqNNpRIQVu7mk5JXFW2GA
-    date: 2023-11-02
-    time: 3:30pm-4:30pm ET (12:30pm -1:30pm PT)
-  - link: https://gsa.zoomgov.com/webinar/register/WN_AYjDCRhzT5ioJd5s5UC8pQ#/registration
-    date: 2023-11-03
-    time: 2:30pm-3:30pm ET (11:30am -12:30pm PT)
   - link: https://gsa.zoomgov.com/webinar/register/WN_SWEdbvjKTxK8ETpmPeGQZg#/registration
     date: 2023-11-06
     time: 3:00pm-4:00pm ET (12:00pm -1:00pm PT)
