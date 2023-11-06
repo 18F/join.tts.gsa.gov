@@ -155,24 +155,7 @@ gs: 14
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Contribute to Login.gov’s anti-fraud program:
-    - Design, develop, test, and deploy cloud-based identity fraud analytics products and workflows that monitor, detect, mitigate, or prevent identity fraud. 
-    - Maintain existing workflows and tools used by Login.gov’s cybersecurity team to monitor, detect, and investigate identity fraud.
-    - Collaborate with Login.gov identity fraud investigators to develop analytics products that inform identity fraud investigations.
-    - Collaborate with Login.gov cybersecurity and platform engineers to develop identity fraud monitoring and alerting solutions.
-    - Support Login.gov incident response.
-  - Improve Login.gov’s anti-fraud analytics:
-    - Collaborate with Login.gov product and platform teams to develop cloud-based analytics tooling that improves Login.gov’s anti-fraud posture while preserving user privacy.
-    - Lead the design, development, and deployment of improvements to Login.gov’s fraud analytics workflow or tooling.
-    - Drive long-term improvement in Login.gov’s cybersecurity posture by removing single points of failure, improving automation, reducing toil, or improving the fidelity of fraud analytics.
-  - Support Login.gov program management:
-    - Design, develop, test, and deploy analytics products that efficiently report identity fraud KPIs and trends.
-    - Contribute to briefing materials for internal and external reporting of Login.gov fraud KPIs and trends.
-    - Identify and communicate technical, business, or program risk associated with Login.gov’s anti-fraud posture.
-  - Effectively collaborate with distributed, agile teams:
-    - Openly share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices.
-    - Participate in regular retrospectives and provide feedback to help improve the way the team works.
-    - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
+
 
   
 
@@ -318,6 +301,25 @@ content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
 {% include job/key_objectives.html %}
+
+  - Contribute to Login.gov’s anti-fraud program:
+    - Design, develop, test, and deploy cloud-based identity fraud analytics products and workflows that monitor, detect, mitigate, or prevent identity fraud. 
+    - Maintain existing workflows and tools used by Login.gov’s cybersecurity team to monitor, detect, and investigate identity fraud.
+    - Collaborate with Login.gov identity fraud investigators to develop analytics products that inform identity fraud investigations.
+    - Collaborate with Login.gov cybersecurity and platform engineers to develop identity fraud monitoring and alerting solutions.
+    - Support Login.gov incident response.
+  - Improve Login.gov’s anti-fraud analytics:
+    - Collaborate with Login.gov product and platform teams to develop cloud-based analytics tooling that improves Login.gov’s anti-fraud posture while preserving user privacy.
+    - Lead the design, development, and deployment of improvements to Login.gov’s fraud analytics workflow or tooling.
+    - Drive long-term improvement in Login.gov’s cybersecurity posture by removing single points of failure, improving automation, reducing toil, or improving the fidelity of fraud analytics.
+  - Support Login.gov program management:
+    - Design, develop, test, and deploy analytics products that efficiently report identity fraud KPIs and trends.
+    - Contribute to briefing materials for internal and external reporting of Login.gov fraud KPIs and trends.
+    - Identify and communicate technical, business, or program risk associated with Login.gov’s anti-fraud posture.
+  - Effectively collaborate with distributed, agile teams:
+    - Openly share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices.
+    - Participate in regular retrospectives and provide feedback to help improve the way the team works.
+    - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
 
 ## Qualifications
 
