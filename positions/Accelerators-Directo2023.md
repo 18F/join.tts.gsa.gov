@@ -88,8 +88,8 @@ title: "Office of Delivery: Accelerator Division Director"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-25
-closes: 2023-12-30
+opens: 2023-11-17
+closes: 2023-12-01
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -196,7 +196,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: 
+application link: https://www.usajobs.gov/job/761114100/preview
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
