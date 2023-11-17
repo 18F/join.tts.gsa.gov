@@ -186,7 +186,7 @@ key objectives:
 info sessions:
   - link: https://gsa.zoomgov.com/meeting/register/vJItduqhqjIrGrFyGGgAwgt95BnoTzMJ_LM#/registration
     date: 2023-11-28
-    time: 1:00-2:00pm ET (11:00am -12:00pm PT)
+    time: 1:00-2:00pm ET (10:00am -11:00am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
