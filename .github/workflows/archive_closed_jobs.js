@@ -44,7 +44,7 @@ const runArchiver = async ({ core, fs = _fs }) => {
     //
     // NOTE: Jobs from /positions are rendered to:
     //   /join/[filename slug]/index.html
-    const pathname = new URL(job.url).pathname;
+    const pathname = decodeURIComponent(new URL(job.url).pathname);
     const renderedPath = path.join("_site", pathname);
 
     // For its archival location, we just yoink out the last directory
