@@ -89,7 +89,7 @@ title: "Office of Delivery: Accelerator Division Director"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-11-17
-closes: 2023-11-21
+closes: 2023-11-20
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
