@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 15
+gs: 14
 # The information you put here will be used to automatically pull salary range
 # information.
 #
