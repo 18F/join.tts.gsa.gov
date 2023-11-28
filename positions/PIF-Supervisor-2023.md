@@ -89,7 +89,7 @@ title: "Presidential Innovation Fellows Supervisor"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-11-27
-closes: 2024-12-01
+closes: 2023-12-01
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
