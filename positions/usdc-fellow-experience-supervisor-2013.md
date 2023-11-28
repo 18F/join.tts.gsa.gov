@@ -89,7 +89,7 @@ title: "U.S. Digital Corps: Fellow Experience Supervisor (Design)"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 
-closes: 2024-11-10
+closes: 
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
