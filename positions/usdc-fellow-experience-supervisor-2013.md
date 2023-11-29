@@ -88,8 +88,8 @@ title: "U.S. Digital Corps: Fellow Experience Supervisor (Design)"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 
-closes: 
+opens: 2023-11-27
+closes: 2023-11-28
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
