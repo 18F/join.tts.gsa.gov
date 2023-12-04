@@ -88,8 +88,8 @@ title: "Login.gov: Security Supervisor"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-11
-closes: 2023-12-21
+opens: 2023-11-28
+closes: 2023-12-03
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
