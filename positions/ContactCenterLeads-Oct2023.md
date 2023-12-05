@@ -88,8 +88,8 @@ title: "Centers of Excellence: Contact Center Modernization Specialist"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-25
-closes: 2023-12-29
+opens: 2023-12-11
+closes: 2023-12-15
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2023-12-29
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 500
+max applications: 
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -329,20 +329,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience in relationship management, and serving as a trusted advisor and expert influencer, helping programs and their leadership achieve their missions.
-- Experience leading contact center and customer experience strategies for a government agency or private sector enterprise. This experience must include THREE of the following:
-    - Developing and executing contact center operations or strategies
-    - Developing and executing customer service modernization operations or strategies
-    - Leading contact center technology implementation or deployment within internal applications or systems
-    - Developing and executing on key performance metrics
-- Experience navigating highly ambiguous or uncertain situations to deliver results for clients. This experience must include ALL of the following:
-    - Leading client-facing consulting projects or initiatives
-    - Collaborating with cross-functional teams to achieve organizational or project objectives and deliverables
-    - Monitoring and providing mentorship, corrections, and feedback to team members
-- Experience overseeing Contact Center Modernization projects at at least TWO federal agencies or private enterprises.
-- Experience in strategizing with senior leaders to identify clear key priorities and opportunities to modernize IT, create operational efficiency, improve customer experience, and communicate complex recommendations.
-- Experience developing and maintaining strategic application technology portfolios, and roadmaps, conducting interviews and collaborative work sessions with stakeholders, staff, and customers.
-
+- Leading contact center and customer experience operations for (at least two) government agencies or private sector enterprises;
+- Strategizing with senior leaders to identify clear key priorities and opportunities to modernize IT, create operational efficiency, improve customer experience, and communicate complex recommendations;
+- Leading client-facing projects or initiatives;
+- Collaborating with cross-functional teams to achieve organizational or project objectives and deliverables; and
+- Developing and maintaining roadmaps, conducting interviews and collaborative work sessions with stakeholders, staff, and customers.
 
 ## How to Apply
 
