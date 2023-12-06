@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Digital Analytics Program (DAP): Program Manager GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-10-16
+closes: 2023-10-16
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,18 +111,18 @@ closes: 2023-10-02
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 100
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: perm
+appointment type: term
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,33 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
-
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
+- Lead the migration from Google Analytics 360 “Universal Analytics” to “GA4”, which is already in process.
+   - Support the deployment of DAP GA4 code and QA, troubleshoot, customize as needed
+   - Develop a product strategy to enhance effectiveness of DAP in meeting user needs
+   - Develop a strategy to migrate off of “Universal Analytics” by the EOL date of June 2024
+   - Communicate with users as the roadmap progresses
+- Implement and integrate data from DAP GA4 into BigQuery or comparable technology
+   - Stand up BigQuery account and link it to the DAP GA4 instance
+   - Configure the account and explore uses of the data
+   - Develop a plan for agency access to the BigQuery instance to ingest data themselves
+- Lead the redesign and rebuild of analytics.usa.gov
+  - Assess user needs for data present on analytics.usa.gov
+  - Work with a team to re-imagine a better analytics.usa.gov
+  - Collaboratively build and launch the new site
+  - Update security compliance paperwork as necessary
+- Lead the government in advocating for web analytics data to improve public experiences on the web
+  - Design a training program to continue to educate federal employees and contractors on analysis of web data for better experiences
+  - As necessary, speak to government teams, councils, or at external events and conferences to promote the use of web analytics
+  - Highlight the case studies or successes of usage of data from DAP in blog posts, speaking engagements, or otherwise
+- Provide excellent support, data, and guidance to DAP users
+  - Oversee the DAP helpdesk for over 3,000 individual users
+  - Assist with access requests, reporting issues, troubleshooting implementations, and more
+  - Continually assess configuration of DAP web analytics tool to make adjustments for collection or presentation
+- Explore opportunities for expanded use of analytics
+  - Do user research on optimal usage of analytics data
+  - Assess other tools or processes to present, collect, or analyze data
+  - Implement new tools or processes as necessary
+    
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +194,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJItcu2tpzojHVdOs4hhn2pbA2XWYwho0i8
+    date: 2023-10-11
+    time: 12:00-1:00pm ET (9:00am -10:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/754737700
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +223,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Non-Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,10 +233,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** IT Program Manager (INET/DATAMGT) GS-15
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,10 +300,13 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+The Digital Analytics Program (DAP) is the Federal Government's aggregated web-analytics shared-service. The DAP currently collects and maintains web analytics data on over 6,000 public-facing US federal government websites. Since 2012, the program has been used to analyze data at both micro and macro levels to improve User Experience. Additionally, the DAP team provides a public window into this data by maintaining analytics.usa.gov, the dashboard for portions of DAP data.
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+A unified, aggregated datastore of web analytics helps site owners, content strategists, designers, communications professionals, and more analyze website visit data to improve delivery of government content and services. Public-facing government Executive Branch website participation in the program is mandated by OMB M-17-06.
 
+This position is to serve as Program Manager (PM) for the Digital Analytics Program (DAP), part of the Data and Analytics Portfolio, Office of Solutions, Technology Transformation Services, Federal Acquisition Service, in the U.S. General Services Administration. The PM will lead efforts to implement GA4 for all participating sites, move DAP data into BigQuery, and redesign analytics.usa.gov, all while providing prompt and professional customer service to DAP’s existing and future users and stakeholders.
+
+Our ideal candidates will be equally excited about sticky technical issues and intricate human ones. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
 
 ## Key objectives
 
@@ -329,14 +336,11 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
-
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
-
+lower GS-grade (or equivalent). Specialized experience for this role is defined as: 
+  - Experience with web analytics platforms such as Google Analytics as well as skill in advocating for web analytics data to improve public experiences on the web
+  - Experience with human centered design to track and interpret user needs and policy requirements into product and program strategy for continuous improvement
+  - Experience with database systems and infrastructure to support data analytics such as BigQuery
+  - Experience with the planning and management of program resources including contracts and contractor staff
 
 ## How to Apply
 

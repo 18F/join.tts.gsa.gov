@@ -88,8 +88,8 @@ title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-11-21
-closes: 2023-11-22
+opens: 2023-08-21
+closes: 2023-08-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -206,7 +206,12 @@ says {% include job/status_alert.html %}
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/status_alert.html %}
+<!-- {% include job/status_alert.html %} -->
+  {% include alert.html
+    type="warning"
+    heading="This job posting has been updated."
+    body="Please click [HERE](https://join.tts.gsa.gov/join/CoE-Data-Analytics-Modernization-Lead/) to access the current job posting."
+  %}
 
 ## Basic information
 

@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "18F Director"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2024-01-24
+closes: 2024-01-31
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,23 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
-
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
+  - Serves as a member of, and collaborates with, the TTS Consulting Leadership Team to determine 18F’s vision, strategic direction, objectives and goals, including the overall planning, management, execution, and direction of the program.
+    - Ensures proper oversight of the 18F engagement portfolio and business operations, and develops/implements a system for performance measures that links engagement outcomes and business operations to goals, objectives, and overall impact
+    - Develops innovative approaches and alternative solutions to solve problems associated with digital services delivery within the federal government
+    - Serves as a top-level advisor and consultant to the Assistant Commissioner and Deputy Assistant Commissioner for TTS Consulting, and the Deputy Commissioner, FAS/TTS Director
+    - Provides advice and consultation in the development of policies, plans, and practices that may result in government-wide impact and growth
+    - Utilizes current business data to forecast and plan for the supply/demand of hiring and resource goals to meet internal organization and partner objectives
+  - Builds and maintains effective internal and external working relationships to address issues of mutual interest with other federal agencies, top agency management, municipal and state agencies, subject matter experts, industry and other high level officials in the public, not-for-profit and private sectors.
+    - Chief ambassador of the 18F program and associated projects to appropriate audiences through speeches, presentations, articles for publication, newsletters; identifies, reviews and collaborates on blog posts, articles for trade journals, scholarly journals and periodicals to highlight transformation and business performance across 18F and the Office of TTS Consulting
+    - Collaborates with the Assistant Commissioner and Deputy Assistant Commissioner for TTS Consulting to build a communication and relationship strategy on how best to engage with GSA officials and other agencies and departments in order to carry out 18F strategy, planning, and acquisition initiatives that have government-wide implications
+    - Collaborates with federal agencies on relevant projects, policies, and initiatives
+    - Acts as thought leader/subject matter expert on digital innovation and technology transformation within the federal government
+    - Identify potential partners and enable generation of viable business development leads
+  - Provides executive leadership and Equal Employment Opportunity responsibility.
+    - Leads 18F’s senior management team, providing leadership and mentoring
+    - Fosters the development of employees through empowerment and two-way communication; facilitates cooperation and teamwork
+    - Furthers diversity within 18F via recruitment, hiring, training, awards, and active participation with Employee Resource Groups, resulting in an inclusive, equitable and diverse workplace 
+ 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,12 +184,10 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJItduqhqjIrGrFyGGgAwgt95BnoTzMJ_LM#/registration
+    date: 2023-11-28
+    time: 1:00-2:00pm ET (10:00am -11:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
@@ -219,9 +213,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,10 +223,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Supervisory IT Program Manager
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,10 +290,9 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
-
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
-
+18F is a division of the Office of TTS Consulting within the General Services Administration (GSA) that works to design, build, and buy digital services that improve the public’s experience with government services.  
+The Director of 18F oversees a group of 100+ experienced, mid to senior-level cross-functional technology and design experts, whose mission is to improve the lives of the public and public servants by transforming how the government uses technology. 
+As Director, you will lead and direct the office’s operations and give strategic guidance to ensure that it achieves its mission and objectives. The work involves not only advocating for and delivering on an iterative, human-centered approach to building and buying software, but also collaborating with federal, state, local, territorial, and tribal partners to improve service delivery across agency boundaries . You will ensure 18F is fulfilling its short-term objectives while identifying and moving toward long-term objectives through a period of dynamic change.
 
 ## Key objectives
 
@@ -325,18 +318,6 @@ For each job on your resume, provide:
 
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-
-**SPECIALIZED EXPERIENCE REQUIREMENTS:**
-
-To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
-
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
-
 
 ## How to Apply
 

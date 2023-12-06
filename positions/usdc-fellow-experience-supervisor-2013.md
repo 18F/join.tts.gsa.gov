@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "U.S. Digital Corps: Fellow Experience Supervisor (Design)"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-11-27
+closes: 2023-11-28
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 14
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -154,28 +154,8 @@ gs: 13
 # The placeholder information below shows an example of how to format the key
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
-key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
+ 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +168,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJItduqhqjIrGrFyGGgAwgt95BnoTzMJ_LM#/registration
+    date: 2023-11-28
+    time: 1:00-2:00pm ET (10:00am -11:00am PT)
+    
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/761834700
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +197,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,10 +207,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Supervisory IT Specialist
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,10 +274,15 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+The U.S. Digital Corps (USDC) is a two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was launched in August 2021 by GSA in partnership with the White House, CISA, and OPM. USDC welcomed its second cohort of Fellows in summer of 2023 and is currently hiring for the 2024 cohort to begin work in August 2024. 
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+Key area of focus: Fellow Management, Support & Development
 
+A U.S. Digital Corps Fellow Supervisor directly supervises and coaches early-career technology Fellows; ensuring USDC Fellows are reaching their potential for impact. The USDC program places Fellows for 90% of their time on a high priority project at a placement agency; the remaining 10% of time is spent with the USDC Corps and is focused on coaching, learning, development, and participation in the USDC Community. Because of this structure, day to day management of Fellow’s work is done by the placement agency and each USDC Supervisor manages 15-20 Fellows within their technical area of expertise, with support structures that vary depending on the needs of the fellows. As such, the majority of 1:1 time between Supervisor and Fellow is focused on Fellow coaching, growth, and support and not activities like tasking or reviewing project work.
+
+Each U.S. Digital Corps Supervisor is a skilled technologist in their own right and uses their discipline specific knowledge, excellence in coaching & management, and ongoing engagements with USDC Fellows to inform the design and support the delivery of the Fellow learning & development curriculum throughout the two year cohort experience. USDC Supervisors take the lead on track level (cybersecurity, data science, design, product management, and software engineering) specific programming within their domain of expertise. 
+
+A USDC Supervisor also works closely with Agency partners to ensure that Fellows receive the structures and support to be successful while on placement with their Agency - starting before the Fellow begins work, through the fellowship period, and until the final permanent offboarding transfer to the Agency occurs.  
 
 ## Key objectives
 
@@ -311,7 +294,36 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+  - Provide coaching, mentorship, and professional development opportunities; support employee wellbeing for Digital Corps Fellows
+    - Steward the Fellow’s personal professional development by identifying and providing appropriate training, developmental assignments, and/or support. Tailor approaches to individual as well as cohort wide needs.
+    - Work with individuals to identify and develop their strengths, helping Fellows pursue opportunities that enhance their talents.
+    - Engage regularly with your Fellows, as a Cohort group and in 1:1s, to provide mentorship and guidance, support, and help remove obstacles to their success.
+    - Help design and implement cohort wide and track specific virtual and in-person learning and engagement experiences during the course of the fellowship. Incorporate equity and inclusion into training, speaking events, and experiential learning opportunities.
+    - Constructively address situations, issues, and behaviors. Initiate difficult conversations and clearly communicate corrective actions.
+    - Ensure Fellows receive reasonable accommodations and that team events are accessible.
+    - Research & Implement feedback systems between Fellows, agency placement leads, and the PMO to inform Fellow performance measurement, agency engagement, and PMO design & strategy.
+    - Manage HR processes
+      - Support the onboarding of Fellows.
+      - Submit and approve timesheets and leave requests in HR Links every pay period for all direct reports.
+      - Conduct and document employee performance plans, mid-year, and end-of-year performance evaluations.
+      - Ensure U.S. Digital Corps adheres to all Pathways Recent College Graduate requirements that pertain to Fellow support, learning & development, and mentorship.
+      - Facilitate Fellow career ladder and service changes; specifically promotions to GS-11 & GS-12 at the appropriate times within the fellowship and conversion from excepted to career service upon completion of the Recent Graduates portion of the fellowship.
+  - Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills:
+    - **Fellowship Experience Management:** Design, develop, and successfully manage the end to end Fellow experience and employee lifecycle -  from onboarding, to engagement/in-program support & performance management, to offboarding and conversion into permanent roles.
+    - **Learning & Development Programming:** Identify and deliver appropriate and high quality professional, technical, and government specific learning & development opportunities to support early career technologist’s learning and growth needs.  
+    - **Employee Support & Engagement:** Create equitable, inclusive, accessible, engaging, and supportive teams or organizations.
+    - **Partner Agency Management & Success:** Maintain strong working relationships with partner agencies. Develop, and lead a shared support model with agency partners that ensures alignment, ongoing performance feedback, and mutual support for the Fellow during the fellowship period. 
+    - **Talent Program Operations:** Design and execute processes and practices that support program consistency and quality talent outcomes. 
+  - Support the growth & development of the U.S. Digital Corps program and build stronger values-driven practices
+    - Within the Fellow learning, development, and experience areas of focus:
+      - Research, develop, and encourage best practices.
+      - Create space for experimentation and iteration. 
+    - Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
+    - Support strategic outreach activities to include college fairs, professional conference, as speaking engagements
+    - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
+    - Uphold USDC & TTS values of inclusion, integrity, and impact. Champion diversity, equity, inclusion, and accessibility.
+      - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Incorporate diversity, equity, inclusion, and accessibility practices into project work. 
+      - Identify power dynamics within teams and with partners, respond thoughtfully, and open space equitably among team members.
 
 ## Qualifications
 
@@ -325,18 +337,6 @@ For each job on your resume, provide:
 
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-
-**SPECIALIZED EXPERIENCE REQUIREMENTS:**
-
-To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
-
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
-
 
 ## How to Apply
 

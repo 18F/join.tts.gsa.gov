@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Centers of Excellence: Supervisory Contact Center Modernization Specialist"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-11-27
+closes: 2023-12-01
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,59 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
+  - Provide coaching, mentorship, and professional development opportunities; support employee wellbeing
+    - Ensure continued Contact Center Modernization in modern project management best practices (such as Agile) and delivery within the Contact Center Center of Excellence.
+    - Communicate regularly with your team, as a group and in 1:1s, to provide mentorship and guidance, and help remove obstacles to their success.
+    - Steward staff’s professional development by identifying appropriate training, developmental assignments, and/or details. Incorporate equity and inclusion into training, speaking events, and experiential learning opportunities. Tailor approaches to individuals’ needs.
+    - Work with individuals to identify and develop their strengths, helping team members pursue opportunities that enhance their talents.
+    - Constructively address situations, issues, and behaviors that impede success. Initiate difficult conversations and clearly communicate and follow through with corrective actions.
+    - Ensure employees receive reasonable accommodations and that team events are accessible.
+    - Support the onboarding of new staff.
+    - Document employee performance plans and conduct mid-year and end-of-year performance evaluations.
+    - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
+    - Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
+    - Collaborate across organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
+  - Provide technical leadership to project teams
+    - Manage and direct highly complex and innovative projects related to the delivery of Contact Center products, platforms, or services to agencies and the public.
+    - Find entrepreneurial and creative solutions to organizational challenges.
+    - Translate client needs into scoped engagements that match CoE’s value proposition and areas of expertise.
+    - Help to shepherd partners through the agreements process.
+    - Help teams align on and adhere to shared processes, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
+    - Identify risks to project delivery and seize opportunities.
+    - Help create enduring change at agencies, including the adoption of innovative tools and techniques.
+    - Utilize modern project management practices to oversee engagements financial and contractual compliance.
+    - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
+    - Develop and maintain positive relationships at various levels within  organizations and champion diversity, equity, inclusion, and accessibility.
+    - Serve as a central leader partnering with other CoE supervisors to resolve client specific and delivery challenges.
+    - Promote client needs inside of CoE / TTS / GSA in order to refine agency offerings
+    - Set customer meetings, align stakeholders, and provide timely responses to inquiries and urgent requests.
+  - Provide strategic leadership
+    - Along with the rest the CoEs leadership, set the vision for the Centers, aligning with TTS vision, mission, and values.
+    - Coordinate with other members of the CoE leadership team to develop guidance and organizational communication.
+    - Collect feedback to discuss successes and challenges, and share patterns and key feedback with the rest of the CoE leadership team.
+    - Research, develop, and encourage delivery best practices and create space for experimentation and iteration.
+    - If involved in hiring actions, ensure Equal Employment Opportunity (EEO) regulations are followed throughout recruitment, hiring, and selection processes.
+    - Set strategy for knowledge management such that key information is carried forward, to make the Center resilient to turnover.
+    - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to partner needs. Ensures all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
+    - Promote transparency in how decisions are made. Regularly includes others in planning and decision-making.
+    - Participate in and lead partner-facing work and business development efforts.
+    - Represent CoE to external parties, such as speaking at conferences, writing blogs, or speaking to the press.
+    - Collaborate with the head of Partnership and client agencies to define goals, outline statements of work, and produce deliverables.
+    - Use a consultative sales approach to qualify and close new business leads on introductory, subject matter expert (SME), and follow-up calls.
+    - Comfortably speak to the value of our methodologies (iterative, human-centered, open) to a variety of audiences.
+    - Where appropriate, find opportunities to integrate execution of roadmap with other TTS-wide services/products (e.g., login, cloud.gov).
+    - Deepen customer relationships and retain clients by balancing their needs with budget, innovation, and long-term growth potential. 
+  - You will help federal agencies develop and execute contact center and customer experience modernization strategies incorporating leading technology, and best practices to ensure solutions can meet their current and future needs in an efficient, sustainable, agile, and adaptable manner.
+    - Design enterprise-level contact center solutions using user story definition, and holistic journey mapping while also incorporating standard operating procedures and best-practice methodologies
+    - Ability to collect and analyze current contact center operations, data and reports to develop future-state recommendations for optimization and transformation.
+    - Lead the development and maintenance of  strategic application technology portfolios, and roadmaps, to support or drive solution development or product selection
+    - Ability to incorporate standard operating procedures, training, QA programs and best practice methodologies into contact center operations
+    - Partner with agency program leads to drive alignment and integration of new contact center technology and integration with other third-party or internal applications
+    - Incorporate knowledge management and customer relationship management systems best practices to improve the agent experience and the agency’s overall customer experience
+    - Support the implementation of intelligent system solutions to leverage robotic process automation (RPA) & artificial intelligence (AI) to help anticipate user needs, augment conversations and automate routine tasks
+    - Interface with agency data and security teams to address gaps and risks and assist in the overall design and build of security features
+    - Develop and track performance metrics, customer feedback, quality assurance and other KPI’s
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +220,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJItduqhqjIrGrFyGGgAwgt95BnoTzMJ_LM#/registration
+    date: 2023-11-28
+    time: 1:00-2:00pm ET (10:00am -11:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/762174000
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +249,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,10 +259,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Supervisory Information Technology Specialist (SYSANALYSIS)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,10 +326,13 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+We are looking for a Contact Center Modernization Specialist to join the Technology Transformation Service (TTS) as part of the IT Modernization Centers of Excellence (COE)  to help develop and improve the contact center capabilities and services of our partner agencies.
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+The CoE deploys technology modernization leaders with industry support across the federal government to bring about enterprise-wide, lasting organizational change and deliver value to the American public.
 
+As the Supervisory Contact Center Modernization Specialist you will oversee a group of experienced, mid- to senior-level Contact Center Modernization experts whose mission is to improve the lives of the public and public servants by transforming how the government uses technology. You will accelerate our growth by creating and maintaining partnerships with government agencies and programs. You'll help agency leadership make sense of the complex digital landscape and how CoE’s services can benefit their Contact Center programs and users. You’ll establish and maintain trusted relationships with our government partners, and set up and lead engagements to be successful. 
+
+You will lead a team of expert contact center modernization consultants, and serve as senior subject matter expert in the areas of contact center multi-channel and/or omnichannel technologies, platforms and operations.  You will collaborate with agency partners to design, plan, and deliver on key contact center and customer experience modernization strategies that will drive optimizations and improvements in the security, agility, responsiveness, and efficiency of the agency’s public facing infrastructure and processes.
 
 ## Key objectives
 
@@ -331,12 +364,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
-
+- Supervising the work of an organization through efforts involving identifying, developing, delivering, and/or supporting introduction of new technologies to rework IT business practices and delivery.
+- Performing system analyses, application of process reengineering concepts, and new information technology sufficient to define opportunities for new, improved, or enhanced business process IT systems solutions.
+- Developing and interpreting guidelines, procedures, and strategies governing planning and delivery of IT systems solutions.
+- Applying interrelationships of multiple IT specialties.
 
 ## How to Apply
 

@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Login.gov: Fraud Analyst"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2024-02-01
+closes: 2024-02-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2023-10-02
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 400
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 14
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,10 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
 
   
+
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,12 +171,10 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJIsf-iorDItGFIiFBZR_-Mj84iZWtpNoKQ 
+    date: 2023-11-30
+    time: 12:00-1:00pm ET (9:00am -10:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
@@ -219,9 +200,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Non-Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -296,9 +277,19 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+Login.gov is the public’s one account for government, simplifying access to government benefits and services for members of the public by enabling them to reuse one secure account across government agencies, and improving the security of government systems by enabling agencies to leverage a shared technology service to provide strong authentication and identity verification services to their customers. We focus on the complexities of digital identity authentication for the public, so agencies can focus on their mission.
+Login.gov is a FedRAMP authorized secure sign-in service created for the public to access participating government agency sites, products, and services. At its core, Login.gov is both an authentication and identity verification service and is now available to all levels of government: federal, state, and local. We're helping people access essential public services and benefits securely, privately, and seamlessly. 
+This opportunity is located in the Technology Transformation Services (TTS) Solutions Division’s Login.gov team. The Login.gov team is a remote organization and is composed of experts across product development, software engineering, cybersecurity, and platform engineering.
+Login.gov is seeking 3 qualified fraud analysts to join our cybersecurity team. A qualified candidate will be able to immediately contribute to Login.gov’s anti-fraud team by: 
+  - Leading the design, development, and deployment of identity-fraud related, cloud-based data analytics solutions.
+  - Leading cross functional teams to improve Login.gov’s anti-fraud standard operating procedures, fraud analytics tooling, and investigative processes.
+  - Supporting fraud investigations and Login.gov program management by developing analytics products that communicate identity fraud trends and risks to the Login.gov system.
+  - Supporting meetings with engineers and executives from prospective government agency customers to determine how Login.gov can adapt to meet their user identity needs.
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+<!-- end of the list -->
+The Login.gov team works in the open as a distributed, agile team. The core product is open source, hosted in modern cloud infrastructure, and built for scale. With over ten million users we aim to be the preferred entrypoint for all government digital services. Login.gov is used to access benefits, apply for government jobs, and collect funds awarded through grant programs.
+As part of the Login.gov cybersecurity team, you will make government services more secure and accessible to the public.
+
 
 
 ## Key objectives
@@ -313,6 +304,25 @@ content in its place.
 
 {% include job/key_objectives.html %}
 
+  - Contribute to Login.gov’s anti-fraud program:
+    - Design, develop, test, and deploy cloud-based identity fraud analytics products and workflows that monitor, detect, mitigate, or prevent identity fraud. 
+    - Maintain existing workflows and tools used by Login.gov’s cybersecurity team to monitor, detect, and investigate identity fraud.
+    - Collaborate with Login.gov identity fraud investigators to develop analytics products that inform identity fraud investigations.
+    - Collaborate with Login.gov cybersecurity and platform engineers to develop identity fraud monitoring and alerting solutions.
+    - Support Login.gov incident response.
+  - Improve Login.gov’s anti-fraud analytics:
+    - Collaborate with Login.gov product and platform teams to develop cloud-based analytics tooling that improves Login.gov’s anti-fraud posture while preserving user privacy.
+    - Lead the design, development, and deployment of improvements to Login.gov’s fraud analytics workflow or tooling.
+    - Drive long-term improvement in Login.gov’s cybersecurity posture by removing single points of failure, improving automation, reducing toil, or improving the fidelity of fraud analytics.
+  - Support Login.gov program management:
+    - Design, develop, test, and deploy analytics products that efficiently report identity fraud KPIs and trends.
+    - Contribute to briefing materials for internal and external reporting of Login.gov fraud KPIs and trends.
+    - Identify and communicate technical, business, or program risk associated with Login.gov’s anti-fraud posture.
+  - Effectively collaborate with distributed, agile teams:
+    - Openly share knowledge and work collaboratively to integrate anti-identity fraud principles into product and engineering practices.
+    - Participate in regular retrospectives and provide feedback to help improve the way the team works.
+    - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
+
 ## Qualifications
 
 Provide as much detail as possible on your resume so that we can evaluate your
@@ -326,15 +336,6 @@ For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
 
-**SPECIALIZED EXPERIENCE REQUIREMENTS:**
-
-To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
-
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
 
 
 

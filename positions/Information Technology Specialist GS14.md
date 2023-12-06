@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "TechToGov - TTS: GS 14 Term Limited Various Roles"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-10-24
+closes: 2023-10-30
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,18 +111,18 @@ closes: 2023-10-02
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: perm
+appointment type: term
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 14
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,9 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
+          
 
-  
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +170,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://www.eventbrite.com/...
+    date: 2023-02-13
+    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/756312900
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +199,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Non-supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,10 +209,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Information Technology Specialist
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 8-15
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,9 +276,15 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
-
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+TTS is looking to fill multiple vacancies with this Public Notice. The positions we are hoping to fill include
+  - FedRAMP - Training Program Designer
+  - [Design Research Operations - Program Manager]({% link public_file_sharing/tts-research-ops-performance-profile.pdf %})
+  - Login.gov - Product Manager
+  - Login.gov - UX Designer
+  - [Digital.gov - Software Engineer]({% link public_file_sharing/digital.gov-engineer-performance-profile-gs-14.pdf %})
+  - [Challenge.gov - Software Engineer]({% link public_file_sharing/open-innovation-engineering-lead-performance-profile.pdf %})
+  - [18F - Consulting Content Strategist]({% link public_file_sharing/18f-content-strategist-performance-profile-fy22.pdf %})
+  - Centers of Excellence - Innovation Adoption Lead
 
 
 ## Key objectives
@@ -312,6 +298,20 @@ content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
 {% include job/key_objectives.html %}
+
+  - Technical Expert
+    - Engages with customer agencies, the public, and/or GSA management and staff to support/contribute to needs analyses to define opportunities for a new or improved business processes, solutions, practices, products, services or strategies based on customer/user needs.
+    - Serves as an IT expert and authoritative technical advisor on IT projects and initiatives involving the full array of IT areas: Policy and Planning, Network Services, Enterprise Architecture, Data Management, Security, Internet, Systems Analysis, Systems Administration, Applications Software, Customer Support, and/or Operating Systems.
+    - Serves as an expert consultant to stakeholders at customer agencies and/or internal to GSA and provides authoritative advice to explore innovative approaches to design and deliver mission-critical software products and/or IT programs. Consults with agency partners to identify new or existing solutions that support administrative priorities and agency practices. Consults with stakeholder partners to refine and translate functional requirements into informal, plain-language descriptions and/or explanations of software features (i.e., user stories) and technical specifications. Develops user-centered requirements, specifications, and/or user stories for projects that meet administrative and operational business requirements. Contributes to ot conducts feasibility studies and trade-off analyses of/for IT projects, initiatives, and solutions to a variety of problems; prepares materials for business cases for the application of IT or modified products or services.
+ - Cross functional Product/Service Delivery team functions
+    -  Serves as a member of cross-functional delivery teams developing IT services and products. This includes supporting the development of project scopes and objectives, developing cost estimates for new or modified products or services, and ensuring the integration of all project components (e.g., procedures, databases, policies, software, and hardware). Independently plans, develops, and executes important programs in software and/or services. Facilitates and maintains awareness of customer, end-user/customer experience, and associated needs, feedback, and satisfaction.
+    -  Applies iterative development methodologies to specific products to meet different delivery needs. Contributes to the design, development, and deployment of IT solutions leveraging current and emergent IT solutions and best practices.
+ - IT Project Leadership
+    - Provides authoritative expert technical advice on direction and vision during the entire IT project life cycle. Helps maintain alignment with the goals of engagement and communicates effectively with team members to support management/leadership, team members, and stakeholder communication and creation of project visions in terms of clarity and consensus of purpose, execution, and completion. 
+    - Reviews projects for technical feasibility and adherence with the organization's mission objectives and provides recommendations to the team and management prior to commencement of IT projects. Contributes to the creation of project objectives and priorities, identifying and weighing anticipated potential threats or opportunities to them providing advice, suggestions, recommendations, and other inputs.
+ - Relationship Management
+    - Serves as a liaison establishing and maintaining mutual understanding and cooperation with program personnel within the agency to convey information regarding IT program activities, guidelines, and goals clarifies procedures, and interpret guidelines as needed.
+    - Utilizes interpersonal skills to develop cooperative relationships and work closely with customer agencies to navigate and work through conflicting stakeholder priorities. Uses a variety of skills and approaches (e.g., empathy, creativity, coalition building, situational awareness, tact) to solve a wide array of IT and related problems and cooperate with and facilitate delivery of IT products to stakeholders.
 
 ## Qualifications
 
@@ -331,11 +331,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
+- Experience with the design, roadmap, vision, technical direction, or identification of user needs for a project, product, platform, or services.
+- Experience providing project or product leadership for a project, product, platform, or services.
+- Experience leading a project, product, platform, or service utilizing iterative or agile methodologies.
+- Experience working with cross-functional teams to deliver a product, platform, or service.
 
 
 ## How to Apply

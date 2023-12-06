@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-09-21
+closes: 2023-09-28
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,18 +111,18 @@ closes: 2023-10-02
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 300
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: perm
+appointment type: term
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -154,28 +154,8 @@ gs: 13
 # The placeholder information below shows an example of how to format the key
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
-key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
+Key Objectives:
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +168,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJIsfuqsqTosGMqmWiv8cnyoK-xYW35veLk
+    date: 2023-09-19
+    time: 12:00-1:00pm ET (9:00am -10:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/750396900
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +197,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Non-Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,7 +207,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Information Technology Specialist (SYSANALYSIS)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 3
@@ -296,10 +274,22 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+Technology Transformation Services (TTS), Centers of Excellence (CoE) is hiring for the role of GS-15 Data & Analytics Modernization Lead. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. This page contains a high-level summary of the role(s) we are trying to fill. 
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+As part of GSA’s Technology Transformation Services, the Centers of Excellence (CoE) initiative accelerates IT modernization at federal agencies by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation.
 
+The Centers of Excellence work primarily in six focus areas: Infrastructure Optimization, Cloud Adoption, Data & Analytics, Artificial Intelligence, Contact Centers, and Customer Experience. Our complementary work in strategic communications, change management, and performance management ensures these innovations can be successful and sustainable. We also work with partner agencies to enhance their ability to innovate so they can continuously modernize as opportunities and challenges emerge over time.
+
+As a  Data & Analytics Modernization Lead at the CoE, you will:
+  - Help our agency partner make sense of the complex digital landscape and how technology and process modernization can benefit their programs and users. 
+  - Establish and maintain trusted relationships with our agency partners, and set up engagements to be successful.
+  - Coordinate cross-functional teams to deliver user-centered solutions to complex problems. 
+  - Help our agency partners to develop their own capacity for continuous innovation. 
+  - Offer a customized Data and Analytics strategic guidance that enables optimal access to agency data.
+  - Employ industry best practices and data architectural principles to define the target state.
+  - Develop well-defined implementation plans that include year-long projects, benefits and risks.
+
+Your expertise will help ensure the success of our government partners as they meet technology modernization challenges head on. 
 
 ## Key objectives
 
@@ -311,7 +301,28 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+
+  - OBJECTIVE 1:  Promote the adoption of modern technology and business practices through advice, recommendations, teaching, coaching, and knowledge sharing
+    - Practice and enthusiastically share project management and agile methodologies throughout all stages of the project lifecycle.
+    - Deliver educational workshops to accelerate learning and adoption of agile principles and practices.
+    - Inspire honesty and integrity through open communication and liberal knowledge sharing across multi-disciplinary teams.
+    - Create compelling case studies on how users are benefiting from the CoE projects, providing a special focus on lessons learned.
+    - Capture specific capabilities (e.g. strategies, roadmaps, playbooks) to document best practices across government.
+
+  - OBJECTIVE 2: Practice an exceptional customer experience with all partners, providing a unique, tailored partner experience and solutions
+    - Explain products or services to people who have varying levels of technical knowledge — always meet the agency partner where they’re at.
+    - Empathetically guide our agency partners through requirements, standards, guidelines, administration priorities, compliance and security processes.
+    - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the agency partner’s needs.
+    - Serve as a liaison between the stakeholders and the project teams, delivering feedback to the team, enabling them to make necessary changes to product performance or presentations.
+    - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
+
+  - OBJECTIVE 3: Lead in your focus area(s) 
+    - While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Area that contribute to the collective cross-functional capabilities of the CoE team. The Centers of Excellence (CoE) Focus Area for this role is Data & Analytics: 
+     - Lead a customized Data and Analytics strategy service that enables optimal access to a partner agency data.
+     - Drive agency-wide and multi-agency IT modernization initiatives in the areas of data management, analytics, and data visualization.
+     - Advise senior executives on data management best practices, maturing organizational analytics portfolios, and on new developments and advanced techniques in data science.
+     - Lead and develop pilots, prototypes, and minimum viable products to demonstrate analytic products and solutions for customers. 
+     - Serve as a data and analytics subject matter expert through consulting with customers to determine requirements, explore solutions, and deliver high business impact solutions in an iterative, agile process.
 
 ## Qualifications
 
@@ -331,11 +342,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
+  - Experience leading vision, direction, roadmap or leading the identification of user needs for a project, product, platform, or service.
+  - Experience providing project or product leadership.
+  - Experience with iterative or agile methodologies.
+  - Experience leading cross-functional teams.
+  - Experience collaborating with senior or executive stakeholders.
 
 
 ## How to Apply

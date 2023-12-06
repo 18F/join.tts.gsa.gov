@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Login.gov: Engineer GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-10-26
+closes: 2023-10-31
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2023-10-02
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 400
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,32 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
-
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
+  - You will contribute high-quality, well-tested, maintainable code across an entire project lifecycle, using modern software development best practices. 
+    - Practice and enthusiastically share engineering methodologies and tools throughout all stages of the project lifecycle.
+    - Use usability research, analytics, and other metrics to influence project planning and design.
+    - Participate in code review, architecture discussions, and feature prioritization.
+    - Contribute to documentation, tests, style fixes, accessibility, performance, security, etc.
+    - Deliver code that is easy to deploy, update, and monitor by ensuring the tooling for this is present early in the project development cycle or by introducing tooling into an existing project as needed.
   
+  - You will participate as part of the engineering team, practicing and enthusiastically share agile methodologies throughout all stages of the project lifecycle. 
+    - Work within a distributed multidisciplinary agile team(s) by participating in constructive discussions, sharing knowledge openly, and demonstrating value for technical and non-technical contributions. 
+    - Support a safe and inclusive workplace as well as a positive team culture where diversity and individual differences are valued and leveraged.
+    - Provide visibility into progress, communicate blockers and challenges, and ask for help when necessary.
+    - Understand elements of agile methodology (scrum, kanban, etc).
+    - Practice human centered design, user testing, feature prioritization, DevOps, and other relevant concepts.
+   
+  - You will meet personal and organizational goals and customer expectations. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
+    - Hold yourself and your team accountable for measurable high-quality, timely, and cost-effective results.
+    - Be a credible technician in your area of expertise, deliver high-quality work, and accept responsibility for mistakes.
+    - Identify and analyze problems in a constructive manner.
+    - Meet the needs of internal and external customers.
+
+  - You’ll lead change, within and outside the organization, to meet organizational goals. You’ll help establish an organizational vision and implement it in a continuously changing environment.  
+    - Develop new insights into situations and question conventional approaches.
+    - Keep up-to-date on policies and trends that affect the organization and shape stakeholders’ views.
+    - Formulate and execute consistently against objectives and priorities.
+
+
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +193,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://www.eventbrite.com/...
+    date: 2023-02-13
+    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/756967900
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +222,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Non-Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -232,7 +235,7 @@ on USAJOBS here.
 **Official title in USAJOBS:**
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 4
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -275,7 +278,7 @@ information in our
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Travel requirement:**
-Occasional travel may be required up to 10%-20% per year.
+Occasional travel may be required up to 10% per year.
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Work schedule:**
@@ -296,9 +299,15 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+This opportunity is located in the Technology Transformation Services (TTS) Solutions Division’s Login.gov team. The Login.gov team is remote-first and is composed of experts across product development, software engineering, cybersecurity, and platform engineering. 
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+Login.gov is a FedRAMP authorized secure sign-in service created for the public to access participating government agency sites, products, and services. At its core, Login.gov is both an authentication and identity verification service and is now available to all levels of government: federal, state, and local.
+
+Login.gov is looking for talented Engineers to help us deliver better digital services to the public. At Login.gov, you will be a builder, contributor, and a catalyst. With the support of the team, you will solve large complex problems while spreading user-centered, open, and transparent culture. You can be writing code one day, going to meet with members from partner agencies another day, and launching a new product that will impact the lives of Americans across the country the next week. Login.gov is an open source team, so most of what you work on will be open source.
+
+This role is perfect for you if you care deeply about building great public-facing digital products and services. You should be excited to apply your skills, share them with your colleagues, and learn from them in turn.
+
+Login.gov’s core languages are Ruby, Python, JavaScript, and Go. You should have experience with at least one of those languages, and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The best candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
 
 
 ## Key objectives
@@ -331,12 +340,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
-
+- Applying software design and information security principles, concepts, methods, standards, and practices.
+- Implementing and providing authoritative advice and guidance to a wide array of management, staff, and other stakeholders to ensure the confidentiality, integrity, and availability of digital services/platforms/products on a broad, complex spectrum impacting government entities.
+- Estimating resource requirements, defining milestones and deliverables, monitoring activities, and evaluating and reporting on accomplishments.
+- Collaborating across organizational/operational boundaries to build strategic relationships, and resolving sensitive IT issues.
 
 ## How to Apply
 

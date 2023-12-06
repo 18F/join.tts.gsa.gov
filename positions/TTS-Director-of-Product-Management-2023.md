@@ -88,8 +88,8 @@ title: "TTS: Director of Product Management"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 
-closes: 2023-10-22
+opens: 2023-09-11
+closes: 2023-09-12
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -168,15 +168,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
-    date: 2023-02-07
+  - link: https://www.google.com/url?q=https://gsa.zoomgov.com/meeting/register/vJIsdOuhqjIpHtnWZrKqsxnppsouGp2n3w0&sa=D&source=calendar&ust=1693251092764189&usg=AOvVaw38y3JYB4016v33To-LAQGV
+    date: 2023-09-07
     time: 1:30-2:30pm ET (10:30am -11:30am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/GetJob/ViewDetails/745198800
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 

@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Data & Analytics Portfolio: Product Manager GS15"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-09-17
+closes: 2023-10-06
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -117,12 +117,12 @@ max applications: 0
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: perm
+appointment type: term
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,7 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +168,19 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJIsdeGrqzgoHqAd_luZcJuEG7mvGx22jLc#/registration
+    date: 2023-09-27
+    time: 12:00 - 1:00pm ET (9:00am - 10:00am PT)
+  
+  - link: https://gsa.zoomgov.com/meeting/register/vJItf-CorzsqHpbIHq9nISsXacicLey_cWw#/registration
+    date: 2023-09-28
+    time: 3:00 - 4:00pm ET (12:00pm - 1:00pm PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/750109600
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +201,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Non-Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,10 +211,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** IT Specialist - DATAMGT-INET
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 2
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,10 +278,25 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+TTS is hiring for the role of GS-15 Product Managers to support our Data & Analytics Portfolio. Several business units within TTS are hiring for this role. Product Managers are crucial to TTS significantly improving our products, platforms, and services. This is an opportunity to make a huge difference in the lives of the public and other federal agencies. This page contains a high-level summary of the roles we are trying to fill.
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+These opportunities are located in the General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS). TTS applies modern methodologies and technologies to improve the lives of the public and public servants. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions.
 
+TTS is looking for talented product managers who will help our partner agencies deliver better digital services to the public. You’ll lead cross-functional teams to solve large, complex problems and deliver user-centered products using agile methodologies and modern software development practices.
+
+TTS is looking for product managers in both client services and product development roles, including:
+  - Leading cross-functional development teams to own and grow existing, in-market products
+  - Joining cross-functional teams to partner with other government agencies and help them deliver mission-critical software
+  - Partnering with government agencies evolve their culture and establish sustainable best practices for product development
+
+These roles will be a great fit for you if you are a:
+  - Strategic thinker who is comfortable defining a compelling vision and designing a measurable strategy to achieve that vision
+  - Decisive leader who knows how to motivate cross-functional teams to build the right thing
+  - Strong executor that is able to deliver results to agencies and the public
+
+Our ideal candidates will be equally excited about sticky technical issues and intricate human ones. The strongest candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
+
+If you are interested in any or all of these roles, you should apply. You may be matched with multiple teams across TTS during the interview process based on your skills, experience, and interests.
 
 ## Key objectives
 
@@ -311,7 +308,48 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+**1. Build or steward the product vision and lead end-to-end product development.**
+You are an experienced product manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to galvanize your team, whether that means generating a product vision and strategy with your team or helping agency partners articulate and focus their vision and strategy.
+  - Establish a vision and ensure all team members and stakeholders have a shared understanding of product objectives, goals, and metrics
+  - Analyze market demand and market fit, do competitive analysis, and guide build vs. buy or reuse approaches
+  - Create a product strategy and roadmap and develop a communications strategy supporting product goals
+  - Identify and proactively monitor and address product risks
+  - Lead or facilitate a cross-functional team of researchers, designers, and engineers to ensure the right product is delivered to the right audience
+  - Work with the team to set and meet quality standards for any product you build
+  - Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
+  - Energize and motivate the team by recognizing successes and learning from failures
+  - Ensure that products comply with federal regulations such as the 21st Century IDEA Act, the Federal Information Security Modernization Act (FISMA), and Section 508 of the Rehabilitation Act of 1973.
+
+**2. Support agency partners in delivering results to the public.**
+As a product manager at TTS, you’ll uphold a modern product development mindset and make sure every project you touch is set up for sustained long-term success. As part of that, you’ll share your expertise and experience with your teammates and stakeholders in order to ensure that you are not a single point of success.
+  - Help partners understand how to deliver value, rather than features, to their users
+  - Help teammates and stakeholders navigate complex bureaucratic relationships to bring stakeholders together around a common product vision and strategy
+  - Advocate for and explain agile, open source, and user-centered principles so that teammates, stakeholders, and government partners understand the value these practices bring
+  - Improve the government’s product management capacity by coaching and mentoring more junior product managers
+  - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term
+  - Work with teammates and stakeholders to develop communications strategies to sustain the product in the short and long term
+
+**3. Achieve excellence in customer-centric technical leadership.**
+You’ll meet customer expectations, along with personal and organizational goals. You’ll produce high-quality results by applying technical knowledge, analyzing problems, and calculating risk.
+  - Hold yourself and your team accountable for measurable, high-quality, timely, and cost-effective results
+  - Demonstrate your credibility in your area of expertise, deliver high-quality work, and accept responsibility for mistakes
+  - Meet the needs of internal and external customers
+  - Make well-informed, effective, and timely decisions
+  - Identify and analyze problems in a constructive manner
+  - Explain technical issues and concepts clearly to both technical and non-technical audiences
+
+**4. Lead in your program area(s).**
+While the entire team will have and continually enhance core expertise in technology and organizational modernization, each team member will also further hone one or more Focus Areas that contribute to the collective, cross-functional capabilities within TTS’s Data & Analytics Portfolio.
+
+  - **Data.gov** is the United States government's open data website. It provides access to datasets published by agencies across the federal government. Data.gov is intended to provide access to government open data to the public, achieve agency missions, drive innovation, fuel economic activity, and uphold the ideals of an open and transparent government. As an **Open Data Product Manager for Data.gov**, your responsibilities will include:
+    - Developing and maintaining a product strategy for Data.gov; ensuring alignment with broader federal open data efforts, the OPEN Government Data Act, and agency objectives and priorities.
+    - Overseeing the product design process, working closely with UX/UI Designers to create intuitive and user-friendly features for Data.gov, and managing the design and delivery of features such as data visualization tools, dashboards, and reporting systems.
+    - Establishing and maintaining strong relationships with internal and external stakeholders; ensuring effective communication of product updates, progress, and performance. Represent Data.gov in interagency efforts addressing issues such as metadata schemas applicable to federal data.
+
+  - **Feedback Analytics Program** develops and manages government-wide services that collect and report quantitative and qualitative customer feedback to aid service improvement and decision-making. This includes methods to evaluate progress toward achieving customer experience goals and inform continual improvements to service design and delivery. As a **Product Manager for Feedback Analytics**, your responsibilities will include:
+    - Developing and maintaining a product strategy for Feedback Analytics products including the use cases served by Touchpoints, ensuring alignment with broader federal feedback and public experience initiatives, the 21st Century Digital Experience Act, and agency objectives and priorities.
+    - Overseeing the product design process, working closely with UX/UI Designers to create intuitive and user-friendly features for Feedback Analytics, and managing the design and delivery of features such as data visualization tools, dashboards, and reporting systems.
+    - Establishing and maintaining strong relationships with internal and external stakeholders; ensuring effective communication of product updates, progress, and performance. Represent Feedback Analytics in interagency efforts addressing issues such as metadata schemas applicable to federal data.
 
 ## Qualifications
 
@@ -329,14 +367,12 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
-
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
-
+lower GS-grade (or equivalent). Specialized experience for this role is defined as: 
+  - Experience developing and implementing a product strategy that aligns with strategic objectives and user needs
+  - Experience leading cross-functional teams of software engineers, data analysts, user experience/user interface designers to develop and deliver features
+  - Experience overseeing product design and working with designers to create user-friendly tools, dashboards and reporting systems
+  - Experience utilizing web and data analytics and data management tools to inform product strategy and monitor performance
+  - Experience developing and maintaining relationships with internal and external stakeholders to represent and advance program interests
 
 ## How to Apply
 

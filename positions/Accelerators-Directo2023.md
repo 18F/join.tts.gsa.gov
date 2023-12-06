@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Office of Delivery: Accelerator Division Director"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-11-17
+closes: 2023-11-20
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,18 +111,18 @@ closes: 2023-10-02
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 250
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: perm
+appointment type: permanent
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,27 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
+  - The Accelerator Division Director will lead the management and evaluation of programs designed to identify, explore, evaluate, and select ideas for investment of taxpayer funds and improvement of digital government services.
+    - Evaluate user needs from diverse communities, emerging information and related technologies, and stakeholder priorities to identify new product/service opportunities, decide how to improve existing products/services, and optimize resource allocation (e.g., money and people) across the portfolio.
+    - Supervises program leaders whose cross-functional teams work in product discovery, human-centered design, user research, software and design prototyping, and security and compliance. Coach program leaders in developing effective ideation, evaluation and product development processes.
+    - Develop and monitor measures and metrics for evaluating product success and return on investment.
+  - Across programs, you will develop repeatable processes for “graduating” top candidate programs from research and development to permanent owners where they can grow and thrive in operation.
+    - Develop repeatable processes for identifying, investing in, and transitioning innovative ideas from initial exploration to achieving product-market fit and viable business plans. 
+    - Execute the programmatic, business and operational planning to support transitioning successful investments from “start up” to “growth” mode.
+    to help guide our approach to digital transformation.
+    - Manage the organization’s program portfolio budget, including formulating the annual budget and determining long­-range financial plans and strategies, and managing financial resources to achieve program goals.
+  - Grow the partnerships, coalitions and programs that attract sustained investment in innovation.
+    - Collaborate with TTS leadership to align priorities and opportunities for the portfolio within the broader organization’s strategic objectives and manage complex stakeholder dynamics.
+    - Track and communicate progress and overall performance to TTS leadership as well as executive and political stakeholders.
+    - Work closely with Congressional committee staff to ensure their understanding of how innovation proceeds in the Federal enterprise, and to support partner agencies in growing innovative programs
+    - Create and maintain partnerships with government agencies, organizations, media, technology/digital industry, and other influencers and thought leaders to build support for public sector innovation in all its forms 
+  - Lead an interdisciplinary team of technologists through the ebbs and flows of product development.
+    - Collaborating with talent acquisition, GSA human resources, and procurement to identify full-time and temporary staffing options and secure appropriately skilled talent
+    - Hire and onboard team members with clear training plans and performance expectations that include annual performance goals for each role
+    - Assist in the development of individual career paths through identifying professional goals, development opportunities, and learning needs. 
+    - Create a team culture of collaboration, inclusivity, and accountability 
+    - Serve as a coach, mentor, and teacher to the team
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +188,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJItcOiprzMtG8OJTVpxvFMr-Mq4emyF2Cw#/registration
+    date: 2023-10-18
+    time: 1:00-2:00pm ET (10:00am -11:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/761291700
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +217,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -232,7 +230,7 @@ on USAJOBS here.
 **Official title in USAJOBS:**
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,9 +294,12 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+The public expects all services to be natively digital, but innovating on existing government services can be risky: many ideas look good on paper, but won’t pan out when an agency tries to make them work in the real world. And while not innovating is unacceptable – already, trust in government digital experiences lags behind those of the private sector – agencies can struggle to divert funds from “sure bet” program support to innovation plays that might not pan out. The core transition is to view innovation not as a “bolt of lightning” moment of inspiration, but rather as a process that can be cultivated through skills, systems, and infrastructure. 
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+The Accelerator Division Director is tasked with doing exactly that: leading the teams that systematically explore how innovative ideas can make the jump to government digital experiences. These teams develop repeatable processes for seeking input and ideas from the people most affected by our policies and digital platforms: end users in the public, government technologists, and the digital product development teams that build and maintain these services, including 10x, the Public Benefits Studio, and more.
+
+**Where is this position located?**
+The Accelerator Division is situated in the General Services Administration, Federal Acquisition Service, Technology Transformation Services, Office of Delivery. The Accelerators Portfolio Director reports directly to the Assistant Commissioner for Solutions. This role is remote and may require up to 10% travel.
 
 
 ## Key objectives
@@ -329,12 +330,12 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
+lower GS-grade (or equivalent). 
 
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
+- Leading the overall planning, management and direction of digital research and development of early-stage digital products and services, identifying “product-market fit” and identifying strong candidate products and ideas for further development.
+- Creating or evaluating business plans, product roadmaps and operational plans for digital products.
+- Navigating a complex organization that follows rules and regulations or federated structure, and building alignment with a complex network of internal/external stakeholders, customers and partners.
+- Supervising cross-functional team members representing a variety of technical professional disciplines.
 
 
 

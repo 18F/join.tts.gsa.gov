@@ -1,4 +1,70 @@
 ---
+################################################################################
+#                                                                              #
+# INSTRUCTIONS: TTS JOB TEMPLATE                                               #
+#                                                                              #
+# -----------------------------------------------------------------------------#
+# If you are editing this file on GitHub, first make sure you are creating a   #
+# new file, and are not editing the template file! To create a new file, go to #
+# https://github.com/18F/join.tts.gsa.gov/new/main/positions in your browser.  #
+#                                                                              #
+# On the new file page, you can paste in the contents of the template file.    #
+# Also be sure to type in a filename in the small textbox above the file body  #
+# box. You will see the text join.tts.gsa.gov / [ Name your file ...] in main. #
+# Type your filename into that box.                                            #
+#                                                                              #
+# NOTE ABOUT FILENAMES: Your filename should be descriptive about the job      #
+# posting that you're creating, and it MUST end with ".md". Don't stress out   #
+# about filenames too much, though. They are used for the URL, which can help  #
+# people make sure they're on the right page, but most users will probably not #
+# notice the URL. Instead, try to make it meaningful to you and others on the  #
+# Talent Team so you can find it easily in the future if you need to edit it.  #
+#                                                                              #
+# For example, if you are posting a job for a content designer, you might      #
+# choose names like:                                                           #
+#                                                                              #
+#    tts-content-designer-2023.md                                              #
+#    login-content-designer-2023.md                                            #
+#    content-designer-2023.md                                                  #
+#    content-designer-june-2023.md                                             #
+#                                                                              #
+# For the rest of the file, follow the directions as you go, but here are a    #
+# couple more tips to help you as you work:                                    #
+#                                                                              #
+# You are currently inside the portion of the document called "frontmatter."   #
+# The frontmatter is the part that starts with just "---" on the first line    #
+# and ends with another line that only contains "---" (further down). This     #
+# part of the document is not DIRECTLY shown to the user. Instead, this is     #
+# where you can set data that will be shown to the user in other parts of the  #
+# page, or data that is used to configure how the page is displayed. For       #
+# example, the opens and closes dates are set in the frontmatter, but they     #
+# will never be shown to the user the way you type them in. Instead, they are  #
+# used to determine whether the posting is upcoming, open, or closed, and they #
+# will be turned into more human-friendly text when they are displayed.        #
+#                                                                              #
+# Within this frontmatter block, lines that begin with a hash (#) symbol are   #
+# comments. They do not contribute to the web page at all, but they are a nice #
+# way of explaining what the data in the frontmatter is. It is okay to delete  #
+# these comments when you are done, and it is also okay to leave them if they  #
+# might be helpful when editing the page later.                                #
+#                                                                              #
+# The parts you need to fill out are marked with five red triangles above them #
+# like this:                                                                   #
+#🔻🔻🔻🔻🔻                                                                   #
+#                                                                              #
+# After the frontmatter, the rest of the document is in a special version of   #
+# Markdown used by the website builder. You will see comments in that section  #
+# as well, but they will look like this:                                       #
+#                                                                              #
+#    {% comment ----------------------------------------------------------- %} #
+#    The contents in between these two lines are comments and do not           #
+#    contribute to the web page.                                               #
+#    {% endcomment -------------------------------------------------------- %} #
+#                                                                              #
+# It is safe to remove the Markdown comments as well.                          #
+#                                                                              #
+################################################################################
+
 # This is the position title and the org that is doing the hiring. Please format
 # your title as "Org: Position Title" (in quotes!). The organization should be
 # a full name rather than an acronym. For example:
@@ -10,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Login.gov: DevOps/Site Reliability Supervisory Engineer GS15"
+title: "Login.gov: Security Compliance Lead"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -22,8 +88,8 @@ title: "Login.gov: DevOps/Site Reliability Supervisory Engineer GS15"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-09-25
-closes: 2023-10-02
+opens: 2023-12-11
+closes: 2023-12-21
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -45,7 +111,7 @@ closes: 2023-10-02
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 400
+max applications: 0
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -89,34 +155,28 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Operate Login.gov with high standards of performance and reliability.
-    - Define key success metrics for Login.gov infrastructure and drive improvement toward those measuresLead a cross-functional team of researchers, designers, and engineers to
-    ensure product delivery.
-    - Create and improve monitoring systems to collect data about the application, notify on any errors, and improve visibility/observability into application behavior.
-    - Assist application teams in deploying code to the application regularly and as automatically as possible.
-    - Lead incident response and mitigate site errors as they occur.
-    - Lead postmortem discussions and drive continuous improvement to prevent similar outages.
-    - Participate and coordinate on call shifts, serving as first-line support for incidents.
-  - Build Login.gov’s infrastructure using modern cloud infrastructure techniques.
-    - Use infrastructure-as-code (currently Terraform) and configuration management (currently Chef) to automate Login.gov’s AWS infrastructure
-    - Review code and consult with other engineers on new features and their implications for site performance, reliability, and security for the security of Login.gov Ruby on Rails services.
-    - Conduct load tests to ensure the application is ready to handle projected user traffic.
-    - Improve automation and fault tolerance of the deployment process.
-    - Drive long-term improvement in Login.gov system availability by removing single points of failure.
-  - Supervise Platform Engineering within Login.gov team and outside partners.
-    - Handle site issues from partner agencies, dealing both with engineers and non-engineers.
-    - Oversee procurement process for tools and services used by Login.gov.
-    - Advocate for modern information security principles throughout the system.
-    - Balance agile development with mandatory government security compliance policies.
-  -  Grow, develop & support growth of your team.
-    - Research, develop, and encourage best practices in the key discipline(s) of your unit. Create space for experimentation and iteration.
-    - Identify and fill knowledge gaps for strategic projects.
-    - Identify Login.gov processes in need of improvement and oversee improvement activities. 
-    - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
-    - Champion diversity, equity, inclusion, and accessibility.
-    - Support a safe, inclusive workplace and a positive team culture where all team members value diversity and individual differences.
-    - Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
-    - Work alongside talent specialists to continue hiring new engineers and project managers into the team.
+  - Provide subject matter expertise on Security Compliance to Login.gov 
+    - Prepare compliance reports and status reports, identify issues, and report to senior management with respect to the NIST-800 family of standards
+    - Support key business initiatives by identifying security and compliance related risks.
+    - Assist with various internal and external cybersecurity assessments, technical control audits, and their responses and remediation efforts.
+    - Manage communications with internal and external stakeholders on Login.gov’s security and privacy compliance status.
+    - Gather and report on established metrics within the security and privacy compliance programs.
+    - Communicates with internal and external partners to share Login.gov’s security operations posture, risk, and operational processes.
+    - Lead security program goal setting and roadmapping activities.
+    - Lead contractor support teams responsible for preparing security and compliance documentation or conducting assessment and authorization activities.
+  - Contribute to Login.gov’s Cybersecurity Practice
+    - Lead NIST-800 family compliance workflows and processes.
+    - Maintain Login.gov’s security control framework and continuous monitoring activities.
+    - Collaborate with GSA Information System Security Officers and Information System Security Managers to maintain Login.gov’s FedRAMP moderate Authorization to Operate.
+    - Demonstrate expertise with conducting security review and assessment of NIST-800-53 family of security controls.
+    - Demonstrate expertise with compliance as code.
+    - Collaborate with application development teams, platform engineers, and Security Operations Center (SOC) engineers to build and implement NIST-800-53 controls in an open source, live services environment.
+    - Collaborate with User Experience, Infrastructure, and Application Developer Engineers to ensure changes to Login.gov’s product or infrastructure do not negatively affect NIST-800-53 compliance.
+  - Collaborate effectively on distributed, agile teams
+    - Openly share knowledge and integrate anti-identity fraud principles into product and engineering practices.
+    - Participate in regular retrospectives and provide feedback to help improve the way the team works.
+    - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
+
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -138,7 +198,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://www.usajobs.gov/job/751014700
+application link: https://usajobs.gov/job/apply/whatever
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -159,7 +219,7 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Supervisory
+**Supervisory status:** Non-Supervisory
 
 **Job title:** {{ page.title }}
 
@@ -169,7 +229,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** IT Specialist (OS/INFOSEC) 
+**Official title in USAJOBS:** IT Specialist (INFOSEC)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
@@ -236,16 +296,11 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-Login.gov provides the public simple, secure access to multiple government services through one verified account. Login.gov has over 10 million users and is growing the team as we scale quickly.  Login.gov is committed to providing the best experience to everyone using government digital services and making accessing government services easy while combating fraud and abuse. 
-Login.gov is seeking a qualified Platform Engineering Supervisor to join our infrastructure team. A qualified candidate will be able to immediately lead the team to: 
-- Use platform engineering best practices to build and operate the Login.gov infrastructure at scale.
-- Respond to incidents and lead incident response and postmortem review.
-- Create automation in areas such as security compliance and code deployment.
-- Meet with engineers and executives from prospective government agency customers to determine how Login.gov can adapt to meet their user identity needs.
-The Login.gov team works in the open as a distributed, agile team. The core product is open source, hosted in modern cloud infrastructure, and built for scale. With over ten million users we aim to be the preferred entrypoint for all government digital services. Login.gov is used to access benefits, apply for government jobs, and collect funds awarded through grant programs.
-As part of the Login.gov infrastructure engineering team, you will make government services more secure and accessible to the public.
+This opportunity is located in the Technology Transformation Services (TTS) Solutions Division’s Login.gov team. The Login.gov team is remote-first and is composed of experts across product development, software engineering, cybersecurity, and platform engineering. 
 
+Login.gov is a FedRAMP authorized secure sign-in service created for the public to access participating government agency sites, products, and services. At its core, Login.gov is both an authentication and identity verification service and is now available to all levels of government: federal, state, and local.
 
+As the Security Compliance Lead, you will report to Login.gov’s Security Supervisor. In this fully remote position, you will lead and work to improve Login.gov’s security operations.  In this role, you will play a key role in helping Login.gov’s security team implement best practices to improve Login.gov’s security program, infrastructure, and cybersecurity posture. You will develop and lead the organization's security policies and procedures in accordance with industry regulations and standards.
 
 ## Key objectives
 
@@ -271,11 +326,6 @@ For each job on your resume, provide:
 
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
-
-**SPECIALIZED EXPERIENCE REQUIREMENTS:**
-
-To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). 
 
 ## How to Apply
 

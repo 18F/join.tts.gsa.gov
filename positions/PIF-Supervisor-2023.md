@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Assessment GS13"
+title: "Presidential Innovation Fellows Supervisor"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "FedRAMP: Information Systems Security Officer (ISSO)/Cloud Security Asse
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-26
-closes: 2023-10-02
+opens: 2023-11-27
+closes: 2023-12-01
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 13
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -155,27 +155,23 @@ gs: 13
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Own the product vision and lead end-to-end product/program development and management.
-    - Operates as part of the FedRAMP Cloud Assessment Team supporting program strategy and roadmap, including objectives, goals, and metrics, in support of federal cybersecurity and FedRAMP program policy.
-    - Develop a communications strategy and training that includes internal/external government and commercial stakeholders supporting Vulnerability Management program goals and expectations.
-    - Identify, proactively monitor and address program risks associated with cybersecurity and vulnerability management within the cloud cybersecurity assessment process.
-    - Work with the team to set and meet quality standards for vulnerability management deliverables.
-    - Make evidence-based program decisions through use of user research, analytics, and other tools.
-    - Ensure commercial cloud service providers adhere to federal regulations and standards.
+  - Fellow support in the interest of driving value, delivering high impact work, and building a PIF knowledge base.
+    - The Fellow Supervisor is responsible for the execution and oversight of systems that supports fellows driving value at their agency and delivering impact for the public and/or agency partner. Supervisors engage regularly with Fellows, as a Cohort group and in 1:1s, to provide mentorship and guidance, support, and help remove obstacles to their success.
+    - Collaborate in the development of end to end Fellow experience lifecycle from onboarding, to engagement/in-program support, to offboarding to alumni
+    - Manage HR processes, onboarding and offboarding, conduct employee performance planning as well as, mid-year, and end-of-year performance evaluations.
+    - Manage program expectations and address agency matters with sound judgment. Constructively address situations, issues, and behaviors during the fellowship experience and partner with the agency sponsor and Director of Agency Success
+    - Connect Fellows to key stakeholders, partners and other Fellows to build a culture of cross-agency support and innovation
+    - Play a key role in the development of Fellow artifacts and impact reports, as well as expanding the program’s knowledge and resource base
+  - Participate in the ongoing improvement of the Presidential Innovation Fellows program
+    - Use effective research design methods to collect and analyze quantitative and qualitative feedback from customers & stakeholders to evaluate program and Fellow success
+    - Create, recommend, and update program policies and procedures based on evidence & learnings
+    - Evaluate and share program impact in clear and compelling ways (written, verbal, coaching Fellows on presentations).
+    - Stay up to date with government priorities & initiatives
+    - Facilitate and contribute to strategic team planning
+    - Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
+    - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
+    - Uphold PIF & TTS values of inclusion, integrity, and impact. Champion diversity, equity, inclusion, and accessibility. 
 
-  - Work with agency partners to enable cybersecurity risk management.
-    - Work with partners and stakeholders to operate within established in-house cloud security assessment program.
-    - Collaborate with partners to navigate complex bureaucratic relationships to bring stakeholders together around a common program vision and strategy to support the cybersecurity assessment of commercial cloud services..
-    - Work with partners to establish relationships with their security, operations, and IT teams that will help sustain the product in the long term.
-   
-  - Build expertise around program management.
-    - Keep abreast of program management best practices and share within the TTS organization to grow overall program management quality.
-    - Stay on top of new technologies and how they can be used to help solve government problems.
-    - Contribute to FedRAMP’s culture of transparency by publishing accounts of successes and challenges to help promote transparency and help agencies and commercial entities understand and navigate program complexities
-    - Continually seek out new tools that could improve the way we work.
-    - Pay attention to well-supported open source product offerings that can be reused in a government context to solve common problems.
-
-  
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -188,17 +184,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-1-tickets-691748306807?aff=oddtdtcreator
-    date: 2023-08-16
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
-  - link: https://www.eventbrite.com/e/fedramp-gs13-gs14-info-session-2-tickets-692034944147?aff=oddtdtcreator
-    date: 2023-08-23
-    time: 11:00-12:00pm ET (8:00am-9:00am PT)
+  - link: https://gsa.zoomgov.com/meeting/register/vJItduqhqjIrGrFyGGgAwgt95BnoTzMJ_LM#/registration
+    date: 2023-11-28
+    time: 1:00-2:00pm ET (10:00am -11:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/762174000
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -219,9 +213,9 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Not Supervisory
+**Supervisory status:** Supervisory
 
-**Job title:** FedRAMP Information Systems Security Officer (ISSO)/Cloud Security Assessment
+**Job title:** {{ page.title }}
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -229,10 +223,10 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:**
+**Official title in USAJOBS:** Supervisory Information Technology Specialist (SYSANALYSIS)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 1
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
@@ -296,10 +290,26 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The American people deserve to trust that their government is effectively securing their online interactions. Those agencies, in turn, trust FedRAMP to provide fair, accurate and unbiased assessments of cloud service offerings. FedRAMP is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment and maintaining a centralized repository of security packages that agencies can request and reuse. 
+Presidential Innovation Fellows (PIF) is a renowned fellowship program that pairs mid-to-senior-level entrepreneurs, executives, and technologists with top civil servants and change-makers in the federal government to tackle some of our nation’s biggest challenges. Fellows have a homebase in GSA and are embedded within federal agencies as senior advisors for 12-24 month engagements working on mission-critical problems, shaping smarter policy, and/or advancing equitable technology for public good.
 
-The FedRAMP Program Lead will unite vision and execution to lead an interdisciplinary team in delivering the IT/Cybersecurity assessment of commercial cloud services leveraging current industry and government cybersecurity laws and policies.  
+Since the program was launched in 2012 by former U.S. CTO Todd Park, 230+ Presidential Innovation Fellows have worked with 50 federal agencies. Our Fellows join us from big tech, startups, non-profits, academia, and more. Fellows come from diverse backgrounds and have a wide range of skills, but share common values of compassion, equity, excellence, and dedication.
 
+The PIF program is hiring for a Fellow Supervisor role to serve as part of a talented Leadership Team.  Not only will this role support top technology talent, but they’ll bring a product, design, systems-thinking, and data mindset to better understand, explore, and increase the impact of the PIF program as it strives to build a better government for all.. 
+
+In addition to the knowledge, skills, and abilities named below, candidates must demonstrate familiarity in: 
+ - Digital transformation processes and/or digital product development processes
+ - Designing products and services around customers and/or users 
+ - Civic or public interest tech ecosystem, technology in a large bureaucracy and/or federal government
+
+We’re looking for proven leaders with strong written and oral communication skills who can meet our fellows' passion for the work. You must exhibit a strong desire to continuously learn new and unfamiliar business topics, and practice attention to detail and respectful relationship management. 
+
+The ideal candidate will demonstrate the following characteristics:
+ - High degree of emotional intelligence. A quick study, who intuitively knows what needs to get done to deliver with integrity.
+ - Experience as a people manager, particularly in the technology industry.
+ - Comfort in ambiguity. Able to build relationships, continually define and scope opportunities independently, and maintain focus and momentum as priorities shift.
+ - Ability to coach others on enabling modern software development approaches and methodologies such as lean start-up, agile, and user-centered design.
+ - Ability to break down business problems, understand and design effective solutions and strategies that draw on current and emergent tools, technologies, initiatives and other resources.
+ - Solution-oriented, with the ability to translate information into operational success.
 
 ## Key objectives
 
@@ -331,12 +341,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Experience implementing, evaluating, and assessing cybersecurity and compliance standards, such as International Standards Organization (ISO), Health Insurance Portability and Accountability Act (HIPAA), Security Operations Center (SOC), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), or FedRAMP.
-- Experience participating in the delivery of a highly complex digital program, product or business
-- Experience building and managing collaborative relationships with a complex set of stakeholders to achieve program goals. 
-- Experience in developing organizational cybersecurity policy and practice to further the assessment of complex IT and cloud-based systems.
-
-
+- Supervising the work of an organization through efforts involving identifying, developing, delivering, and/or supporting introduction of new technologies to rework IT business practices and delivery.
+- Performing system analyses, application of process reengineering concepts, and new information technology sufficient to define opportunities for new, improved, or enhanced business process IT systems solutions.
+- Developing and interpreting guidelines, procedures, and strategies governing planning and delivery of IT systems solutions.
+- Applying interrelationships of multiple IT specialties.
 
 ## How to Apply
 
