@@ -89,7 +89,7 @@ title: "Centers of Excellence: Data & Analytics Modernization Lead GS15"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2023-08-21
-closes: 2023-08-22
+closes: 2023-08-23
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
