@@ -359,6 +359,16 @@ For each job on your resume, provide:
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
 
+**SPECIALIZED EXPERIENCE REQUIREMENTS:**
+
+To qualify, you must have one (1) year of specialized experience at the next
+lower GS-grade (or equivalent). Specialized experience is defined as follows:
+
+- Supervising the work of an organization through efforts involving identifying, developing, delivering, and/or supporting introduction of new technologies to rework IT business practices and delivery.
+- Performing system analyses, application of process reengineering concepts, and new information technology sufficient to define opportunities for new, improved, or enhanced business process IT systems solutions.
+- Developing and interpreting guidelines, procedures, and strategies governing planning and delivery of IT systems solutions.
+- Applying interrelationships of multiple IT specialties.
+
 ## How to Apply
 
 {% include job/apply_button.html %}

@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "U.S. Digital Corps: Fellow Experience Supervisor (Design)"
+title: "Login.gov: Security Compliance Lead"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "U.S. Digital Corps: Fellow Experience Supervisor (Design)"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-11-27
-closes: 2023-11-28
+opens: 2023-12-11
+closes: 2023-12-21
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -122,7 +122,7 @@ appointment type: perm
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
 #🔻🔻🔻🔻🔻
-gs: 14
+gs: 15
 # The information you put here will be used to automatically pull salary range
 # information.
 #
@@ -154,8 +154,30 @@ gs: 14
 # The placeholder information below shows an example of how to format the key
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
+key objectives:
+  - Provide subject matter expertise on Security Compliance to Login.gov 
+    - Prepare compliance reports and status reports, identify issues, and report to senior management with respect to the NIST-800 family of standards
+    - Support key business initiatives by identifying security and compliance related risks.
+    - Assist with various internal and external cybersecurity assessments, technical control audits, and their responses and remediation efforts.
+    - Manage communications with internal and external stakeholders on Login.gov’s security and privacy compliance status.
+    - Gather and report on established metrics within the security and privacy compliance programs.
+    - Communicates with internal and external partners to share Login.gov’s security operations posture, risk, and operational processes.
+    - Lead security program goal setting and roadmapping activities.
+    - Lead contractor support teams responsible for preparing security and compliance documentation or conducting assessment and authorization activities.
+  - Contribute to Login.gov’s Cybersecurity Practice
+    - Lead NIST-800 family compliance workflows and processes.
+    - Maintain Login.gov’s security control framework and continuous monitoring activities.
+    - Collaborate with GSA Information System Security Officers and Information System Security Managers to maintain Login.gov’s FedRAMP moderate Authorization to Operate.
+    - Demonstrate expertise with conducting security review and assessment of NIST-800-53 family of security controls.
+    - Demonstrate expertise with compliance as code.
+    - Collaborate with application development teams, platform engineers, and Security Operations Center (SOC) engineers to build and implement NIST-800-53 controls in an open source, live services environment.
+    - Collaborate with User Experience, Infrastructure, and Application Developer Engineers to ensure changes to Login.gov’s product or infrastructure do not negatively affect NIST-800-53 compliance.
+  - Collaborate effectively on distributed, agile teams
+    - Openly share knowledge and integrate anti-identity fraud principles into product and engineering practices.
+    - Participate in regular retrospectives and provide feedback to help improve the way the team works.
+    - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
 
- 
+
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
@@ -168,15 +190,15 @@ gs: 14
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/meeting/register/vJItduqhqjIrGrFyGGgAwgt95BnoTzMJ_LM#/registration
-    date: 2023-11-28
-    time: 1:00-2:00pm ET (10:00am -11:00am PT)
-    
+  - link: https://www.eventbrite.com/...
+    date: 2023-02-13
+    time: 1:30-2:30pm ET (10:30am -11:30am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://www.usajobs.gov/job/761834700
+application link: https://usajobs.gov/job/apply/whatever
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -197,7 +219,7 @@ says {% include job/status_alert.html %}
 Open to U.S. citizens or nationals (residents of American Samoa and Swains
 Island). Subject to background check. {% include job/full_info_on_usajobs.html %}
 
-**Supervisory status:** Supervisory
+**Supervisory status:** Non-Supervisory
 
 **Job title:** {{ page.title }}
 
@@ -207,7 +229,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** Supervisory IT Specialist
+**Official title in USAJOBS:** IT Specialist (INFOSEC)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
@@ -274,15 +296,11 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The U.S. Digital Corps (USDC) is a two-year fellowship for early-career technologists to launch impactful careers in public service and create a more effective, equitable government. USDC pairs early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with top technology changemakers in the federal government to build human-centered solutions to some of our nation’s toughest challenges. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was launched in August 2021 by GSA in partnership with the White House, CISA, and OPM. USDC welcomed its second cohort of Fellows in summer of 2023 and is currently hiring for the 2024 cohort to begin work in August 2024. 
+This opportunity is located in the Technology Transformation Services (TTS) Solutions Division’s Login.gov team. The Login.gov team is remote-first and is composed of experts across product development, software engineering, cybersecurity, and platform engineering. 
 
-Key area of focus: Fellow Management, Support & Development
+Login.gov is a FedRAMP authorized secure sign-in service created for the public to access participating government agency sites, products, and services. At its core, Login.gov is both an authentication and identity verification service and is now available to all levels of government: federal, state, and local.
 
-A U.S. Digital Corps Fellow Supervisor directly supervises and coaches early-career technology Fellows; ensuring USDC Fellows are reaching their potential for impact. The USDC program places Fellows for 90% of their time on a high priority project at a placement agency; the remaining 10% of time is spent with the USDC Corps and is focused on coaching, learning, development, and participation in the USDC Community. Because of this structure, day to day management of Fellow’s work is done by the placement agency and each USDC Supervisor manages 15-20 Fellows within their technical area of expertise, with support structures that vary depending on the needs of the fellows. As such, the majority of 1:1 time between Supervisor and Fellow is focused on Fellow coaching, growth, and support and not activities like tasking or reviewing project work.
-
-Each U.S. Digital Corps Supervisor is a skilled technologist in their own right and uses their discipline specific knowledge, excellence in coaching & management, and ongoing engagements with USDC Fellows to inform the design and support the delivery of the Fellow learning & development curriculum throughout the two year cohort experience. USDC Supervisors take the lead on track level (cybersecurity, data science, design, product management, and software engineering) specific programming within their domain of expertise. 
-
-A USDC Supervisor also works closely with Agency partners to ensure that Fellows receive the structures and support to be successful while on placement with their Agency - starting before the Fellow begins work, through the fellowship period, and until the final permanent offboarding transfer to the Agency occurs.  
+As the Security Compliance Lead, you will report to Login.gov’s Security Supervisor. In this fully remote position, you will lead and work to improve Login.gov’s security operations.  In this role, you will play a key role in helping Login.gov’s security team implement best practices to improve Login.gov’s security program, infrastructure, and cybersecurity posture. You will develop and lead the organization's security policies and procedures in accordance with industry regulations and standards.
 
 ## Key objectives
 
@@ -294,36 +312,7 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-  - Provide coaching, mentorship, and professional development opportunities; support employee wellbeing for Digital Corps Fellows
-    - Steward the Fellow’s personal professional development by identifying and providing appropriate training, developmental assignments, and/or support. Tailor approaches to individual as well as cohort wide needs.
-    - Work with individuals to identify and develop their strengths, helping Fellows pursue opportunities that enhance their talents.
-    - Engage regularly with your Fellows, as a Cohort group and in 1:1s, to provide mentorship and guidance, support, and help remove obstacles to their success.
-    - Help design and implement cohort wide and track specific virtual and in-person learning and engagement experiences during the course of the fellowship. Incorporate equity and inclusion into training, speaking events, and experiential learning opportunities.
-    - Constructively address situations, issues, and behaviors. Initiate difficult conversations and clearly communicate corrective actions.
-    - Ensure Fellows receive reasonable accommodations and that team events are accessible.
-    - Research & Implement feedback systems between Fellows, agency placement leads, and the PMO to inform Fellow performance measurement, agency engagement, and PMO design & strategy.
-    - Manage HR processes
-      - Support the onboarding of Fellows.
-      - Submit and approve timesheets and leave requests in HR Links every pay period for all direct reports.
-      - Conduct and document employee performance plans, mid-year, and end-of-year performance evaluations.
-      - Ensure U.S. Digital Corps adheres to all Pathways Recent College Graduate requirements that pertain to Fellow support, learning & development, and mentorship.
-      - Facilitate Fellow career ladder and service changes; specifically promotions to GS-11 & GS-12 at the appropriate times within the fellowship and conversion from excepted to career service upon completion of the Recent Graduates portion of the fellowship.
-  - Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills:
-    - **Fellowship Experience Management:** Design, develop, and successfully manage the end to end Fellow experience and employee lifecycle -  from onboarding, to engagement/in-program support & performance management, to offboarding and conversion into permanent roles.
-    - **Learning & Development Programming:** Identify and deliver appropriate and high quality professional, technical, and government specific learning & development opportunities to support early career technologist’s learning and growth needs.  
-    - **Employee Support & Engagement:** Create equitable, inclusive, accessible, engaging, and supportive teams or organizations.
-    - **Partner Agency Management & Success:** Maintain strong working relationships with partner agencies. Develop, and lead a shared support model with agency partners that ensures alignment, ongoing performance feedback, and mutual support for the Fellow during the fellowship period. 
-    - **Talent Program Operations:** Design and execute processes and practices that support program consistency and quality talent outcomes. 
-  - Support the growth & development of the U.S. Digital Corps program and build stronger values-driven practices
-    - Within the Fellow learning, development, and experience areas of focus:
-      - Research, develop, and encourage best practices.
-      - Create space for experimentation and iteration. 
-    - Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
-    - Support strategic outreach activities to include college fairs, professional conference, as speaking engagements
-    - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
-    - Uphold USDC & TTS values of inclusion, integrity, and impact. Champion diversity, equity, inclusion, and accessibility.
-      - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Incorporate diversity, equity, inclusion, and accessibility practices into project work. 
-      - Identify power dynamics within teams and with partners, respond thoughtfully, and open space equitably among team members.
+{% include job/key_objectives.html %}
 
 ## Qualifications
 
