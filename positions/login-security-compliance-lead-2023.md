@@ -88,7 +88,7 @@ title: "Login.gov: Security Compliance Lead"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-11
+opens: 2023-12-10
 closes: 2023-12-21
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
@@ -198,7 +198,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/764397700
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
