@@ -111,5 +111,33 @@ tap.test("automatic job archival", async (t1) => {
       );
       t3.ok(fs.rm.calledWith("positions/the_filename.md"));
     });
+
+    t2.test("there are spaces in the filename", async (t3) => {
+      fs.readFile.withArgs("_site/jobs.json").resolves(
+        JSON.stringify([
+          {
+            name: "the_filename.md",
+            title: "closed job #1",
+            status: "closed",
+            url: "https://tts.gsa.gov/path/file%20name",
+          },
+        ])
+      );
+
+      fs.access.withArgs("archive/file%20name").rejects();
+
+      await archiver({ core, fs });
+
+      console.log(fs.rename.args);
+
+      t3.ok(fs.rename.calledWith("_site/path/file name", "archive/file name"));
+      t3.ok(
+        fs.writeFile.calledWith(
+          "archive/name/index.html",
+          `${FRONTMATTER}\n${RENDERED_CONTENT}`
+        )
+      );
+      t3.ok(fs.rm.calledWith("positions/the_filename.md"));
+    });
   });
 });
