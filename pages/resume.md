@@ -41,13 +41,15 @@ This is an [example](https://handbook.18f.gov/resume/) of what your resume might
 
 ## General Recommendations
 
+-   Pay very close attention to the Specialized Experience section of the job post. Be sure to use the exact keywords wherever they are relevant and avoid relying on context clues. For example, if ”mobile app design” experience is required, holding the Head of Design role at the world's largest mobile app company will not automatically qualify you. You must list something like "mobile app design" or "designed mobile apps" as part of your work in that role.
+-   If you have self-employment experience, list it by role and not by client. If you have many years of experience, but no client engagements that are longer than 12 months, you may not be qualified for a job that requires at least one year of experience.
 -   When you’re preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
 -   Don’t get hung up on trying to match specific formatting; do make sure you’ve included the information relevant to each section.
 -   Be as detailed as possible. Length is not an issue as long as the information you’re including is relevant.
 -   For your most relevant, recent, or longest held position, list eight-10 bullet points about your responsibilities and accomplishments. For each prior position, you can list fewer points focusing on the information that is most relevant to the job for which you are applying.
 -   Don’t be afraid to use technical terminology if it’s relevant to your current or past roles or to the role for which you are applying. Do avoid acronyms and abbreviations.
 -   We don’t use automated screening tools, so your application will be evaluated by people who have varying levels of familiarity with your professional experience. It’s better to be explicit and not assume the reader has expert domain knowledge or context.
--   Quantify as applicable.
+-   Quantify your achievements as applicable.
 
 ## Key Information for Each Position
 
