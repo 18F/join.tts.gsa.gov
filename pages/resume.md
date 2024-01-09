@@ -41,9 +41,8 @@ This is an [example](https://handbook.18f.gov/resume/) of what your resume might
 
 ## General Recommendations
 
--   Pay very close attention to the Specialized Experience section of the job post. Be sure to use the exact keywords wherever they are relevant and avoid relying on context clues. For example, if ”mobile app design” experience is required, holding the Head of Design role at the world's largest mobile app company will not automatically qualify you. You must list something like "mobile app design" or "designed mobile apps" as part of your work in that role.
--   If you have self-employment experience, list it by role and not by client. If you have many years of experience, but no client engagements that are longer than 12 months, you may not be certified for a job that requires at least one year of experience.
--   When you’re preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
+-   Qualifications will never be assumed. For example, if specialized experience in “training dogs” is listed in a job announcement, holding the Head of Training role at the world's most well-known dog training company is not sufficient. You must list training dogs as a part of your experience in that role.
+-   For multiple periods of work lasting less than 12 months to be added together, you must be completely redundant when listing your experience during each period. For example, experience you list for one period of work will not automatically be counted for another, even if you obtained it in the same role, for the same employer, but at different times.
 -   Don’t get hung up on trying to match specific formatting; do make sure you’ve included the information relevant to each section.
 -   Be as detailed as possible. Length is not an issue as long as the information you’re including is relevant.
 -   For your most relevant, recent, or longest held position, list eight-10 bullet points about your responsibilities and accomplishments. For each prior position, you can list fewer points focusing on the information that is most relevant to the job for which you are applying.
