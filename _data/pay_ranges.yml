@@ -9,52 +9,52 @@
 # UNITED STATES for the low and SAN JOSE-SAN FRANCISCO-OAKLAND, CA as the high.
 
 1:
-  low: $24,464
-  high: $37,873
+  low: $25,684
+  high: $39,991
 2:
-  low: $27,508
-  high: $42,836
+  low: $28,880
+  high: $45,243
 3:
-  low: $30,015
-  high: $48,283
+  low: $31,512
+  high: $50,989
 4:
-  low: $33,693
-  high: $54,196
+  low: $35,373
+  high: $57,235
 5:
-  low: $37,696
-  high: $60,641
+  low: $39,576
+  high: $64,037
 6:
-  low: $42,022
-  high: $67,589
+  low: $44,117
+  high: $71,390
 7:
-  low: $46,696
-  high: $75,111
+  low: $49,025
+  high: $79,331
 8:
-  low: $51,713
-  high: $83,188
+  low: $54,292
+  high: $87,851
 9:
-  low: $57,118
-  high: $91,873
+  low: $59,966
+  high: $97,034
 10:
-  low: $62,898
-  high: $101,179
+  low: $66,036
+  high: $106,853
 11:
-  low: $69,107
-  high: $111,157
+  low: $72,553
+  high: $117,400
 12:
-  low: $82,830
-  high: $133,236
+  low: $86,962
+  high: $140,713
 13:
-  low: $98,496
-  high: $158,432
+  low: $103,409
+  high: $167,336
 14:
-  low: $116,393
-  high: $183,500
+  low: $122,198
+  high: $191,900
 15:
-  low: $136,908
-  high: $183,500
+  low: $143,736
+  high: $191,900
 
 "Senior Executive Service":
 20:
   low: $132,552
-  high: $183,300
+  high: $191,900
