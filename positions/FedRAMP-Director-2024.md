@@ -165,7 +165,7 @@ key objectives:
     - Transition FedRAMP to an automation-first, API-driven program, in its internal operations as well as through customer-facing services for automated self-validation and submission.
     - Establish and publish customer-oriented key performance metrics for the program, and drive program improvements along those metrics to demonstrate visible progress to public and government stakeholders.
     - Continuously optimize the fundamental processes of the FedRAMP program, as well as the processes agencies and third parties operate to participate in FedRAMP.
-   - You will grow FedRAMP’s reputation as a trusted independent evaluator of cloud services. 
+  - You will grow FedRAMP’s reputation as a trusted independent evaluator of cloud services. 
     - Protect and build the FedRAMP brand as a meaningful and rigorous security and risk management process, whose authorizations can consistently be presumed adequate for use by any federal agency.
     - Build the overall technical and information security expertise of the FedRAMP program, through recruitment, training, and ongoing staff development.
     - Keep FedRAMP focused on the biggest security threats to the federal government and the commercial cloud ecosystem.
