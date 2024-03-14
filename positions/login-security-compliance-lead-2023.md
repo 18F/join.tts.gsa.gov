@@ -88,7 +88,7 @@ title: "Login.gov: Security Compliance Lead"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-12-11
+opens: 2023-12-10
 closes: 2023-12-21
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
