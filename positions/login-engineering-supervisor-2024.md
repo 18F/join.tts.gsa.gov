@@ -1,4 +1,7 @@
- INSTRUCTIONS: TTS JOB TEMPLATE                                               #
+---
+################################################################################
+#                                                                              #
+# INSTRUCTIONS: TTS JOB TEMPLATE                                               #
 #                                                                              #
 # -----------------------------------------------------------------------------#
 # If you are editing this file on GitHub, first make sure you are creating a   #
@@ -294,8 +297,11 @@ Learn more about the benefits of working at
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 This opportunity is located in the Technology Transformation Services (TTS) Solutions Division’s Login.gov team. The Login.gov team is remote-first and is composed of experts across product development, software engineering, cybersecurity, and platform engineering.
+
 Login.gov is a FedRAMP authorized secure sign-in service created for the public to access participating government agency sites, products, and services. At its core, Login.gov is both an authentication and identity verification service and is now available to all levels of government: federal, state, and local.
+
 Login.gov is looking for a Supervisory Engineer to help us deliver better digital services to the public. At Login.gov, you will be a builder, contributor, and a catalyst. While leading the team, you will also help to solve large complex problems while spreading user-centered, open, and transparent culture. You will actively coach and support Login’s full-stack engineering team, ensuring that our senior and staff-level engineers can deliver high-quality and scalable code in alignment with state-of–the-art software development tools and processes. You will also exhibit strategic thinking and deliver reliable products and systems that can operate at scale in line with organizational objectives. This role is perfect for you if you care deeply about leading and building great public-facing digital products and services, and excited by leading a team of mission-oriented and results-driven senior software engineers. 
+
 Login.gov’s core languages are Ruby and JavaScript. You should have experience with at least one of those languages, and should be proficient in web development, relational databases, and using Unix-like operating systems. You should understand engineering best practices such as source control, automated testing, continuous integration and deployment, and peer review. The best candidates will have a background working on cross-functional, multidisciplinary teams that deliver digital products and services in an incremental, user-focused environment.
 
 
