@@ -88,8 +88,8 @@ title: "Login.gov: Engineering Supervisor"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-08-01
-closes: 2024-08-22
+opens: 2024-03-25
+closes: 2024-03-29
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -229,7 +229,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS: Supervisory IT Specialist (APPSW/INFOSEC) GS-15 
+**Official title in USAJOBS: IT Specialist (APPSW/INFOSEC) GS-15 
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
@@ -329,6 +329,17 @@ For each job on your resume, provide:
 
 - The exact dates you held each job (from month/year to month/year or “present”)
 - Number of hours per week you worked (if part time)
+
+**SPECIALIZED EXPERIENCE REQUIREMENTS:**
+
+To qualify, you must have one (1) year of specialized experience at the next
+lower GS-grade (or equivalent). Specialized experience is defined as follows:
+
+- Experience applying software design and information security principles, concepts, methods, standards, and practices.
+- Experience leading teams of senior and staff-level engineers, including experience driving team alignment on technical approaches, defining roles & responsibilities, providing technical mentorship, and supporting continuous career growth.
+- Experience leading engineering teams on a large scale (1M+ users) public-facing SaaS product comprised of multiple engineering teams working together on a single product.
+- Experience developing robust software engineering practices on large teams, including implementing practices for code review, accessibility and other features of a mature software lifecycle.
+- Experience collaborating with peers in product, UX and platform engineering organizations to review requirements and develop clear implementation plans balancing technical complexity, product requirements and usability.
 
 ## How to Apply
 
