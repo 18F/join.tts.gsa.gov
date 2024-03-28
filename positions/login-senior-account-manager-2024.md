@@ -88,8 +88,8 @@ title: "Login.gov: Senior Technical Account Manager"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-09-01
-closes: 2024-09-22
+opens: 2024-04-01
+closes: 2024-04-05
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2024-09-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 150
+max applications: 200
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -328,7 +328,13 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- This will be updated at a later date.
+- Experience applying IT strategies processes to accurately capture customer requirements and translate those needs into technology recommendations.
+- Experience developing and maintaining relationships at various levels within organizations, collaborating across roles and organizations, and championing inclusivity in order to build strategic relationships, achieve common goals, and resolve sensitive IT issues.
+- Experience onboarding technology solutions particularly in domains such as digital identity, cybersecurity, or other software-as-a-service settings that overcome significant challenges resulting from complex organizational environments and/or technically difficult problems.
+- Experience leading ad hoc teams sufficient to accomplish goals, develop team relationships, and contribute to team performance and success.
+- Experience employing efficient and cost-effective approaches to integrate technology into the workplace and improve program effectiveness and efficiency.
+
+  
 
 ## How to Apply
 
