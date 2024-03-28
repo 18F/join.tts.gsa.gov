@@ -88,8 +88,8 @@ title: "Login.gov: Technical Account Manager"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-09-01
-closes: 2024-09-22
+opens: 2024-04-01
+closes: 2024-04-05
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2024-09-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 350
+max applications: 300
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -194,7 +194,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/784104500
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -328,7 +328,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- This will be updated at a later date.
+- Experience applying IT principles, strategies, and/or processes to accurately represent customer requirements, present recommendations for adoption of new methodologies, and lead implementation of IT service activities.
+- Experience collaborating across organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues resolving critical IT issues.
+- Experience formulating briefings, findings, recommendations, project papers, status reports, and/or other correspondence to foster understanding and/or acceptance to higher authority and other stakeholder audiences.
+- Experience implementing program and/or project goals to enhance decision making regarding how technological changes impact customers.
+- Experience applying qualitative and/or quantitative methods for assessing and improving the effectiveness of IT modernization strategies and tactics.
   
 ## How to Apply
 
