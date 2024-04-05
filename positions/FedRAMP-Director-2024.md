@@ -340,4 +340,4 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
 ## How to Apply
 
-{% include job/apply_button.html %}
+{% include job/apply_button.html %} Please choose cybersecurity or executive management from the role list of options to be notified about this position. 
