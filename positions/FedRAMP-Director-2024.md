@@ -336,7 +336,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- This will be updated at a later date. 
+- Developing or leading the development of cloud-based infrastructure and software in commercial or government cloud environments.
+- Implementing or leading the implementation of information security design and architecture principles.
+- Working with information security compliance frameworks, such as FedRAMP, FISMA, SOC2, PCI, ISO 27001, or other relevant frameworks used in the public or private sector.
+- Building coalitions across distinct stakeholder groups, such as customers, partners, and oversight or governance bodies.
 
 ## How to Apply
 
