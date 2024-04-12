@@ -183,7 +183,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: 
+application link: https://www.usajobs.gov/job/786561200
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -214,7 +214,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** Information Technology Specialist (APPSW) GS15
+**Official title in USAJOBS:** IT Specialist (APPSW/INFOSEC)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
