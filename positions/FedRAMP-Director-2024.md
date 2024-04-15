@@ -197,7 +197,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: 
+application link: https://www.usajobs.gov/job/786813300
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -343,4 +343,4 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
 ## How to Apply
 
-{% include job/apply_button.html %} Please choose cybersecurity or executive management from the role list of options to be notified about this position. This position will open for application on USAJOBS on Tuesday, 4/16/24. The application link will update on Tuesday. 
+{% include job/apply_button.html %} 
