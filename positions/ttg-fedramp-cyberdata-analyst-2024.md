@@ -154,21 +154,6 @@ gs: 15
 # The placeholder information below shows an example of how to format the key
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
-key objectives:
-  - Objective #1: You will increase program effectiveness through automation and technology-forward operations.
-    - Identify present and future cybersecurity data needs, and shift FedRAMP to become a data-centric program.
-    - Drive the implementation and integration of appropriate technology, architecture, and tooling, including AI/ML capabilities, to support FedRAMP’s data and analytical needs and to scale its processes.
-    - Design new program processes and systems  that take advantage of and enhance FedRAMP’s ability to understand threats and drive decisions through data. 
-    - Shape FedRAMP’s policies, user guides, and overall strategic approach to FedRAMP’s technology and program roadmap. 
-  - Objective #2: You will develop models to interpret cybersecurity data and inform cybersecurity risk. 
-    - Develop models that can identify quality or consistency issues in FedRAMP’s cybersecurity data and provide near-real-time feedback to cloud service providers, 3PAOs, and technology vendors.
-    - Develop models that can identify anomalies, trends or patterns in the implementation or failure of  security controls, and better predict real-world  cybersecurity risk.
-    - Design and build recommender systems, or other capabilities that can identify the controls or data that most need human review. 
-    - Develop novel approaches to identify cybersecurity outliers and trends in large volumes of vulnerability data and other information continuously received from authorized cloud providers.
-  - Objective #3: You will maintain strong working relationships within the government, and with outside industry stakeholders and technical experts .
-    - Partner with cloud service providers (CSPs), third party assessment organizations (3PAOs), cybersecurity and risk management product vendors, and federal agencies on the development and implementation of data-driven cyber security approaches. 
-    - Work closely with internal stakeholders, including the FedRAMP technical advisory group (TAG), to develop FedRAMP’s modernization strategy, and to build a foundation of data within the organization that is useful and supports those strategic objectives.
-    - Partner with internal and external stakeholders to pilot new technologies and processes that validate the effectiveness of an automation- and data-based approach to cybersecurity.
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -292,30 +277,35 @@ FedRAMP’s Cyber Data Analyst will play a key role in building the data- and AP
 FedRAMP of the future. FedRAMP needs to take a proactive, data-centric approach to 
 ensure that cloud-based software, platforms, and infrastructure are safe and easy 
 for Federal agencies to use.
+
 FedRAMP was created in 2011 to accelerate the government’s use of commercial 
 cloud services, by creating a standardized process for security review and 
 authorization, and making security information easily available to agencies. 
 More generally, FedRAMP operates as a bridge between the public and private 
 sectors, to help companies that offer innovative services navigate federal 
 security expectations to bring the best of the private sector into government.
+
 Cloud offerings have changed substantially and agency needs have focused more 
 on software-as-a-service products. In recent years, Congress and the White House 
 have updated the program’s mission and authorities, with a mandate to scale and 
 modernize the program, while continuing to ensure the high bar of security that 
 the public expects around government data and operations. One of FedRAMP’s key 
-shifts is moving to digital authorization packages, centralized monitoring, and 
+shifts is **moving to digital authorization packages, centralized monitoring, and 
 the automation of security assessments and reviews, which require a data-centric 
-approach. 
+approach.** 
+
 This position will serve as a senior member of the FedRAMP Program Management 
 Office (PMO) working on our strategic modernization and automation goals. The 
 program is focused on operating as a data-centric program to support scaling 
 its processes and ensuring a trusted marketplace of cloud services. 
+
 As the Cyber Data Analyst, you will work and build partnerships with senior 
 cybersecurity and technical staff within the program as well as leading cloud 
 service providers, third party assessment organizations (3PAOs), tool vendors, 
 and agencies. You will help FedRAMP design, develop, and implement automated data 
 driven approaches for testing control implementations and continuous monitoring of 
 cloud services. 
+
 This position is a strategic, collaborative, outward-facing role that will require 
 a blend of cybersecurity and data expertise, a focus on consistency and quality, 
 and a future-focused view for how FedRAMP can use data in service of its mission.
@@ -330,7 +320,22 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+  - **Objective #1: You will increase program effectiveness through automation and technology-forward operations.**
+    - Identify present and future cybersecurity data needs, and shift FedRAMP to become a data-centric program.
+    - Drive the implementation and integration of appropriate technology, architecture, and tooling, including AI/ML capabilities, to support FedRAMP’s data and analytical needs and to scale its processes.
+    - Design new program processes and systems  that take advantage of and enhance FedRAMP’s ability to understand threats and drive decisions through data. 
+    - Shape FedRAMP’s policies, user guides, and overall strategic approach to FedRAMP’s technology and program roadmap.
+      
+  - **Objective #2: You will develop models to interpret cybersecurity data and inform cybersecurity risk.** 
+    - Develop models that can identify quality or consistency issues in FedRAMP’s cybersecurity data and provide near-real-time feedback to cloud service providers, 3PAOs, and technology vendors.
+    - Develop models that can identify anomalies, trends or patterns in the implementation or failure of  security controls, and better predict real-world  cybersecurity risk.
+    - Design and build recommender systems, or other capabilities that can identify the controls or data that most need human review. 
+    - Develop novel approaches to identify cybersecurity outliers and trends in large volumes of vulnerability data and other information continuously received from authorized cloud providers.
+      
+  - **Objective #3: You will maintain strong working relationships within the government, and with outside industry stakeholders and technical experts.**
+    - Partner with cloud service providers (CSPs), third party assessment organizations (3PAOs), cybersecurity and risk management product vendors, and federal agencies on the development and implementation of data-driven cyber security approaches. 
+    - Work closely with internal stakeholders, including the FedRAMP technical advisory group (TAG), to develop FedRAMP’s modernization strategy, and to build a foundation of data within the organization that is useful and supports those strategic objectives.
+    - Partner with internal and external stakeholders to pilot new technologies and processes that validate the effectiveness of an automation- and data-based approach to cybersecurity.
 
 ## Qualifications
 
