@@ -155,7 +155,7 @@ gs: 14
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Provide Research Operations support in the following areas:
+  - Provide Research Operations support in the following areas
     - Participant recruiting & compensation: Develop options and manage support for recruiting, screening, scheduling, securing participant agreements and consents, compensating, and thanking participants. Identify recruitment sources to reach underserved and underrepresented communities. Manage procurement processes when necessary, in coordination with the TTS Office of Agreements.
     - Knowledge management: Identify approaches and tools for ensuring knowledge gained through research is findable and understandable to reduce redundancy and leverage work across teams. Manage procurement processes when necessary, in coordination with the TTS Office of Agreements.
     - Training: Identify and provide or source training needed across TTS business units to mature research practices in collaboration with UX and CX supervisors and with Research Guild co-leads
