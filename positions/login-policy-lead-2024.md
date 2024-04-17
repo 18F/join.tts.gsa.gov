@@ -88,8 +88,8 @@ title: "Login.gov Senior Policy Lead"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-08-01
-closes: 2024-08-22
+opens: 2024-04-18
+closes: 2024-04-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -189,7 +189,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/787152200
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -324,8 +324,12 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Will be updated at a later date.
-
+- Experience formulating digital identity policy recommendations and guidance.
+- Experience supporting and advising the strategic and technical implementation of technology policies, guidance,  or framework through cross-functional partnership.
+- Experience developing executive-level briefings and/or standardized procedures on the interpretation of governing policy.
+- Experience researching sensitive, complex, and/or emerging technology patterns and policy issues such as data privacy.
+- Experience with the analysis of operational and technical issues and proposing solutions to address the issues.
+- Experience ensuring product compliance with priority policies, guidelines, or technical standards. 
 
 ## How to Apply
 
