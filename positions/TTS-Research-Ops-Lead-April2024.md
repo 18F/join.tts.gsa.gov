@@ -288,7 +288,7 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-  - Provide Research Operations support in the following areas:
+  - **Provide Research Operations support in the following areas:**
     - Participant recruiting & compensation: Develop options and manage support for recruiting, screening, scheduling, securing participant agreements and consents, compensating, and thanking participants.     - Identify recruitment sources to reach underserved and underrepresented communities. Manage procurement processes when necessary, in coordination with the TTS Office of Agreements.
     - Knowledge management: Identify approaches and tools for ensuring knowledge gained through research is findable and understandable to reduce redundancy and leverage work across teams. Manage procurement processes when necessary, in coordination with the TTS Office of Agreements.
     - Training: Identify and provide or source training needed across TTS business units to mature research practices in collaboration with UX and CX supervisors and with Research Guild co-leads.
@@ -296,7 +296,7 @@ content in its place.
     - Governance: Ensure required processes and procedures are followed, including retention schedules, periodic compensation justification checklists reviews, ethics, data security, PRA, and exclusion of PII. Manage documentation and maintenance of these processes and procedures.
     - Research Support: TTS has not previously had centralized support for conducting research. This is an opportunity to identify approaches for growing capabilities, engaging with vendors, and/or providing staff augmentation across business units.
     - Budget management: Identify and track budget and spend for Research Ops services
-  - Grow, develop & support growth of research operations
+  - **Grow, develop & support growth of research operations**
     - Research, develop, and encourage best practices in key areas of research operations. Create space for experimentation and iteration.
     - Identify team needs and gaps. Continuously examine, experiment, and measure improvements to our research operations and processes.
     - Collaborate with Designers, Product Managers, and UX Researchers to effectively understand their research recruitment needs and to drive their requests to successful completion. Collaborate across roles and organizations to build strategic relationships, achieve common goals, and to resolve sensitive issues.
@@ -304,7 +304,7 @@ content in its place.
     - Promote collective success; make time for collaborative decision-making in project work; acknowledge how others’ contributions led to achievements; and create shared ownership of success, risks, and accountability.
     - Champion diversity, equity, inclusion, and accessibility in research operations
     - Administration of our internal research toolsets
-  - Training and Development
+  - **Training and Development**
     - Identify TTS-Wide UX research and Research Operations training needs and coordinate with training plans to meet those needs
     - Coordinate with appropriate support teams on training and programming for accessibility principles and techniques to enable delivery teams to gain a deeper understanding of UX Research
     - Provide training resources for other units (i.e., accessibility and procurement, accessible documents) to ensure accessibility requirements are incorporated into  all appropriate processes and workforce tools
@@ -315,7 +315,7 @@ content in its place.
     - Work with individuals to identify and develop their strengths, helping team members pursue opportunities that enhance their talents
     - Constructively address situations, issues, and behaviors. Initiate difficult conversations and clearly communicate corrective actions.
     - Support the onboarding of new Research Ops staff 
-  - Support TTS core values
+  - **Support TTS core values**
     - Maintain a work environment of respect, diversity, equity, inclusion, accessibility, mutual support, flexibility, collaboration, continuous learning, and commitment to customer / partner needs. Ensure all perspectives are valued and included. Uphold TTS values of inclusion, integrity, and impact.
     - Promote transparency about how decisions are made. Regularly include others in planning and decision-making.
     - Incorporate diversity, equity, inclusion, and accessibility practices into project work. Identify power dynamics within teams and with partners, respond thoughtfully, and open space equitably among team members.
