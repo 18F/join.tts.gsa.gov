@@ -161,7 +161,7 @@ key objectives:
     - Design and implement algorithms, statistical methods, and models that can analyze large datasets of structured and semi-structured security data (such as vulnerability data and security architecture information).
     - Develop open source tooling and visualizations, using general-purpose programming languages (such as Python) and/or tools optimized for statistical and data analysis (such as R).
   - You will establish strategic, collaborative relationships with FedRAMP stakeholders and develop a deep understanding of program-related resources, policies, and best practices that impact their team members.
-    -Engage with members of TTS and FedRAMP to develop solutions based on a customer service mindset. Share best practices and tools with your peers across the organization
+    - Engage with members of TTS and FedRAMP to develop solutions based on a customer service mindset. Share best practices and tools with your peers across the organization
     - Build partnerships with external organizations to develop novel collaborative, data driven approaches to cybersecurity, compliance, and risk management activities.
     - Work with agency partners to identify and establish tooling, best practices and processes to better understand the cybersecurity and risk posture of cloud systems.
     - Identify present and future cybersecurity data needs, and shift FedRAMP to become a data-centric program.
