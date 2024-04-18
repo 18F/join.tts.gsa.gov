@@ -88,8 +88,8 @@ title: "U.S. Digital Corps: Fellow Experience Supervisor"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2034-04-18
-closes: 2034-04-22
+opens: 2024-04-18
+closes: 2024-04-24
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -176,7 +176,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/787343200
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
