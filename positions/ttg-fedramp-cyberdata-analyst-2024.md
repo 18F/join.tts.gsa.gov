@@ -89,7 +89,7 @@ title: "Office of Solutions: FedRAMP Cyber Data Analyst"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2024-04-18
-closes: 2024-04-23
+closes: 2024-04-24
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -117,7 +117,7 @@ max applications: 0
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: term
+appointment type: perm
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
@@ -168,8 +168,6 @@ gs: 15
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: https://app.brazenconnect.com/a/the_volcker_alliance/e/lx69E
-    date: 2024-04-18
-    time: 12:00-4:00pm ET (10:00am -2:00pm PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
@@ -206,7 +204,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** IT Specialist - APPSW
+**Official title in USAJOBS:** Data Scientist (CYBERSECURITY)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
