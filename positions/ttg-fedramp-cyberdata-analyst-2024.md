@@ -89,7 +89,7 @@ title: "Office of Solutions: FedRAMP Cyber Data Analyst"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2024-04-18
-closes: 2024-04-24
+closes: 2024-04-25
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
