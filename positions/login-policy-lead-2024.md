@@ -88,8 +88,8 @@ title: "Login.gov Senior Policy Lead"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-04-18
-closes: 2024-04-22
+opens: 2024-04-17
+closes: 2024-04-18
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
