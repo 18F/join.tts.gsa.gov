@@ -168,8 +168,6 @@ gs: 15
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: https://app.brazenconnect.com/a/the_volcker_alliance/e/lx69E
-    date: 2024-04-18
-    time: 12:00-4:00pm ET (10:00am -2:00pm PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
