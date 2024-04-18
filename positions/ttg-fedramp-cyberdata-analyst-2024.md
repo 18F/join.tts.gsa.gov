@@ -353,8 +353,10 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). 
 
-- Specialized experience requirements will be added when applications
-open.
+- Implementing and integrating appropriate technology, architecture, and tooling to support data science activities, including artificial intelligence/machine learning capabilities;
+- Identifying data requirements and standards to support emerging IT and IT cybersecurity initiatives (e.g. cloud computing, DevSecOps, continuous integration and continuous delivery);
+- Developing models that can identify quality, anomalies, and concerning trends in structured/semistructured/unstructured data to provide near real time feedback; and
+- Developing tooling, models, and visualizations using general-purpose programming languages (such as Python) and/or tools optimized for statistical and data analysis (such as R).
 
 
 ## How to Apply
