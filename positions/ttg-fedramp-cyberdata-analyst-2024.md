@@ -169,7 +169,7 @@ gs: 15
 info sessions:
   - link: https://app.brazenconnect.com/a/the_volcker_alliance/e/lx69E
     date: 2024-04-18
-    time: 12:00-4:00pm ET (10:00am -2:00pm PT)
+    time: 12:00-4:00pm ET (9:00am - 1:00pm PT)
 
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
@@ -206,7 +206,7 @@ To help applicants find the right jobs on USAJOBS, put the title as it appears
 on USAJOBS here.
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
-**Official title in USAJOBS:** IT Specialist - APPSW
+**Official title in USAJOBS:** Data Scientist (CYBERSECURITY)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Number of vacancies:** 1
