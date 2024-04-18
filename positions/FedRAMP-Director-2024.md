@@ -89,7 +89,7 @@ title: "Office of Solutions: FedRAMP Director"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2024-04-16
-closes: 2024-04-22
+closes: 2024-04-17
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
