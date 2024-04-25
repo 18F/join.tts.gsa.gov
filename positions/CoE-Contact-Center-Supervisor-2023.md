@@ -89,7 +89,7 @@ title: "Centers of Excellence: Supervisory Contact Center Modernization Speciali
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2025-01-24
-closes: 2025-01-31
+closes: 2024-01-31
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
