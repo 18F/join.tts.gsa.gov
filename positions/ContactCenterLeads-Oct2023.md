@@ -88,8 +88,8 @@ title: "Centers of Excellence: Contact Center Modernization Specialist"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-01-08
-closes: 2024-01-11
+opens: 
+closes: 2025-01-11
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -189,15 +189,15 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/meeting/register/vJIsceGurTsjGtY649xEsCD0dabq1S8OCEw
-    date: 2023-10-30
-    time: 12:30-1:30pm ET (9:30am -10:30am PT)
+  - link: (https://gsa.zoomgov.com/j/1617930627?pwd=YVB2dmNDK25lUTJXV3A5SlBaUDlIdz09)
+    date: 2024-05-02
+    time: 1:00-2:00pm ET (10:00am -11:00am PT)
   
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://www.usajobs.gov/job/769350700
+application link: 
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -249,13 +249,13 @@ GS-15 and the position location is only Washington, DC, then (using 2023 pay
 rates):
 
 Minimum:
-  GS-15 Step 1: $172,075
+  GS-15 Step 1: $143,736
 Maximum:
-  GS-15 Step 10: $183,500
+  GS-15 Step 10: $191,900
 
 So you would update the line below to look like this:
 
-    {% include job/salary_range.html min="$172,075" max="$183,500" %}
+    {% include job/salary_range.html min="$143,736" max="$191,900" %}
 
 To use the autoomatic salary ranges, leave the lines as-is.
 
