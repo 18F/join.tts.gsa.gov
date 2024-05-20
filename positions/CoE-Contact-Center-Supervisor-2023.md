@@ -88,7 +88,7 @@ title: "Centers of Excellence: Supervisory Contact Center Modernization Speciali
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2025-01-24
+opens: 2024-01-24
 closes: 2024-01-31
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
