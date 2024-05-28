@@ -189,7 +189,7 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/j/1617930627?pwd=YVB2dmNDK25lUTJXV3A5SlBaUDlIdz09
+  - link: 
     date: 2024-05-02
     time: 1:00-2:00pm ET (10:00am -11:00am PT)
   
@@ -197,7 +197,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://www.usajobs.gov/job/769350700
+application link: 
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
