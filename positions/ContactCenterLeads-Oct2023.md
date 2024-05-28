@@ -88,8 +88,8 @@ title: "Centers of Excellence: Contact Center Modernization Specialist"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2025-01-08
-closes: 2025-01-11
+opens: 2024-01-08
+closes: 2024-01-11
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -189,7 +189,7 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/j/1617930627?pwd=YVB2dmNDK25lUTJXV3A5SlBaUDlIdz09
+  - link: 
     date: 2024-05-02
     time: 1:00-2:00pm ET (10:00am -11:00am PT)
   
@@ -197,7 +197,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://www.usajobs.gov/job/769350700
+application link: https://www.usajobs.gov/job/whatever
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -265,10 +265,10 @@ To use the autoomatic salary ranges, leave the lines as-is.
 
 Your salary, including base and locality, will be determined upon selection,
 dependent on your actual duty location. Please note the maximum salary available
-for the GS pay system is $183,500. For specific details on locality pay, please
+for the GS pay system is $191,900. For specific details on locality pay, please
 visit [OPM's Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/)
 or for a salary calculator
-[OPM's 2024 General Schedule (GS) Salary Calculator] https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2024/general-schedule-gs-salary-calculator/). You can find more
+[OPM's 2024 General Schedule (GS) Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2024/general-schedule-gs-salary-calculator/). You can find more
 information in our
 [compensation and benefits section]({% link pages/compensation-and-benefits.md %}).
 
