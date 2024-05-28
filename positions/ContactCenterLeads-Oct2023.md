@@ -88,8 +88,8 @@ title: "Centers of Excellence: Contact Center Modernization Specialist"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2025-01-08
-closes: 2025-01-11
+opens: 2024-01-08
+closes: 2024-01-11
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -189,9 +189,9 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://gsa.zoomgov.com/j/1617930627?pwd=YVB2dmNDK25lUTJXV3A5SlBaUDlIdz09
-    date: 2024-05-02
-    time: 1:00-2:00pm ET (10:00am -11:00am PT)
+  - link: 
+    date: 
+    time: 
   
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
