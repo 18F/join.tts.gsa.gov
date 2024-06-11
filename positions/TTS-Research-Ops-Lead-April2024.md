@@ -348,4 +348,4 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
 ## How to Apply
 
-{% include job/apply_button.html %}
+{% include job/apply_button.html %} Please select "**User Experience Design**" and/or "**Operations**" and/or "**Strategy/Consulting**" to be notified about this role. 
