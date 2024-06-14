@@ -41,13 +41,14 @@ This is an [example](https://handbook.18f.gov/resume/) of what your resume might
 
 ## General Recommendations
 
--   When you’re preparing your application, be sure to reference the Qualifications & Evaluation sections of the job post to help you best frame your experience.
+-   Qualifications will never be assumed. For example, if specialized experience in “training dogs” is listed in a job announcement, holding the Head of Training role at the world's most well-known dog training company is not sufficient. You must list training dogs as a part of your experience in that role.
+-   For multiple periods of work lasting less than 12 months to be added together, you must be completely redundant when listing your experience during each period. For example, experience you list for one period of work will not automatically be counted for another, even if you obtained it in the same role, for the same employer, but at different times.
 -   Don’t get hung up on trying to match specific formatting; do make sure you’ve included the information relevant to each section.
 -   Be as detailed as possible. Length is not an issue as long as the information you’re including is relevant.
 -   For your most relevant, recent, or longest held position, list eight-10 bullet points about your responsibilities and accomplishments. For each prior position, you can list fewer points focusing on the information that is most relevant to the job for which you are applying.
 -   Don’t be afraid to use technical terminology if it’s relevant to your current or past roles or to the role for which you are applying. Do avoid acronyms and abbreviations.
 -   We don’t use automated screening tools, so your application will be evaluated by people who have varying levels of familiarity with your professional experience. It’s better to be explicit and not assume the reader has expert domain knowledge or context.
--   Quantify as applicable.
+-   Quantify your achievements as applicable.
 
 ## Key Information for Each Position
 
