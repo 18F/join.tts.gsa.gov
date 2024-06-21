@@ -88,8 +88,8 @@ title: "Login.gov: Deputy Director"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-08-01
-closes: 2024-08-22
+opens: 2024-07-09
+closes: 2024-07-15
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2024-08-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 400
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -341,11 +341,16 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
+lower GS-grade (or equivalent). Specialized experience is managing one or more major multi-year IT and/or related initiatives that is carried out through multiple related IT projects in leading, developing and coordinating processes and plans to accomplish program objectives. This experience must include: 
 
-- To be updated at a later date.
+
+- Leading the planning, management and direction of one or more components of a complex digital program, product or business; 
+- Leading one or more teams of individuals from one or more professional disciplines devoted to digital service delivery, such as software engineers, product managers, user experience designers, content strategists, agile project managers, or other digital service delivery disciplines;
+- Partnering with leadership and stakeholders across teams or enterprises to achieve organizational goals; 
+- Working on a digital product or service that requires balancing user experience with security/compliance considerations;
+- Scaling and growing a digital product or service.
 
 
 ## How to Apply
 
-{% include job/apply_button.html %} Please choose "Cybersecurity" or "Executive Management" to be notified about this role. 
+{% include job/apply_button.html %} This position will be open for applications on USAJobs on July 9. Please choose "Cybersecurity" or "Executive Management" to be notified about this role. 
