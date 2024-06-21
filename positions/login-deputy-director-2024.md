@@ -204,6 +204,10 @@ info sessions:
     date: 2024-06-24
     time: 11:30-12:30pm ET (8:30am -9:30am PT)
 
+  - link: https://gsa.zoomgov.com/meeting/register/vJItc-CpqjsoGxy9tcUH__w3N6eNE6Xqrfc#/registration
+    date: 2024-07-01
+    time: 12:00-1:00pm ET (9:00am -10:00am PT)
+
 # Put the link applicants need to use to apply for this position here. This link
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
