@@ -88,8 +88,8 @@ title: "Login.gov: Fraud Supervisor"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-07-03
-closes: 2024-07-06
+opens: 2024-06-26
+closes: 2024-06-27
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2024-07-06
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 200
+max applications: 150
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -195,7 +195,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/GetJob/ViewDetails/797104900
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -330,7 +330,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- To be updated at a later date.
+- Leading identity fraud detection, mitigation, investigation and redress practices and procedures.
+- Assessing, utilizing, employing, and developing strategies and approaches for identity theft investigative and redress workflows.
+- Collaborating with IT product, platform, or security teams to evaluate, detect, and mitigate identity fraud risks.
+- Working with multifunctional teams to develop and design advanced innovative identity fraud related cybersecurity and cloud-based data analytics services.
+- Coordinating with different technical stakeholders to create alignment protocols and methodologies, ensuring smooth progression of programs, initiatives, projects, and other related tasks.
 
 
 ## How to Apply
