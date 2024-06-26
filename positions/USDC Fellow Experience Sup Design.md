@@ -274,12 +274,16 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-The U.S. Digital Corps (USDC) is a two-year, cross-government fellowship for recently graduated technologists to launch impactful careers in public service. USDC matches early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with high impact projects on technology teams across the federal government to build human-centered solutions to accelerate technology modernization and innovation. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was launched in August 2021 by GSA in partnership with the White House, CISA, and OPM. USDC welcomed its most recent cohort in July 2023 and will continue to grow with its third cohort starting work in August 2024. 
+The **U.S. Digital Corps (USDC)** is a two-year, cross-government fellowship for recently graduated technologists to launch impactful careers in public service. USDC matches early-career and highly-skilled, mission-driven software engineers, data scientists, product managers, designers, and cybersecurity specialists with high impact projects on technology teams across the federal government to build human-centered solutions to accelerate technology modernization and innovation. Our Fellows are the engines on projects that create change in the areas of climate, healthcare, racial equity, immigration, economic recovery, and open innovation. The Digital Corps was launched in August 2021 by GSA in partnership with the White House, CISA, and OPM. USDC welcomed its most recent cohort in July 2023 and will continue to grow with its third cohort starting work in August 2024. 
 
 Key areas of focus: Fellow Management, Support, & Development, Design Technical Leadership
+
 The U.S. Digital Corps has two Design Supervisors who, together, take the lead on USDC Design / Enterprise Architecture Track specific programming and share supervision of all USDC Design Fellows.  
+
 Each U.S. Digital Corps Design Supervisor directly supervises and coaches early-career technology Fellows focused on all aspects of the design skill area with a particular emphasis on UI/UX design, research, and process / product design; ensuring USDC Fellows are reaching their potential for impact. The USDC program places Fellows for 90% of their time on a high priority project at a placement agency; the remaining 10% of time is spent with the USDC Corps and is focused on coaching, learning and development, and participation in the USDC Community. Because of this structure, day to day management of Fellow’s work is done by the placement agency and each USDC Supervisor manages ~15-20 Fellows within their technical area of expertise, with support structures that vary depending on the needs of the fellows. As such, the majority of 1:1 time between Supervisor and Fellow is focused on Fellow coaching, growth, and support and not activities like tasking or reviewing project work.
+
 Each U.S. Digital Corps Supervisor is a skilled Design technologist in their own right and uses their discipline specific knowledge, excellence in coaching & management, and ongoing engagements with USDC Fellows to inform the design and execute the delivery of the Design learning & development curriculum and track specific programming throughout the two year cohort experience. 
+
 A USDC Supervisor also works closely with Agency partners to ensure that Fellows receive the structures and support to be successful while on placement with their Agency - starting before the Fellow begins work, through the fellowship period, and until the final permanent offboarding transfer to the Agency occurs.
 
 ## Key objectives
@@ -292,7 +296,7 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-  - Objective #1: Provide design coaching, mentorship, and professional development opportunities; support employee wellbeing for Digital Corps Fellows
+  - **Objective #1: Provide design coaching, mentorship, and professional development opportunities; support employee wellbeing for Digital Corps Fellows**
     - Steward the Fellow’s personal professional development by identifying and providing appropriate training, developmental assignments, and/or support focusing on design tools, software, or methods that are relevant to the Fellows' projects.
     - Utilize previous experience as a Design practitioner and supervisor to: 
       - Assess and provide feedback on Fellows' competencies in design tools and methods.
@@ -309,13 +313,13 @@ content in its place.
       - Conduct and document employee performance plans, mid-year, and end-of-year performance evaluations.
       - Ensure U.S. Digital Corps adheres to all Pathways Recent College Graduate requirements that pertain to Fellow support, learning & development, and mentorship.
       - Facilitate Fellow career ladder and service changes; specifically promotions to GS-11 & GS-12 at the appropriate times within the fellowship and conversion from excepted to career service upon completion of the Recent Graduates portion of the fellowship.
-  - Objective #2: Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills:
+  - **Objective #2: Provide leadership in two or more of the following areas, while maintaining competence in other key discipline skills:**
       - Fellowship Experience Management: Design, develop, and successfully manage the end to end Fellow experience and employee lifecycle -  from onboarding, to engagement/in-program support & performance management, to offboarding and conversion into permanent roles.
       - Learning & Development Programming: Identify and deliver appropriate and high quality professional, technical, and government specific learning & development opportunities to support early career technologist’s learning and growth needs.  
       - Employee Support & Engagement: Create equitable, inclusive, accessible, engaging, and supportive teams or organizations. 
       - Partner Agency Management & Success: Maintain strong working relationships with partner agencies that ensures alignment, ongoing performance feedback, and mutual support for the Fellow during the fellowship period. 
       - Talent Program Operations: Design and execute processes and practices that support program consistency and quality talent outcomes.
-  - Objective #3: Support the growth & development of the U.S. Digital Corps program and build stronger values-driven practices
+  - **Objective #3: Support the growth & development of the U.S. Digital Corps program and build stronger values-driven practices**
       - Within the Fellow learning, development, and experience areas of focus: 
         - Research, develop, and encourage best practices. 
         - Create space for experimentation and iteration.
