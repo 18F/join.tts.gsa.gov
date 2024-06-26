@@ -88,8 +88,8 @@ title: "Login.gov: Security Engineering Supervisor"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-07-01
-closes: 2024-07-14
+opens: 2024-06-27
+closes: 2024-07-01
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2024-07-14
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 200
+max applications: 150
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -204,7 +204,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/797283600
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -338,7 +338,12 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- To be updated at a later date.
+- Leading Authority to Operate, Certificate to Field, or other cybersecurity compliance assessment.
+- Providing cybersecurity guidance to application development teams, anti-fraud teams, platform engineers, or Security Operations Center (SOC) engineers.
+- Leading the overall planning, management and direction of a security and compliance program or line of business, or a single, highly complex security project, product or business.
+- Overseeing a customer-facing digital identity product or a public-facing government technology product that serves multiple constituencies of users.
+- Partnering with leadership and stakeholders across teams or agencies to achieve organizational goals.
+- Leading and/or supervising a team and providing mentorship, support and professional development opportunities.
 
 
 ## How to Apply
