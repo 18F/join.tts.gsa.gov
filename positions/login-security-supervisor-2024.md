@@ -89,7 +89,7 @@ title: "Login.gov: Security Engineering Supervisor"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2024-06-27
-closes: 2024-07-01
+closes: 2024-06-27
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
