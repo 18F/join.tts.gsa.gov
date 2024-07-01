@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "TTS Accessibility Lead"
+title: "Accessibility Specialist"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -111,7 +111,7 @@ closes: 2025-02-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 400
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -331,13 +331,14 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience is defined as follows:
+lower GS-grade (or equivalent). 
 
-- Strong communication and collaboration skills
-- Experience synthesizing data and findings into high-level reports for leadership and other stakeholders
-- Experience driving programs or initiatives across organizational boundaries in a large organization
-- Experience evaluating the conformance of web content against the Web Content Accessibility Guidelines using axe DevTools, WAVE, Accessibility Insights, or similar tools as well as manual testing using JAWS, NVDA, or VoiceOver.
-- Experience with a proven track record of driving accessibility improvements on cross-functional software development or technology teams
+***UPDATED*** Specialized experience is defined as follows:
+  - Driving accessibility improvements on cross-functional software development or technology teams to deliver a product, platform, or service.
+  - Advocating for an accessible IT design approach/mindset with stakeholders and partners to strengthen team and portfolio capabilities through ongoing training, development and research. 
+  - Using data to help identify, communicate, measure and report progress on accessibility goals. 
+  - Managing equitable and accessible technology delivery and outcomes as an advocate for designing  information technology (IT) tools and services to promote inclusivity and accessibility. 
+  - Experience evaluating the conformance of web content against the Web Content Accessibility Guidelines using axe DevTools, WAVE, Accessibility Insights, or similar tools, as well as manual testing using JAWS, NVDA, or VoiceOver.
 
 ## How to Apply
 
