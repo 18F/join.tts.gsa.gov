@@ -210,7 +210,7 @@ on USAJOBS here.
 **Official title in USAJOBS:** Supervisory IT Specialist
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 1
+**Number of vacancies:** 2
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
