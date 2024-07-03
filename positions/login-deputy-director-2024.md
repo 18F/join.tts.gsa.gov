@@ -89,7 +89,7 @@ title: "Login.gov: Deputy Director"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2024-07-09
-closes: 2024-07-15
+closes: 2024-07-12
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -212,7 +212,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/796785400
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
