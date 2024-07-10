@@ -89,7 +89,7 @@ title: "Login.gov: Deputy Director"
 # as a date.
 #🔻🔻🔻🔻🔻
 opens: 2024-07-09
-closes: 2024-07-12
+closes: 2024-07-09
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
