@@ -111,7 +111,7 @@ closes: 2024-09-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 200
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -243,17 +243,17 @@ rates.
 💰💰💰
 If this position is not remote and has geographic restrictions, you can instead
 specify the salary min and max. For example, if the position is advertised at
-GS-15 and the position location is only Washington, DC, then (using 2023 pay
+GS-15 and the position location is only Washington, DC, then (using 2024 pay
 rates):
 
 Minimum:
-  GS-15 Step 1: $172,075
+  GS-15 Step 1: $143,736
 Maximum:
-  GS-15 Step 10: $183,500
+  GS-15 Step 10: $191,900
 
 So you would update the line below to look like this:
 
-    {% include job/salary_range.html min="$172,075" max="$183,500" %}
+    {% include job/salary_range.html min="$143,736" max="$191,900" %}
 
 To use the autoomatic salary ranges, leave the lines as-is.
 
