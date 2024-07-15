@@ -155,25 +155,6 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - Lead the Login.gov Acquisition Operations Section
-    - Serve as the supervisor accountable for development and delivery of the Login.gov Acquisition process and program staff. 
-    - Identifying and removing barriers to maintaining high-quality, strong processes to execute on contract requirements. 
-    - Develop and design organizational structures and practices to enable user experience excellence, following industry best practices.
-    - Develop and execute policies, processes, plans, and initiatives to ensure effective growth, continual development, and sustainment of the Login.gov Acquisition Operations Section.
-    - Track and report on all acquisition team initiatives.
-  - Pre-Award: Develops accurate government requirements for a wide variety of IT/Digital Service projects to support the Login.gov program.
-    - Lead ACQ-PM/COR activities on allLeads the ACQ-PM/COR team on post-award activities, including: monitoring contract performance, acceptance testing, and approving deliverables, approve/reject invoices, and tracks burn rates, and identify and relay any contractual issues to contracting officers. pre-award activities.
-    - Liaison between the login.gov technical team, and TTS Acquisitions to create the pre-award acquisition packages, including: market research, acquisition strategy, procurement request, PWS/SOW/SOO and any associated attachments, IGCE, QASP, evaluation factors and technical evaluation processes, vendor negotiations, award documentation, and tracking and coordinating project milestones.
-  - Post-Award: Monitors of a large number of complex contracts and interagency agreements, ensuring compliance with all applicable federal and agency guidelines.
-    - Leads the ACQ-PM/COR team on post-award activities, including: monitoring contract performance, acceptance testing, and approving deliverables, approve/reject invoices, and tracks burn rates, and identify and relay any contractual issues to contracting officers.
-    - Ensures the contract(s) or task order(s) are administered to satisfy project needs; ensures project tasks are accomplished in accordance with pertinent government regulations.
-    - Ensures COR contract files are accurate and maintained.
-    - Submit information in Contractor Performance Assessment Reporting System (CPARS) in accordance with the contract.
-  - Communicate status, and update on where requirements are in the acquisition lifecycle
-    - Manages individual work accomplishments, progress, and issues needing coordination with other Login.gov departments for resolution.
-    - Attends Login.gov operations and acquisition meetings, and 1:1s with the Login.gov leadership team.
-    - Leads the process of creating standard operating procedures, and other documentation used across the Login.gov program.
-    - Maintains open communication with TTS Acquisitions, the Login.gov technical teams, and program leadership.
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -307,7 +288,25 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+  - Lead the Login.gov Acquisition Operations Section
+    - Serve as the supervisor accountable for development and delivery of the Login.gov Acquisition process and program staff. 
+    - Identifying and removing barriers to maintaining high-quality, strong processes to execute on contract requirements. 
+    - Develop and design organizational structures and practices to enable user experience excellence, following industry best practices.
+    - Develop and execute policies, processes, plans, and initiatives to ensure effective growth, continual development, and sustainment of the Login.gov Acquisition Operations Section.
+    - Track and report on all acquisition team initiatives.
+  - Pre-Award: Develops accurate government requirements for a wide variety of IT/Digital Service projects to support the Login.gov program.
+    - Lead ACQ-PM/COR activities on allLeads the ACQ-PM/COR team on post-award activities, including: monitoring contract performance, acceptance testing, and approving deliverables, approve/reject invoices, and tracks burn rates, and identify and relay any contractual issues to contracting officers. pre-award activities.
+    - Liaison between the login.gov technical team, and TTS Acquisitions to create the pre-award acquisition packages, including: market research, acquisition strategy, procurement request, PWS/SOW/SOO and any associated attachments, IGCE, QASP, evaluation factors and technical evaluation processes, vendor negotiations, award documentation, and tracking and coordinating project milestones.
+  - Post-Award: Monitors of a large number of complex contracts and interagency agreements, ensuring compliance with all applicable federal and agency guidelines.
+    - Leads the ACQ-PM/COR team on post-award activities, including: monitoring contract performance, acceptance testing, and approving deliverables, approve/reject invoices, and tracks burn rates, and identify and relay any contractual issues to contracting officers.
+    - Ensures the contract(s) or task order(s) are administered to satisfy project needs; ensures project tasks are accomplished in accordance with pertinent government regulations.
+    - Ensures COR contract files are accurate and maintained.
+    - Submit information in Contractor Performance Assessment Reporting System (CPARS) in accordance with the contract.
+  - Communicate status, and update on where requirements are in the acquisition lifecycle
+    - Manages individual work accomplishments, progress, and issues needing coordination with other Login.gov departments for resolution.
+    - Attends Login.gov operations and acquisition meetings, and 1:1s with the Login.gov leadership team.
+    - Leads the process of creating standard operating procedures, and other documentation used across the Login.gov program.
+    - Maintains open communication with TTS Acquisitions, the Login.gov technical teams, and program leadership.
 
 ## Qualifications
 
