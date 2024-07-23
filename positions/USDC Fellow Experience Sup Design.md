@@ -88,8 +88,8 @@ title: "U.S. Digital Corps: Fellow Supervisor - Design"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-07-22
-closes: 2024-07-29
+opens: 2024-07-21
+closes: 2024-07-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
