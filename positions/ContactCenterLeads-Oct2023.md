@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "Centers of Excellence: Contact Center Modernization Specialist"
+title: "Centers of Excellence: Contact Center Modernization Specialists"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -88,8 +88,8 @@ title: "Centers of Excellence: Contact Center Modernization Specialist"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-01-08
-closes: 2024-01-11
+opens: 2024-08-15
+closes: 2024-08-25
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -111,7 +111,7 @@ closes: 2024-01-11
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 250
+max applications: 
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
@@ -220,7 +220,7 @@ Island). Subject to background check. {% include job/full_info_on_usajobs.html %
 
 **Supervisory status:** Non-Supervisory
 
-**Job title:** {{ page.title }}
+**Job title:** Centers of Excellence: Contact Center Modernization Specialists
 
 {% comment ------------------------------------------------------------------ %}
 The job title on USAJOBS is not always the same as the job title as we list it.
@@ -329,12 +329,9 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- Leading contact center and customer experience operations for (at least two) government agencies or private sector enterprises;
-- Strategizing with senior leaders to identify clear key priorities and opportunities to modernize IT, create operational efficiency, improve customer experience, and communicate complex recommendations;
-- Leading client-facing projects or initiatives;
-- Collaborating with cross-functional teams to achieve organizational or project objectives and deliverables; and
-- Developing and maintaining roadmaps, conducting interviews and collaborative work sessions with stakeholders, staff, and customers.
-
+- Leading, planning, developing and implementing contact center technology (such as Customer Relationship Management (CRM), Knowledge Management (KM), Workforce Management (WFM), Interactive Voice Response (IVR), etc.). and operational improvements to implement best practices related to frameworks, methods and procedures, etc., in order to increase contact center performance, quality, training, workforce management, and the overall customer experience.
+- Practicing project management throughout the project life cycles to complete contact center modernization initiatives/projects/actions while ensuring long term effectiveness.
+- Facilitating decision making by providing strategic communication and consensus building among all stakeholders.
 
 ## How to Apply
 
