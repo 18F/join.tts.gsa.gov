@@ -336,5 +336,5 @@ Specialized Experience will be updated soon.
 
 ## How to Apply
 
-{% include job/apply_button.html %} Sign up for [job alerts](https://join.tts.gsa.gov/newsletter/) to be notified of when this position opens up for application. Choose Cybersecurity. 
+{% include job/apply_button.html %} Choose Cybersecurity for this role. 
 
