@@ -95,7 +95,7 @@ permalink: /
           </p>
         {% endif %}
         <h2> Other GSA Opportunities </h2>
-       <p> Check out <a href="https://www.gsa.gov/about-us/careers">careers at GSA</a> and more <a href="https://www.usajobs.gov/Search/Results?j=2210&d=GS&p=1">Information Technology opportunities.</a></p>
+       <p> Check out <a href="https://www.gsa.gov/about-us/find-apply-for-and-land-a-job-at-gsa?topnav=about-us">careers at GSA</a> and more <a href="https://www.usajobs.gov/Search/Results?j=2210&d=GS&p=1">Information Technology opportunities.</a></p>
 
         <h2>Application process</h2>
         <p>
