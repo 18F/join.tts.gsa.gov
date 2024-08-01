@@ -197,7 +197,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://www.usajobs.gov/job/769350700
+application link: https://www.usajobs.gov/job/802759200
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -231,7 +231,7 @@ on USAJOBS here.
 **Official title in USAJOBS:** IT Project Manager (SYSANALYSIS)
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-**Number of vacancies:** 3
+**Number of vacancies:** 4
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
 **Location:** Anywhere in the U.S. (remote)
