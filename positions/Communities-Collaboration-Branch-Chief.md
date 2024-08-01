@@ -155,35 +155,7 @@ gs: 15
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
-  - **Lead the collective vision and end-to-end project delivery of priority TTS projects.** You are an experienced delivery manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to move your team to action. This includes:
-    - Sets the overall vision, strategy, and goals for the Communities and Collaboration Branch, aligning with TTS vision, goals, and values. Upholds the commitment to the public and always weighs the public’s needs and experiences with our products and services.
-    - Accountable for the overall success of delivery, ensuring alignment with critical TTS priorities and coordinating and communicating across the organization.
-    - Directs multiple highly complex and innovative products, IT projects and initiatives to serve the public. Sets priorities, anticipates potential threats and opportunities.
-    - Provides strategic direction and establishes a shared understanding across subordinates and stakeholders. Navigates bureaucratic relationships and complex organizational structures to get buy-in from stakeholders around a common goal.
-    - Collaborates with relevant TTS shared services offices on strategy and implementation.
-    - Monitors financial resources, personnel resources, schedule, quality, risks and overall development and performance of projects in alignment with TTS mission and vision. Oversees program evaluation.
-    - Determines the size, skills, and roles necessary for a team to deliver a product and identifies appropriate team members.
-  - **Build and lead a team of product and business professionals.**
-    - Acts as supervisor for Branch teams and advises subordinates on technical and administrative matters and approves leave.
-    - Builds teams, recommends position structure, interviews, selects, and trains employees in pursuit of Branch goals
-    - Helps teams align on and adhere to shared processes, deliver results, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
-    - Works with Branch and project teams to regularly demonstrate our expertise, impact and provide oversight of projects and engagements and help teams contribute meaningfully to success.
-    - Assigns, communicates and plans work assignments with each staff member, in conjunction with development of performance standards for critical job elements.
-    - Provides technical and supervisory guidance to staff, reviews work for accuracy and compliance with instructions and policy, and recommends improvement of work methods.
-    - Provides coaching, mentoring, and sponsorship to others in the organization, tailoring approaches to the needs of the employee.
-    - Helps identify opportunities for professional growth and learning for teams and staff.
-    - Incorporates equity and inclusion into plans for staff development, retention, training, speaking events, and experiential learning opportunities.
-    - Performs other assigned duties.
-  - **Build institutional expertise around product delivery.** As a member of the Communities and Collaboration Branch, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights with other product and delivery managers contributing to our growing culture of product management. You’ll share lessons learned from your work with peers and leaders to help guide our approach to digital transformation.
-    -  Works with the program team to develop and maintain product strategy for programs within the Branch.  Ensures product strategy and development align with agency objectives and priorities as well as current and future statutory and policy requirements.
-    -  Collaborates with cross-functional teams and provides guidance to team members such as software engineers, data analysts, user experience/user interface designers, and other stakeholders to develop, define, and prioritize product requirements.
-    -  Creates comprehensive product roadmaps that outline short and long term goals, objectives, and milestones.  Leads the product development process, working with engineering teams to ensure the timely delivery of features and enhancements for programs in the Branch.
-    -  Leads, conducts, or participates in applicable planning, development, implementation, and analysis for governmentwide standards such as the 21st Century Integrated Digital Experience Act (IDEA), Open Public Electronic and Necessary (OPEN) Government Data Act, and America Creating Opportunities for Manufacturing, Preeminence in Technology, and Economic Strength (COMPETES) Act.
-  - If you are successful in product delivery, you:
-    - Keep abreast of product management best practices and bring them back into the organization.
-    - Stay on top of new technologies and how they could help solve government problems.
-    - Contribute to TTS’ culture of transparency by publishing accounts of your successes and failures.
-    - Continually seek out new product management tools that could improve the way we work.
+
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -319,7 +291,35 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/key_objectives.html %}
+  - **1) Lead the collective vision and end-to-end project delivery of priority TTS projects.** You are an experienced delivery manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to move your team to action. This includes:
+    - Sets the overall vision, strategy, and goals for the Communities and Collaboration Branch, aligning with TTS vision, goals, and values. Upholds the commitment to the public and always weighs the public’s needs and experiences with our products and services.
+    - Accountable for the overall success of delivery, ensuring alignment with critical TTS priorities and coordinating and communicating across the organization.
+    - Directs multiple highly complex and innovative products, IT projects and initiatives to serve the public. Sets priorities, anticipates potential threats and opportunities.
+    - Provides strategic direction and establishes a shared understanding across subordinates and stakeholders. Navigates bureaucratic relationships and complex organizational structures to get buy-in from stakeholders around a common goal.
+    - Collaborates with relevant TTS shared services offices on strategy and implementation.
+    - Monitors financial resources, personnel resources, schedule, quality, risks and overall development and performance of projects in alignment with TTS mission and vision. Oversees program evaluation.
+    - Determines the size, skills, and roles necessary for a team to deliver a product and identifies appropriate team members.
+  - **2) Build and lead a team of product and business professionals.**
+    - Acts as supervisor for Branch teams and advises subordinates on technical and administrative matters and approves leave.
+    - Builds teams, recommends position structure, interviews, selects, and trains employees in pursuit of Branch goals
+    - Helps teams align on and adhere to shared processes, deliver results, maintain high standards, and resolve conflicts. Connect teams to resources, amplify team successes, and help teams to pivot or adapt as needed.
+    - Works with Branch and project teams to regularly demonstrate our expertise, impact and provide oversight of projects and engagements and help teams contribute meaningfully to success.
+    - Assigns, communicates and plans work assignments with each staff member, in conjunction with development of performance standards for critical job elements.
+    - Provides technical and supervisory guidance to staff, reviews work for accuracy and compliance with instructions and policy, and recommends improvement of work methods.
+    - Provides coaching, mentoring, and sponsorship to others in the organization, tailoring approaches to the needs of the employee.
+    - Helps identify opportunities for professional growth and learning for teams and staff.
+    - Incorporates equity and inclusion into plans for staff development, retention, training, speaking events, and experiential learning opportunities.
+    - Performs other assigned duties.
+  - **3) Build institutional expertise around product delivery.** As a member of the Communities and Collaboration Branch, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights with other product and delivery managers contributing to our growing culture of product management. You’ll share lessons learned from your work with peers and leaders to help guide our approach to digital transformation.
+    -  Works with the program team to develop and maintain product strategy for programs within the Branch.  Ensures product strategy and development align with agency objectives and priorities as well as current and future statutory and policy requirements.
+    -  Collaborates with cross-functional teams and provides guidance to team members such as software engineers, data analysts, user experience/user interface designers, and other stakeholders to develop, define, and prioritize product requirements.
+    -  Creates comprehensive product roadmaps that outline short and long term goals, objectives, and milestones.  Leads the product development process, working with engineering teams to ensure the timely delivery of features and enhancements for programs in the Branch.
+    -  Leads, conducts, or participates in applicable planning, development, implementation, and analysis for governmentwide standards such as the 21st Century Integrated Digital Experience Act (IDEA), Open Public Electronic and Necessary (OPEN) Government Data Act, and America Creating Opportunities for Manufacturing, Preeminence in Technology, and Economic Strength (COMPETES) Act.
+  - If you are successful in product delivery, you:
+    - Keep abreast of product management best practices and bring them back into the organization.
+    - Stay on top of new technologies and how they could help solve government problems.
+    - Contribute to TTS’ culture of transparency by publishing accounts of your successes and failures.
+    - Continually seek out new product management tools that could improve the way we work.
 
 ## Qualifications
 
