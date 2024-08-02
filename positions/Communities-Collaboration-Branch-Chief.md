@@ -291,8 +291,7 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
-**1) Lead the collective vision and end-to-end project delivery of priority TTS projects.** 
-  You are an experienced delivery manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to move your team to action. This includes:
+**1) Lead the collective vision and end-to-end project delivery of priority TTS projects:** You are an experienced delivery manager who can unite vision and execution to lead an interdisciplinary team in delivering the right value to the right people. You’re skilled at defining a meaningful end goal to move your team to action. This includes:
   - Sets the overall vision, strategy, and goals for the Communities and Collaboration Branch, aligning with TTS vision, goals, and values. Upholds the commitment to the public and always weighs the public’s needs and experiences with our products and services.
   - Accountable for the overall success of delivery, ensuring alignment with critical TTS priorities and coordinating and communicating across the organization.
   - Directs multiple highly complex and innovative products, IT projects and initiatives to serve the public. Sets priorities, anticipates potential threats and opportunities.
@@ -313,8 +312,7 @@ content in its place.
   - Incorporates equity and inclusion into plans for staff development, retention, training, speaking events, and experiential learning opportunities.
   - Performs other assigned duties.
 
-**3) Build institutional expertise around product delivery.**
-  As a member of the Communities and Collaboration Branch, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights with other product and delivery managers contributing to our growing culture of product management. You’ll share lessons learned from your work with peers and leaders to help guide our approach to digital transformation.
+**3) Build institutional expertise around product delivery:** As a member of the Communities and Collaboration Branch, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights with other product and delivery managers contributing to our growing culture of product management. You’ll share lessons learned from your work with peers and leaders to help guide our approach to digital transformation.
   - Works with the program team to develop and maintain product strategy for programs within the Branch.  Ensures product strategy and development align with agency objectives and priorities as well as current and future statutory and policy requirements.
   - Collaborates with cross-functional teams and provides guidance to team members such as software engineers, data analysts, user experience/user interface designers, and other stakeholders to develop, define, and prioritize product requirements.
   - Creates comprehensive product roadmaps that outline short and long term goals, objectives, and milestones.  Leads the product development process, working with engineering teams to ensure the timely delivery of features and enhancements for programs in the Branch.
