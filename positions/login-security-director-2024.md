@@ -206,8 +206,8 @@ key objectives:
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
-    date: 2023-02-13
+  - link: https://gsa.zoomgov.com/meeting/register/vJItceGoqT0tGrM0IgyL6DEZ5UMRAfHaXlA#/registration
+    date: 2024-08-14
     time: 1:30-2:30pm ET (10:30am -11:30am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
