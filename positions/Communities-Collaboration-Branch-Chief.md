@@ -300,6 +300,7 @@ content in its place.
   - Collaborates with relevant TTS shared services offices on strategy and implementation.
   - Monitors financial resources, personnel resources, schedule, quality, risks and overall development and performance of projects in alignment with TTS mission and vision. Oversees program evaluation.
   - Determines the size, skills, and roles necessary for a team to deliver a product and identifies appropriate team members.
+
 **2) Build and lead a team of product and business professionals.**
   - Acts as supervisor for Branch teams and advises subordinates on technical and administrative matters and approves leave.
   - Builds teams, recommends position structure, interviews, selects, and trains employees in pursuit of Branch goals
@@ -310,13 +311,15 @@ content in its place.
   - Provides coaching, mentoring, and sponsorship to others in the organization, tailoring approaches to the needs of the employee.
   - Helps identify opportunities for professional growth and learning for teams and staff.
   - Incorporates equity and inclusion into plans for staff development, retention, training, speaking events, and experiential learning opportunities.
-    - Performs other assigned duties.
+  - Performs other assigned duties.
+
 **3) Build institutional expertise around product delivery.**
   As a member of the Communities and Collaboration Branch, you’ll also be part of the Technology Transformation Service. You’ll share best practices and tools with your peers across the organization. You’ll collaborate and share insights with other product and delivery managers contributing to our growing culture of product management. You’ll share lessons learned from your work with peers and leaders to help guide our approach to digital transformation.
-  -  Works with the program team to develop and maintain product strategy for programs within the Branch.  Ensures product strategy and development align with agency objectives and priorities as well as current and future statutory and policy requirements.
-  -  Collaborates with cross-functional teams and provides guidance to team members such as software engineers, data analysts, user experience/user interface designers, and other stakeholders to develop, define, and prioritize product requirements.
-  -  Creates comprehensive product roadmaps that outline short and long term goals, objectives, and milestones.  Leads the product development process, working with engineering teams to ensure the timely delivery of features and enhancements for programs in the Branch.
-  -  Leads, conducts, or participates in applicable planning, development, implementation, and analysis for governmentwide standards such as the 21st Century Integrated Digital Experience Act (IDEA), Open Public Electronic and Necessary (OPEN) Government Data Act, and America Creating Opportunities for Manufacturing, Preeminence in Technology, and Economic Strength (COMPETES) Act.
+  - Works with the program team to develop and maintain product strategy for programs within the Branch.  Ensures product strategy and development align with agency objectives and priorities as well as current and future statutory and policy requirements.
+  - Collaborates with cross-functional teams and provides guidance to team members such as software engineers, data analysts, user experience/user interface designers, and other stakeholders to develop, define, and prioritize product requirements.
+  - Creates comprehensive product roadmaps that outline short and long term goals, objectives, and milestones.  Leads the product development process, working with engineering teams to ensure the timely delivery of features and enhancements for programs in the Branch.
+  - Leads, conducts, or participates in applicable planning, development, implementation, and analysis for governmentwide standards such as the 21st Century Integrated Digital Experience Act (IDEA), Open Public Electronic and Necessary (OPEN) Government Data Act, and America Creating Opportunities for Manufacturing, Preeminence in Technology, and Economic Strength (COMPETES) Act.
+
   - **If you are successful in product delivery, you:**
     - Keep abreast of product management best practices and bring them back into the organization.
     - Stay on top of new technologies and how they could help solve government problems.
