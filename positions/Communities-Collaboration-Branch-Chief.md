@@ -88,8 +88,8 @@ title: "TTS Platforms & Services: Communities & Collaboration Branch Chief"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2023-02-01
-closes: 2023-02-22
+opens: 2025-02-01
+closes: 2025-02-22
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -346,4 +346,4 @@ lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
 ## How to Apply
 
-{% include job/apply_button.html %}
+{% include job/apply_button.html %} Alerts for this role may be associated with the following keywords/categories: **Product Management**; **Strategy/Consulting**; **Customer Experience (CX)**; and **Marketing**
