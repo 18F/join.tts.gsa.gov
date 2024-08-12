@@ -204,7 +204,7 @@ says {% include job/status_alert.html %}
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/status_alert.html %}
+{% include job/status_alert.html %} Alerts for this role may be associated with the following keywords/categories: **Product Management**; **Strategy/Consulting**; **Customer Experience (CX)**; and **Marketing**
 
 ## Basic information
 
