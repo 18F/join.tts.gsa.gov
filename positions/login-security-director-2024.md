@@ -346,7 +346,11 @@ For each job on your resume, provide:
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
 
-- To be updated at a later date.
+- Leading the overall planning, management and direction of a security and compliance program or line of business, or a single, highly complex security project, product or business.
+- Implementing or supporting the incorporation of cybersecurity principles and architecture into the work of application development teams, anti-fraud teams, platform engineers, or security engineers.
+- Partnering with leadership and stakeholders across teams or agencies to achieve organizational goals.
+- Leading and/or supervising a team and providing mentorship, support and professional development opportunities.
+- Working on a digital product or service that requires balancing user experience with security/compliance considerations.
 
 
 ## How to Apply
