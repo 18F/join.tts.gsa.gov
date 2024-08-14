@@ -174,7 +174,7 @@ key objectives:
     - Foster employee development through empowerment, two way communication, and facilitating cooperation and partnership.
     - Drive recruitment efforts for PIF cohorts and further diversity by ensuring equal opportunity in recruitment, selection, training, awards, and assignments.
     - Demonstrate a personal commitment to diversity, equity, and inclusion (DE&I) objectives and efforts.
-    - Strengthen and develop commitment from PIF staff and organizational leadership for culture-driven efforts.
+    - Strengthen and develop commitment from PIF staff and organizational leadership for culture driven efforts.
 
 
 
