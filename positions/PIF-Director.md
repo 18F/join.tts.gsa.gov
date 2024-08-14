@@ -166,7 +166,7 @@ key objectives:
     - Regularly collaborate with federal agencies on projects, policies, and initiatives.
     - Navigate complex bureaucracy, build coalitions, and lead stakeholders with disparate views through change.
     - Brief GSA officials, top agency management, and other senior government officials regarding PIF strategies and initiatives with government-wide impact.
-    - Build program reputation through consistent voice and vision: Attend and speak at conferences and events. Contribute to articles, newsletters, and other publications to highlight PIF initiatives.
+    - Build program reputation through consistent voice and vision. Attend and speak at conferences and events. Contribute to articles, newsletters, and other publications to highlight PIF initiatives.
     - Provide thought leadership and expertise on innovative approaches to government modernization to federal agency officials, public and private industry executives, Congressional representatives, and public media outlets.
   - Lead, manage, and mentor PIF personnel with a focus on sustaining and developing a healthy workplace culture.
     - Encourage teamwork and a collaborative approach to problem solving.
