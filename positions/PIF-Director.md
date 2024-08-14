@@ -166,8 +166,10 @@ key objectives:
     - Regularly collaborate with federal agencies on projects, policies, and initiatives.
     - Navigate complex bureaucracy, build coalitions, and lead stakeholders with disparate views through change.
     - Brief GSA officials, top agency management, and other senior government officials regarding PIF strategies and initiatives with government-wide impact.
-    - Build program reputation through consistent voice and vision. Attend and speak at conferences and events. Contribute to articles, newsletters, and other publications to highlight PIF initiatives.
-    - Provide thought leadership and expertise on innovative approaches to government modernization to federal agency officials, public and private industry executives, Congressional representatives, and public media outlets.
+    - Build program reputation through consistent voice and vision; Attend and speak at conferences and events. Contribute to articles, newsletters, and other 
+      publications to highlight PIF initiatives.
+    - Provide thought leadership and expertise on innovative approaches to government modernization to federal agency officials, public and private industry 
+      executives, Congressional representatives, and public media outlets.
   - Lead, manage, and mentor PIF personnel with a focus on sustaining and developing a healthy workplace culture.
     - Encourage teamwork and a collaborative approach to problem solving.
     - Lead and mentor PIF’s direct report supervisors and provide coaching and mentorship to fellows.
@@ -175,6 +177,7 @@ key objectives:
     - Drive recruitment efforts for PIF cohorts and further diversity by ensuring equal opportunity in recruitment, selection, training, awards, and assignments.
     - Demonstrate a personal commitment to diversity, equity, and inclusion (DE&I) objectives and efforts.
     - Strengthen and develop commitment from PIF staff and organizational leadership for culture-driven efforts.
+      
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
 # the time. See the placeholder below for an example of how to add an info
