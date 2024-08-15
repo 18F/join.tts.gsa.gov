@@ -117,7 +117,7 @@ max applications: 400
 # will be used to fill in the appointment type on the page with consistent
 # language.
 #🔻🔻🔻🔻🔻
-appointment type: term
+appointment type: perm
 
 # Put the GS grade this position is being advertised at. For SES positions, set
 # the level to 20.
