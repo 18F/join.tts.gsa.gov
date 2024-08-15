@@ -212,7 +212,7 @@ says {% include job/status_alert.html %}
 🔻🔻🔻🔻🔻
 {% endcomment --------------------------------------------------------------- %}
 
-{% include job/status_alert.html %} Please choose the following role to be alerted about this opportunity: **Executive Manaegment**
+{% include job/status_alert.html %} Please choose the following role to be alerted about this opportunity: **Executive Management**
 
 ## Basic information
 
