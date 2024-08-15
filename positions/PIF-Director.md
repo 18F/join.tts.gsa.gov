@@ -191,7 +191,7 @@ key objectives:
 #🔻🔻🔻🔻🔻
 info sessions:
   - link: https://gsa.zoomgov.com/j/1605125183?pwd=TTtKbeOpRaqKFa1Yf8RAXoWu2DWa3Y.1
-    date: 2024-02-13
+    date: 2024-08-23
     time: 2:00-3:00pm ET (11:00am -12:00am PT)
 
 # Put the link applicants need to use to apply for this position here. This link
