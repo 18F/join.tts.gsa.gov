@@ -321,7 +321,12 @@ For each job on your resume, provide:
 
 To qualify, you must have one (1) year of specialized experience at the next
 lower GS-grade (or equivalent). Specialized experience is defined as follows:
-(**NOTE: Specialized experience will be updated soon.**)  
+
+- Leading the end-to-end delivery of digital products or services, including creating comprehensive product roadmaps, defining product requirements, and managing cross-functional teams (e.g., software engineers, data analysts, UX/UI designers).
+- Managing and collaborating with senior-level stakeholders across complex technical environments, including securing buy-in for the development and implementation of digital products or technology solutions that align with digital transformation goals.
+- Building and leading cross-functional technical teams to deliver digital products or services, providing hands-on technical and supervisory guidance, and mentoring or coaching staff to enhance technical competencies and achieve organizational goals.
+- Ensuring product compliance with applicable federal regulations, standards, and guidelines, such as the 21st Century Integrated Digital Experience Act (IDEA), “Delivering a Digital-First Public Experience” (M-23-22), Federal Information Security Management Act (FISMA), and Americans with Disabilities Act (ADA).
+- Leading and coordinating initiatives with external stakeholders to promote the adoption of industry-wide or government-wide digital experience standards, including planning, development, and implementation.
 
 
 ## How to Apply
