@@ -88,8 +88,8 @@ title: "TTS Office of Solutions: FedRAMP Security Director"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2025-01-01
-closes: 2025-02-22
+opens: 2024-08-28
+closes: 2024-09-02
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -346,5 +346,5 @@ lower GS-grade (or equivalent). Specialized experience for this role is defined 
 
 ## How to Apply
 
-{% include job/apply_button.html %} Choose Cybersecurity for this role. 
+{% include job/apply_button.html %} Choose Cybersecurity for this role. This position will open on USAJobs on Wednesday, August 28. 
 
