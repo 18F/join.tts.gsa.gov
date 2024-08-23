@@ -76,7 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "TTS Platforms & Services: Communities & Collaboration Branch Chief"
+title: "TTS Platforms & Services: Communities & Collaboration Branch Chief (a.k.a. Program Manager - Product & Community Engagement")
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -111,7 +111,7 @@ closes: 2025-02-22
 # received, include the maximum number of applications here. Remove this line
 # or set the value to 0 if the job does not have an application cap.
 #🔻🔻🔻🔻🔻
-max applications: 0
+max applications: 250
 
 # Is this a permanent or term appointment? Use either "perm" or "term". This
 # will be used to fill in the appointment type on the page with consistent
