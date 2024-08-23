@@ -76,8 +76,7 @@
 # headings are how the site builder knows what the data is. For the rest of the
 # frontmatter, please be careful not to delete the headings!
 #🔻🔻🔻🔻🔻
-title: "TTS Platforms & Services: Communities & Collaboration Branch Chief 
-(a.k.a. Program Manager - Product & Community Engagement)"
+title: "TTS Platforms & Services: Communities & Collaboration Branch Chief"
 
 # Put the opening and closing dates of your posting here, if you have them. The
 # values you set here will be turned into user-friendly text in other parts of
@@ -289,7 +288,7 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-This role is part of the General Services Administration (GSA), Technology Transformation Services (TTS), within the Platforms and Services Division. Our mission is to enhance the public’s experience with the government by helping federal agencies build, buy, and share technology that is accessible, efficient, secure, and effective.
+This role (a.k.a. Program Manager - Product & Community Engagement) is part of the General Services Administration (GSA), Technology Transformation Services (TTS), within the Platforms and Services Division. Our mission is to enhance the public’s experience with the government by helping federal agencies build, buy, and share technology that is accessible, efficient, secure, and effective.
 
 The Communities and Collaboration Branch supports federal agencies and TTS teams in creating cross-agency development through communities of practice (CoP). Our goal is to empower government employees to lead, support each other, and adopt innovative approaches that benefit the public.
 
