@@ -329,7 +329,15 @@ For each job on your resume, provide:
 **SPECIALIZED EXPERIENCE REQUIREMENTS:**
 
 To qualify, you must have one (1) year of specialized experience at the next
-lower GS-grade (or equivalent). Specialized experience will be updated soon.
+lower GS-grade (or equivalent). Specialized experience is: 
+
+- Developing and maintaining relationships with stakeholders within a digital services or digital consulting organization
+- Developing, executing, and measuring short- and long-term program success strategies including developing budget forecasting, leading cost recoverability efforts, and overseeing a budget lifecycle for a program with profit and loss statements
+- Setting vision and leading recruitment efforts for an IT modernization and innovation program within a highly-regulated environment that engages multiple enterprise-level customers as well as external industry partners
+- Supervising, managing or leading multiple direct reports within an organization and navigating ambiguous, uncertain, or sensitive personnel matters
+- Serving as the voice of an organization/brand, including public speaking engagements 
+
+
 
 
 
