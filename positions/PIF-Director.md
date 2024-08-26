@@ -88,8 +88,8 @@ title: "TTS Fellowships Office: Presidential Innovation Fellows Director"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2025-02-01
-closes: 2025-02-22
+opens: 2024-08-27
+closes: 2024-09-03
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -198,7 +198,7 @@ info sessions:
 # will be used for the "Click here to apply" button at the bottom of the
 # position page.
 #🔻🔻🔻🔻🔻
-application link: https://usajobs.gov/job/apply/whatever
+application link: https://www.usajobs.gov/job/806657900
 # This is the end of the frontmatter. After this line is Markdown.
 ---
 
@@ -344,4 +344,4 @@ lower GS-grade (or equivalent). Specialized experience is:
 
 ## How to Apply
 
-{% include job/apply_button.html %} 
+{% include job/apply_button.html %} This position will open for applications on Tuesday, August 27. 
