@@ -88,8 +88,8 @@ title: "Login.gov: Platform and Product Security Director"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-08-27
-closes: 2024-08-30
+opens: 2024-08-26
+closes: 2024-08-27
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
