@@ -79,8 +79,8 @@ title: "TTS Fellowships Office: Presidential Innovation Fellows"
 # site builder automatically understands. Anything else will not be understood
 # as a date.
 #🔻🔻🔻🔻🔻
-opens: 2024-12-01
-closes: 2024-12-02
+opens: 2024-09-10
+closes: 2024-09-30
 # These dates are also used to determine whether a position is upcoming, open,
 # or closed. Here's how we decide:
 #
@@ -110,10 +110,18 @@ closes: 2024-12-02
 # nearest to furthest. Only info sessions schedule for the future will be shown.
 #🔻🔻🔻🔻🔻
 info sessions:
-  - link: https://www.eventbrite.com/...
-    date: 2023-02-13
-    time: 1:30-2:30pm ET (10:30am -11:30am PT)
-
+  - link: https://gsa.zoomgov.com/webinar/register/WN_rh8OrGbTQGmEpmP4oz5ztg#/registration
+    date: 2024-09-12
+    time: 4:00-5:00pm ET (1:00pm-2:00pm PT)
+  - link: https://gsa.zoomgov.com/webinar/register/WN_DQKvAibMQAeSDbsvD-s-RQ#/registration
+    date: 2024-09-17
+    time: 1:00-2:00pm ET (10:00am-11:00am PT)
+  - link: https://gsa.zoomgov.com/webinar/register/WN_f0vt2OvKRQ6ExmnDZ5YeJQ#/registration
+    date: 2024-09-23
+    time: 4:00-5:00pm ET (1:00pm-2:00pm PT)
+  - link: https://gsa.zoomgov.com/webinar/register/WN_pEhDPgcHRGKxOOlQr4S-Cw#/registration
+    date: 2024-09-25
+    time: 1:00-2:00pm ET (10:00am-11:00am PT)
 # Put the link to the PIF, USDC, or other site where the job description is 
 # located. This will point the user to that site rather than a posting on the
 # JoinTTS site.
