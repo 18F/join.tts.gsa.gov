@@ -116,10 +116,10 @@ info sessions:
   - link: https://gsa.zoomgov.com/webinar/register/WN_DQKvAibMQAeSDbsvD-s-RQ#/registration
     date: 2024-09-17
     time: 1:00-2:00pm ET (10:00am-11:00am PT)
-   - link: https://gsa.zoomgov.com/webinar/register/WN_f0vt2OvKRQ6ExmnDZ5YeJQ#/registration
+  - link: https://gsa.zoomgov.com/webinar/register/WN_f0vt2OvKRQ6ExmnDZ5YeJQ#/registration
     date: 2024-09-23
     time: 4:00-5:00pm ET (1:00pm-2:00pm PT)
- - link: https://gsa.zoomgov.com/webinar/register/WN_pEhDPgcHRGKxOOlQr4S-Cw#/registration
+  - link: https://gsa.zoomgov.com/webinar/register/WN_pEhDPgcHRGKxOOlQr4S-Cw#/registration
     date: 2024-09-25
     time: 1:00-2:00pm ET (10:00am-11:00am PT)
 # Put the link to the PIF, USDC, or other site where the job description is 
