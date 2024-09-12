@@ -274,7 +274,7 @@ Learn more about the benefits of working at
 ## Role summary
 
 {% comment %}🔻🔻🔻🔻🔻{% endcomment %}
-This role is part of the General Services Administration (GSA), Technology Transformation Services (TTS), within the Public Experience division. Our mission is to enhance the public’s experience with the government by helping federal agencies build, buy, and share technology that is accessible, efficient, secure, and effective.
+As a Contact Center Program Analyst in TTS, you’ll assist the contact center in analyzing call metrics and other data provided by systems or contractors. TTS has a wide range of programs that further the organization's mission, many of which operate on a reimbursable basis, including the USAGov Contact Center. You’ll assist the contact center team in reconciling the contract budget for the program after reviewing invoices. To meet these goals, you’ll iterate on current processes and participate in establishing new and more efficient ways to operate at the contact center. Success in this role requires analytical skills, organizational & policy knowledge, an aptitude for relationship building - especially with our internal partners, and a love of spreadsheets!
 
 ## Key objectives
 
