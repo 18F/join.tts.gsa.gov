@@ -155,6 +155,20 @@ gs: 12
 # objectives. This example indents sub-bullets with two spaces:
 #🔻🔻🔻🔻🔻
 key objectives:
+  - Identify improvements in operational problems
+    - Plan or direct, special projects to identify operational problems, evaluate solutions, and recommend actions within the contact center.
+    - Independently or collaboratively conduct analytical studies of functional activities or programs.
+    - Work with the team to set and meet quality standards for any product you build.
+  - Track and monitor Contact Center initiatives
+    - Monitor the sequence and timing of the program or  organizational milestones on contact center initiatives. 
+    - Prepare or conduct briefings for higher-level management, including analysis, recommendations or action plans, and guidance for implementation.
+  - Track and monitor Contact Center initiatives
+    - Review information, reconcile conflicting data, and devise new or modified methods to analyze findings. 
+    - Develop recommendations and proposals. 
+    - Analyze and develop statistical data to improve the efficiency and effectiveness of programs or internal support operations for contact center quality management.
+    - Prepare or conduct briefings for higher-level management, including analysis, recommendations or action plans, and guidance for implementation. 
+    - Identify and develop data for use in managing contact center programs.
+    - Thoroughly review contact center invoices to ensure accuracy. 
 
 # If there are any info sessions associated with this position, list them here.
 # Each info session needs three pieces of information: the link, the date, and
@@ -286,21 +300,7 @@ line below that says {% include job/key_objectives.html %} and add your custom
 content in its place.
 {% endcomment --------------------------------------------------------------- %}
 
- - **1) Identify improvements in operational problems**
-    - Plan or direct, special projects to identify operational problems, evaluate solutions, and recommend actions within the contact center.
-    - Independently or collaboratively conduct analytical studies of functional activities or programs.
-    - Work with the team to set and meet quality standards for any product you
-    build.
- - **2) Track and monitor Contact Center initiatives**
-    - Monitor the sequence and timing of the program or  organizational milestones on contact center initiatives
-    - Prepare or conduct briefings for higher-level management, including analysis, recommendations or action plans, and guidance for implementation.
- - **3) Track and monitor Contact Center initiatives**
-    - Review information, reconcile conflicting data, and devise new or modified methods to analyze findings. 
-    - Develop recommendations and proposals
-    - Analyze and develop statistical data to improve the efficiency and effectiveness of programs or internal support operations for contact center quality management.
-    - Prepare or conduct briefings for higher-level management, including analysis, recommendations or action plans, and guidance for implementation. 
-    - Identify and develop data for use in managing contact center programs.
-    - Ability to thoroughly review contact center invoices to ensure accuracy
+{% include job/key_objectives.html %}
 
 ## Qualifications
 
