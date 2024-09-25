@@ -122,6 +122,9 @@ info sessions:
   - link: https://gsa.zoomgov.com/webinar/register/WN_pEhDPgcHRGKxOOlQr4S-Cw#/registration
     date: 2024-09-25
     time: 1:00-2:00pm ET (10:00am-11:00am PT)
+  - link: https://gsa.zoomgov.com/webinar/register/WN_UFTZZb0VRyyTDlvPcR-gWw#/registration
+    date: 2024-09-27
+    time: 1:00-2:00pm ET (10:00am-11:00am PT)
 # Put the link to the PIF, USDC, or other site where the job description is 
 # located. This will point the user to that site rather than a posting on the
 # JoinTTS site.
