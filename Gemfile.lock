@@ -28,7 +28,7 @@ GEM
     fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.1)
+    google-protobuf (3.25.5)
     hashery (2.1.2)
     html-proofer (5.0.8)
       addressable (~> 2.3)
